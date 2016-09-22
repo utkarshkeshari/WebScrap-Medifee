@@ -1,0 +1,51 @@
+|Name|Offer|Price
+0|Amylase Test|| Rs. 400.00 
+1|ANC Profile|| Rs. 2000.00 
+2|Anti TPO Test|| Rs. 1200.00 
+3|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 450.00 
+4|ASO Test|| Rs. 400.00 
+5|Beta HCG Test|| Rs. 500.00 
+6|Bleeding / Clotting Time Test|| Rs. 100.00 
+7|Blood Culture Test|| Rs. 500.00 
+8|Blood Sugar Test|| Rs. 60.00 
+9|Blood Urea Nitrogen Test|| Rs. 150.00 
+10|Chloride Test|| Rs. 150.00 
+11|Cholesterol Test|| Rs. 200.00 
+12|Creatinine Clearance Test|| Rs. 150.00 
+13|Creatinine Test|| Rs. 150.00 
+14|CT Scan|| Rs. 2000.00 (Brain Plain) 
+15|CT Scan|| Rs. 800.00 (Brain Contras) 
+16|CT Scan|| Rs. 2800.00 (Brain Plain with Contras) 
+17|Dengue IgG Test|| Rs. 600.00 
+18|Dengue IgM Test|| Rs. 600.00 
+19|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+20|Ferritin Test|| Rs. 700.00 
+21|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+22|G6PD Test|| Rs. 1000.00 
+23|Globulin Test|| Rs. 150.00 
+24|Glucose Tolerance Test (GTT)|| Rs. 150.00 
+25|HbA1C Test|| Rs. 500.00 
+26|HCV Antibody Test|| Rs. 800.00 
+27|Hemoglobin (Hb) Test|| Rs. 100.00 
+28|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+29|Lipase Test|| Rs. 400.00 
+30|MRI Scan|| Rs. 7000.00 (brain(contrast)) 
+31|MRI Scan|| Rs. 6000.00 (Brain Plain) 
+32|MRI Scan|| Rs. 3000.00 (Brain Contras) 
+33|MRI Scan|| Rs. 9000.00 (Brain Plain with Contras) 
+34|Potassium Test|| Rs. 150.00 
+35|PT (Prothrombin Time) Test|| Rs. 450.00 
+36|SGOT Test|| Rs. 100.00 
+37|SGPT Test|| Rs. 100.00 
+38|Sodium Test|| Rs. 150.00 
+39|Sonography|| Rs. 1000.00 (Whole Abdomen) 
+40|Stool Routine|| Rs. 150.00 
+41|Testosterone Test|| Rs. 1000.00 
+42|Thyroglobulin Test|| Rs. 800.00 
+43|Total Protein Test|| Rs. 2000.00 
+44|Transferrin Test|| Rs. 1200.00 
+45|Urea Test|| Rs. 150.00 
+46|Urea Test|| Rs. 150.00 
+47|Vitamin B12 Test|| Rs. 1200.00 
+48|Vitamin D Test|| Rs. 2000.00 (D3) 
+49|Widal Test|| Rs. 150.00 

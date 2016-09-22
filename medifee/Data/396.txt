@@ -1,0 +1,39 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 800.00 
+1|Amylase Test|| Rs. 400.00 
+2|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 320.00 
+3|Bleeding / Clotting Time Test|| Rs. 100.00 
+4|CA 15.3 Test|| Rs. 800.00 
+5|CA 19.9 Test|| Rs. 800.00 
+6|CA-125 (Tumor Marker) Test|| Rs. 900.00 
+7|CD4 Test|| Rs. 1500.00 
+8|Chloride Test|| Rs. 150.00 
+9|Cholesterol Test|| Rs. 100.00 
+10|Creatinine Clearance Test|| Rs. 100.00 
+11|Creatinine Test|| Rs. 100.00 
+12|Dengue IgG Test|| Rs. 600.00 
+13|Dengue IgM Test|| Rs. 600.00 
+14|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 50.00 
+15|Folic Acid Test|| Rs. 250.00 
+16|FSH (Follicle Stimulating Hormone) Test|| Rs. 550.00 
+17|G6PD Test|| Rs. 550.00 
+18|Glucose Tolerance Test (GTT)|| Rs. 150.00 
+19|HBsAg Test|| Rs. 350.00 
+20|HCV Antibody Test|| Rs. 900.00 
+21|Hemoglobin (Hb) Test|| Rs. 100.00 
+22|Iron Test|| Rs. 200.00 
+23|LH (Luteinizing Hormone) Test|| Rs. 550.00 
+24|Lipase Test|| Rs. 450.00 
+25|Platelet Count|| Rs. 50.00 
+26|Potassium Test|| Rs. 150.00 
+27|Prolactin Test|| Rs. 450.00 
+28|PT (Prothrombin Time) Test|| Rs. 350.00 
+29|Sodium Test|| Rs. 150.00 
+30|Sputum Routine Test|| Rs. 100.00 
+31|Stool Routine|| Rs. 100.00 
+32|Total Protein Test|| Rs. 150.00 
+33|Troponin-I Test|| Rs. 1200.00 
+34|Urea Test|| Rs. 100.00 
+35|Uric Acid Test|| Rs. 100.00 
+36|Urine Routine|| Rs. 100.00 
+37|Widal Test|| Rs. 100.00 

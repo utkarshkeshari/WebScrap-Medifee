@@ -1,0 +1,15 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 3000.00 
+1|CT Scan|| Rs. 2500.00 (Brain Plain) 
+2|CT Scan|| Rs. 1000.00 (Brain Contras) 
+3|CT Scan|| Rs. 3500.00 (Brain Plain with Contras) 
+4|Mammography|| Rs. 2000.00 
+5|Mammography|| Rs. 2000.00 (Both Side) 
+6|MRI Scan|| Rs. 6600.00 (Brain Plain) 
+7|MRI Scan|| Rs. 3300.00 (Brain Contras) 
+8|MRI Scan|| Rs. 9900.00 (Brain Plain with Contras) 
+9|MRI Scan|| Rs. 6600.00 (Brain Plain) 
+10|MRI Scan|| Rs. 3300.00 (Brain Contras) 
+11|MRI Scan|| Rs. 9900.00 (Brain Plain with Contras) 
+12|X-Ray|| Rs. 400.00 (Chest) 
+13|X-Ray|| Rs. 800.00 (Chest PA + LA) 

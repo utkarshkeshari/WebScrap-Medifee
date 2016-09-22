@@ -1,0 +1,51 @@
+|Name|Offer|Price
+0|ANCA Profile|| Rs. 1200.00 
+1|Beta HCG Test|| Rs. 800.00 
+2|Bilirubin Test|| Rs. 120.00 
+3|Bleeding / Clotting Time Test|| Rs. 100.00 
+4|Blood Culture Test|| Rs. 300.00 
+5|CA-125 (Tumor Marker) Test|| Rs. 800.00 
+6|CBC / Hemogram Test|| Rs. 300.00 
+7|CK-MB Test|| Rs. 300.00 
+8|Coombs Test|| Rs. 300.00 
+9|Cortisol Test|| Rs. 400.00 
+10|CPK (Creatine Phosphokinase) Test|| Rs. 200.00 
+11|Electrolytes Test|| Rs. 200.00 
+12|Estradiol (E2) Test|| Rs. 600.00 
+13|Ferritin Test|| Rs. 800.00 
+14|Ferritin Test|| Rs. 600.00 
+15|Folic Acid Test|| Rs. 600.00 
+16|Folic Acid Test|| Rs. 600.00 
+17|FSH (Follicle Stimulating Hormone) Test|| Rs. 350.00 
+18|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+19|G6PD Test|| Rs. 600.00 
+20|G6PD Test|| Rs. 600.00 
+21|Gamma GT (GGTP) Test|| Rs. 300.00 
+22|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+23|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+24|HBsAg Test|| Rs. 150.00 
+25|HIV Test|| Rs. 350.00 
+26|LDH (Lactate Dehydrogenase) Test|| Rs. 350.00 
+27|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+28|Lipoprotein A / LP(a) Test|| Rs. 1000.00 
+29|Lupus Anticoagulant (LAC) Test|| Rs. 1200.00 
+30|Phosphorus Test|| Rs. 150.00 
+31|Prolactin Test|| Rs. 450.00 
+32|Prolactin Test|| Rs. 400.00 
+33|Sonography|| Rs. 700.00 (Whole Abdomen) 
+34|Sonography|| Rs. 1800.00 (Pregnancy Anomaly) 
+35|Sputum Routine Test|| Rs. 100.00 
+36|Stool Routine|| Rs. 100.00 
+37|T3 (Triiodothyronine) Test|| Rs. 300.00 
+38|T4 (Thyroxine) Test|| Rs. 300.00 
+39|Thyroglobulin Test|| Rs. 600.00 
+40|Thyroid Test|| Rs. 600.00 
+41|Transferrin Test|| Rs. 800.00 
+42|Troponin-I Test|| Rs. 1500.00 
+43|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+44|Uric Acid Test|| Rs. 100.00 
+45|VDRL Test|| Rs. 100.00 
+46|Vitamin B12 Test|| Rs. 600.00 
+47|Vitamin D Test|| Rs. 1400.00 
+48|VLDL Test|| Rs. 100.00 
+49|Widal Test|| Rs. 150.00 

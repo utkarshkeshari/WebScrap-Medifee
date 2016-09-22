@@ -1,0 +1,47 @@
+|Name|Offer|Price
+0|Amylase Test|| Rs. 400.00 
+1|ANCA Profile|| Rs. 1750.00 
+2|Bilirubin Test|| Rs. 140.00 
+3|Blood Culture Test|| Rs. 600.00 
+4|Blood Group Test|| Rs. 100.00 
+5|CA 15.3 Test|| Rs. 1150.00 
+6|CA-125 (Tumor Marker) Test|| Rs. 1050.00 
+7|Calcium Test|| Rs. 170.00 
+8|CBC / Hemogram Test|| Rs. 250.00 
+9|CD4 Test|| Rs. 950.00 
+10|Cholesterol Test|| Rs. 170.00 
+11|CK-MB Test|| Rs. 650.00 
+12|Creatinine Clearance Test|| Rs. 150.00 
+13|Dengue IgG Test|| Rs. 900.00 
+14|Dengue IgM Test|| Rs. 900.00 
+15|DHEA Test|| Rs. 950.00 
+16|Electrolytes Test|| Rs. 480.00 
+17|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 120.00 
+18|Ferritin Test|| Rs. 700.00 
+19|Folic Acid Test|| Rs. 1000.00 
+20|FSH (Follicle Stimulating Hormone) Test|| Rs. 300.00 
+21|Gamma GT (GGTP) Test|| Rs. 650.00 
+22|Glucose Tolerance Test (GTT)|| Rs. 260.00 
+23|Glucose Tolerance Test (GTT)|| Rs. 260.00 
+24|HbA1C Test|| Rs. 700.00 
+25|HBsAg Test|| Rs. 700.00 
+26|HIV Test|| Rs. 500.00 
+27|Insulin Test|| Rs. 600.00 
+28|Insulin Test|| Rs. 850.00 (Fasting) 
+29|Iron Test|| Rs. 700.00 
+30|Kidney Function Test|| Rs. 750.00 
+31|LH (Luteinizing Hormone) Test|| Rs. 300.00 
+32|Lipase Test|| Rs. 575.00 
+33|Malaria (Malarial Parasite) Test|| Rs. 230.00 
+34|Prolactin Test|| Rs. 300.00 
+35|Protein Test|| Rs. 200.00 
+36|PT (Prothrombin Time) Test|| Rs. 380.00 
+37|Sputum Routine Test|| Rs. 100.00 
+38|Stool Routine|| Rs. 180.00 
+39|Stool Routine|| Rs. 180.00 
+40|Triglycerides Test|| Rs. 275.00 
+41|Uric Acid Test|| Rs. 200.00 
+42|VDRL Test|| Rs. 350.00 
+43|Vitamin B12 Test|| Rs. 950.00 
+44|Vitamin C Test|| Rs. 4500.00 
+45|Vitamin D Test|| Rs. 1000.00 

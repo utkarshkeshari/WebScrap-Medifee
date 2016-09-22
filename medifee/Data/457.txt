@@ -1,0 +1,29 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 550.00 
+1|Arterial Blood Gas (ABG)|| Rs. 1700.00 
+2|Biopsy|| Rs. 1500.00 (BIG) 
+3|C-Peptide Test|| Rs. 1130.00 (Fasting) 
+4|C-Peptide Test|| Rs. 1130.00 (PP) 
+5|Cerebral Spinal Fluid (CSF) Test|| Rs. 650.00 (Culture) 
+6|Complement C3|| Rs. 650.00 
+7|Complement C4|| Rs. 650.00 
+8|Dengue NS1 Test|| Rs. 800.00 
+9|Globulin / AG Ratio|| Rs. 550.00 
+10|Gram Stain Test|| Rs. 350.00 
+11|Hepatitis A Test|| Rs. 1320.00 (Quantitative) 
+12|Herpes Simplex Virus (HSV) Test|| Rs. 620.00 (HSV 1-IgG) 
+13|Herpes Simplex Virus (HSV) Test|| Rs. 620.00 (HSV1-IgM) 
+14|Herpes Simplex Virus (HSV) Test|| Rs. 620.00 (HSV2-IgG) 
+15|Herpes Simplex Virus (HSV) Test|| Rs. 620.00 (Hsv2-IgM) 
+16|Paratyphi Test|| Rs. 200.00 (Parathyphi A) 
+17|Paratyphi Test|| Rs. 200.00 (Parathyphi B) 
+18|Peripheral Blood Smear Test|| Rs. 150.00 
+19|Rubella Test|| Rs. 1500.00 (IgG) 
+20|Rubella Test|| Rs. 1500.00 (IgM) 
+21|Rubella Test|| Rs. 600.00 (IgG) 
+22|Rubella Test|| Rs. 600.00 (IgM) 
+23|Stool Culture|| Rs. 850.00 
+24|Toxoplasma Test|| Rs. 580.00 (IgG) 
+25|Toxoplasma Test|| Rs. 580.00 (IgG) 
+26|Typhidot Test|| Rs. 550.00 (IgM) 
+27|Typhidot Test|| Rs. 550.00 (IgG) 

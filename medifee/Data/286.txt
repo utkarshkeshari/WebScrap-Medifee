@@ -1,0 +1,35 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 100.00 
+1|Beta HCG Test|| Rs. 650.00 
+2|Bilirubin Test|| Rs. 200.00 
+3|Blood Culture Test|| Rs. 850.00 
+4|Blood Group Test|| Rs. 150.00 
+5|Blood Sugar Test|| Rs. 80.00 
+6|CBC / Hemogram Test|| Rs. 350.00 
+7|Creatinine Test|| Rs. 150.00 
+8|CT Scan|| Rs. 3100.00 (Brain Plain) 
+9|CT Scan|| Rs. 1500.00 (Brain Contras) 
+10|CT Scan|| Rs. 4100.00 (Brain Plain with Contras) 
+11|Dengue IgG Test|| Rs. 600.00 
+12|Dengue IgM Test|| Rs. 600.00 
+13|Electrolytes Test|| Rs. 300.00 
+14|HbA1C Test|| Rs. 450.00 
+15|HIV Test|| Rs. 600.00 
+16|Insulin Test|| Rs. 650.00 
+17|Kidney Function Test|| Rs. 800.00 
+18|Lipid Profile|| Rs. 800.00 
+19|Liver Function Test|| Rs. 600.00 
+20|MRI Scan|| Rs. 5000.00 (Brain Plain) 
+21|MRI Scan|| Rs. 3500.00 (Brain Contras) 
+22|MRI Scan|| Rs. 7000.00 (Brain Plain with Contras) 
+23|PT (Prothrombin Time) Test|| Rs. 250.00 
+24|SGOT Test|| Rs. 100.00 
+25|SGPT Test|| Rs. 100.00 
+26|T3 (Triiodothyronine) Test|| Rs. 300.00 
+27|T4 (Thyroxine) Test|| Rs. 300.00 
+28|Testosterone Test|| Rs. 800.00 (Free) 
+29|Thyroid Test|| Rs. 600.00 
+30|Total Protein Test|| Rs. 200.00 
+31|VDRL Test|| Rs. 150.00 
+32|Vitamin B12 Test|| Rs. 900.00 
+33|Vitamin D Test|| Rs. 1500.00 

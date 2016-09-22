@@ -1,0 +1,33 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 300.00 
+1|Biopsy|| Rs. 1500.00 (BIG) 
+2|C-Peptide Test|| Rs. 700.00 
+3|CA 27.29 Test|| Rs. 1500.00 
+4|Complement C3|| Rs. 1000.00 
+5|Complement C4|| Rs. 1000.00 
+6|Cryptococcal Antigen Test|| Rs. 2000.00 
+7|Cytomegalovirus (CMV) Test|| Rs. 1000.00 (IgG) 
+8|Cytomegalovirus (CMV) Test|| Rs. 1000.00 (IgM) 
+9|Dengue NS1 Test|| Rs. 600.00 
+10|Fungal Culture Test|| Rs. 300.00 
+11|Globulin / AG Ratio|| Rs. 200.00 
+12|Gram Stain Test|| Rs. 200.00 
+13|Hemoglobin Electrophoresis|| Rs. 800.00 
+14|Hepatitis A Test|| Rs. 100.00 (IgG) 
+15|Hepatitis A Test|| Rs. 100.00 (IgM) 
+16|Herpes Simplex Virus (HSV) Test|| Rs. 550.00 (HSV 1-IgG) 
+17|Herpes Simplex Virus (HSV) Test|| Rs. 550.00 (HSV1-IgM) 
+18|Paratyphi Test|| Rs. 100.00 (Parathyphi A) 
+19|Paratyphi Test|| Rs. 100.00 (Parathyphi B) 
+20|Peripheral Blood Smear Test|| Rs. 200.00 
+21|Plasma Lactate (Latic Acid) Test|| Rs. 700.00 
+22|Rubella Test|| Rs. 550.00 (IgG) 
+23|Rubella Test|| Rs. 550.00 (IgM) 
+24|Sex Hormone Test|| Rs. 1200.00 
+25|Stool Culture|| Rs. 250.00 
+26|TB Test|| Rs. 3200.00 
+27|Toxoplasma Test|| Rs. 550.00 (IgG) 
+28|Toxoplasma Test|| Rs. 550.00 (IgM) 
+29|Toxoplasma Test|| Rs. 550.00 (IgA) 
+30|Typhidot Test|| Rs. 400.00 (IgG) 
+31|Typhidot Test|| Rs. 400.00 (IgM) 

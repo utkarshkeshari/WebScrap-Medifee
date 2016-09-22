@@ -1,0 +1,61 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 200.00 
+1|Amylase Test|| Rs. 400.00 
+2|Antithyroglobulin Antibody Test|| Rs. 1200.00 
+3|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 400.00 
+4|ASO Test|| Rs. 600.00 
+5|Beta HCG Test|| Rs. 500.00 
+6|Bilirubin Test|| Rs. 200.00 
+7|Blood Culture Test|| Rs. 950.00 
+8|Blood Group Test|| Rs. 150.00 
+9|Blood Group Test|| Rs. 120.00 
+10|Blood Sugar Test|| Rs. 90.00 
+11|Blood Urea Nitrogen Test|| Rs. 160.00 
+12|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+13|CBC / Hemogram Test|| Rs. 300.00 
+14|Chloride Test|| Rs. 300.00 
+15|Creatinine Test|| Rs. 150.00 
+16|Dengue IgG Test|| Rs. 1800.00 (With IgM) 
+17|Estradiol (E2) Test|| Rs. 525.00 
+18|Ferritin Test|| Rs. 800.00 
+19|Folic Acid Test|| Rs. 950.00 
+20|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+21|Gamma GT (GGTP) Test|| Rs. 300.00 
+22|Glucose Tolerance Test (GTT)|| Rs. 500.00 (3 sample) 
+23|HbA1C Test|| Rs. 500.00 
+24|HBsAg Test|| Rs. 450.00 
+25|HCV Antibody Test|| Rs. 850.00 
+26|Hemoglobin (Hb) Test|| Rs. 120.00 
+27|HIV Test|| Rs. 500.00 
+28|Kidney Function Test|| Rs. 800.00 
+29|Kidney Function Test|| Rs. 800.00 
+30|Lipase Test|| Rs. 525.00 
+31|Lipid Profile|| Rs. 570.00 
+32|Lithium Test|| Rs. 600.00 
+33|Liver Function Test|| Rs. 800.00 
+34|Magnesium Test|| Rs. 500.00 
+35|Microalbumin Test|| Rs. 350.00 
+36|Potassium Test|| Rs. 300.00 
+37|Prolactin Test|| Rs. 350.00 
+38|Protein/Creatinine Ratio|| Rs. 350.00 
+39|PT (Prothrombin Time) Test|| Rs. 400.00 
+40|PTH (Parathyroid Hormone) Test|| Rs. 1290.00 
+41|PTH (Parathyroid Hormone) Test|| Rs. 1200.00 
+42|Renal Profile|| Rs. 800.00 
+43|Sonography|| Rs. 900.00 (Whole Abdomen) 
+44|Sonography|| Rs. 700.00 (Lower Abdomen) 
+45|Sputum Routine Test|| Rs. 300.00 
+46|Stool Routine|| Rs. 150.00 
+47|T3 (Triiodothyronine) Test|| Rs. 200.00 
+48|T4 (Thyroxine) Test|| Rs. 200.00 
+49|Thyroid Test|| Rs. 500.00 
+50|Total Protein Test|| Rs. 150.00 
+51|Total Protein Test|| Rs. 200.00 
+52|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+53|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+54|Urea Test|| Rs. 100.00 
+55|Uric Acid Test|| Rs. 150.00 
+56|Urine Routine|| Rs. 100.00 
+57|Vitamin B12 Test|| Rs. 950.00 
+58|Vitamin D Test|| Rs. 1600.00 
+59|Widal Test|| Rs. 150.00 

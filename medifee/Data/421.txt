@@ -1,0 +1,63 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 440.00 
+1|Amylase Test|| Rs. 450.00 
+2|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+3|Biopsy|| Rs. 1300.00 (BIG) 
+4|Blood Group Test|| Rs. 150.00 
+5|Blood Sugar Test|| Rs. 100.00 
+6|Blood Urea Nitrogen Test|| Rs. 200.00 
+7|C-Peptide Test|| Rs. 910.00 
+8|CD4 Test|| Rs. 2000.00 
+9|Cholesterol Test|| Rs. 180.00 
+10|Complement C3|| Rs. 700.00 
+11|Complement C4|| Rs. 700.00 
+12|Creatinine Clearance Test|| Rs. 210.00 
+13|CT Scan|| Rs. 2400.00 (Brain Plain) 
+14|CT Scan|| Rs. 3200.00 (Brain Contras) 
+15|D Dimer Test|| Rs. 1250.00 
+16|Dengue IgG Test|| Rs. 700.00 
+17|Dengue IgM Test|| Rs. 700.00 
+18|Dengue NS1 Test|| Rs. 600.00 
+19|Folic Acid Test|| Rs. 1100.00 
+20|Fungal Culture Test|| Rs. 440.00 
+21|Globulin / AG Ratio|| Rs. 150.00 
+22|Gram Stain Test|| Rs. 210.00 
+23|HBsAg Test|| Rs. 350.00 
+24|HDL Cholesterol|| Rs. 140.00 
+25|Hemoglobin Electrophoresis|| Rs. 1050.00 
+26|Kidney Profile|| Rs. 700.00 
+27|LDL Cholesterol|| Rs. 140.00 
+28|Lipid Profile|| Rs. 900.00 
+29|Lithium Test|| Rs. 360.00 
+30|Liver Function Test|| Rs. 700.00 
+31|Lupus Anticoagulant (LAC) Test|| Rs. 2420.00 
+32|Malaria (Malarial Parasite) Test|| Rs. 130.00 
+33|MRI Scan|| Rs. 7000.00 (Brain Plain) 
+34|MRI Scan|| Rs. 11000.00 (Brain Contras) 
+35|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+36|Plasma Lactate (Latic Acid) Test|| Rs. 840.00 
+37|Platelet Count|| Rs. 100.00 
+38|Pleural Fluid Analysis|| Rs. 400.00 
+39|Pregnancy Test|| Rs. 150.00 
+40|Progesterone Test|| Rs. 4850.00 
+41|Protein Test|| Rs. 150.00 
+42|Rubella Test|| Rs. 430.00 (IgG) 
+43|Rubella Test|| Rs. 430.00 (IgM) 
+44|Sickling Test|| Rs. 200.00 
+45|Stool Culture|| Rs. 440.00 
+46|Stool Routine|| Rs. 100.00 
+47|Synovial Fluid Analysis|| Rs. 400.00 
+48|T3 (Triiodothyronine) Test|| Rs. 200.00 
+49|T4 (Thyroxine) Test|| Rs. 200.00 
+50|TB Test|| Rs. 3000.00 
+51|Total Protein Test|| Rs. 200.00 
+52|Toxoplasma Test|| Rs. 430.00 (IgM) 
+53|Toxoplasma Test|| Rs. 430.00 (IgA) 
+54|Toxoplasma Test|| Rs. 430.00 (IgG) 
+55|Triglycerides Test|| Rs. 180.00 
+56|Typhidot Test|| Rs. 420.00 (IgG) 
+57|Typhidot Test|| Rs. 420.00 (IgM) 
+58|Uric Acid Test|| Rs. 120.00 
+59|VDRL Test|| Rs. 150.00 
+60|Widal Test|| Rs. 100.00 
+61|X-Ray|| Rs. 300.00 (Chest) 

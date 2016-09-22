@@ -1,0 +1,34 @@
+|Name|Offer|Price
+0|Bleeding / Clotting Time Test|| Rs. 150.00 
+1|Chloride Test|| Rs. 150.00 
+2|Creatinine Clearance Test|| Rs. 120.00 
+3|Creatinine Test|| Rs. 120.00 
+4|CT Scan|| Rs. 3100.00 
+5|CT Scan|| Rs. 2300.00  (Brain Plain) 
+6|Dengue IgG Test|| Rs. 600.00 
+7|Dengue IgM Test|| Rs. 600.00 
+8|ECG|| Rs. 300.00 
+9|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 150.00 
+10|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+11|Glucose Tolerance Test (GTT)|| Rs. 180.00 
+12|HBsAg Test|| Rs. 550.00 
+13|Hemoglobin (Hb) Test|| Rs. 100.00 
+14|Iron Test|| Rs. 600.00 
+15|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+16|MRI Scan|| Rs. 10500.00  (Brain Contrast) 
+17|MRI Scan|| Rs. 7000.00  (Brain Plain) 
+18|Platelet Count|| Rs. 50.00 
+19|Potassium Test|| Rs. 150.00 
+20|SGOT Test|| Rs. 150.00 
+21|SGPT Test|| Rs. 150.00 
+22|Sodium Test|| Rs. 150.00 
+23|Sonography|| Rs. 600.00 
+24|T3 (Triiodothyronine) Test|| Rs. 250.00 
+25|T4 (Thyroxine) Test|| Rs. 250.00 
+26|Testosterone Test|| Rs. 600.00 
+27|Total Protein Test|| Rs. 200.00 
+28|Troponin-I Test|| Rs. 850.00 
+29|Urea Test|| Rs. 120.00 
+30|Uric Acid Test|| Rs. 100.00 
+31|Urine Routine|| Rs. 120.00 
+32|Widal Test|| Rs. 200.00 

@@ -1,0 +1,3 @@
+|Name|Offer|Price
+0|Dialysis|| Rs. 1500.00 
+1|OPD Consultation Fee|| Rs. 1000.00 (Nephrologist) 

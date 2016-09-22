@@ -1,0 +1,97 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2800.00 
+1|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1400.00 
+2|AEC (Absolute Eosinophil Count) Test|| Rs. 220.00 
+3|AFP (Alpha Feto Protein) Test|| Rs. 840.00 
+4|Albumin Test|| Rs. 240.00 
+5|Alkaline Phosphatase (ALP) Test|| Rs. 180.00 
+6|Allergy Test|| Rs. 900.00 (IGE) 
+7|Allergy Test|| Rs. 6500.00 ( Compresive) 
+8|Allergy Test|| Rs. 6800.00 (Drug pannel) 
+9|ANC Profile|| Rs. 3560.00 
+10|Anti TPO Test|| Rs. 2160.00 
+11|Antithyroglobulin Antibody Test|| Rs. 1800.00 
+12|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 500.00 
+13|Bicarbonate Test|| Rs. 450.00 
+14|Blood Culture Test|| Rs. 1080.00 
+15|Blood Group Test|| Rs. 150.00 
+16|Blood Sugar Test|| Rs. 90.00 
+17|Bone Density Test|| Rs. 6000.00 (Whole body) 
+18|CA 15.3 Test|| Rs. 1600.00 
+19|CA 19.9 Test|| Rs. 1600.00 
+20|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+21|Calcium Test|| Rs. 220.00 
+22|CBC / Hemogram Test|| Rs. 280.00 
+23|CEA (Carcinoembryonic Antigen) Test|| Rs. 660.00 
+24|Chloride Test|| Rs. 200.00 
+25|Creatinine Clearance Test|| Rs. 300.00 
+26|CRP (C-Reactive Protein) Test|| Rs. 540.00 
+27|CRP (C-Reactive Protein) Test|| Rs. 540.00 
+28|CT Scan|| Rs. 1000.00 (Brain Contras) 
+29|CT Scan|| Rs. 3500.00 (Brain Plain with Contras) 
+30|CT Scan|| Rs. 2500.00 (Brain Plain) 
+31|D Dimer Test|| Rs. 1500.00 
+32|ECG|| Rs. 250.00 
+33|EEG|| Rs. 1500.00 
+34|Electrolytes Test|| Rs. 600.00 
+35|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+36|Folic Acid Test|| Rs. 1320.00 
+37|HbA1C Test|| Rs. 600.00 
+38|HBsAg Test|| Rs. 420.00 
+39|HCV Antibody Test|| Rs. 1440.00 
+40|HDL Cholesterol|| Rs. 420.00 
+41|HIV Test|| Rs. 540.00 
+42|Homocysteine Test|| Rs. 1800.00 
+43|Insulin Test|| Rs. 840.00 
+44|Iron Test|| Rs. 1400.00 (Profile) 
+45|Kidney Function Test|| Rs. 600.00 
+46|L. E. Cells Test|| Rs. 480.00 
+47|LDH (Lactate Dehydrogenase) Test|| Rs. 420.00 
+48|LDH (Lactate Dehydrogenase) Test|| Rs. 420.00 
+49|LDL Cholesterol|| Rs. 430.00 
+50|Lipoprotein A / LP(a) Test|| Rs. 1200.00 
+51|Lithium Test|| Rs. 360.00 
+52|Lupus Anticoagulant (LAC) Test|| Rs. 1800.00 
+53|Magnesium Test|| Rs. 660.00 
+54|Malaria (Malarial Parasite) Test|| Rs. 840.00 (Antigen) 
+55|Malaria (Malarial Parasite) Test|| Rs. 120.00 (SLide) 
+56|Mammography|| Rs. 1100.00 (Single Side) 
+57|Mammography|| Rs. 2100.00 (Both Side) 
+58|Microfilaria Parasite Test|| Rs. 240.00 
+59|MRI Scan|| Rs. 6000.00 (Brain Plain) 
+60|MRI Scan|| Rs. 4200.00 (Brain Contras) 
+61|MRI Scan|| Rs. 10200.00 (Brain Plain with Contras) 
+62|PAP Smear|| Rs. 1200.00 
+63|PCV (Packed Cell Volume) Test|| Rs. 120.00 
+64|Platelet Count|| Rs. 140.00 
+65|Pleural Fluid Analysis|| Rs. 480.00 
+66|Potassium Test|| Rs. 200.00 
+67|Pregnancy Test|| Rs. 180.00 
+68|Prolactin Test|| Rs. 540.00 
+69|PT (Prothrombin Time) Test|| Rs. 630.00 
+70|PTH (Parathyroid Hormone) Test|| Rs. 1655.00 
+71|Pulmonary Function Test (PFT)|| Rs. 1500.00 
+72|Renal Profile|| Rs. 600.00 
+73|Reticulocyte Count Test|| Rs. 240.00 
+74|Rheumatoid Arthritis (RA) Factor Test|| Rs. 480.00 
+75|Semen Analysis Test|| Rs. 420.00 
+76|SGOT Test|| Rs. 160.00 
+77|SGPT Test|| Rs. 160.00 
+78|Sodium Test|| Rs. 200.00 
+79|Sonography|| Rs. 1600.00 (Whole Abdomen) 
+80|Sonography|| Rs. 3000.00 (Pregnancy Anomaly) 
+81|Stool Routine|| Rs. 180.00 
+82|Stress Test|| Rs. 5000.00 
+83|Synovial Fluid Analysis|| Rs. 540.00 (Culture) 
+84|T3 (Triiodothyronine) Test|| Rs. 250.00 
+85|T4 (Thyroxine) Test|| Rs. 250.00 
+86|Total Protein Test|| Rs. 240.00 
+87|Triglycerides Test|| Rs. 260.00 
+88|Troponin-I Test|| Rs. 1860.00 
+89|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+90|Urea Test|| Rs. 120.00 
+91|Uric Acid Test|| Rs. 150.00 
+92|Urine Routine|| Rs. 120.00 
+93|VLDL Test|| Rs. 240.00 
+94|X-Ray|| Rs. 350.00 (Chest) 
+95|X-Ray|| Rs. 700.00 (Lumbar Spine) 

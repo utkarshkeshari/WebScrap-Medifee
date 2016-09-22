@@ -1,0 +1,6 @@
+|Name|Offer|Price
+0|EEG|| Rs. 3500.00 (Routine) 
+1|EEG|| Rs. 3500.00 (Sleep Deprived) 
+2|EEG|| Rs. 3500.00 (With Video) 
+3|EEG|| Rs. 3500.00 (Video EEG 6 hrs) 
+4|EEG|| Rs. 3500.00 (EMG,NCV,VEP,BEAR,SSEP,RNS,BLINK REFLEX,BRACHIAL PLEXUS) 

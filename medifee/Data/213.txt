@@ -1,0 +1,63 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2500.00 
+1|2D Echo|| Rs. 2500.00 
+2|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1400.00 
+3|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+4|AFP (Alpha Feto Protein) Test|| Rs. 1200.00 
+5|Allergy Test|| Rs. 7000.00 (Profile) 
+6|Ammonia Test|| Rs. 1300.00 
+7|Anti TPO Test|| Rs. 1100.00 
+8|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 450.00 
+9|Beta HCG Test|| Rs. 1000.00 
+10|Bilirubin Test|| Rs. 250.00 
+11|Bleeding / Clotting Time Test|| Rs. 100.00 
+12|Blood Culture Test|| Rs. 1100.00 
+13|Blood Urea Nitrogen Test|| Rs. 130.00 
+14|Calcium Test|| Rs. 200.00 
+15|CBC / Hemogram Test|| Rs. 280.00 
+16|Cholesterol Test|| Rs. 150.00 
+17|Cortisol Test|| Rs. 700.00 
+18|Creatinine Clearance Test|| Rs. 500.00 
+19|CRP (C-Reactive Protein) Test|| Rs. 450.00 
+20|ECG|| Rs. 250.00 
+21|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+22|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+23|HbA1C Test|| Rs. 550.00 
+24|HBsAg Test|| Rs. 800.00 
+25|HCV Antibody Test|| Rs. 3200.00 
+26|HIV Test|| Rs. 450.00 
+27|Homocysteine Test|| Rs. 1000.00 
+28|Iron Test|| Rs. 1100.00 
+29|Kidney Function Test|| Rs. 650.00 
+30|LDH (Lactate Dehydrogenase) Test|| Rs. 300.00 
+31|LDL Cholesterol|| Rs. 320.00 
+32|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+33|Lipid Profile|| Rs. 700.00 
+34|Lipoprotein A / LP(a) Test|| Rs. 800.00 
+35|Lithium Test|| Rs. 350.00 
+36|Lupus Anticoagulant (LAC) Test|| Rs. 1800.00 
+37|Magnesium Test|| Rs. 550.00 
+38|Malaria (Malarial Parasite) Test|| Rs. 120.00 (Slide) 
+39|Malaria (Malarial Parasite) Test|| Rs. 650.00 (Antigen) 
+40|PAP Smear|| Rs. 900.00 
+41|Prolactin Test|| Rs. 500.00 
+42|PT (Prothrombin Time) Test|| Rs. 400.00 
+43|PTH (Parathyroid Hormone) Test|| Rs. 1400.00 
+44|Pulmonary Function Test (PFT)|| Rs. 700.00 
+45|Renal Profile|| Rs. 650.00 
+46|Reticulocyte Count Test|| Rs. 200.00 
+47|Semen Analysis Test|| Rs. 300.00 
+48|SGOT Test|| Rs. 130.00 
+49|SGPT Test|| Rs. 130.00 
+50|Sonography|| Rs. 1300.00 (Whole Abdomen) 
+51|Sonography|| Rs. 600.00 (Upper Abdomen) 
+52|Sonography|| Rs. 1800.00 (Preganancy+Abdomen) 
+53|Sonography|| Rs. 2500.00 (Pregnancy Anomaly) 
+54|Stool Routine|| Rs. 100.00 
+55|Total Protein Test|| Rs. 300.00 
+56|Triglycerides Test|| Rs. 220.00 
+57|Urea Test|| Rs. 130.00 
+58|Uric Acid Test|| Rs. 130.00 
+59|Urine Routine|| Rs. 100.00 
+60|X-Ray|| Rs. 600.00 (Chest(PA+lateral)) 
+61|X-Ray|| Rs. 600.00 (Spine(dorsal)) 

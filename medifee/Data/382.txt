@@ -1,0 +1,6 @@
+|Name|Offer|Price
+0|Creatinine Clearance Test|| Rs. 100.00 
+1|Prolactin Test|| Rs. 500.00 
+2|Protein Test|| Rs. 250.00 
+3|Sputum Routine Test|| Rs. 100.00 
+4|Stool Routine|| Rs. 70.00 

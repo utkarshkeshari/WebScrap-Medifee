@@ -1,0 +1,13 @@
+|Name|Offer|Price
+0|ACL Surgery|| Rs. 150000.00 
+1|Colonoscopy|| Rs. 9000.00 
+2|Dialysis|| Rs. 4300.00 (1st Time) 
+3|Dialysis|| Rs. 3000.00 (Regular) 
+4|Gastroscopy|| Rs. 5500.00 
+5|Hip Replacement Surgery|| Rs. 480000.00 (Unilateral - Deluxe Room) 
+6|Hip Replacement Surgery|| Rs. 550000.00 (Unilateral - Suite Room) 
+7|Hip Replacement Surgery|| Rs. 280000.00 (Unilateral - General ward) 
+8|Hip Replacement Surgery|| Rs. 310000.00 (Unilateral - Semi Private Ward) 
+9|Hip Replacement Surgery|| Rs. 350000.00 (Unilateral - Private ward) 
+10|OPD Consultation Fee|| Rs. 800.00 (Nephrologist) 
+11|OPD Consultation Fee|| Rs. 1200.00 (Gastroenterologist) 

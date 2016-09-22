@@ -1,0 +1,56 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 250.00 
+1|Ammonia Test|| Rs. 200.00 
+2|Anti CCP (ACCP) Test|| Rs. 2500.00 
+3|Bicarbonate Test|| Rs. 200.00 
+4|Bilirubin Test|| Rs. 150.00 
+5|Bleeding / Clotting Time Test|| Rs. 180.00 
+6|Blood Culture Test|| Rs. 1450.00 
+7|Blood Group Test|| Rs. 200.00 
+8|Blood Sugar Test|| Rs. 150.00 
+9|Blood Urea Nitrogen Test|| Rs. 200.00 
+10|Calcium Test|| Rs. 300.00 
+11|CBC / Hemogram Test|| Rs. 500.00 
+12|Chloride Test|| Rs. 200.00 
+13|Cholesterol Test|| Rs. 200.00 
+14|Creatinine Test|| Rs. 200.00 
+15|Dengue IgG Test|| Rs. 1000.00 
+16|Dengue IgM Test|| Rs. 1000.00 
+17|Electrolytes Test|| Rs. 1100.00 
+18|FSH (Follicle Stimulating Hormone) Test|| Rs. 600.00 
+19|Globulin Test|| Rs. 200.00 
+20|HCV Antibody Test|| Rs. 900.00 
+21|HDL Cholesterol|| Rs. 200.00 
+22|Hemoglobin (Hb) Test|| Rs. 150.00 
+23|HSG Test|| Rs. 10000.00 (With Doctor Consult) 
+24|Insulin Test|| Rs. 450.00 
+25|Kidney Function Test|| Rs. 850.00 
+26|LDL Cholesterol|| Rs. 200.00 
+27|LH (Luteinizing Hormone) Test|| Rs. 600.00 
+28|LH (Luteinizing Hormone) Test|| Rs. 1700.00 (FSH) 
+29|Lipase Test|| Rs. 600.00 
+30|Lipid Profile|| Rs. 850.00 
+31|Magnesium Test|| Rs. 250.00 
+32|Malaria (Malarial Parasite) Test|| Rs. 300.00 
+33|PCV (Packed Cell Volume) Test|| Rs. 200.00 
+34|Platelet Count|| Rs. 150.00 
+35|Potassium Test|| Rs. 300.00 
+36|Prolactin Test|| Rs. 950.00 
+37|Renal Profile|| Rs. 850.00 
+38|Renal Profile|| Rs. 850.00 
+39|SGOT Test|| Rs. 200.00 
+40|SGPT Test|| Rs. 200.00 
+41|Sodium Test|| Rs. 300.00 
+42|T3 (Triiodothyronine) Test|| Rs. 400.00 
+43|T4 (Thyroxine) Test|| Rs. 400.00 
+44|Thyroid Test|| Rs. 1550.00 
+45|Total Protein Test|| Rs. 250.00 
+46|TSH (Thyroid Stimulating Hormone) Test|| Rs. 550.00 
+47|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+48|Urea Test|| Rs. 150.00 
+49|Uric Acid Test|| Rs. 140.00 
+50|Urine Routine|| Rs. 200.00 
+51|Vitamin B12 Test|| Rs. 1450.00 
+52|Vitamin D Test|| Rs. 1900.00 
+53|Widal Test|| Rs. 250.00 
+54|X-Ray|| Rs. 300.00 (Chest) 

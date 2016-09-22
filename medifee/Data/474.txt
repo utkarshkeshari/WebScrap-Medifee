@@ -1,0 +1,23 @@
+|Name|Offer|Price
+0|ANC Profile|| Rs. 999.00 (CBC, BT, CT, HIV, HBsAg, VDRL, SUGAR, THYROID PROFILE, URINE ROUTINE, BLOOD GROUP) 
+1|CA-125 (Tumor Marker) Test|| Rs. 599.00 
+2|Full Body Health Checkup|| Rs. 1299.00 (CBC, HIV, TFT, LIPID PROFILE, LFT, KFT, URINE ROUTINE MICROSCOPY, HBsAg, ) 
+3|HIV Test|| Rs. 399.00 (Tridot hiv test) 
+4|Lipid Profile|| Rs. 599.00 
+5|Master Health Checkup|| Rs. 2999.00 (CBC, HIV, TFT, LIPID PROFILE, LFT, KFT, URINE ROUTINE MICROSCOPY, HBsAg,Vit D, FOLIC ACID, Sugar, HbA1c, CRP, RF, VDRL, ) 
+6|Platelet Count|| Rs. 100.00 
+7|SGOT Test|| Rs. 120.00 
+8|SGPT Test|| Rs. 120.00 
+9|Stool Routine|| Rs. 250.00 
+10|T3 (Triiodothyronine) Test|| Rs. 199.00 
+11|T4 (Thyroxine) Test|| Rs. 199.00 
+12|Thyroid Checkup|| Rs. 200.00 (TSH ultrasensitive) 
+13|Thyroid Test|| Rs. 600.00 (T3 T4 TSH) 
+14|Total Protein Test|| Rs. 150.00 
+15|TSH (Thyroid Stimulating Hormone) Test|| Rs. 200.00 (TSH ultrasensitive) 
+16|Urea Test|| Rs. 100.00 
+17|Urine Routine|| Rs. 100.00 
+18|VDRL Test|| Rs. 250.00 
+19|Vitamin B12 Test|| Rs. 750.00 
+20|Vitamin D Test|| Rs. 1250.00 
+21|Widal Test|| Rs. 100.00 

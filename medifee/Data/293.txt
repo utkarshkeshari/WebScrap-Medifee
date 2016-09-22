@@ -1,0 +1,14 @@
+|Name|Offer|Price
+0|Bilirubin Test|| Rs. 100.00 
+1|Blood Culture Test|| Rs. 300.00 
+2|Blood Group Test|| Rs. 100.00 
+3|Blood Sugar Test|| Rs. 50.00 
+4|Blood Sugar Test|| Rs. 100.00  (F + PP) 
+5|Blood Urea Nitrogen Test|| Rs. 100.00 
+6|Kidney Function Test|| Rs. 500.00 
+7|Lipid Profile|| Rs. 500.00 
+8|Liver Function Test|| Rs. 500.00 
+9|Renal Profile|| Rs. 500.00 
+10|Thyroid Test|| Rs. 700.00 
+11|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+12|Urine Routine|| Rs. 50.00 

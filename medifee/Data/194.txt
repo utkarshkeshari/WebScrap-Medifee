@@ -1,0 +1,37 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 80.00 
+1|Albumin Test|| Rs. 100.00 
+2|Alkaline Phosphatase (ALP) Test|| Rs. 50.00 
+3|Amylase Test|| Rs. 100.00 
+4|ANA (Antinuclear Antibody) Test|| Rs. 600.00 
+5|Anti TPO Test|| Rs. 900.00 
+6|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+7|ASO Test|| Rs. 250.00 (Qualitative) 
+8|ASO Test|| Rs. 400.00 (Quatitative) 
+9|Beta HCG Test|| Rs. 600.00 
+10|Bilirubin Test|| Rs. 100.00 
+11|Bleeding / Clotting Time Test|| Rs. 120.00 
+12|Blood Culture Test|| Rs. 650.00 
+13|Blood Group Test|| Rs. 120.00 
+14|Blood Sugar Test|| Rs. 80.00 
+15|Blood Urea Nitrogen Test|| Rs. 100.00 
+16|CA 15.3 Test|| Rs. 900.00 
+17|CA 19.9 Test|| Rs. 900.00 
+18|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+19|Calcium Test|| Rs. 100.00 
+20|CBC / Hemogram Test|| Rs. 200.00 
+21|CD4 Test|| Rs. 1400.00 
+22|CEA (Carcinoembryonic Antigen) Test|| Rs. 700.00 
+23|Chloride Test|| Rs. 120.00 
+24|Cholesterol Test|| Rs. 120.00 
+25|CK-MB Test|| Rs. 400.00 
+26|Cortisol Test|| Rs. 500.00 
+27|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+28|Creatinine Test|| Rs. 100.00 
+29|CRP (C-Reactive Protein) Test|| Rs. 250.00 (Quantative) 
+30|CRP (C-Reactive Protein) Test|| Rs. 200.00 (Qualatative) 
+31|Dengue IgG Test|| Rs. 600.00 
+32|Dengue IgM Test|| Rs. 600.00 
+33|DHEA Test|| Rs. 750.00 
+34|Insulin Test|| Rs. 650.00 
+35|PT (Prothrombin Time) Test|| Rs. 250.00 

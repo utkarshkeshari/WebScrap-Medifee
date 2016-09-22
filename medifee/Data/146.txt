@@ -1,0 +1,14 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 3500.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+2|AFP (Alpha Feto Protein) Test|| Rs. 1150.00 
+3|Albumin Test|| Rs. 180.00 
+4|Deposit Required (For Admission)|| Rs. 10000.00 (Semi Private ward) 
+5|Deposit Required (For Admission)|| Rs. 15000.00 (Private Ward) 
+6|Hernia Surgery|| Rs. 48000.00 (Umbilical Hernia - Open Surgery - Semi Private ward ) 
+7|Hernia Surgery|| Rs. 90000.00 (Umbilical Hernia - Laparoscopic Surgery - Semi Private ward ) 
+8|OPD Consultation Fee|| Rs. 600.00 (Surgeon) 
+9|Private Ward|| Rs. 6000.00 
+10|Private Ward|| Rs. 7000.00 (Deluxe Room) 
+11|Protein/Creatinine Ratio|| Rs. 500.00 
+12|Semi Private Ward|| Rs. 3500.00 

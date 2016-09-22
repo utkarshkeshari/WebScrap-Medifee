@@ -1,0 +1,47 @@
+|Name|Offer|Price
+0|Alkaline Phosphatase (ALP) Test|| Rs. 100.00 
+1|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+2|Bilirubin Test|| Rs. 100.00 
+3|Bleeding / Clotting Time Test|| Rs. 200.00 
+4|Blood Group Test|| Rs. 100.00 
+5|Blood Sugar Test|| Rs. 60.00 
+6|Blood Urea Nitrogen Test|| Rs. 100.00 
+7|Calcium Test|| Rs. 150.00 
+8|CBC / Hemogram Test|| Rs. 350.00 
+9|Cholesterol Test|| Rs. 100.00 
+10|Creatinine Test|| Rs. 100.00 
+11|ECG|| Rs. 350.00 
+12|Electrolytes Test|| Rs. 350.00 
+13|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 50.00 
+14|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+15|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+16|HBsAg Test|| Rs. 350.00 
+17|Hemoglobin (Hb) Test|| Rs. 100.00 
+18|HIV Test|| Rs. 400.00 
+19|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+20|Lipase Test|| Rs. 200.00 
+21|Lipid Profile|| Rs. 650.00 
+22|Liver Function Test|| Rs. 700.00 
+23|Malaria (Malarial Parasite) Test|| Rs. 150.00 
+24|Platelet Count|| Rs. 100.00 
+25|Potassium Test|| Rs. 100.00 
+26|Pregnancy Test|| Rs. 100.00 
+27|Prolactin Test|| Rs. 400.00 
+28|Protein Test|| Rs. 100.00 
+29|PSA (Prostate Specific Antigen) Test|| Rs. 800.00 
+30|PT (Prothrombin Time) Test|| Rs. 350.00 
+31|PTH (Parathyroid Hormone) Test|| Rs. 800.00 
+32|Rheumatoid Arthritis (RA) Factor Test|| Rs. 350.00 
+33|SGOT Test|| Rs. 100.00 
+34|SGPT Test|| Rs. 100.00 
+35|Sodium Test|| Rs. 100.00 
+36|Stool Routine|| Rs. 100.00 
+37|Thyroid Test|| Rs. 650.00 
+38|Total Protein Test|| Rs. 100.00 
+39|Troponin-I Test|| Rs. 1000.00 
+40|Urea Test|| Rs. 100.00 
+41|Uric Acid Test|| Rs. 100.00 
+42|Urine Routine|| Rs. 80.00 
+43|VDRL Test|| Rs. 100.00 
+44|Vitamin B12 Test|| Rs. 1400.00 
+45|Widal Test|| Rs. 100.00 

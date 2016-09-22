@@ -1,0 +1,52 @@
+|Name|Offer|Price
+0|AFP (Alpha Feto Protein) Test|| Rs. 500.00 
+1|Albumin Test|| Rs. 70.00 
+2|Alkaline Phosphatase (ALP) Test|| Rs. 120.00 
+3|ANA (Antinuclear Antibody) Test|| Rs. 600.00 
+4|ANC Profile|| Rs. 1650.00 
+5|Anti TPO Test|| Rs. 850.00 
+6|Beta HCG Test|| Rs. 550.00 
+7|Bicarbonate Test|| Rs. 760.00 
+8|Bilirubin Test|| Rs. 200.00 
+9|Blood Culture Test|| Rs. 400.00 
+10|Blood Group Test|| Rs. 100.00 
+11|Blood Sugar Test|| Rs. 130.00 
+12|CA 15.3 Test|| Rs. 1240.00 
+13|CA 19.9 Test|| Rs. 1240.00 
+14|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+15|CBC / Hemogram Test|| Rs. 400.00 
+16|CD4 Test|| Rs. 2000.00 
+17|Dengue IgG Test|| Rs. 900.00 
+18|Dengue IgM Test|| Rs. 900.00 
+19|Electrolytes Test|| Rs. 360.00 
+20|Folic Acid Test|| Rs. 800.00 
+21|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+22|G6PD Test|| Rs. 650.00 
+23|Gamma GT (GGTP) Test|| Rs. 180.00 
+24|Insulin Test|| Rs. 700.00 
+25|Kidney Function Test|| Rs. 600.00 
+26|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+27|Liver Function Test|| Rs. 600.00 
+28|PAP Smear|| Rs. 400.00 
+29|PAP Smear|| Rs. 450.00 
+30|Pregnancy Test|| Rs. 100.00 
+31|Protein/Creatinine Ratio|| Rs. 450.00 
+32|PTH (Parathyroid Hormone) Test|| Rs. 1400.00 
+33|PTH (Parathyroid Hormone) Test|| Rs. 1400.00 
+34|Renal Profile|| Rs. 600.00 
+35|Sonography|| Rs. 1300.00 (Whole Abdomen) 
+36|Sonography|| Rs. 2200.00 (Pregnancy Anomaly) 
+37|Sputum Routine Test|| Rs. 200.00 
+38|Stool Routine|| Rs. 80.00 
+39|T3 (Triiodothyronine) Test|| Rs. 300.00 
+40|T4 (Thyroxine) Test|| Rs. 300.00 
+41|Thyroid Test|| Rs. 760.00 
+42|Triglycerides Test|| Rs. 250.00 
+43|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+44|Uric Acid Test|| Rs. 120.00 
+45|Urine Routine|| Rs. 120.00 
+46|VDRL Test|| Rs. 100.00 
+47|Vitamin B12 Test|| Rs. 1000.00 
+48|Vitamin D Test|| Rs. 1500.00 
+49|Widal Test|| Rs. 150.00 
+50|X-Ray|| Rs. 300.00 

@@ -1,0 +1,60 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 3200.00 
+1|Amylase Test|| Rs. 550.00 
+2|ANCA Profile|| Rs. 2200.00 (IFA) 
+3|ANCA Profile|| Rs. 4950.00 (Both) 
+4|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 675.00 
+5|Beta HCG Test|| Rs. 1390.00 
+6|Blood Culture Test|| Rs. 1500.00 
+7|Blood Group Test|| Rs. 60.00 
+8|Blood Sugar Test|| Rs. 110.00 
+9|Blood Urea Nitrogen Test|| Rs. 150.00 
+10|CBC / Hemogram Test|| Rs. 500.00 
+11|CD4 Test|| Rs. 2200.00 
+12|Color Doppler|| Rs. 3000.00 
+13|Creatinine Clearance Test|| Rs. 130.00 
+14|CT Scan|| Rs. 3500.00 (Brain Plain) 
+15|CT Scan|| Rs. 3200.00 (Brain Contras) 
+16|CT Scan|| Rs. 6700.00 (Brain Plain with Contras) 
+17|Dengue IgG Test|| Rs. 600.00 
+18|Dengue IgM Test|| Rs. 600.00 
+19|ECG|| Rs. 250.00 
+20|Electrolytes Test|| Rs. 500.00 
+21|HbA1C Test|| Rs. 850.00 
+22|HBsAg Test|| Rs. 800.00 
+23|HCV Antibody Test|| Rs. 900.00 
+24|Hemoglobin (Hb) Test|| Rs. 150.00 
+25|HIV Test|| Rs. 600.00 
+26|Insulin Test|| Rs. 1600.00 
+27|Iron Test|| Rs. 550.00 
+28|Kidney Function Test|| Rs. 1000.00 
+29|Lipase Test|| Rs. 800.00 
+30|Lipid Profile|| Rs. 900.00 
+31|Liver Function Test|| Rs. 1100.00 
+32|Mammography|| Rs. 1000.00 (Single Breast) 
+33|Mammography|| Rs. 1955.00 (Both Breast) 
+34|MRI Scan|| Rs. 7500.00 (Brain Plain) 
+35|MRI Scan|| Rs. 4000.00 (Brain Contras) 
+36|MRI Scan|| Rs. 11500.00 (Brain Plain with Contras) 
+37|PAP Smear|| Rs. 2500.00 
+38|Phosphorus Test|| Rs. 160.00 
+39|PT (Prothrombin Time) Test|| Rs. 550.00 
+40|Renal Profile|| Rs. 1000.00 
+41|Rheumatoid Arthritis (RA) Factor Test|| Rs. 410.00 
+42|SGOT Test|| Rs. 250.00 
+43|SGPT Test|| Rs. 250.00 
+44|Sickling Test|| Rs. 300.00 
+45|Stress Test|| Rs. 3600.00 
+46|Thyroglobulin Test|| Rs. 2200.00 
+47|Thyroid Test|| Rs. 1000.00 
+48|Troponin-I Test|| Rs. 1520.00 
+49|Troponin-I Test|| Rs. 2750.00 (Quantitative) 
+50|Uric Acid Test|| Rs. 100.00 
+51|Urine Routine|| Rs. 100.00 
+52|VDRL Test|| Rs. 500.00 
+53|Vitamin A Test|| Rs. 5000.00 
+54|Vitamin B12 Test|| Rs. 1200.00 
+55|Vitamin C Test|| Rs. 1510.00 
+56|Vitamin D Test|| Rs. 1900.00 
+57|Widal Test|| Rs. 500.00 
+58|X-Ray|| Rs. 350.00 (Chest) 

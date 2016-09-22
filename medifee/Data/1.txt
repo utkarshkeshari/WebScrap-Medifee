@@ -1,0 +1,121 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1350.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+2|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+3|AFP (Alpha Feto Protein) Test|| Rs. 650.00 
+4|Alkaline Phosphatase (ALP) Test|| Rs. 140.00 
+5|Alkaline Phosphatase (ALP) Test|| Rs. 140.00 
+6|ANC Profile|| Rs. 130.00 
+7|ANCA Profile|| Rs. 1250.00 
+8|Bilirubin Test|| Rs. 200.00 
+9|Bleeding / Clotting Time Test|| Rs. 100.00 (Only Bleeding or Clotting) 
+10|Blood Culture Test|| Rs. 600.00 (Fungal) 
+11|Blood Group Test|| Rs. 120.00 
+12|Blood Sugar Test|| Rs. 80.00 
+13|Blood Sugar Test|| Rs. 150.00 (Fasting and PP) 
+14|Blood Urea Nitrogen Test|| Rs. 120.00 
+15|CA 15.3 Test|| Rs. 1000.00 
+16|CA 19.9 Test|| Rs. 1000.00 
+17|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+18|Calcium Test|| Rs. 400.00 (Ionic) 
+19|Calcium Test|| Rs. 120.00 
+20|CBC / Hemogram Test|| Rs. 300.00 
+21|CBC / Hemogram Test|| Rs. 400.00 (With PS) 
+22|CBC / Hemogram Test|| Rs. 300.00 
+23|CD4 Test|| Rs. 1500.00 (with CD3) 
+24|CD4 Test|| Rs. 2000.00 (CD8 + CD3) 
+25|CEA (Carcinoembryonic Antigen) Test|| Rs. 600.00 
+26|Chloride Test|| Rs. 200.00 
+27|Cholesterol Test|| Rs. 120.00 
+28|CK-MB Test|| Rs. 500.00 
+29|Color Doppler|| Rs. 2200.00 (Carotid / One Limb) 
+30|Color Doppler|| Rs. 4000.00 (One Limb / Both Limb / Penile) 
+31|Color Doppler|| Rs. 6000.00 (Both Limb) 
+32|Color Doppler|| Rs. 8000.00 (All Four Limb) 
+33|Color Doppler|| Rs. 2500.00 (Renal) 
+34|Color Doppler|| Rs. 2000.00 (Obstetric / Scrotum / Abdominal / Gyne.) 
+35|Coombs Test|| Rs. 300.00 (Direct) 
+36|Coombs Test|| Rs. 400.00 (Indirect) 
+37|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+38|Creatinine Test|| Rs. 120.00 
+39|D Dimer Test|| Rs. 900.00 
+40|Double Marker Test|| Rs. 2400.00 
+41|ECG|| Rs. 300.00 (Long Lead) 
+42|ECG|| Rs. 600.00 (At Home) 
+43|ECG|| Rs. 700.00 (At Home with Long Lead) 
+44|ECG|| Rs. 200.00 
+45|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+46|Ferritin Test|| Rs. 300.00 
+47|Ferritin Test|| Rs. 600.00 (Serum) 
+48|Folic Acid Test|| Rs. 800.00 
+49|G6PD Test|| Rs. 600.00 (Quantitative) 
+50|G6PD Test|| Rs. 300.00 
+51|Gamma GT (GGTP) Test|| Rs. 250.00 
+52|Glucose Tolerance Test (GTT)|| Rs. 350.00 
+53|HbA1C Test|| Rs. 450.00 
+54|HDL Cholesterol|| Rs. 200.00 
+55|Hemoglobin (Hb) Test|| Rs. 100.00 
+56|Hemoglobin (Hb) Test|| Rs. 750.00 (Electrophoresis) 
+57|HLA B27 Test|| Rs. 2700.00 
+58|Homocysteine Test|| Rs. 800.00 
+59|Insulin Test|| Rs. 600.00 (Fasting or PP) 
+60|Iron Test|| Rs. 300.00 (Serum) 
+61|Iron Test|| Rs. 350.00 (TIBC) 
+62|Kidney Profile|| Rs. 800.00 
+63|L. E. Cells Test|| Rs. 400.00 
+64|LDH (Lactate Dehydrogenase) Test|| Rs. 400.00 
+65|LDL Cholesterol|| Rs. 350.00 
+66|Lipase Test|| Rs. 500.00 
+67|Lipid Profile|| Rs. 800.00 
+68|Lipid Profile|| Rs. 1800.00 (Extended) 
+69|Lipoprotein A / LP(a) Test|| Rs. 850.00 
+70|Lipoprotein A / LP(a) Test|| Rs. 1050.00 (A1 + B) 
+71|Magnesium Test|| Rs. 400.00 
+72|Malaria (Malarial Parasite) Test|| Rs. 150.00 
+73|Mammography|| Rs. 1500.00 (Single Breast) 
+74|Mammography|| Rs. 2200.00 (Both Breasts) 
+75|Microalbumin Test|| Rs. 400.00 
+76|Microfilaria Parasite Test|| Rs. 400.00 
+77|NT Scan|| Rs. 1500.00 
+78|PAP Smear|| Rs. 150.00 
+79|Phosphorus Test|| Rs. 120.00 
+80|Platelet Count|| Rs. 150.00 
+81|Pleural Fluid Analysis|| Rs. 600.00 
+82|Potassium Test|| Rs. 200.00 
+83|Pregnancy Test|| Rs. 100.00 
+84|Protein Test|| Rs. 150.00 (Serum) 
+85|Protein Test|| Rs. 200.00 (Bence Jones) 
+86|Protein Test|| Rs. 750.00 (Electrophoresis) 
+87|Protein/Creatinine Ratio|| Rs. 450.00 
+88|PSA (Prostate Specific Antigen) Test|| Rs. 650.00 (Total) 
+89|PSA (Prostate Specific Antigen) Test|| Rs. 800.00 (Free) 
+90|PT (Prothrombin Time) Test|| Rs. 350.00 (Kaolin) 
+91|PT (Prothrombin Time) Test|| Rs. 250.00 (with INR) 
+92|Reticulocyte Count Test|| Rs. 150.00 
+93|Semen Analysis Test|| Rs. 300.00 
+94|SGOT Test|| Rs. 140.00 
+95|SGPT Test|| Rs. 140.00 
+96|Sodium Test|| Rs. 200.00 
+97|Stool Routine|| Rs. 80.00 
+98|Stress Test|| Rs. 2000.00 
+99|Thyroglobulin Test|| Rs. 1460.00 
+100|TORCH Test|| Rs. 1200.00 (IgG / IgM) 
+101|Transferrin Test|| Rs. 830.00 
+102|Transferrin Test|| Rs. 600.00 (With Saturation) 
+103|Transferrin Test|| Rs. 830.00 
+104|Triglycerides Test|| Rs. 200.00 
+105|Triple Marker Test|| Rs. 2250.00 
+106|Troponin-I Test|| Rs. 1000.00 
+107|Urea Test|| Rs. 120.00 
+108|Uric Acid Test|| Rs. 120.00 
+109|Urine Routine|| Rs. 80.00 
+110|VLDL Test|| Rs. 150.00 
+111|X-Ray|| Rs. 350.00 (Chest / Abdomen/ Per Exposure) 
+112|X-Ray|| Rs. 2200.00 (Sinogram) 
+113|X-Ray|| Rs. 700.00 (KUB two Film) 
+114|X-Ray|| Rs. 2000.00 (Barium Meal Swallow) 
+115|X-Ray|| Rs. 80.00 (Dental) 
+116|X-Ray|| Rs. 3500.00 (Barium Enema) 
+117|X-Ray|| Rs. 400.00 (OPG / TM Joint / Lateral Cephalogram) 
+118|X-Ray|| Rs. 3000.00 (IVP / Fistulogram / RUG / MCU) 
+119|X-Ray|| Rs. 2500.00 (HSG) 

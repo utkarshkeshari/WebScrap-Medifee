@@ -1,0 +1,61 @@
+|Name|Offer|Price
+0|Alkaline Phosphatase (ALP) Test|| Rs. 100.00 
+1|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+2|Beta HCG Test|| Rs. 500.00 
+3|Beta HCG Test|| Rs. 800.00 
+4|Bilirubin Test|| Rs. 150.00 
+5|Bilirubin Test|| Rs. 150.00 
+6|Bleeding / Clotting Time Test|| Rs. 100.00 
+7|Blood Culture Test|| Rs. 250.00 
+8|Blood Culture Test|| Rs. 350.00 
+9|Blood Group Test|| Rs. 50.00 
+10|Blood Sugar Test|| Rs. 50.00 
+11|Blood Sugar Test|| Rs. 100.00 (F + PP) 
+12|Blood Urea Nitrogen Test|| Rs. 100.00 
+13|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+14|CBC / Hemogram Test|| Rs. 300.00 
+15|Cholesterol Test|| Rs. 200.00 
+16|Creatinine Clearance Test|| Rs. 100.00 
+17|Creatinine Test|| Rs. 100.00 
+18|Dengue IgG Test|| Rs. 600.00 
+19|Dengue IgM Test|| Rs. 600.00 
+20|Electrolytes Test|| Rs. 300.00 
+21|Electrolytes Test|| Rs. 300.00 
+22|Ferritin Test|| Rs. 1000.00 
+23|Folic Acid Test|| Rs. 1000.00 
+24|Folic Acid Test|| Rs. 1000.00 
+25|G6PD Test|| Rs. 700.00 
+26|Gamma GT (GGTP) Test|| Rs. 200.00 
+27|HbA1C Test|| Rs. 450.00 
+28|HBsAg Test|| Rs. 200.00 
+29|HDL Cholesterol|| Rs. 200.00 
+30|Hemoglobin (Hb) Test|| Rs. 50.00 
+31|HIV Test|| Rs. 350.00 
+32|Insulin Test|| Rs. 600.00 
+33|Iron Test|| Rs. 150.00 
+34|Kidney Function Test|| Rs. 550.00 
+35|LDL Cholesterol|| Rs. 250.00 
+36|Lipase Test|| Rs. 550.00 
+37|Lipid Profile|| Rs. 450.00 
+38|Liver Function Test|| Rs. 500.00 
+39|Magnesium Test|| Rs. 300.00 
+40|PAP Smear|| Rs. 350.00 
+41|Phosphorus Test|| Rs. 100.00 
+42|Renal Profile|| Rs. 550.00 
+43|Semen Analysis Test|| Rs. 150.00 
+44|SGOT Test|| Rs. 100.00 
+45|SGPT Test|| Rs. 100.00 
+46|Sputum Routine Test|| Rs. 350.00 
+47|Stool Routine|| Rs. 100.00 
+48|Testosterone Test|| Rs. 600.00 
+49|Thyroglobulin Test|| Rs. 1000.00 
+50|Thyroid Test|| Rs. 450.00 
+51|Total Protein Test|| Rs. 150.00 
+52|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+53|Urea Test|| Rs. 100.00 
+54|Uric Acid Test|| Rs. 100.00 
+55|Urine Routine|| Rs. 50.00 
+56|VDRL Test|| Rs. 300.00 
+57|Vitamin B12 Test|| Rs. 1000.00 
+58|Vitamin D Test|| Rs. 1250.00 
+59|Widal Test|| Rs. 80.00 

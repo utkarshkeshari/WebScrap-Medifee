@@ -1,0 +1,13 @@
+|Name|Offer|Price
+0|Bleeding / Clotting Time Test|| Rs. 180.00 
+1|Creatinine Test|| Rs. 120.00 
+2|Dengue IgG Test|| Rs. 600.00 
+3|Dengue IgM Test|| Rs. 600.00 
+4|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 150.00 
+5|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+6|HBsAg Test|| Rs. 300.00 
+7|Hemoglobin (Hb) Test|| Rs. 60.00 
+8|Sonography|| Rs. 800.00 
+9|Urea Test|| Rs. 120.00 
+10|Uric Acid Test|| Rs. 120.00 
+11|Widal Test|| Rs. 250.00 

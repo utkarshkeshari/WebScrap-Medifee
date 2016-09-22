@@ -1,0 +1,11 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 150.00 
+1|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+2|Ammonia Test|| Rs. 900.00 
+3|Amylase Test|| Rs. 300.00 
+4|ANA (Antinuclear Antibody) Test|| Rs. 800.00 
+5|Basic Health Check Up|| Rs. 1499.00  (CBC+ESR,BSF,LIPID PROFILE,LFT,KFT,THYROID(TSH) & URINE R/E.) 
+6|Beta HCG Test|| Rs. 600.00 
+7|Executive Health Checkup|| Rs. 5900.00  (CBC+ESR,BSF,LIPID PROFILE,LFT,KFT,THYROID(TSH) VITAMIN B12,VITAMIN D3,HbA1c & URINE R/E.) 
+8|OPD Consultation Fee|| Rs. 500.00  (Thyroid Consultation) 
+9|OPD Consultation Fee|| Rs. 300.00  (General Physician ) 

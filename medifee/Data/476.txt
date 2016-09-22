@@ -1,0 +1,60 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 1800.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 550.00 
+2|ANA (Antinuclear Antibody) Test|| Rs. 500.00 
+3|Anti TPO Test|| Rs. 900.00 
+4|Antithyroglobulin Antibody Test|| Rs. 900.00 
+5|Bleeding / Clotting Time Test|| Rs. 200.00 
+6|Blood Culture Test|| Rs. 850.00 
+7|Blood Group Test|| Rs. 100.00 
+8|Blood Sugar Test|| Rs. 60.00 
+9|CA 15.3 Test|| Rs. 1100.00 
+10|CA 19.9 Test|| Rs. 1050.00 
+11|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+12|Calcium Test|| Rs. 100.00 
+13|CBC / Hemogram Test|| Rs. 330.00 
+14|CD4 Test|| Rs. 1500.00 
+15|CEA (Carcinoembryonic Antigen) Test|| Rs. 700.00 
+16|Chloride Test|| Rs. 100.00 
+17|Cholesterol Test|| Rs. 120.00 
+18|CK-MB Test|| Rs. 350.00 
+19|Color Doppler|| Rs. 250.00 (Renal) 
+20|Coombs Test|| Rs. 300.00 (Direct) 
+21|Coombs Test|| Rs. 350.00 (Indirect) 
+22|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+23|Creatinine Test|| Rs. 100.00 
+24|CRP (C-Reactive Protein) Test|| Rs. 350.00 
+25|ECG|| Rs. 150.00 
+26|Ferritin Test|| Rs. 500.00 
+27|Folic Acid Test|| Rs. 500.00 
+28|Folic Acid Test|| Rs. 700.00 
+29|Glucose Tolerance Test (GTT)|| Rs. 250.00 
+30|Hemoglobin (Hb) Test|| Rs. 80.00 
+31|HIV Test|| Rs. 350.00 
+32|Iron Test|| Rs. 1000.00 (Profile) 
+33|Lipid Profile|| Rs. 750.00 
+34|Platelet Count|| Rs. 80.00 
+35|Potassium Test|| Rs. 100.00 
+36|Rheumatoid Arthritis (RA) Factor Test|| Rs. 300.00 
+37|SGOT Test|| Rs. 120.00 
+38|SGPT Test|| Rs. 120.00 
+39|Sodium Test|| Rs. 100.00 
+40|Sonography|| Rs. 900.00 (Regular) 
+41|Sonography|| Rs. 1000.00 (Whole Abdomen) 
+42|Sonography|| Rs. 800.00 (Upper / Lower Abdomen) 
+43|Sputum Routine Test|| Rs. 100.00 
+44|Stool Routine|| Rs. 100.00 
+45|T3 (Triiodothyronine) Test|| Rs. 250.00 
+46|T4 (Thyroxine) Test|| Rs. 250.00 
+47|Thyroid Test|| Rs. 700.00 
+48|Transferrin Test|| Rs. 800.00 
+49|Troponin-I Test|| Rs. 1200.00 
+50|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+51|Uric Acid Test|| Rs. 100.00 
+52|Urine Routine|| Rs. 100.00 
+53|Urine Routine|| Rs. 400.00 (Culture) 
+54|VDRL Test|| Rs. 200.00 
+55|Vitamin B12 Test|| Rs. 800.00 
+56|Vitamin D Test|| Rs. 1400.00 
+57|Widal Test|| Rs. 200.00 
+58|X-Ray|| Rs. 300.00 (Chest) 

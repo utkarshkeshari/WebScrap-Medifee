@@ -1,0 +1,30 @@
+|Name|Offer|Price
+0|Amylase Test|| Rs. 500.00 
+1|ANC Profile|| Rs. 2000.00 
+2|Beta HCG Test|| Rs. 600.00 
+3|Bleeding / Clotting Time Test|| Rs. 100.00 
+4|Blood Culture Test|| Rs. 500.00 
+5|Blood Group Test|| Rs. 70.00 
+6|Blood Sugar Test|| Rs. 40.00 
+7|Blood Urea Nitrogen Test|| Rs. 155.00 
+8|CA-125 (Tumor Marker) Test|| Rs. 800.00 
+9|CBC / Hemogram Test|| Rs. 400.00 
+10|CD4 Test|| Rs. 1000.00 
+11|Coombs Test|| Rs. 350.00 
+12|Cortisol Test|| Rs. 400.00 
+13|CPK (Creatine Phosphokinase) Test|| Rs. 500.00 
+14|Dengue IgG Test|| Rs. 800.00 
+15|Dengue IgM Test|| Rs. 800.00 
+16|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+17|HCV Antibody Test|| Rs. 800.00 
+18|Iron Test|| Rs. 600.00 
+19|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+20|Lipase Test|| Rs. 500.00 
+21|Prolactin Test|| Rs. 500.00 
+22|Sonography|| Rs. 500.00 (Whole Abdomen) 
+23|Sonography|| Rs. 1000.00 ( Pregnancy Anomaly) 
+24|Thyroid Test|| Rs. 550.00 
+25|VDRL Test|| Rs. 200.00 
+26|Vitamin B12 Test|| Rs. 600.00 
+27|Vitamin D Test|| Rs. 1500.00 
+28|Widal Test|| Rs. 100.00 

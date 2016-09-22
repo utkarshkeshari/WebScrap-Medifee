@@ -1,0 +1,40 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+1|Albumin Test|| Rs. 150.00 
+2|Aldolase Test|| Rs. 200.00 
+3|ANA (Antinuclear Antibody) Test|| Rs. 800.00 
+4|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 400.00 
+5|Arterial Blood Gas (ABG)|| Rs. 200.00 
+6|ASO Test|| Rs. 400.00 
+7|Beta HCG Test|| Rs. 600.00 
+8|Bilirubin Test|| Rs. 150.00 
+9|Blood Culture Test|| Rs. 600.00 
+10|Blood Sugar Test|| Rs. 60.00 
+11|Blood Urea Nitrogen Test|| Rs. 100.00 
+12|CA 15.3 Test|| Rs. 1200.00 
+13|CA 19.9 Test|| Rs. 1500.00 
+14|CA-125 (Tumor Marker) Test|| Rs. 950.00 
+15|CEA (Carcinoembryonic Antigen) Test|| Rs. 800.00 
+16|Cerebral Spinal Fluid (CSF) Test|| Rs. 400.00 
+17|CRP (C-Reactive Protein) Test|| Rs. 600.00 
+18|Dengue NS1 Test|| Rs. 1500.00 
+19|ECG|| Rs. 200.00 
+20|Electrolytes Test|| Rs. 450.00 
+21|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+22|Globulin / AG Ratio|| Rs. 150.00 
+23|Gram Stain Test|| Rs. 300.00 
+24|Hemoglobin Electrophoresis|| Rs. 800.00 
+25|HIV Test|| Rs. 400.00 
+26|Kidney Function Test|| Rs. 550.00 
+27|Lipid Profile|| Rs. 650.00 
+28|Liver Function Test|| Rs. 550.00 
+29|PAP Smear|| Rs. 500.00 
+30|Peripheral Blood Smear Test|| Rs. 200.00 
+31|Plasma Lactate (Latic Acid) Test|| Rs. 600.00 
+32|PT (Prothrombin Time) Test|| Rs. 350.00 
+33|Renal Profile|| Rs. 550.00 
+34|TB Test|| Rs. 2800.00 
+35|Thyroid Test|| Rs. 600.00 
+36|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+37|Vitamin B12 Test|| Rs. 800.00 
+38|Vitamin D Test|| Rs. 1500.00 

@@ -1,0 +1,15 @@
+|Name|Offer|Price
+0|Anti Phospholipid (APL) Test|| Rs. 800.00 (IgM) 
+1|Anti Phospholipid (APL) Test|| Rs. 1500.00 (IgG) 
+2|Anti-Mullerian Hormone (AMH)|| Rs. 1800.00 
+3|Carbamazepine (Tegretol) Test|| Rs. 800.00 
+4|Cardiolipin Antibodies (ACL)|| Rs. 740.00 (IgG) 
+5|Cardiolipin Antibodies (ACL)|| Rs. 1120.00 (IgM) 
+6|Cardiolipin Antibodies (ACL)|| Rs. 1120.00 (IgM) 
+7|Chlamydia Test|| Rs. 1800.00 (IgG) 
+8|Chlamydia Test|| Rs. 1800.00 (IgM) 
+9|Cryptococcal Antigen Test|| Rs. 1900.00 
+10|Cytomegalovirus (CMV) Test|| Rs. 550.00 (IgG) 
+11|Cytomegalovirus (CMV) Test|| Rs. 550.00 (IgM) 
+12|Mantoux Test|| Rs. 150.00 
+13|Peripheral Blood Smear Test|| Rs. 350.00 

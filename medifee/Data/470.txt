@@ -1,0 +1,6 @@
+|Name|Offer|Price
+0|Renal Profile|| Rs. 500.00 
+1|T3 (Triiodothyronine) Test|| Rs. 200.00 
+2|T4 (Thyroxine) Test|| Rs. 200.00 
+3|Testosterone Test|| Rs. 500.00 
+4|Thyroid Checkup|| Rs. 500.00 

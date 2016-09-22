@@ -1,0 +1,4 @@
+|Name|Offer|Price
+0|Thyroid Test|| Rs. 500.00 
+1|Thyroid Test|| Rs. 500.00 (500) 
+2|Vitamin B12 Test|| Rs. 1200.00 (1200) 

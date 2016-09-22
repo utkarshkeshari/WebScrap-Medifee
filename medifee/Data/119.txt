@@ -1,0 +1,98 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|AFB Culture|| Rs. 400.00 
+2|Alberts Stain|| Rs. 240.00 
+3|Aldolase Test|| Rs. 570.00 
+4|Amylase Test|| Rs. 800.00 
+5|ANC Profile|| Rs. 1200.00 
+6|Beta HCG Test|| Rs. 750.00 
+7|Bilirubin Test|| Rs. 300.00 
+8|Biopsy|| Rs. 1200.00 (BIG) 
+9|Blood Culture Test|| Rs. 500.00 
+10|Blood Urea Nitrogen Test|| Rs. 120.00 
+11|CA 15.3 Test|| Rs. 1225.00 
+12|CA-125 (Tumor Marker) Test|| Rs. 1100.00 
+13|CBC / Hemogram Test|| Rs. 355.00 
+14|Cerebral Spinal Fluid (CSF) Test|| Rs. 750.00 
+15|Cholesterol Test|| Rs. 130.00 
+16|Color Doppler|| Rs. 2000.00 
+17|Complement C3|| Rs. 550.00 
+18|Complement C4|| Rs. 550.00 
+19|Creatinine Clearance Test|| Rs. 120.00 
+20|Creatinine Test|| Rs. 120.00 
+21|Cryptococcal Antigen Test|| Rs. 1500.00 
+22|CT Scan|| Rs. 3100.00 (Brain Contras) 
+23|CT Scan|| Rs. 2300.00 (Brain Plain) 
+24|CT Scan|| Rs. 7500.00 (Whole Abdomen) 
+25|CT Scan|| Rs. 3100.00 (Brain Contras) 
+26|CT Scan|| Rs. 2300.00 (Brain Plain) 
+27|Dengue IgG Test|| Rs. 600.00 
+28|Dengue IgM Test|| Rs. 600.00 
+29|ECG|| Rs. 300.00 
+30|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+31|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+32|Fungal Culture Test|| Rs. 700.00 
+33|Globulin / AG Ratio|| Rs. 200.00 
+34|Gram Stain Test|| Rs. 240.00 
+35|HbA1C Test|| Rs. 450.00 
+36|HBsAg Test|| Rs. 550.00 
+37|HCV Antibody Test|| Rs. 1250.00 
+38|Hemoglobin (Hb) Test|| Rs. 100.00 
+39|Hemoglobin Electrophoresis|| Rs. 820.00 
+40|HIV Test|| Rs. 600.00 
+41|Iron Test|| Rs. 625.00 
+42|Kidney Function Test|| Rs. 600.00 
+43|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+44|Lipase Test|| Rs. 500.00 
+45|Liver Function Test|| Rs. 600.00 
+46|MRI Scan|| Rs. 10000.00 (Brain Contras) 
+47|MRI Scan|| Rs. 7000.00 (Brain Plain) 
+48|MRI Scan|| Rs. 10500.00 (Brain Plain with Contast) 
+49|MRI Scan|| Rs. 7000.00 (Brain Plain) 
+50|MRI Scan|| Rs. 7000.00 (Pelvis) 
+51|MRI Scan|| Rs. 7000.00 (Whole Spine) 
+52|Plasma Lactate (Latic Acid) Test|| Rs. 700.00 
+53|Potassium Test|| Rs. 150.00 
+54|Pregnancy Test|| Rs. 120.00 
+55|Progesterone Test|| Rs. 600.00 
+56|Prolactin Test|| Rs. 400.00 
+57|Protein/Creatinine Ratio|| Rs. 250.00 
+58|PT (Prothrombin Time) Test|| Rs. 350.00 
+59|PTH (Parathyroid Hormone) Test|| Rs. 1400.00 
+60|Renal Profile|| Rs. 800.00 
+61|Reticulocyte Count Test|| Rs. 200.00 
+62|Rheumatoid Arthritis (RA) Factor Test|| Rs. 450.00 
+63|Rubella Test|| Rs. 550.00 (IgG) 
+64|Rubella Test|| Rs. 550.00 (IgM) 
+65|Semen Analysis Test|| Rs. 300.00 
+66|SGOT Test|| Rs. 120.00 
+67|SGOT Test|| Rs. 150.00 
+68|SGPT Test|| Rs. 120.00 
+69|SGPT Test|| Rs. 150.00 
+70|Sodium Test|| Rs. 150.00 
+71|Sonography|| Rs. 1500.00 (Whole Abdomen) 
+72|Sonography|| Rs. 1000.00 (Upper/Lower Abdomen) 
+73|Sputum Routine Test|| Rs. 240.00 
+74|Stool Culture|| Rs. 450.00 
+75|Stool Routine|| Rs. 100.00 
+76|T3 (Triiodothyronine) Test|| Rs. 300.00 
+77|T4 (Thyroxine) Test|| Rs. 300.00 
+78|Thyroid Test|| Rs. 600.00 
+79|Total Protein Test|| Rs. 250.00 
+80|Toxoplasma Test|| Rs. 550.00 (IgG) 
+81|Toxoplasma Test|| Rs. 550.00 (IgM) 
+82|Triglycerides Test|| Rs. 250.00 
+83|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+84|Typhidot Test|| Rs. 350.00 (IgG) 
+85|Typhidot Test|| Rs. 350.00 (IgM) 
+86|Urea Test|| Rs. 120.00 
+87|Urea Test|| Rs. 140.00 
+88|Uric Acid Test|| Rs. 120.00 
+89|Uric Acid Test|| Rs. 140.00 
+90|Urine Routine|| Rs. 100.00 
+91|VDRL Test|| Rs. 150.00 
+92|Vitamin B12 Test|| Rs. 900.00 
+93|Vitamin D Test|| Rs. 1570.00 
+94|Widal Test|| Rs. 200.00 
+95|Widal Test|| Rs. 200.00 
+96|X-Ray|| Rs. 350.00 (Chest) 

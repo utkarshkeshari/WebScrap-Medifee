@@ -1,0 +1,26 @@
+|Name|Offer|Price
+0|Bleeding / Clotting Time Test|| Rs. 120.00 
+1|Bleeding / Clotting Time Test|| Rs. 500.00 
+2|Blood Group Test|| Rs. 60.00 
+3|Blood Sugar Test|| Rs. 80.00 (F+PP) 
+4|Blood Sugar Test|| Rs. 100.00 (F+PP) 
+5|Bone Density Test|| Rs. 100.00 
+6|CBC / Hemogram Test|| Rs. 300.00 
+7|Creatinine Test|| Rs. 90.00 
+8|Dengue IgG Test|| Rs. 600.00 
+9|Dengue IgM Test|| Rs. 600.00 
+10|Electrolytes Test|| Rs. 350.00 
+11|HbA1C Test|| Rs. 350.00 
+12|HBsAg Test|| Rs. 350.00 
+13|HIV Test|| Rs. 300.00 
+14|Kidney Function Test|| Rs. 500.00 
+15|Liver Function Test|| Rs. 500.00 
+16|Renal Profile|| Rs. 500.00 
+17|Semen Analysis Test|| Rs. 300.00 
+18|Sputum Routine Test|| Rs. 100.00 
+19|Stool Routine|| Rs. 60.00 
+20|Uric Acid Test|| Rs. 100.00 
+21|Urine Routine|| Rs. 100.00 
+22|VDRL Test|| Rs. 110.00 
+23|Vitamin B12 Test|| Rs. 800.00 
+24|Vitamin D Test|| Rs. 1500.00 

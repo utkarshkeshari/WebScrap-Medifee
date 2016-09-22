@@ -1,0 +1,25 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1000.00 
+1|ANA (Antinuclear Antibody) Test|| Rs. 500.00 
+2|Antithyroglobulin Antibody Test|| Rs. 750.00 
+3|Bicarbonate Test|| Rs. 350.00 
+4|Blood Sugar Test|| Rs. 50.00 
+5|CA 15.3 Test|| Rs. 900.00 
+6|CA 19.9 Test|| Rs. 900.00 
+7|CBC / Hemogram Test|| Rs. 250.00 
+8|CD4 Test|| Rs. 1950.00 
+9|Chloride Test|| Rs. 220.00 
+10|Coombs Test|| Rs. 300.00 
+11|Creatinine Clearance Test|| Rs. 100.00 
+12|Gamma GT (GGTP) Test|| Rs. 300.00 
+13|HBsAg Test|| Rs. 450.00 
+14|Lipase Test|| Rs. 400.00 
+15|Phosphorus Test|| Rs. 200.00 
+16|Reticulocyte Count Test|| Rs. 200.00 
+17|Sickling Test|| Rs. 180.00 
+18|Sodium Test|| Rs. 220.00 
+19|Sonography|| Rs. 500.00 
+20|Sonography|| Rs. 1000.00 (Pregnancy Anomaly) 
+21|Testosterone Test|| Rs. 650.00 
+22|Thyroglobulin Test|| Rs. 500.00 
+23|VLDL Test|| Rs. 200.00 

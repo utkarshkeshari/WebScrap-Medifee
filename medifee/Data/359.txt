@@ -1,0 +1,68 @@
+|Name|Offer|Price
+0|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+1|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+2|Beta HCG Test|| Rs. 500.00 
+3|Beta HCG Test|| Rs. 500.00 
+4|Bilirubin Test|| Rs. 100.00 
+5|Bilirubin Test|| Rs. 100.00 
+6|Bleeding / Clotting Time Test|| Rs. 100.00 
+7|Blood Culture Test|| Rs. 250.00 
+8|Blood Culture Test|| Rs. 250.00 
+9|Blood Group Test|| Rs. 60.00 
+10|Blood Group Test|| Rs. 60.00 
+11|Blood Sugar Test|| Rs. 40.00 
+12|Blood Sugar Test|| Rs. 80.00 (F + PP) 
+13|Blood Urea Nitrogen Test|| Rs. 80.00 
+14|Blood Urea Nitrogen Test|| Rs. 80.00 
+15|Calcium Test|| Rs. 80.00 
+16|CBC / Hemogram Test|| Rs. 270.00 
+17|CBC / Hemogram Test|| Rs. 270.00 
+18|Cholesterol Test|| Rs. 100.00 
+19|Creatinine Test|| Rs. 80.00 
+20|Dengue IgG Test|| Rs. 600.00 
+21|Dengue IgM Test|| Rs. 600.00 
+22|ECG|| Rs. 130.00 
+23|Electrolytes Test|| Rs. 250.00 
+24|Ferritin Test|| Rs. 500.00 
+25|FSH (Follicle Stimulating Hormone) Test|| Rs. 350.00 
+26|G6PD Test|| Rs. 500.00 
+27|HbA1C Test|| Rs. 400.00 
+28|HbA1C Test|| Rs. 400.00 
+29|HBsAg Test|| Rs. 200.00 
+30|HCV Antibody Test|| Rs. 500.00 
+31|Hemoglobin (Hb) Test|| Rs. 80.00 
+32|HIV Test|| Rs. 300.00 
+33|HIV Test|| Rs. 300.00 
+34|Insulin Test|| Rs. 450.00 
+35|Insulin Test|| Rs. 450.00 
+36|Iron Test|| Rs. 1000.00 
+37|Kidney Function Test|| Rs. 500.00 
+38|Kidney Function Test|| Rs. 500.00 
+39|LH (Luteinizing Hormone) Test|| Rs. 350.00 
+40|Lipid Profile|| Rs. 400.00 
+41|Liver Function Test|| Rs. 400.00 
+42|Liver Function Test|| Rs. 400.00 
+43|Platelet Count|| Rs. 100.00 
+44|PT (Prothrombin Time) Test|| Rs. 300.00 
+45|Renal Profile|| Rs. 500.00 
+46|SGOT Test|| Rs. 80.00 
+47|SGOT Test|| Rs. 200.00 
+48|SGPT Test|| Rs. 80.00 
+49|SGPT Test|| Rs. 200.00 
+50|Sonography|| Rs. 600.00 (Lower / Upper Abdomen) 
+51|Thyroid Test|| Rs. 550.00 
+52|Thyroid Test|| Rs. 550.00 
+53|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+54|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+55|Urea Test|| Rs. 80.00 
+56|Uric Acid Test|| Rs. 100.00 
+57|Urine Routine|| Rs. 100.00 
+58|VDRL Test|| Rs. 100.00 
+59|VDRL Test|| Rs. 100.00 
+60|Vitamin B12 Test|| Rs. 500.00 
+61|Vitamin B12 Test|| Rs. 500.00 
+62|Vitamin D Test|| Rs. 1000.00 
+63|Vitamin D Test|| Rs. 1000.00 
+64|Widal Test|| Rs. 100.00 
+65|X-Ray|| Rs. 200.00 (Chest) 
+66|X-Ray|| Rs. 200.00 (Chest) 

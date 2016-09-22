@@ -1,0 +1,16 @@
+|Name|Offer|Price
+0|CA 15.3 Test|| Rs. 800.00 
+1|CA 19.9 Test|| Rs. 800.00 
+2|Cholesterol Test|| Rs. 150.00 
+3|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+4|Dengue IgG Test|| Rs. 600.00 
+5|Dengue IgM Test|| Rs. 600.00 
+6|Ferritin Test|| Rs. 400.00 
+7|Folic Acid Test|| Rs. 600.00 
+8|HGH Test|| Rs. 600.00 
+9|Kidney Function Test|| Rs. 400.00 
+10|Kidney Profile|| Rs. 400.00 
+11|Lupus Anticoagulant (LAC) Test|| Rs. 800.00 
+12|Microalbumin Test|| Rs. 300.00 
+13|Progesterone Test|| Rs. 300.00 
+14|Testosterone Test|| Rs. 800.00 

@@ -1,0 +1,45 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1000.00 
+2|ANC Profile|| Rs. 1400.00 
+3|Antithyroglobulin Antibody Test|| Rs. 600.00 
+4|Bicarbonate Test|| Rs. 250.00 
+5|Bilirubin Test|| Rs. 200.00 
+6|Blood Culture Test|| Rs. 400.00 
+7|Blood Group Test|| Rs. 100.00 
+8|Blood Sugar Test|| Rs. 60.00 
+9|Blood Urea Nitrogen Test|| Rs. 130.00 
+10|Calcium Test|| Rs. 130.00 
+11|CBC / Hemogram Test|| Rs. 300.00 
+12|Chloride Test|| Rs. 200.00 
+13|Creatinine Clearance Test|| Rs. 500.00 
+14|CT Scan|| Rs. 2300.00 (Brain Plain) 
+15|CT Scan|| Rs. 3100.00 (Brain Contras) 
+16|CT Scan|| Rs. 5400.00 (Brain Plain with Contras) 
+17|EEG|| Rs. 1500.00 
+18|Electrolytes Test|| Rs. 300.00 
+19|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+20|Folic Acid Test|| Rs. 700.00 
+21|Gamma GT (GGTP) Test|| Rs. 250.00 
+22|Globulin Test|| Rs. 150.00 
+23|HbA1C Test|| Rs. 450.00 
+24|Insulin Test|| Rs. 500.00 
+25|Kidney Function Test|| Rs. 750.00 
+26|Lipid Profile|| Rs. 550.00 
+27|Liver Function Test|| Rs. 550.00 
+28|Magnesium Test|| Rs. 350.00 
+29|Mammography|| Rs. 1200.00 (Single Side) 
+30|Mammography|| Rs. 2000.00 (Both Side) 
+31|Platelet Count|| Rs. 50.00 
+32|Renal Profile|| Rs. 750.00 
+33|Semen Analysis Test|| Rs. 200.00 
+34|Sickling Test|| Rs. 200.00 
+35|Stress Test|| Rs. 4000.00 
+36|Thyroglobulin Test|| Rs. 600.00 
+37|Thyroid Test|| Rs. 600.00 
+38|Total Protein Test|| Rs. 150.00 
+39|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+40|Vitamin B12 Test|| Rs. 700.00 
+41|Vitamin D Test|| Rs. 1600.00 
+42|VLDL Test|| Rs. 250.00 
+43|X-Ray|| Rs. 300.00 (Chest) 

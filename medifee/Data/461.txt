@@ -1,0 +1,6 @@
+|Name|Offer|Price
+0|Fissure Surgery|| Rs. 40000.00 
+1|Kidney Stone|| Rs. 82000.00 (Private ward) 
+2|Kidney Stone|| Rs. 85000.00 (Deluxe Room) 
+3|Kidney Stone|| Rs. 95000.00 (Super Deluxe Room) 
+4|Piles Surgery|| Rs. 40000.00 

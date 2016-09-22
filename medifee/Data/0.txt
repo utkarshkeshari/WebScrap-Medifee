@@ -1,0 +1,90 @@
+|Name|Offer|Price
+0|AFP (Alpha Feto Protein) Test|| Rs. 600.00 
+1|Alkaline Phosphatase (ALP) Test|| Rs. 130.00 
+2|Amylase Test|| Rs. 330.00 
+3|ANA (Antinuclear Antibody) Test|| Rs. 1750.00 (ANA Profile) 
+4|Anti TPO Test|| Rs. 900.00 
+5|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+6|ASO Test|| Rs. 400.00 
+7|Bilirubin Test|| Rs. 190.00 
+8|Blood Urea Nitrogen Test|| Rs. 100.00 
+9|CA-125 (Tumor Marker) Test|| Rs. 800.00 
+10|Calcium Test|| Rs. 130.00 
+11|CBC / Hemogram Test|| Rs. 290.00 (HB, TC, DC, PLTS, Cell Indi PS) 
+12|Chloride Test|| Rs. 130.00 
+13|CK-MB Test|| Rs. 310.00 
+14|Coombs Test|| Rs. 250.00 (Direct) 
+15|Coombs Test|| Rs. 300.00 (Indirect) 
+16|Cortisol Test|| Rs. 460.00 
+17|CPK (Creatine Phosphokinase) Test|| Rs. 260.00 
+18|Creatinine Test|| Rs. 90.00 
+19|D Dimer Test|| Rs. 1000.00 
+20|Dengue NS1 Test|| Rs. 1800.00 
+21|DHEA Test|| Rs. 700.00 (SO4) 
+22|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+23|Estradiol (E2) Test|| Rs. 420.00 
+24|FSH (Follicle Stimulating Hormone) Test|| Rs. 420.00 
+25|Fungal Culture Test|| Rs. 800.00 
+26|General Ward|| Rs. 1450.00 
+27|Gram Stain Test|| Rs. 250.00 
+28|HCV Antibody Test|| Rs. 350.00 (SPOT) 
+29|HCV Antibody Test|| Rs. 1000.00 (ELISA) 
+30|HDL Cholesterol|| Rs. 180.00 
+31|Hemoglobin Electrophoresis|| Rs. 100.00 
+32|HGH Test|| Rs. 550.00 
+33|HIV Test|| Rs. 300.00 (SPOT) 
+34|HIV Test|| Rs. 350.00 (ELISA) 
+35|HLA B27 Test|| Rs. 2200.00 
+36|ICU|| Rs. 2300.00 (High Dependency Unit) 
+37|ICU|| Rs. 2300.00 (Post Operative Care) 
+38|ICU|| Rs. 4100.00 (Ventilator Charges) 
+39|ICU|| Rs. 2000.00 (Non Invasive Ventilation - Bippapp Machine) 
+40|ICU|| Rs. 4600.00 (With Monitor) 
+41|Insulin Test|| Rs. 600.00 
+42|Iron Test|| Rs. 350.00 (with TIBC) 
+43|LDH (Lactate Dehydrogenase) Test|| Rs. 270.00 
+44|LDL Cholesterol|| Rs. 180.00 
+45|Lipase Test|| Rs. 500.00 
+46|Lipid Profile|| Rs. 750.00 
+47|Lupus Anticoagulant (LAC) Test|| Rs. 2000.00 
+48|Magnesium Test|| Rs. 380.00 
+49|Malaria (Malarial Parasite) Test|| Rs. 120.00 (Smear) 
+50|Microfilaria Parasite Test|| Rs. 120.00 
+51|MRI Scan|| Rs. 5000.00 (Brain) 
+52|MRI Scan|| Rs. 6000.00 (Spine / Thorax / Pelvis / Joints / Extremeties / MRCP / Urography / CSF Flow Study / Angiography [1 part] / Orbit / PNS / NECK) 
+53|Peripheral Blood Smear Test|| Rs. 350.00 
+54|Phosphorus Test|| Rs. 130.00 
+55|Potassium Test|| Rs. 130.00 
+56|Private Ward|| Rs. 3350.00 (Non AC) 
+57|Private Ward|| Rs. 3800.00 (AC (Small)) 
+58|Private Ward|| Rs. 4800.00 (AC Special) 
+59|Private Ward|| Rs. 5250.00 (Deluxe) 
+60|Progesterone Test|| Rs. 420.00 
+61|Prolactin Test|| Rs. 420.00 
+62|PSA (Prostate Specific Antigen) Test|| Rs. 550.00 
+63|Pulmonary Function Test (PFT)|| Rs. 1200.00 
+64|Renal Profile|| Rs. 750.00 (BUN,CR,UA,NA,K,Ca,Phos.) 
+65|Reticulocyte Count Test|| Rs. 200.00 
+66|Rubella Test|| Rs. 700.00 (IgG) 
+67|Rubella Test|| Rs. 700.00 (IgM) 
+68|Semi Private Ward|| Rs. 2100.00 (Non AC) 
+69|Semi Private Ward|| Rs. 2500.00 (AC) 
+70|Semi Private Ward|| Rs. 3150.00 (AC Deluxe) 
+71|SGOT Test|| Rs. 130.00 
+72|SGPT Test|| Rs. 130.00 
+73|Sodium Test|| Rs. 130.00 
+74|Stool Culture|| Rs. 600.00 
+75|Stool Routine|| Rs. 80.00 
+76|T3 (Triiodothyronine) Test|| Rs. 270.00 
+77|T4 (Thyroxine) Test|| Rs. 270.00 
+78|Testosterone Test|| Rs. 460.00 
+79|Thyroglobulin Test|| Rs. 1200.00 
+80|TORCH Test|| Rs. 1200.00 (IgG / IgM) 
+81|Total Protein Test|| Rs. 130.00 
+82|Triglycerides Test|| Rs. 220.00 
+83|Triple Marker Test|| Rs. 2600.00 
+84|TSH (Thyroid Stimulating Hormone) Test|| Rs. 270.00 
+85|Uric Acid Test|| Rs. 110.00 
+86|Urine Routine|| Rs. 90.00 
+87|Vitamin B12 Test|| Rs. 800.00 
+88|Widal Test|| Rs. 200.00 

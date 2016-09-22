@@ -1,0 +1,88 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 950.00 
+1|Aldolase Test|| Rs. 400.00 
+2|Amylase Test|| Rs. 300.00 
+3|ANA (Antinuclear Antibody) Test|| Rs. 1100.00 
+4|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 320.00 
+5|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 320.00 
+6|Arterial Blood Gas (ABG)|| Rs. 400.00 
+7|Beta HCG Test|| Rs. 850.00 
+8|Biopsy|| Rs. 1240.00 (BIG) 
+9|Bleeding / Clotting Time Test|| Rs. 180.00 
+10|Blood Culture Test|| Rs. 450.00 (Aerobic) 
+11|Blood Culture Test|| Rs. 900.00 
+12|Blood Group Test|| Rs. 90.00 
+13|Blood Sugar Test|| Rs. 60.00 
+14|Blood Sugar Test|| Rs. 120.00 (F + PP) 
+15|Blood Urea Nitrogen Test|| Rs. 120.00 
+16|CBC / Hemogram Test|| Rs. 330.00 
+17|Chloride Test|| Rs. 170.00 
+18|Cholesterol Test|| Rs. 120.00 
+19|Complement C3|| Rs. 720.00 
+20|Complement C4|| Rs. 720.00 
+21|Creatinine Clearance Test|| Rs. 120.00 
+22|Creatinine Test|| Rs. 120.00 
+23|Dengue IgG Test|| Rs. 600.00 
+24|Dengue IgM Test|| Rs. 600.00 
+25|Dengue NS1 Test|| Rs. 800.00 (IgG) 
+26|Dengue NS1 Test|| Rs. 800.00 (IgM) 
+27|ECG|| Rs. 170.00 
+28|Electrolytes Test|| Rs. 200.00 
+29|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 90.00 
+30|FSH (Follicle Stimulating Hormone) Test|| Rs. 420.00 
+31|Fungal Culture Test|| Rs. 420.00 
+32|G6PD Test|| Rs. 500.00 
+33|Gamma GT (GGTP) Test|| Rs. 220.00 
+34|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+35|Gram Stain Test|| Rs. 140.00 
+36|HbA1C Test|| Rs. 500.00 
+37|HBsAg Test|| Rs. 300.00 
+38|HCV Antibody Test|| Rs. 1100.00 
+39|Hemoglobin (Hb) Test|| Rs. 90.00 
+40|Hemoglobin Electrophoresis|| Rs. 800.00 
+41|HIV Test|| Rs. 400.00 
+42|Insulin Test|| Rs. 650.00 
+43|Iron Test|| Rs. 300.00 
+44|Kidney Function Test|| Rs. 670.00 
+45|LH (Luteinizing Hormone) Test|| Rs. 420.00 
+46|Lipase Test|| Rs. 600.00 
+47|Lipid Profile|| Rs. 670.00 
+48|Liver Function Test|| Rs. 570.00 
+49|PAP Smear|| Rs. 450.00 
+50|Platelet Count|| Rs. 50.00 
+51|Potassium Test|| Rs. 170.00 
+52|Progesterone Test|| Rs. 450.00 
+53|PT (Prothrombin Time) Test|| Rs. 320.00 
+54|Reticulocyte Count Test|| Rs. 180.00 
+55|Rheumatoid Arthritis (RA) Factor Test|| Rs. 430.00 
+56|Rubella Test|| Rs. 420.00 (IgG) 
+57|Rubella Test|| Rs. 420.00 (IgM) 
+58|SGOT Test|| Rs. 120.00 
+59|SGPT Test|| Rs. 120.00 
+60|Sodium Test|| Rs. 170.00 
+61|Sonography|| Rs. 800.00 
+62|Sputum Routine Test|| Rs. 130.00 
+63|Stool Culture|| Rs. 320.00 
+64|Stool Routine|| Rs. 90.00 
+65|T3 (Triiodothyronine) Test|| Rs. 250.00 
+66|T4 (Thyroxine) Test|| Rs. 250.00 
+67|TB Test|| Rs. 280.00 
+68|Testosterone Test|| Rs. 500.00 (Total) 
+69|Testosterone Test|| Rs. 1400.00 (Free) 
+70|Testosterone Test|| Rs. 1400.00 
+71|Thyroid Test|| Rs. 650.00 
+72|Total Protein Test|| Rs. 140.00 
+73|Toxoplasma Test|| Rs. 420.00 (IgG) 
+74|Toxoplasma Test|| Rs. 420.00 (IgM) 
+75|Troponin-I Test|| Rs. 1400.00 
+76|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+77|Typhidot Test|| Rs. 310.00 (IgG) 
+78|Typhidot Test|| Rs. 310.00 (IgM) 
+79|Urea Test|| Rs. 120.00 
+80|Uric Acid Test|| Rs. 120.00 
+81|Urine Routine|| Rs. 90.00 
+82|VDRL Test|| Rs. 140.00 
+83|Vitamin B12 Test|| Rs. 900.00 
+84|Vitamin D Test|| Rs. 1800.00 
+85|Widal Test|| Rs. 120.00 
+86|X-Ray|| Rs. 240.00 (Chest) 

@@ -1,0 +1,44 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2500.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 140.00 
+2|AFP (Alpha Feto Protein) Test|| Rs. 750.00 
+3|Albumin Test|| Rs. 150.00 
+4|Alkaline Phosphatase (ALP) Test|| Rs. 140.00 
+5|Amylase Test|| Rs. 500.00 
+6|ANA (Antinuclear Antibody) Test|| Rs. 750.00 
+7|ANA (Antinuclear Antibody) Test|| Rs. 750.00 
+8|Anti TPO Test|| Rs. 1140.00 
+9|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+10|ASO Test|| Rs. 440.00 
+11|Beta HCG Test|| Rs. 750.00 
+12|Beta HCG Test|| Rs. 650.00 
+13|Bilirubin Test|| Rs. 150.00 
+14|Bleeding / Clotting Time Test|| Rs. 180.00 
+15|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+16|CK-MB Test|| Rs. 360.00 
+17|CPK (Creatine Phosphokinase) Test|| Rs. 350.00 
+18|ECG|| Rs. 150.00 
+19|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+20|Estradiol (E2) Test|| Rs. 720.00 
+21|HbA1C Test|| Rs. 420.00 
+22|HBsAg Test|| Rs. 350.00 
+23|HIV Test|| Rs. 430.00 
+24|Insulin Test|| Rs. 700.00 
+25|Kidney Function Test|| Rs. 600.00 
+26|Kidney Profile|| Rs. 600.00 
+27|LH (Luteinizing Hormone) Test|| Rs. 480.00 
+28|Lupus Anticoagulant (LAC) Test|| Rs. 2000.00 
+29|Mammography|| Rs. 2000.00 (Both Side) 
+30|PAP Smear|| Rs. 450.00 
+31|Phosphorus Test|| Rs. 150.00 
+32|Progesterone Test|| Rs. 650.00 
+33|Prolactin Test|| Rs. 480.00 
+34|Renal Profile|| Rs. 600.00 
+35|Rheumatoid Arthritis (RA) Factor Test|| Rs. 250.00 
+36|SGOT Test|| Rs. 150.00 
+37|SGPT Test|| Rs. 150.00 
+38|Sputum Routine Test|| Rs. 720.00 
+39|Stool Routine|| Rs. 100.00 
+40|Triglycerides Test|| Rs. 150.00 
+41|VDRL Test|| Rs. 150.00 
+42|Widal Test|| Rs. 150.00 

@@ -1,0 +1,80 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 120.00 
+1|Albumin Test|| Rs. 100.00 
+2|Alkaline Phosphatase (ALP) Test|| Rs. 140.00 
+3|ANC Profile|| Rs. 1050.00 
+4|ANC Profile|| Rs. 1150.00 
+5|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 400.00 
+6|ASO Test|| Rs. 300.00 
+7|Beta HCG Test|| Rs. 500.00 
+8|Beta HCG Test|| Rs. 500.00 
+9|Bilirubin Test|| Rs. 180.00 
+10|Bilirubin Test|| Rs. 180.00 
+11|Bleeding / Clotting Time Test|| Rs. 160.00 
+12|Blood Culture Test|| Rs. 450.00 
+13|Blood Group Test|| Rs. 80.00 
+14|Blood Sugar Test|| Rs. 100.00 
+15|Blood Urea Nitrogen Test|| Rs. 120.00 
+16|CA-125 (Tumor Marker) Test|| Rs. 930.00 
+17|CA-125 (Tumor Marker) Test|| Rs. 930.00 
+18|Calcium Test|| Rs. 150.00 
+19|CBC / Hemogram Test|| Rs. 100.00 
+20|CEA (Carcinoembryonic Antigen) Test|| Rs. 900.00 
+21|Chloride Test|| Rs. 100.00 
+22|Cholesterol Test|| Rs. 100.00 
+23|Coombs Test|| Rs. 400.00 
+24|Cortisol Test|| Rs. 400.00 
+25|Cortisol Test|| Rs. 400.00 
+26|Creatinine Test|| Rs. 120.00 
+27|ECG|| Rs. 200.00 
+28|Electrolytes Test|| Rs. 300.00 
+29|Electrolytes Test|| Rs. 300.00 
+30|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 70.00 
+31|Estradiol (E2) Test|| Rs. 550.00 
+32|Globulin Test|| Rs. 200.00 
+33|HBsAg Test|| Rs. 200.00 
+34|HCV Antibody Test|| Rs. 1400.00 
+35|Hemoglobin (Hb) Test|| Rs. 60.00 
+36|HIV Test|| Rs. 400.00 
+37|Insulin Test|| Rs. 550.00 
+38|Iron Test|| Rs. 300.00 
+39|Iron Test|| Rs. 1150.00 (Profile) 
+40|Kidney Function Test|| Rs. 600.00 
+41|Kidney Profile|| Rs. 600.00 
+42|Lipid Profile|| Rs. 550.00 
+43|Malaria (Malarial Parasite) Test|| Rs. 100.00 (Slide) 
+44|Malaria (Malarial Parasite) Test|| Rs. 450.00 (Antigen) 
+45|Microalbumin Test|| Rs. 400.00 
+46|PCV (Packed Cell Volume) Test|| Rs. 100.00 
+47|Platelet Count|| Rs. 150.00 
+48|Potassium Test|| Rs. 150.00 
+49|Pregnancy Test|| Rs. 100.00 
+50|Protein Test|| Rs. 100.00 
+51|PT (Prothrombin Time) Test|| Rs. 100.00 
+52|PTH (Parathyroid Hormone) Test|| Rs. 1000.00 
+53|Renal Profile|| Rs. 600.00 
+54|Rheumatoid Arthritis (RA) Factor Test|| Rs. 200.00 
+55|SGOT Test|| Rs. 120.00 
+56|SGPT Test|| Rs. 120.00 
+57|Sodium Test|| Rs. 150.00 
+58|Sonography|| Rs. 600.00 (Lower / Upper Abdomen) 
+59|Sonography|| Rs. 1500.00 (Pregnancy Anomaly) 
+60|Sputum Routine Test|| Rs. 150.00 
+61|Sputum Routine Test|| Rs. 150.00 
+62|Stool Routine|| Rs. 150.00 
+63|Stool Routine|| Rs. 100.00 
+64|T3 (Triiodothyronine) Test|| Rs. 250.00 
+65|T3 (Triiodothyronine) Test|| Rs. 250.00 
+66|T4 (Thyroxine) Test|| Rs. 250.00 
+67|T4 (Thyroxine) Test|| Rs. 250.00 
+68|Thyroid Test|| Rs. 700.00 
+69|Triglycerides Test|| Rs. 200.00 
+70|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+71|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+72|Urea Test|| Rs. 120.00 
+73|Uric Acid Test|| Rs. 120.00 
+74|Urine Routine|| Rs. 80.00 
+75|VDRL Test|| Rs. 100.00 
+76|Vitamin B12 Test|| Rs. 800.00 
+77|Vitamin D Test|| Rs. 1400.00 
+78|Widal Test|| Rs. 100.00 

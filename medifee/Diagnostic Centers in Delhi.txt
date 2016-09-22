@@ -1,0 +1,549 @@
+|Address|Name|Phone
+0|St. Stephen's Hospital Marg Tis Hazari Civil Lines, New Delhi - 110054|St. Stephen's Hospital|011 2396 6021, 011 2396 6027, 011 2397 7930, 011 2395 7977, 011 2398 3573, 011 2398 3574, 011 2398 3
+1|193 / C-8, Sector 8, Near Madhuban Chowk, Outer Ring Road Rohini, New Delhi - 110085|Dr. Mittal's Diagnostic Centre|011 2794 1155, 2794 2166, 27946 579
+2|House No. 2, 3 & 9, Shakti Vihar Pitampura, New Delhi - 110034|Saral Diagnostic Centre|011 4711 1111
+3|Indarprastha Apollo Hospital, Mathura Road, Sarita Vihar Okhla, New Delhi - 110076|House of Diagnostics|011 2987 3070 99995 10003
+4|8/29, Opposite Arya Samaaj Mandir, West Patel Nagar Patel Nagar, New Delhi - 110008|Simran Sai Diagnostics|97174 44879, 96546 44879
+5|Sect. B1, Aruna Asaf Ali Marg, Sect. B, Pocket 1, Vasant Kunj Vasant Vihar, New Delhi - 110070|Fortis Flight Liutenant Rajan Dhall Hospital|011 4277 6222
+6|S-32, 33, 87, 2nd Floor, Manish Global Mall, Plot No. 2, Sector-22 Dwarka, New Delhi - 110075|Sanjeevani Dwarka Path Labs|011 6635 5299, 8802833800, 9868358187
+7|C-63, Jitar Nagar, Opposite DAV School, Preet Vihar Patparganj, New Delhi - 110092|Path Point Diagnostic Centre|98736 66192, 98739 64944, 99906 14024
+8|197 A, Pocket A, Opposite Oriental Bank of Commerce, Mayur Vihar Phase 2 Mayur Vihar, New Delhi - 110091|Plasma HealthChek Diagnostics|011 2277 7700, 1800 111 213 (toll free)
+9|D 55 Greater Kailash, New Delhi - 110048|SRL Diagnostic (Delhi)|011 6643 5980
+10|Shop Number 5524, Shora Kothi, Near Bhagwati Mandir Pahar Ganj, New Delhi - 110055|Sanjeevani Path Lab|011 6658 1025
+11|27/5, Nangia Park, Shakti Nagar Civil Lines, New Delhi - 110007|North Delhi Pathology Clinic|011 2384 1122, 011 6622 3602
+12|12091/92, Near Shakti Nagar Chowk, Main G T Road, Shakti Nagar Civil Lines, New Delhi - 110007|Medix Diagnostics And MRI Centre Pvt Ltd|011 6644 3232
+13|550- Clm, Behind Delite Cinema, Asaf Ali Road, Delhi Gate, Darya Ganj Pahar Ganj, New Delhi - 110002|Primax Pathlab & Diagnostics|011 6674 5602
+14|E-34, Ground Floor, Near Axis Bank ATM, Lajpat Nagar II Lajpat Nagar, New Delhi - 110024|Care Plus Diagnostics|011 6653 1999
+15|515,516, Dda Plotted Development, Near ITC Welcom Hotel, Dwarka Sector 19 Dwarka, New Delhi - 110075|Siddhant Diagnostix|011 6621 8339, 011 6518 9657
+16|25/36, Near Siddhartha Hotel, East Patel Nagar Patel Nagar, New Delhi - 110008|Midas Lab|011 6644 3537, 011 4507 1695, 011 2572 5825, 9873438434, 9711839313
+17|D-1 Hauz Khas, New Delhi - 110016|Dr Dangs Lab|011 6658 5295
+18|3, Gujarat Vihar, Near Bal Bharti School, Vikas Marg Karkardooma, New Delhi - 110092|Gami Diagnostic Centre|011 6622 3902
+19|Shop Number 7 And 27, B H West, Opposite Jaspal Kaur Public School, Dda Market Shalimar Bagh, New Delhi - 110088|Gupta Diagnostic Centre|011 6672 3577
+20|J-36, Central Market, Veer Savarkar Marg, Lajpat Nagar II Lajpat Nagar, New Delhi - 110024|Dr A Lal Chandani Pathology Laboratories|011 4172 1982, 011 2984 0054
+21|RZ-C/152, 33 Feet Road, Mahavir Enclave Part-III, Dwarika Sector-1 Dwarka, New Delhi - 110059|Sharma X-Ray and Diagnostic Centre|9971919897, 9212386331
+22|S-2, 2nd, Floor, Manish Twin Plaza, Plot No-2, Sector-11, Opposite ICICI Bank Dwarka, New Delhi - 110075|Aarogy Pro|011 4506 3646, 8285833346
+23|E-241/A, Gtb Enclave, Opposite Gtb Hospital Gate No.-10 Dilshad Garden, New Delhi - 110095|Best Care Diagnostic and Physiotherapy Centre|011 3304 4855
+24|Pocket D 7, Plot No 225, Near Vishram Chowk, Rohini Sector 6 Rohini, New Delhi - 110085|Thyrocare Aarogyam Centre|011 3304 2781
+25|20, Community Centre, Near Invitation Restaurant, Ashok Vihar II, Ashok Vihar Rohini, New Delhi - 110052|Dr D K Gulati Path Lab|011 6674 7933
+26|Rz-88/J, Opposite Dwarka Flyover, Pillar No. 34, Near Chaturbhuj Medical Store, Main Road, Raj Nagar, Palam Colony Dwarka, New Delhi - 110045|Cee Dee Diagnostics Pvt Ltd|011 6635 5752, 9212428880
+27|109 Main Market, Opposite Sri Venkateswara College, Moti Bagh Chanakya Puri, New Delhi - 110021|Balaji Diet & Homeo Clinic|011 6672 9565
+28|Opposite Metro Pillar No- 382, Raja Garden Kirti Nagar, New Delhi - 110015|Janta X-Ray & Clinical Lab|011 2510 1414, 011 2510 1433, 011 6547 4141, 9810631433
+29|69, Opposite Railway Reservation Counter, Hargovind Enclave Karkardooma, New Delhi - 110092|Clinical Diagnostic Centre|011 6643 7434
+30|9, Dayanand Vihar, Vikas Marg Extension, Vikas Marg Karkardooma, New Delhi - 110092|Platinum Imaging Centre A Unit Of Goyal Diagnostics|011 6674 0748
+31|80a, Pocket A2, Mayur Vihar Phase III Mayur Vihar, New Delhi - 110096|Upadhyay Clinic|011 6643 0439
+32|82/1, Near Ramleela Ground, Circular Road Shahdara, New Delhi - 110032|Shahdara Labs|011 6622 8158, 9212121807
+33|10/155, Near Budh Bazar, Geeta Colony Karkardooma, New Delhi - 110031|Arogya Life|011 6643 3318
+34|B 294, New Ashok Nagar Extension, Opposite East End Apartment, Mayur Vihar Phase I Mayur Vihar, New Delhi - 110091|Total Care Control|011 2271 0663, 9899764447, 9871110663
+35|A 98, Upper Ground Floor, Near D Park, Budh Bazaar Road, Pandav Nagar Patparganj, New Delhi - 110092|Health Via Diagnostic|011 6672 8838
+36|G 166, Near Main Red Light, New Seelampur Shahdara, New Delhi - 110053|Trilok Diagnostic And Medical Centre|011 6674 0802, 011 3398 1659, 9871095120
+37|17 A, Pocket 1, Mayur Vihar Phase I Mayur Vihar, New Delhi - 110091|Tomar Foundation Pathology Labs|011 6643 4976
+38|A-1/1, Aacharya Niketan, Mayur Vihar Phase I Mayur Vihar, New Delhi - 110091|Standard Pathology Services|011 6644 0157
+39|13/6, New Shastri Nagar, Shastri Bhawan, Shastri Nagar Metro Station Pahar Ganj, New Delhi - 110001|Star Imagine Path Labs|011 6622 6998
+40|2/10, Main Road, Near HDFC Bank & Metro Pillar No 16, East Patel Nagar Patel Nagar, New Delhi - 110008|Hope Medical Centre|9953967585, 9818108070, 9871563376
+41|G-2 (Ground Floor Rear), Kailash Colony Greater Kailash, New Delhi - 110048|Indian BioSciences|011 2923 6088
+42|In Sir Ganga Ram Hospital, Rajinder Nagar Karol Bagh, New Delhi - 110060|Mahajan Imaging|011 4225 1844, 011 4225 1845, 9958349756
+43|A-2, Near Metro Pillar No. 328. Kirti Nagar, New Delhi - 110015|Diwan Chand Imaging and Research Centre|011 4556 2700, 011 4556 2701, 9650044226
+44|No-1, Institutional Area Or Near Pgdab College, Nehru Nagar Lajpat Nagar, New Delhi - 110065|Vimhans Hospital|011 2984 9010, 011 2984 9020, 011 2980 2980, 9650725925
+45|S-549, Near DON Bosco School, Greater Kailash II Greater Kailash, New Delhi - 110048|Fortis La Femme|011 4057 9400, 011 6464 6001, 9650001663
+46|C-222, Opposite C Block Gurudwara, Part-1 Greater Kailash, New Delhi - 110048|Sai Diagnostics|011 2924 1909, 011 2923 1372, 011 2924 5366, 9811934123
+47|B-128, Naraina Vihar, Naraina Mayapuri, New Delhi - 110028|Behl Hospital|011 4567 2000, 9810169832
+48|H - 1A, Ground Floor, Main Market, South Delhi Hauz Khas, New Delhi - 110016|Health Square Diagnostic Center|011 4531 7777, 011 4531 7715
+49|A1/7, Main Rohtak Road And Opposite Metro Pillar 263, Near Peera Garhi Crossing Paschim Vihar, New Delhi - 110063|A One Hospital Pvt Ltd|011 2527 1177, 9810301850, 9312218099, 9013441666
+50|C-1/C, Green Park Extension Hauz Khas, New Delhi - 110016|Adiva Hospital|011 4667 2700, 011 4071 4444, 9953552260, 9350002106
+51|7-B, Pusa Road Karol Bagh, New Delhi - 110005|Sir Ganga Ram Kolmet Hospital|011 4509 9999
+52|G-43, Green Park Main Market, Block S, Green Park Extension Green Park, New Delhi - 110016|Green Park Diagnostics|011 2653 7881
+53|No. 11-B, Naya Bazaar, Jai Kishan Sharma Ji Wali, Near RTV Bus Stand Najafgarh, New Delhi - 110043|Satnaam Ultrasound & Lab Facility|011 6565 3535, 9716942729
+54|C/215, Near State Bank Of Patiala, Defence Colony Lajpat Nagar, New Delhi - 110024|Aravinds Lab|011 2433 6884, 011 4656 8930, 9810095922
+55|E 64, Near M Block Market, Greater Kailash I Greater Kailash, New Delhi - 110048|Asian Clinic|011 3306 3037, 011 4161 4575
+56|35, Phase 1, Central Market, Behind Deep Cinema Building, Ashok Vihar Rohini, New Delhi - 110052|Dr D K Gulati|011 2723 2399, 011 2745 0737
+57|C-4/19, Main road, Acharya Niketan, Near Syndicate Bank, Mayur Vihar Phase I Mayur Vihar, New Delhi - 110091|Eskay Lab|011 2275 1743, 011 2279 4424, 011 6541 6091, 9810789631
+58|B-8/1 Lal Quarters Road, Block B, Krishna Nagar Karkardooma, New Delhi - 110051|Diagnostix Pathology Centre Pvt. Ltd|011 2251 0904
+59|17A/38, Vardan Building, Wea, Ajmal Khan Road, Near Jessa Ram Hospital Karol Bagh, New Delhi - 110005|I Trust BKJM Diagnostics & Research Institute|011 2875 2565, 011 2875 6239, 9560394937, 9560394909, 8826991474
+60|Near Madhuban Chowk, Rohini Sector 14 Rohini, New Delhi - 110085|Saroj Super Speciality Hospital|011 2790 3333, 011 4790 3333, 011 4944 4444
+61|C-15, Near Green Park Metro Station, Green Park Extension Green Park, New Delhi - 110016|C 15 MRI Diagnostic And Research Centre|011 3398 3449, 011 4113 8248
+62|C 6/9, Behind Hauzkhas Telephone Exchange, Safdarjung Development Area Hauz Khas, New Delhi - 110016|I Care Centre|011 3951 0143, 011 2696 3999, 9810108916
+63|Shopping Centre, Pamposh Enclave, Near R- Block, Greater Kailash I Greater Kailash, New Delhi - 110048|Sukhda Hospital|011 4336 4400
+64|E-60, Greater Kailash I Greater Kailash, New Delhi - 110048|Phoenix Hospital|011 4686 3800
+65|Printer Appartment, Rohini Sector 13 Rohini, New Delhi - 110085|Bhagwati Hospital|011 3954 1488
+66|67/1, New Rohtak Road, Near Liberty Cinema Karol Bagh, New Delhi - 110005|Jeewan Mala Hospital|011 3951 8722
+67|118-A/1, Gtb Chowk, Near Dilshad Garden Govt School & Rosemary Public School Dilshad Garden, New Delhi - 110095|Jeevan Jyoti Hospital|011 2258 2719, 011 2211 8026, 011 2212 3901
+68|B-16, Mehrauli Institutional Area, Near Qutab Hotel Hauz Khas, New Delhi - 110016|Sitaram Bhartiya Hospital|011 4211 1111, 011 4211 1100, 9810038789
+69|Buildig No. 5, Near Rajendra Place Metro Station, Pusa Road Karol Bagh, New Delhi - 110005|BLK Memorial Hospital|011 3040 3040
+70|D-305, Jamia Nagar, Abul Fazal Enclave, Dawat Nagar Okhla, New Delhi - 110025|Alshifa Multi Speciality Hospital|011 2698 9221, 011 2698 9222, 011 2698 9223, 011 2698 9224, 011 2698 9225
+71|2, Chandragupta Marg, Near Qatar Embassy Chanakya Puri, New Delhi - 110021|Primus Super Speciality Hospital|011 6620 6620, 011 6620 6630, 9289304927, 9711193189
+72|383/11 C, East Azad Nagar, Krishna Nagar Karkardooma, New Delhi - 110051|Surya Hospital|011 2200 2795, 011 2200 2364, 9810198845
+73|C-3/91-92, Near Fly Over, Dabri More Janakpuri, New Delhi - 110058|Orchid Hospital|011 4565 4565, 011 4565 4566, 9871579046
+74|E-241/A, Gtb Enclave, Opposite Gtb Hospital Gate No.-10 Dilshad Garden, New Delhi - 110095|Best Care Diagnostic & Physiotherapy Centre|011 3372 3836
+75|G-14, Karkari More, Opposite Pillar No-105, Preet Vihar Patparganj, New Delhi - 110092|Dr Anands Imaging & Neurological Research Centre|011 3306 0617
+76|B-12, West Nathu Colony, Main Mandoli Raod, Near Sant Krishna Bodh Public School Shahdara, New Delhi - 110032|Fine Diagnostic Centre|011 3954 5911
+77|185, Saini Enclave, Near Karkardooma Metro Station, Anand Vihar Karkardooma, New Delhi - 110092|Suraksha Diagnostic|011 3307 6044
+78|Shop No. 5, Plot No. E-29, Balaji Bhawan, Shashi Garden, Pocket-5 Mother Dairy, Mayur Vihar Phase I Mayur Vihar, New Delhi - 110091|Advanced Diagnostic Centre|011 3306 8148
+79|C 242, C Block, Main Road, Near Kali Badi Mandir New Ashok Nagar, New Delhi - 110096|Rajdhani Medical Centre|011 3363 3426
+80|A-87/1, Sewak park, Near Dwarka mod, Near NSIT College Dwarka, New Delhi - 110059|NDNC Diagnostic|8882435243, 9266402000
+81|Alam Plaza, 1st Floor, Tokar Number 4, Kalandi Kunj, Jamia Nagar Okhla, New Delhi - 110025|Peace Diagnostic Center| 9711835962
+82|5 A/34 Tilak Nagar, Opposite Metro Pillar Number 492, Near Police Station Tilak Nagar Janakpuri, New Delhi - 110018|City X Ray & Scan Clinic Pvt Ltd|011 4725 2000
+83|H-11, Green Park Extention Green Park, New Delhi - 110016|Lifeline Laboratory|011 2616 8587, 011 2616 8588, 011 2616 8589
+84|Block no-A, Green Park, Main Aurobindo marg Green Park, New Delhi - 110016|MRI/ PET CT Scan Centre|99994 46542
+85|77/A, Ground Floor, Telephone Exchange Road, Opposite Ihbas Hospital Gate Number 2 Dilshad Garden, New Delhi - 110095|Real Imaging & Research Centre|011 3374 4522
+86|Shop no.3, 2B-1, Single Storey, Ramesh Nagar Kirti Nagar, New Delhi - 110015|Ambika Diagnostics|01145541217, 9971896968
+87|B-219, Naraina Industrial Area, Phase-1, Naraina Mayapuri, New Delhi - 110028|Medcis Path Labs India Pvt Ltd (New Delhi)|011- 4503 8605
+88|B-243, Priyadarshini Vihar Karkardooma, New Delhi - 110092|Shree Path Labs|9818241028, 9891614054
+89|B-1/43, Malka Ganj Road, Malka Ganj, Near Main Post Office Civil Lines, New Delhi - 110007|Khurana Diagnostic Centre|011 2385 1055, 011 2385 8042, 9711838185
+90|7/10, Dr Mukherjee Nagar, Vishal Market Civil Lines, New Delhi - 110009|HiTech Diagnostic Services|011 2721 5385, 011 2744 4555, 9811054279
+91|1/1, Rani Jhansi Road, Jhandewalan, Near Delhi Heart & Lung Institute Pahar Ganj, New Delhi - 110055|Banwari Lal Charitable Trust|011 2352 4995, 011 2355 9910
+92|D-77-A, Friday Market Road, main road malka ganj, Malka Ganj, Near malka Ganj Chowk Civil Lines, New Delhi - 110007|Public Path Lab & Diagnostic Centre|011 3308 4664, 8010428205
+93|F-19A, Opp. Hudson Lane, Block F, Thekedaar Surjeet Singh Marg, Vijay Nagar Civil Lines, New Delhi - 110009|Dr. Madhus Ultrasound Clinic and Path Lab|011 2741 9460, 9811084727
+94|F-, New Market, Timarpur Civil Lines, New Delhi - 110054|Vinayak Poly Clinic & Diagnostic Centre|011 6596 9590, 011 6596 9591, 8750246641, 9810004303
+95|Plot Number 2/3/4, Roop Nagar, Near Shakti Nagar Crossing Civil Lines, New Delhi - 110007|Modern Ct Scan And Diagnostic Centre|011 3372 0401
+96|70, Bagh Diwar, Fatehpuri, Chandni Chowk Civil Lines, New Delhi - 110006|Gami Diagnostic Centre|011 2396 5969
+97|29/2, Shakti Nagar, Nangia Park Civil Lines, New Delhi - 110007|N N Xray & Sonar Diagnostic Centre|011 2384 3818, 011 2384 5306, 011 4235 1030, 011 4235 1031, 9810105655
+98|Q Block,House No 3, Prince Road, Model Town, Near Tagor Park Civil Lines, New Delhi - 110009|Model Town Diagnostic Centre|011 3308 8482, 011 2721 0984
+99|18, Shamnath Mg, Sant Parmanand Hospital Civil Lines, New Delhi - 110054|Vbcd Scan & Angiography Research Centre|011 2392 8696, 011 2396 8969
+100|1/3216 Shop No 2 Mandoli Road Shahdara, New Delhi - 110032|Patodia Diagnostic Center|9810290913
+101|Shop No 8, GTB Nagar, Edward Iines Civil Lines, New Delhi - 110009|Bedi Diagnostic Centre|8130205332, 9811267804, 8527870778
+102|360/1 B, Main road, Nirankari Colony, Near Dhirpur village Civil Lines, New Delhi - 110009|Raj Diagnostics And Imaging Centre|011 3374 4624
+103|D-938, Lower Ground Floor, Near Sujan Mohinder Hospital Okhla, New Delhi - 110025|SR Imaging And Diagnostics|011 3363 0928
+104|77, Bharat Nagar-Friends Colony East, Near Bank Of Baroda Okhla, New Delhi - 110065|Health View Diagnostic Centre|011 4609 9765, 9990970920, 9810459818
+105|C -64, Lajpat Nagar 1, Near Defence Colony Flyover Lajpat Nagar, New Delhi - 110024|Indraprastha Diagnostic Centre|011 2981 8839
+106|G 49, Lajpat Nagar 2, Near Rampul Lajpat Nagar, New Delhi - 110024|Unipath Diagnostics|011 3954 9108, 011 4172 6677
+107|1/4, Ground Floor, Vikram Vihar, Gupta Market Lajpat Nagar, New Delhi - 110024|Dr Makashirs Diagnostics Medical Lab|011 2646 3080, 011 2621 8577, 011 2622 2458, 9811153427
+108|C-81, Lajpat Nagar 2, Near C Block Mother Dairy Lajpat Nagar, New Delhi - 110024|Aastha Medical Centre|011 3372 8111
+109|B174, Dayanand Colony Lajpat Nagar, New Delhi - 110024|Star Imaging & Path Labs|011 4158 8564
+110|A 15, Tagore Market, Opposite Metro Pillar Number-334-335, Near Kerela Hospital Kirti Nagar, New Delhi - 110015|Neeraj Diagnostic Center|011 4568 3435, 011 2517 3435, 9717616196, 9999250985
+111|A-2 Block Paschim Vihar, New Delhi - 110063|Jain Diagnostics|011 3297 9614, 9810492621
+112|B-1/18-A, JAWALA HERI MKT ROAD, Near Punjab National Bank Paschim Vihar, New Delhi - 110063|Quest Diagnostics|011 4551 0741
+113|D-364, Road Number 28, Tagore Garden Extension Mayapuri, New Delhi - 110027|Indian Diagnostic Center|011 2546 1178
+114|G-51, Basement, Dr Deen Dayal Upadhyaya Marg, Block G, Pushkar Enclave Paschim Vihar, New Delhi - 110063|Yours Care|9289666666
+115|3457, Main Hansapuri Road, Pandit Lekhram Sharma Marg, Tri Nagar Pitampura, New Delhi - 110035|Dewan Medical Centre|011 2731 8487
+116|Shop no-6, GH-9 DDA MARKET, Near safal dairy Paschim Vihar, New Delhi - 110063|N D Diagnostic Centre|9711559595
+117|R R 13, Miyan Wele Nagar, Near peeragari Paschim Vihar, New Delhi - 110063|Indo American Health Care|011 3222 2022, 9990488080, 8467822022
+118|487/76, Near Bright Motors, Peera Garhi Paschim Vihar, New Delhi - 110087|Gupta Health Republic|011 2734 5252
+119|Shop No.15, Ground Floor, Najafgarh Road, Nangloi, Near Voter Card Office Paschim Vihar, New Delhi - 110041|Ganesh Diagnostic & Imaging Centre|011 2594 1405
+120|West Patel Nagar, Main Patel Road, Block A, Guru Arjun Nagar, Khampur Patel Nagar, New Delhi - 110008|Sidharth Chain Of Diagnostics|011 2570 3093
+121|C/o Nijhara Hospital,2979/3 Ranjit Nagar, South Patel Nagar Patel Nagar, New Delhi - 110008|Nijhara Hospital|011 2584 8721, 9811075034, 9810125573
+122|10a,29, Patel Nagar East, Pop. Patel Hospital Patel Nagar, New Delhi - 110008|Life Aid Diagnostics|011 3257 1778, 9953268886, 8860076419
+123|6/27,Ground Floor, West Patel Nagar, Near Moti Cinema Theatre Patel Nagar, New Delhi - 110008|Appurva Diagnostic|011 2588 7977, 9891044555, 9717849555
+124|6/1,Ground Floor, West Patel Nagar Patel Nagar, New Delhi - 110008|SRV Pathology Centre|8375860083, 9582306210
+125|1/3, East Patel Nagar, Metro Pillar No-181, Patel Nagar Metro Station Patel Nagar, New Delhi - 110008|Himgiri X Ray Centre|011 2588 0281, 9818690182, 9810488518
+126|E-84, Lajpat Nagar 2 Lajpat Nagar, New Delhi - 110024|Dr Lal Path Labs (Lajpat Nagar)|011 3372 3625
+127|M-25, Old Double Story, Behind Ring Road, Part-4 Lajpat Nagar, New Delhi - 110024|Metropolis Diagnostic Centre (Lajpat Nagar)|011 4051 6263
+128|A-3 / 318, Paschim Vihar Exten Paschim Vihar, New Delhi - 110063|Janta Diagnostic Center|011 2526 6263, 011 6546 0325
+129|15a/A-2b, Ekta Apartment Paschim Vihar, New Delhi - 110063|Nova Diagnostic Centre|011 2526 8744, 011 2526 8745, 011 2525 6247, 011 6544 8830, 9810031363
+130|Rohtak Road,Nagloi Chowk, Nangloi, Near Petrol Pump Paschim Vihar, New Delhi - 110041|Janata Diagnostic Centre|011 2526 1931
+131|1, Main Rohtak Road, Peera Garhi, Near Peera Garhi Metro Station, Paschimi Enclv Paschim Vihar, New Delhi - 110063|Krystal Scan & Diagnostic Centre|011 4518 1111, 9871002228, 9718002228
+132|8, Inder Encl, Main Rohtak Road Paschim Vihar, New Delhi - 110063|Spectrum Imaging & Diagnostic Centre|011 4515 1111, 9971575997
+133|A- 4, shiv market, Near grover sweets Paschim Vihar, New Delhi - 110063|Nirmal Xray & Diagnostic Centre|011 2526 8332, 011 2527 6164, 9999003573, 9873600606
+134|1ST Floor, Sarbati Complex, Near State Bank Of India, Jwala Heri Market Paschim Vihar, New Delhi - 110063|Nishit Clinical Laboratary|011 2526 6939, 9811532134
+135|86 D, Najafgarh Ext., Nangloi Road, Najafgarh Najafgarh, New Delhi - 110043|Accurate Diagnostics|9210739625, 9311237764
+136|J-16, Sri Aurobindo Marg,Hauz Khas Enclave Hauz Khas, New Delhi - 110016|Dr Gulati Imaging Institute|9811081309
+137|Ultra sound X Ray & Colour Doppler Clinic, E-6-A, E Block Market Hauz Khas, New Delhi - 110016|Dr Gopal K Gupta Diagnostic Centre|011 2651 3174, 9810272107
+138|253/1, Shahpur Jat Hauz Khas, New Delhi - 110049|Neethi Diagnostics Centre|011 2649 6813
+139|K18, Hauz Khas Enclave Hauz Khas, New Delhi - 110016|Mahajan Imaging (Hauz Khas)|011 4313 8000
+140|A-70, Ground Floor, DDA Flats, Mount Kailash, East of Kailash Greater Kailash, New Delhi - 110065|Kohli Imaging & Diagnostic Centre|011 2641 4261, 9810049591
+141|15, Greater Kailash 1 Rd, Block W, W Block, Greater Kailash I Greater Kailash, New Delhi - 110048|BR Diagnostics and Imaging|011 4163 0339, 9990119483, 9560988224
+142|A-28, Kailash Colony Greater Kailash, New Delhi - 110048|Wellness Diagnostics|011 4106 2814
+143|S-13, Greater Kailash 1, Opposite M Block Market Greater Kailash, New Delhi - 110048|Dr. P. Bhasin Path Labs|9311193111
+144|A Block, House No 19 A, Main Road, Kailash Colony, Near Kailash Colony Metro Station Greater Kailash, New Delhi - 110048|Nova Specialty Hospital|011 3951 5632, 011 4046 5555, 9810705350
+145|S-63, Part-1, Greater Kailash, Opposite M Block Market Greater Kailash, New Delhi - 110048|Health Plus MRI And Diagnostics|011 4123 4567, 9650174847, 7838339912
+146|F - 44, Near Kailash Colony Metro Station, East of Kailash Greater Kailash, New Delhi - 110065|Paras Spring Meadows Hospital|011 4041 1111
+147|88, hari nagar, Main road, Ashram, Near flyover Lajpat Nagar, New Delhi - 110014|N Y Clinic|011 3951 3759
+148|C-234, Near Main Market, Defence Colony Lajpat Nagar, New Delhi - 110024|Dr Charu Kohlis Clinic|011 3954 4899
+149|T-272, Jasola Vihar, Jamia Nagar Okhla, New Delhi - 110025|SAM Imaging & Diagnostics Centre|011 2684 0445
+150|Office No- 165 E (Basement), ABC House Main Road Okhla, Sarai Jullena, Opposite Escort Hospital Okhla, New Delhi - 110025|Orbit Diagnostics|9911241943, 9650079328, 9650339328
+151|Plot No-177, Parkview Apartment, Basement, Opposite Okhla Head Bus Stand, Jamia Nagar Okhla, New Delhi - 110025|Shadab Diagnostics|011 2691 0418, 011 2692 0071, 9910097872
+152|D-423/424, Raghubir nagar, Janta Colony, Tagore Garden Extension Mayapuri, New Delhi - 110027|Ajay X-Ray & Clinical Lab|9811462102
+153|Deewan House, Ajay Enclave, Subhash Nagar, Opposite Yes Bank ATM, Tagore garden Mayapuri, New Delhi - 110027|Wellness Pathcare|011 3398 7357
+154|J-1/162-A, Opposite Vishal Megha Mart, Main Market, Rajouri Garden Mayapuri, New Delhi - 110027|Prerak Pathology Clinic|011 2593 8312, 011 2510 6149, 9868481521, 9311618722
+155|Metro Pillar No. 492,Subhash Nagar, 5A/1, Block 7, Tilak Nagar Janakpuri, New Delhi - 110018|Bharat X-Ray Clinic|011 2598 8184
+156|C 70, Major Sudesh Kumar Marg, Opposite Mahadev Bindra Park, Rajouri Garden Mayapuri, New Delhi - 110027|The Apollo Clinic|011 3363 7226, 011 2591 8222, 011 2591 8333, 9711203302, 9811061009
+157|No. C-1, Vishal Enclave, Rajouri Garden Mayapuri, New Delhi - 110027|Kukreja Hospital and Heart Centre|011 4567 5000
+158|Wz-22a Sant Pura, Uggarsain Market, Tilak Nagar, Near Tilak Nagar Police Station Janakpuri, New Delhi - 110018|We Care Diagnostics|011 3343 7120
+159|Chowk Opposite New Delhi, Shivaji College Road, Block M, Tagore Garden Extension Mayapuri, New Delhi - 110027|Ganesh X-Ray &Diagnostics Center|011 2527 5745, 011 2542 9061, 9958586555
+160|U-55, West Patel Nagar Patel Nagar, New Delhi - 110008|Super Diagnostic|011 3954 4116
+161|South Ext -P-2, Mahatma Gandhi Road, South Extension II Green Park, New Delhi - 110049|Al Khaleej Diagnostic Centre|011 2626 2680
+162|107, 1st floor, Masjid moth, South ext tower, South Extension Green Park, New Delhi - 110049|Anupam Diagnositc Centre|9718841613, 9818666172
+163|H-10, Green Park Extension, Near HDFC Bank Green Park, New Delhi - 110016|Focus Imaging & Research Centre|011 4219 9991, 011 4219 9992, 011 4219 9999, 9310683507, 9310133100
+164|118-A/B-1, Near G.T.B. Hospital Chowk Dilshad Garden, New Delhi - 110095|Pulse Diagnostics|011 6576 7015
+165|No.R-22, Part-II, Near Jain Mandir, South Extension Green Park, New Delhi - 110049|Uppal Diagnostics|011 2625 3824, 011 2626 2240
+166|123, South Extension 1, Masjid Moth, South Extension Green Park, New Delhi - 110049|SRL Diagnostics (South Extension)|011 3307 5608, 011 3374 2846, 011 3343 4505, 8860865186/91)-11-33745268, 9650645188, 8800255003
+167|23-B, Pusa Road, Opp. Metro Pillar 115 Karol Bagh, New Delhi - 110005|Dr. Doda's Diagnostics and Healthcare|011 4300 6300
+168|35B, Block 11, Opposite Metro Pillar No. 124, Near Rajender Nagar Metro Station, Old Rajender Nagar, Rajender Nagar Karol Bagh, New Delhi - 110005|Orbit Imaging [Rajender Nagar]|7264033364
+169|9930, Sarai Rohilla,New Rohatk Road, Near HDFC Bank Karol Bagh, New Delhi - 110005|Krishna Diagnostic Centre|011 2871 2576
+170|15 & 16, Main Vikas Marg, Hargobind Enclave-anand Vihar, Near Karkardooma Metro Station & Metro Pillar No-119 Karkardooma, New Delhi - 110092|House Of Diagnostics (Karkardooma)|011 3305 5277
+171|35 B, Pusa Road, Opposite Metro Pillar Number 124 Karol Bagh, New Delhi - 110005|Surya Diagnostics Ltd|011 3951 9854
+172|23-B, Pusa Road, Near Karol Bagh Metro Station Pillar No-114 Karol Bagh, New Delhi - 110005|Dr Suri Lab Pvt Ltd|011 3954 7666
+173|34B, Pusa Road, Rajinder Nagar Karol Bagh, New Delhi - 110005|Handa Imaging Centre|011 2578 4888
+174|D-1/1, Navin Shahdara Shahdara, New Delhi - 110032|Cosmos Diagnostic Center|011 2232 0544
+175|25 Raj Block, Naveen Shahdra, Opposite Shahdra Metro Station Shahdara, New Delhi - 110032|Dr Gupta Nursing Home & Hospital|011 3306 3395
+176|BEST Medical Savings, Services Across Delhi And NCR, Munirka, Medical Discount Provider In Your Area Vasant Vihar, New Delhi - 110067|Urolife Stone & Diagnostic Center|011 4141 4170, 9810019324
+177|Door No 87-A, Kapoor Wali Gali, Munirka, Munrika Village, Shivam Market , Near Anupam Restaurant Vasant Vihar, New Delhi - 110067|Amar X Ray & Pathological Lab|011 4239 8350, 9891135202, 9873674947
+178|11, Munirka Marg Vasant Vihar, New Delhi - 110057|Nutech Diagnostics|011 2614 0957
+179|Shop 5, Gyan Deep Complex, Gr Floor, Opposite Canara Bank, Bank St, Munirka Vasant Vihar, New Delhi - 110067|Health View Diagnostic Centre (Munirka)|011 3267 8452
+180|A 1/150, Near Kamal Cinema, Behind Green Field School, Safdarjung Enclave Safdarjung, New Delhi - 110029|Dr M L Aggarwal Imaging Centre|011 3951 2025
+181|B-7 Ext./126A, Arjun Nagar, Safdarjung Enclave Safdarjung, New Delhi - 110029|Sukhmani Hospital|011 2619 4000
+182|B 1/12, Safdarjung Enclave, Near mahindra showroom, Bhikaji Cama Place, Block B 1 Safdarjung, New Delhi - 110029|Goyal MRI & Diagnostic Centre|011 4077 1234
+183|Wz-409c, Opposite D D U Hospital Main Gate, Shaheed Mangal Pandey Marg, Janak Park, Pocket 408, Hari Nagar Janakpuri, New Delhi - 110064|Noble Diagnostic Centre|9015122220
+184|C 1/2, Janakpuri C Block, Opposite Mata Chanan Devi Hospital Janakpuri, New Delhi - 110058|Suraksha Diagnostic (Janakpuri)|011 3304 1315
+185|Plot No E 3/7, Mail Road, Rohini Sector 11, Near G3s Cinema Hall, Pocket E Rohini, New Delhi - 110085|Arora Diagnostic (Rohini)|011 2757 1155, 011 2757 0613, 011 4568 1756, 9810024554
+186|Plot No. 1B1, 3rd Floor, Kings Mall, Bhagawan Mahavir Marg, Sector 10, Near Rohini West Metro Station Rohini, New Delhi - 110085|Must & More Diagnostic Centre|011 6637 3737
+187|63, Pocket H-32, Sector-3 Rohini, New Delhi - 110085|Delta Diagnostics|011 2751 2342
+188|C.S.C-17,Pkt-17, Sector 7H Rohini, New Delhi - 110085|Religare Srl Diagnostics (Rohini)|011 2705 1885
+189|D-12,Gali No:4,Nanesh Enclave,Pehladpur Banger, Jain Colony Rohini, New Delhi - 110042|Delhi Diagnostic Centre|9213733199
+190|G-29/62, Sir Chotu Ram Marg, Sector 3 Rohini, New Delhi - 110085|Dr. Aggarwal's Diagnostics|011 2751 8660
+191|B-3/57, Sec. 6, Opposite Ambedkar Hospital Gate No. 3, Sir Chotu Ram Marg, Sector 6B Rohini, New Delhi - 110085|Bharat Diagnostics Centre|011 4782 4762
+192|271, Pkt. H-17, Bhagawan Mahavir Marg, Sector 7H Rohini, New Delhi - 110085|Handa X-Ray & Clinical Laboratory|011 2704 2927
+193|Near Japanese Park, Pocket C, Sector 2 Rohini, New Delhi - 110085|Red Diagnostics Centre|8802460293
+194|109, POCKET-A-1, NEAR DEEPALI CHOWK, OPP. BAGGA LINK, SECTOR-8 Rohini, New Delhi - 110085|Ganesh Diagnostic & Imaging Centre (Rohini)|011 2794 8484, 9811067479, 9810183948, 9212125996
+195|A-4/77, Sector 16 Rohini, New Delhi - 110085|Jain Diagnostic & Heart Clinic|011 2729 7183
+196|Shop No.1, Flat No.1, Pkt. F-23, Sector-3, Dr NS Hardikar Road Rohini, New Delhi - 110085|Jeewan X-Ray Clinic|011 2751 2695
+197|B-35, Moti Nagar Kirti Nagar, New Delhi - 110015|Master Diagnostics|011 2591 5910, 9312276182, 9810140754
+198|C-44, Bhimsen Dhingra Marg, C Block Kirti Nagar, New Delhi - 110015|Med Point Clinic|011 2591 5974
+199|Shop Number. 4/37, Jagdish Sachdeva Marg, Block 4, Moti Nagar Kirti Nagar, New Delhi - 110015|Shivam Xray Lab Clinic|011 2516 8882
+200|C B, Opposite Acharya Bhikshu Hospital, 15/4, Moti Nagar Road Kirti Nagar, New Delhi - 110015|HiTech Diagnostics (Kirti Nagar)|8506050516
+201|Gurudwara Shree Guru Singh Sabha, Sant Baba Karam Singh Marg, New Moti Nagar, Moti Nagar Kirti Nagar, New Delhi - 110015|Life Care Diagnostics Centre|011 6572 4740
+202|B-37/1, Ramesh Nagar, Near State Bank Of India & LIC Office Kirti Nagar, New Delhi - 110015|Dr G L Arora Clinic|011 2593 5959, 9811181706
+203|Vasundhara Enclave, Dharamshila Road, Near New Ashok Nagar Metro Station New Ashok Nagar, New Delhi - 110096|Dharamshila Cancer Hospital and Research Centre|011 4306 6353
+204|108 A, Indraprastha Extension, Patparganj Patparganj, New Delhi - 110092|Max Super Speciality Hospital (Patparganj)|011 4303 3333, 011 3951 0682
+205|4-11, Asaf Ali Rd, Chandni Mahal, Chandni Chowk Pahar Ganj, New Delhi - 110002|Dr Suneja Mri & Diagnostic Centre|011 2325 4465
+206|B-1266/1267, Shop No.9 R.S.TOWER, Opposite Metro pillar No. 156, Near Metro Station New Ashok Nagar, New Delhi - 110096|HealthScan Pathology Laboratory|011 3341 3903, 8750213101, 8860362916
+207|A 440, GD Colony, Mayur Vihar Phase III Mayur Vihar, New Delhi - 110096|Dr Kumar Path Lab|011 3345 3510
+208|12, D D A Local Shopping Complex, Opposite Jeevan Anmol Hospital, Mayur Vihar Phase I, Pratap Nagar Mayur Vihar, New Delhi - 110091|Malik Diagnostic Centre|011 3307 9275, 9810081573
+209|No. 101, Mayur Vihar Phase 1, Near Virmani Hospital Mayur Vihar, New Delhi - 110091|Dr Chandra Path Lab|011 2272 1548, 9250509775
+210|C-1/7, Opposite Mata Chanan Devi Hospital Janakpuri, New Delhi - 110058|Star Imaging and Path Lab Pvt Ltd|011 4560 2200, 011 4057 4111, 011 4057 4112, 9990019101
+211|A-5B/63A, Near C-2 Bus Stop, Lal Sain Mandir Marg, Possangipur Janakpuri, New Delhi - 110058|Swati Diagnostic Centre|011 2028 5650, 011 4011 9286
+212|C4E/334, Ram Mandir Marg Janakpuri, New Delhi - 110058|Grover Diagnostics|011 4561 0543
+213|C 3 New Krishna Park Janakpuri, New Delhi - 110058|Capital X-Ray & Scan Clinic|011 4158 2442, 011 4158 2332
+214|D-2 Block Janakpuri, New Delhi - 110058|M P Diagnostic Center|011 2852 4274
+215|Shop No.9, Opp. Orchid Hospital, C3 Rd, C-2 D Block, C - 2D Market Janakpuri, New Delhi - 110058|Star X Ray & Path Lab|011 4502 7166
+216|AL- 6, Sbi Building, Jail Road, Block-L, Hari Nagar Janakpuri, New Delhi - 110058|Wellness Pathcare (Janakpuri)|011 3305 7623, 9990921988
+217|B - 3A/225, Behind Andhra School Janakpuri, New Delhi - 110058|The Path Lab|011 3345 2741
+218|B-15, Ground & First Floor, Shankar Garden, Opposite Metro Pillar No-609, Vikaspuri Janakpuri, New Delhi - 110018|Dr Rajivs Ultrasound Lab|011 3954 6941, 011 4551 5754, 011 4563 0884
+219|B-31, Shivalik Road, Near Aurobindo College Malviya Nagar, New Delhi - 110017|Dr. Mukul's Diagnostic Clinic|011 2669 2555
+220|H 36 D, Saket Malviya Nagar, New Delhi - 110017|Sun Diagnostic Centre|011 2651 2481, 011 2651 4566
+221|6/75, Guru Gobind Singh Marg, Block E Malviya Nagar, New Delhi - 110017|Quest Diagnostics India- Patient Service Centre|011 4605 4971
+222|90/3 A, Near PT. Madan Mohan Govt Hospital & School, Malviya Nagar Inner Lane Malviya Nagar, New Delhi - 110017|Dr Makkar Diagnostic Centre|011 4143 5248
+223|B-89 Malviya Nagar, New Delhi - 110017|Modern Diagnostic Center|011 2667 1708, 011 3988 5050
+224|B-34, Basant Kaur Marg, Block B, Shivalik Malviya Nagar, New Delhi - 110017|VNH Diagnostics|011 2669 1356
+225|109 AGGARWAL TOWER, POCKET O&P MARKET Dilshad Garden, New Delhi - 110095|Diagnostic Point|011 2213 0717
+226|108-a, Pocket 1 Dilshad Garden, New Delhi - 110095|Dr Agarwal's Pathology Lab|9871463492
+227|IHBAS Hospital Complex, Near GTB Hospital Dilshad Garden, New Delhi - 110095|Focus Imaging & Research Centre (Dilshad Garden)|011 2211 1000
+228|118-A/B-2, Ground Floor Dilshad Garden, New Delhi - 110095|Unique Diagnostic Center|011 2213 9003, 011 2213 4830
+229|Building No. 241-A, GTB Campus Dilshad Garden, New Delhi - 110093|Best Care Diagnostics|011 2213 1347
+230|F/94-A, Opp. GTB Hospital, Pocket F Dilshad Garden, New Delhi - 110095|City Ultrasound Center|9899478833
+231|F-106,Chetak Complex, Pocket B & E Market, Chetak Complex Dilshad Garden, New Delhi - 110095|Prime Diagnostics|011 2259 7080, 011 2258 6640
+232|Shop no. G3, Plot no. 118A/B1, Near jeevan jyoti hospital Dilshad Garden, New Delhi - 110095|Hindustan Diagnostic Center|8800163465, 8800162761
+233|Shop No.1, F-185-A, Opposite GTB Hospital, Pocket F Dilshad Garden, New Delhi - 110095|Anand Imaging Center|8459413215
+234|15/1 Ground Floor, Mandir Lane, Yusuf Sarai, Near Green Park Metro Station Green Park, New Delhi - 110016|SRL Diagnostics (Green Park)|11 3305 8484, 7210560275
+235|C 15, Green Park Extension, Near Gurudwara Green Park, New Delhi - 110016|MRI Diagnostic And Research Centre|, 011 3374 4015, 011 3951 4204, 9810611206
+236|D-1206/1A, MB ROAD, Sangam Vihar Sainik Farm, New Delhi - 110080|Surya Lab|8459819998
+237|L-1632/29, sani bazar main road, Sangam Vihar Sainik Farm, New Delhi - 110080|New Life care Diagnostic center|8826038734
+238|35-A, Main Surajkund Road, Pul Prahladpur, Badarpur Tughlakabad, New Delhi - 110044|Dr Rupalis Ultrasound And Pathology Lab|9911770075, 9891592800
+239|AD-130 A Shalimar Bagh, New Delhi - 110052|Shalimar Diagnostic Centre|011 2748 0015
+240|1441 A, Ward No 1& 5, Saini Mohalla, Opposite Primary Health Centre Najafgarh, New Delhi - 110043|Doctors Diagnostic Center|011 2501 4099
+241|Roshan Mandi, Masudabad Najafgarh, New Delhi - 110043|Path Star Diagnostic Centre|011 6467 1123, 9212348031, 9717101123
+242|25, Thana Road, Near Chhawla Stand Najafgarh, New Delhi - 110043|National Diagnostic Centre|011 2502 1044, 011 2501 2814
+243|Thana Road Najafgarh, New Delhi - 110043|Delhi X-Ray & Lab|9711431850
+244|WZ-148, Ring Road, Mahatma Gandhi Road, Naraina Village Mayapuri, New Delhi - 110028|Vishishth Daignostic Center|9818316422
+245|F-54, Bhimsen Dhingra Marg, Block F Kirti Nagar, New Delhi - 110015|Metropolis Healthcare Ltd (Kirti Nagar)|011 4142 4168
+246|WZ-6, Near Sabji Mandi, Naraina Village Mayapuri, New Delhi - 110028|Getwell Diagnostic Centre|9999716747
+247|C 44,Ground Floor Kirti Nagar, New Delhi - 110015|Quest Diagnostics (Kirti Nagar)|011 4237 1000, 9910684244
+248|D-76, Guru Gobind Singh Marg, DDA Flate Malviya Nagar, New Delhi - 110017|Metropolis Health Care|9810899503
+249|Shop No 1, Paryavaran Complex Main Road, Freedom Fighter Vihar, Saiyad ul Ajaib Sainik Farm, New Delhi - 110044|Roots Diagnostics Centre|8287770800
+250|Mehrauli - Badarpur Rd, Khanpur Village, Khanpur Sainik Farm, New Delhi - 110062|Southend Diagnostic Point|9818476337
+251|F-117 Khanpur Village, Shcool Road, Khanpur, Near Shiv Mandir Shiv Park Sainik Farm, New Delhi - 110062|Ciplo Diagnostics|9999286240
+252|BB-41, Shalimar Bagh West, Near Pyramid Mall Shalimar Bagh, New Delhi - 110088|Manisha Diagnostics|011 2748 1501, 9873510720
+253|B 4/138, Shop Number 4, Rohini Sector 7 Rohini, New Delhi - 110085|Diagno Labs Pvt Ltd|011 3343 5827, 9650026570, 9999216480
+254|House No-13/A, Near Voter Election Office, Main Chhatarpur Road, Chattarpur Sainik Farm, New Delhi - 110074|Health Point Diagnostics|011 6512 3707
+255|Shop No. 26, 27, Delhi Development Authority Market, BH West Shalimar Bagh, New Delhi - 110088|Gupta Diagnostic Centre (Shalimar Bagh)|011 2748 4740
+256|Shop No: AA-25, Near Mother Dairy Shalimar Bagh, New Delhi - 110088|Medix Diagnostics|9911585085
+257|Main Road Shalimar, BC-62, Maharaja Agrasen Marg, West Shalimar Bagh Shalimar Bagh, New Delhi - 110088|Kashyap Diagnostics|011 2748 5024
+258|Aj 31 A, L I G Flats Shalimar Bagh, New Delhi - 110052|New India Diagnostic Centre|011 2747 7639
+259|Shop No.415, Galli Choupal Wali, Shalimar Village Shalimar Bagh, New Delhi - 110088|R.K. Diagnostic Centre|011 2749 5194, 9654367194
+260|47, Harsh Vihar, Shyamji Krishna Varma Marg, Engineers Enclave Pitampura, New Delhi - 110034|OnePlus Ultrasound Lab|011 4248 0101
+261|4(FF), JD Market, Vaishali Pitampura, New Delhi - 110088|Aarushi Diagnostic Center|011 2731 2235
+262|Ed-9A, Madhuban Chowk Pitampura, New Delhi - 110088|Nanda Diagnostics|011 4750 0500
+263|Y 2069, Mangolpuri, Opposite Primary School Gate Pitampura, New Delhi - 110034|Wellage Path Care|011 3305 9806
+264|735/5, Main Road Burai, Near Govt.School ,Opposite MTNT Exchange Office Burari, New Delhi - 110084|SRL Diagnostics (Burari)|9868423796
+265|A-621, Nathu Pura Main Road, Kaushik Enclave Burari, New Delhi - 110084|Health Care Diagnostic Centre|9910319498
+266|Shop No 20, Neelkhant Apartment 2, Sant Nagar, Opposite bank of Baroda Burari, New Delhi - 110084|Dhruv Diagnostics Center|011 2761 2393, 9013974330
+267|Main Road, Opposite Sant Hospital, West Sant Nagar Burari, New Delhi - 110084|Capital Ultrasound Centre|9818077928
+268|Main Gali, Near Kamal Vihar Burari, New Delhi - 110084|Bharat Medicos|9910277446
+269|Gali No. 1, Kaushik Enclave, Nathupura Road, Block A Burari, New Delhi - 110084|Shree Ganesh Pathological Lab|9990641456
+270|A-240, Main Road, Kaushik Pura, Gali Number 6, Block A, Nathu Pura Burari, New Delhi - 110084|Sharda X-Ray & Pathological Lab|9599106189
+271|787/1, Sant Nagar, 100 Foota Road, Opposite Canara Bank Burari, New Delhi - 110084|Vardaan Diagnostics & Woman Care Center|011 3374 2864
+272|Shop No. 21/117, Bhagwati Chowk, Bangali Colony, A-1 Block Burari, New Delhi - 110084|Maa Parwati Diagnostic Center|9990687203
+273|D.C.M. Colony, Nathu Pura Burari, New Delhi - 110084|Life Line Diagnostics Center|9654732875
+274|Plot No -2, Gali No-1, Mian Burari Chowk, Near Daroga Market Burari, New Delhi - 110084|Global Path Lab|011 6536 5264, 9136497006, 9313616541
+275|433/1,City Child & Family Care Hospital, Main 100 Feet Road, Near Laxmi Vihar Main Bus Stand Burari, New Delhi - 110084|City Lab & Imaging Centre|011 3363 4531
+276|Main Bus Stand, Opposite Union Bank Of India Burari, New Delhi - 110084|Shri Ram X Ray Lab|9211461937, 9810481138
+277|10-B, Kasturba Gandhi Marg Pahar Ganj, New Delhi - 110001|Diwan Chand Satyapal Aggarwal Diagnostic Imaging Research Centre|011 4370 7700, 011 2332 9887
+278|Shop No.1, Plot-H4, Ground Floor, Model Town III, Model Town Civil Lines, New Delhi - 110009|Quest Diagnostics (Model Town)|011 4237 1507
+279|C-41, Mahendru Enclave, Lane No. 4, Opposite Vardhman Mall, Near Azadpur Metro Station Pahar Ganj, New Delhi - 110033|Shivam Diagnostics|011 2722 1222
+280|Shop No.388, Sabzi Mandi Old Pahar Ganj, New Delhi - 110007|Human Path Lab|9212329569
+281|4-B, Ansari Rd, Dariya Ganj Pahar Ganj, New Delhi - 110002|Dr. Dusaj's Diagnostic Laboratory|011 2327 5213
+282|Shop No. 1502, Gali Qasim Khan, Balli Maran Gali, Chandni Chowk Pahar Ganj, New Delhi - 110006|Mesco Diagnostic Center|011 2394 4724
+283|Chandni Mahal, Chandni Chowk Pahar Ganj, New Delhi - 110006|CDDC Pvt Ltd|011 2328 9448
+284|Building No. 8047/9, Multani Dhanda Pahar Ganj, New Delhi - 110055|Jeewan Jyoti Diagnostic Centre|011 2353 4458, 9810991509, 9582082366
+285|2362-T, Opposite Hanuman Mandir, Bawana Road Narela, New Delhi - 110040|Ganesh Diagnostic & Imaging Centre Pvt Ltd|9911579584
+286|1984-1, Mangla Chowk, Opposite Central Bank Of India, Adjacent To Bahadurgarh Bus Stand, Railway Road, Rajeev Colony Narela, New Delhi - 110040|Dr. Bansal's Diagnostic Centre|011 2778 7989
+287|75/151, Near Syndicate Bank, Main Narela Road, Alipur Narela, New Delhi - 110036|Om Sai Diagnostic Centre|9899607055
+288|24, Auchandi Road, Bawana Narela, New Delhi - 110039|Health Care Diagnostic Center|8860785377
+289|154/25-36, Opp. Maharishi Balmiki Hospital, Main Bawana Road, Pooth khurd, Puth Khurd Village Narela, New Delhi - 110039|Jain Diagnostic Centre|011 2776 2258
+290|A-100, Basement, Main Road, Masoodpur, Vasant Kunj Vasant Vihar, New Delhi - 110070|Arpna Diagnostic Center|011 2612 4862, 011 3244 4359, 9810196882
+291|C-28/2, 1st Floor, Main Road, Opposite Community Centre, Abdul Gaffar Khan Marg, Vasant Kunj Vasant Vihar, New Delhi - 110070|Sigma Diagnostic Centre|8800552957
+292|7B, Opposite NTPC Gate No.-3, Jaitpur Road, Molar band Extension, Badarpur Tughlakabad, New Delhi - 110044|Sharma Diagnostic Center|9350229451
+293|150, Basement, Main Chowk, Badarpur Village, Badarpur Tughlakabad, New Delhi - 110044|Dabra Diagnostic Centre|9716166447
+294|109, Pocket D & E Shopping Complex, NEAR MTNL OFFICE, Sarita Vihar Okhla, New Delhi - 110076|Immuno Diagnostics Private LImited|011 2694 4867
+295|B- 44, BHARAT NAGAR Okhla, New Delhi - 110025|Srl Religare Diagnostic Centre|011 2684 8485
+296|D - Block, Ismailpur Road, Sarpanch Farm, Jaitpur Road, Badarpur Tughlakabad, New Delhi - 110044|Chitransh Diagnostic Centre|9958636148
+297|G-72/3, 1st Floor, Shaheen Bagh, Jasola Okhla, New Delhi - 110025|Hopkins Laboratories|011 2994 5829
+298|230, L I C Building, Opposite J B Hospital Dilshad Garden, New Delhi - 110095 |Yashoda Life Time|99103 76200, 9313118538
+299|D D A Market, 1st Floor, Opposite G T B Hospital Gate No. 8 Dilshad Garden, New Delhi - 110093|Jyoti Dignostic Center|9250150262, 9871721446
+300|No. G-8, Shivam Plaza, B & E Market, Opposite Jhill Mill Metro Station Dilshad Garden, New Delhi - 110095|Merrill Healthcare|9810676601, 9313116491
+301|Shop No 6, 1st Floor, DDA Market, Pocket E, GTB Enclave, Opposite GBT Hospital, Dilshad Garden, New Delhi - 110093|Pratham Diagnostics Center|011 3080 3870
+302|34 Rani Jhansi Road, Near Jhandewalan Mandir Dilshad Garden, New Delhi - 110055|Path Care Labs Pvt. Ltd.|011 3080 3870
+303|Shop no.10, pocket I, dda market Dilshad Garden, New Delhi - 110095|Dr. Singh's Ultrasound & Diagnostic Centre|011 2211 4902, 011 2211 5902, 9910044902
+304|F 182 Dilshad Colony, Opposite Seemapuri Dtc Bus Depo Pass Dilshad Garden, New Delhi - 110095|Gtb Diagnostic Centre|9910007242
+305|E-200a, Lig Flat, Gtb Enclave, Opposite Gate No-10, Gtb Hospital Dilshad Garden, New Delhi - 110093|Mayur Pathology Lab|9210326558, 9911227578
+306|F-103,103a Dilshad Garden, New Delhi - 110095|Indraprasth Diagnostic Centre (Dilshad Garden)|011 2212 3803, 011 2212 0505, 9811924947, 9654220118
+307|Shop No. 13, Defence Colony Market, Block A, Defence Colony Lajpat Nagar, New Delhi - 110024|Religare Wellness|011 4953 7737
+308|D-1, Second Floor, Defence Colony Lajpat Nagar, New Delhi - 110024|Zureka Network Lab|011 2983 5921, 9654964455
+309|E-991, Pitampura Road, Saraswati Vihar Road Pitampura, New Delhi - 110034|Sachdeva Diagnostic Pvt Ltd|011 2701 3174
+310|No. 17, Maharshi Parshuram Marg, Tarun Enclave Pitampura, New Delhi - 110034|Sigma Diagnostics|011 2701 3138
+311|C-57, Preet Vihar, Shakarpur Patparganj, New Delhi - 110092|SRL Diagnostics (Preet Vihar)|011 4587 2190
+312|Qu - 198 A Pitampura, New Delhi - 110034|Jain Diagnostic Centre (Pitampura)|011 2734 3176
+313|P-10, Phase-1, Patparganj Road, Pandav Nagar, Block P Mayur Vihar, New Delhi - 110091|Arora Diagnostic Centre|011 2275 1817
+314|23, Gagan Vihar, Near Karkardooma Crossing, Jagatpuri, Laxmi Nagar Karkardooma, New Delhi - 110092|Delhi Gut & Liver Clinic|011 3294 6399
+315|B 248 Uniyal Complex, Main Road, Vinod Nagar, Opposite Akash Bharti Patparganj, New Delhi - 110092|Astha Path Lab|011 3363 6278
+316|B-294, opposite East End Appts, Mayur Vihar phI extension, Near Ashok Nagar Metro Station- On main road New Ashok Nagar, New Delhi - 110096|Diabetes Care Centre|011 2271 0663, 9871110663
+317|E 411 A, Taksal Road And 40 Foota Road, Near Rajdhani Public School New Ashok Nagar, New Delhi - 110096|Sai Polyclinic|011 3374 2527
+318|242, Pkt-E, Mayur Vihar Phase II Mayur Vihar, New Delhi - 110091|Dr Manisha Kumar Ultrasound Clinic|011 3954 2204, 9971713301
+319|Shop No:T-43,Okhla-1, Ma Anandmayee Marg, Tekhand, Okhla Phase I, Okhla Industrial Area Okhla, New Delhi - 110020|Nishantha Diagnostic Centre|011 2637 1999
+320|Shaheen Bagh, E/193/3, Maulana Azad Rd, Shaheen Bagh, Jasola Vihar Okhla, New Delhi - 110025|Biocare Diagnostics|9818932628
+321|Shop No - K 1/110, Ground Floor,(Left Side), Chittaranjan Park Okhla, New Delhi - 110019|Quest Diagnostics (Okhla)|011 4300 5456 
+322|H-1, Vikramaditya Towers, Alaknanda Market, DDA Flats Kalkaji, Kalkaji Okhla, New Delhi - 110019|Alaknanda Diagnostic|011 2602 4948
+323|E-117, Main Road, Near Nehru Place, Kalkaji Main Road, Block E, Kalkaji Okhla, New Delhi - 110019|Health Quotient|011 2644 4537
+324|3/2, Basement, Kalkaji Extension, Near Kalkaji Police Station And Kalkaji MCD Hospital Okhla, New Delhi - 110019|Bhagirathi Diagnostic & Dental Centre|011 2621 4681, 011 3349 5324
+325|D-616, Block D, Chittaranjan Okhla, New Delhi - 110019|Sachdeva Diagnostics|011 4160 0800
+326|E-22, Chaudhary Girdhari Lal Marg, Naraina Vihar Mayapuri, New Delhi - 110028|Apex Hospital|011 3307 4607, 011 4237 1367
+327| E - 18, Defence Colony Lajpat Nagar, New Delhi - 110024|Medanta Mediclinic|011 4411 4411
+328|A-263, Bhisham Pitamah Road, Defence Colony, Near Arya Samaj Mandir Lajpat Nagar, New Delhi - 110024 |Quest Diagnostic India Private Limited|011 4671 4693
+329|C/o Clinical Diagnoitics Labortory,Shop Number-B 43, Defence Colony Lajpat Nagar, New Delhi - 110024|Dr Swati Anand Clinical Diagnostics Labortory|011 2433 4287, 9968258545
+330|C-215, Defence Colony Lajpat Nagar, New Delhi - 110024|Arvind Lab|011 3372 3993
+331|Tughlakabad Extension Tughlakabad, New Delhi - 110019|Shalem Path Lab|9810261915 
+332|Rz 310, Street No. 20, Tughlakabad Extension, Opposite Tara Apartment Tughlakabad, New Delhi - 110019|Aruna Diagnostic Centre|9873079700
+333|HR 25 Basement, Shop No.1 Sharma Market, Badar Pur, Pul Pehladpur Tughlakabad, New Delhi - 110044|Limra Diagnostic Centre|9868413150, 9015414497
+334|Rz-181a/15, Tughlakabad Extension, Near Tara Appartment Tughlakabad, New Delhi - 110019|Modern Diagnostic Centre|011 2999 1129, 011 6536 3786, 9811219340
+335|35 A, Main Surajkund Road, Pul Prahladpur, Near Sharma Market Tughlakabad, New Delhi - 110044|Dr Rupali Ultrasound Centre And Pathology Lab|011 3306 3005, 011 3382 8255, 8800545523
+336|A-229 Shakti Nagar Extension, Near Shastri Nagar Metro Station Pitampura, New Delhi - 110052|Dhruv Diagnostic|011 2365 9990
+337|Shop No. 102, First Floor, Pankaj Plaza, Plot no. 13, Near Agarwal Sweet, Sector 12 Dwarka, New Delhi - 110075|Central Diagnostics|011 6463 6333
+338|L1, Shiv Shakti Plaza, Mahavir Enclave, Main Palam Dabri Road, Near Dwarka Crossing, Main Palam Dabri Road Dwarka, New Delhi - 110045|Sanjeevani Diagnostic Centre|011 2503 3824
+339|A - 43, Palam Dabri Marg, Vaishali Colony, Dashrath Puri Dwarka, New Delhi - 110045|Bansal Diagnostic Center|011 2539 1617
+340|Sector 12 Dwarka, Block A Dwarka, New Delhi - 110078|Express Clinics Pvt Ltd|011 2803 6164
+341|13 &14, Kashmiri Market, Near Gate No:3, AIIMS, Yusuf Sarai, Ansari Nagar East Green Park, New Delhi - 110029|Arogyam Diagnostic Center|011 2658 9882
+342|Sri Aurobindo Marg, Ansari Nagar East Green Park, New Delhi - 110016|Global Diagnostics|8860075555
+343|Gyan Deep Complex, Munirka Vasant Vihar, New Delhi - 110067|Dr R Yadav Ultrasound Clinic|011 4167 0369
+344|62-A, Laxmi Market, Munirka Vasant Vihar, New Delhi - 110067|Chitra Memorial Diagnostic Centre|011 2610 7009
+345|Kapoor Wali Gali, Munirka Vasant Vihar, New Delhi - 110067|Amar X-ray Lab|9891135202
+346|Stall No. 10, Market, R.K.Puram, Vivekanand Marg, Sector 1 Vasant Vihar, New Delhi - 110022|Chhabra Clinical Lab And Ultrasound Centre|011 2610 2637
+347|132, Mian Market, Mohammad Pur, Near Bhikaji Cama Place Vasant Vihar, New Delhi - 110066|Life Care Diagnostic Centre|011 2616 4611
+348|8, Palam Marg Vasant Vihar, New Delhi - 110057|SRL Diagnostics (Vasant Vihar)|011 3092 0803 
+349|Freemasons Hall, Tolstoy Road, Janpath, Connaught Place Pahar Ganj, New Delhi - 110001|General Williams Masonic Polyclinic|011 2332 0673, 011 2332 8246
+350|P- 10 , 4th Floor, CP, Connaught Place, Near Shivaji Stadium Pahar Ganj, New Delhi - 110001|Hindustan Wellness|011 4620 0000, 9212888000
+351|1, Mehrauli Badarpur Road, Tuglakabad Institutional Area, Near Saket Metro Station Tughlakabad, New Delhi - 110044|Batra Hospital & Medical Research Centre|011 3372 8237
+352|S178, Saini Enclave Karkardooma, New Delhi - 110092|GuidemyTreatment|011 4018 0000, 9210690010
+353|S-212-A, Laxmi Nagar, Near Metro Station Karkardooma, New Delhi - 110092|Thyrocare Biolabs|011 3308 7874
+354|House no-90 shop no-2, J&k block, Laxmi Nagar, Near Narula Bakery Karkardooma, New Delhi - 110092|Jeewan Jyoti Path Lab|9268662618, 9871336697, 8742922901
+355|501, Near Rama Medicos, Kaithwara, Pehla Pushta, New Usmanpur Shahdara, New Delhi - 110032|Om Physiotherapy Clinic|9312829179, 9999240999
+356|A-73, Near Shyam Garment, Vikas Marg, Laxmi Nagar, Near Madhuban Chowk Karkardooma, New Delhi - 110092|Dr Garg Labs Pvt Ltd|011 2252 0277, 011 2252 0731, 011 6574 7475, 9212378577
+357|C- 4, Anand Vihar, Opposite Pushpanjali Medical Centre, Near Karkardooma Metro Station Karkardooma, New Delhi - 110092|Super Religare Laboratories|011 4242 7475, 011 2215 5678, 011 2216 4400, 9818744424, 9891493422
+358|I-1177, Thanawali Road, Mangolpuri Kirari Suleman Nagar, New Delhi - 110083|Mayur X Ray And Diagnostic Centre|011 2792 5409
+359|Near M2K Cinema, A-1/33, Pradeep Bhatia Marg, Sector 7A Rohini, New Delhi - 110085|Raghav Diagnostic Centre|011 2705 5440
+360|A-16, Balvir Vihar,Opposite Govt.Sr.School, Dheeraj Vihar, Sector 20 Rohini, New Delhi - 110086|Sunil Diagnostics Centre|9013448325, 9312341916
+361|Y-12, Main Market, Phase 1, Shukar Bazar Road, Gulab Park, Budh Vihar Phase I, Budh Vihar Kirari Suleman Nagar, New Delhi - 110086|Sharma X-ray & Diagnostic Centre|9868728881
+362|D -31 ,BUDH VIHAR PHASE 1, HANUMAN MANDIR WALI GALI, Budh Vihar Phase I, Budh Vihar Kirari Suleman Nagar, New Delhi - 110086|Adarsh Imaging Centre|8375997695
+363|A-23, Aurobindo Marg, Next to Free church, Green Park Paschim Vihar, New Delhi - 110016|Organ Imaging and Research Centre|011 2685 9118
+364|A-4, Shiva Market Paschim Vihar, New Delhi - 110067|Nirmal X-ray & Diagnostic Centre|011 2526 8332
+365|56/57, 1st Floor, D D A Market, Rohini, Behind Sachdeva Public School Rohini, New Delhi - 110085|Gagan Pathology Centre|011 2786 8256
+366|G 32, Abul Fazal Enclave Part 2, Shaheen Bagh-Jamia Nagar, Near Central Bank Of India Okhla, New Delhi - 110025|Kousher Womens Clinic & Diagnostic Centre|011 3305 9479
+367|231 U S Complex, Mathura Road, Opposite Apollo Hospital Tughlakabad, New Delhi - 110044|Diagomet Laboratories|011 3349 8415
+368|C-121/7, Samosa Chowk, Main Road, Madanpur Khadar, Main Market Tughlakabad, New Delhi - 110076|Aman Poly Clinic|8800613118
+369|A 24/3, Ali Extension, Sarita Vihar Tughlakabad, New Delhi - 110076|Lipid Diagnostic|9310140044
+370|F-62, Sarita Vihar, Main Jeetu Market, Ali Vihar Okhla, New Delhi - 110076|Sundar Diagnostic Center|9312338976, 9540510976
+371|Gc 63, Pul Prahladpur, Badarpur Tughlakabad, New Delhi - 110044|Yadav Health Care Clinic|011 2636 2792, 9899587961, 9540660865
+372|Near Govt. School, Mahipalpur-Rangpuri Rd, K-Block, Mahipalpur Vasant Vihar, New Delhi - 110037|Uttaranchal Diagnostic Centre|011 2678 5030
+373|Shop No. K-26, Main Vasant Kunj Road, Mahipalpur Vasant Vihar, New Delhi - 110037|Immuno Care Diagnostics|9313817354
+374|A-1257, Mayur Vihar Phase III, Gdf Market, Near Bank Of Baroda Mayur Vihar, New Delhi - 110096|Aashirwad Diagnostic Centre|011 2261 2639, 011 3023 2550, 9312972497
+375|29, Shanti Vihar, 1st Floor, Near karkardooma Karkardooma, New Delhi - 110092|Dr. Vagish Dave Clinic|011 3080 3923
+376|No. F-24/5, Mandir Marg, Krishna Nagar, Opposite Sahid Hospital Karkardooma, New Delhi - 110092|Satkum Clinic|011 3310 4968, 011 2209 8462, 9868027893
+377|B-128, Vivek Vihar Dilshad Garden, New Delhi - 110095|Standard Diagnostic Centre|011 2215 4131, 011 2250 4131
+378|D-194, Street Nob-2, Mandawali, Near nalanda chowk Karkardooma, New Delhi - 110092|Accurate Path Lab|9999889623, 9971713626
+379|136, Mool Chand Jain Dispensary, Gali No 4, Geeta Colony, Shastri Nagar Karkardooma, New Delhi - 110031|Indian Pathology|9971992843, 9818132489
+380|R-50, Mangalam Build, Vikas Marg, Shakarpur, Near Metro Piller No.- 43 Karkardooma, New Delhi - 110092|Dhruv Diagnostic Lab|011 2250 3940, 011 2204 7487, 9811364458
+381|7/31, Gurudwara Road, Geeta Colony Karkardooma, New Delhi - 110031|National Lab|011 2204 6732, 011 2204 0889, 8802899660, 9810333854
+382|16/27, Geeta Colony Karkardooma, New Delhi - 110031|B K Medical Centre|011 6558 8794, 9810422118, 9971422118
+383|17-A Shivpuri Main Road, Patparganj Road, Geeta Colony Karkardooma, New Delhi - 110031|Shakuntala Maternity And Surgical Centre|011 2254 9600, 011 2254 7721, 9899139912
+384|1/27, Geeta Colony, Near Kashish Restaurant Karkardooma, New Delhi - 110031|City Pathology|011 22411344, 9213141970
+385|D-29 Vivek Vihar I Dilshad Garden, New Delhi - 110095|Dr Savita Jain Arun Imaging Centre|011 2214 2079, 011 2214 9256, 9810933308
+386|D-29, Vivek Vihar, Opposite Vivekanand Mahila College Shahdara, New Delhi - 110032|Arun Imaging Centre|011 2214 9256, 011 2214 2079, 9810933308
+387|350/2, West Guru Angad Nagar, Mangal Bzr Road, Laxmi Nagar, NEAR Radhu Palace Karkardooma, New Delhi - 110092|SAP Diagnostic Centre|9999083519, 9711297908, 9716146923
+388|D-24-B, Street No 1, Laxmi Nagar, Behind Shipra Hotel Karkardooma, New Delhi - 110092|Delhi X-Ray Clinic & Lab|9810211417
+389|Cv-40 Krishna Nagar East, Near Swaran Cinema Karkardooma, New Delhi - 110051|Suprime Pathology Lab|011 2209 8726
+390|G-60, Vikas Marg, Laxmi Nagar, Near Metro Pillar No-40 Karkardooma, New Delhi - 110092|Walia Nursing & Maternity Home|011 2254 8585, 011 2254 2294, 9313952093
+391|B/4, Opposite Gyan Bharti School, Near Malviya Nagar Metro Station, Saket Malviya Nagar, New Delhi - 110017|Chikitsa Hospital|011 2685 0033
+392|B-100, Near Malviya Nagar Post Office Malviya Nagar, New Delhi - 110017|Vardaan Hospital|011 2668 9911, 011 6658 3343
+393|J-293, Saket Malviya Nagar, New Delhi - 110017|Sawan Neelu Angels Hospital|011 4319 1300, 011 4319 1333
+394|B4/37 Bank Road, Harijan Colony, Sultanpuri Kirari Suleman Nagar, New Delhi - 110086|Shine Diagnostic Center|9350583103
+395|RZ-64, Opposite New D.T.C. Bus Terminal, Near Sabzi Mandi, Najafgarh Bahadurgarh Road, B-Block, Gopal Nagar Extension Najafgarh, New Delhi - 110043|Disha Diagnostic Cente|011 2953 3904, 011 2953 3904, 9212316747, 9650152550, 9871698717
+396|Dinpur, Durga Park, Najafgarh Road, Shanti Vihar, Dindarpur Najafgarh, New Delhi - 110043|Asian Diagnostic|011 6593 6272, 011 6593 0272, 9213090001, 9999108383, 9211118220
+397|Main Bijwasan Road, Dalmia Vihar, Bijwasan Najafgarh, New Delhi - 110061|Unique Health Care|011 2501 2176, 011 2501 6776, 9811047410
+398|B-162, East of Kailash Greater Kailash, New Delhi - 110065|Eden Hospital|011 4615 5555, 011 2683 0966, 011 2631 6726, 9811859331, 9250585647
+399|49-50, Community Centre, East Of Kailash, Behind Sapna Cinema Greater Kailash, New Delhi - 110065|National Heart Institute|011 4660 0700, 011 4660 6600
+400|B-16, Chirag Enclave, Opp. Devika Towers, Nehru Place Greater Kailash, New Delhi - 110048|Fortis C-Doc Hospital|011 4910 1222
+401|M-139, CR Park Road, Greater Kailash II Greater Kailash, New Delhi - 110048|Talwar Medical Centre|011 2921 6441
+402|A-4 Paschim Vihar, New Delhi - 110063|Sri Balaji Action Medical Institute|011 4288 8888, 011 4566 6666, 011 4288 8732
+403|305, 307-308, Ambika Vihar, Opposite Central School Paschim Vihar, New Delhi - 110087|Bhatia Global Hospital|011 2527 0701, 011 2527 0702, 9810008507, 9810138656
+404|B-362, 363, 364, Meera Bagh, Outer Ring Road Paschim Vihar, New Delhi - 110063|Sehgal Neo Hospital|011 4556 5656, 8527597171
+405|1380, sagatrashan gali, Sagatrashan Bazar, Near Khanna Cinema Hall Pahar Ganj, New Delhi - 110055|Shikha Xray & Laboratory|011 2358 6422, 9810191974, 9717196016
+406|C-1/3, 1st Floor, Main Road, Madhu Vihar, Main Market Pahar Ganj, New Delhi - 110092|Precision Diagnostic Centre|011 2223 4000, 011 2223 4100, 9811068139
+407|A Block Shalimar Bagh, New Delhi - 110088|Fortis Hospital|011 4530 2222, 011 4788 4788, 011 4530 2206, 011 4530 2277, 011 4530 2200, 8800222906, 8285138728
+408|Main Road Govind Market, Haiderpur, Near Gali No-1 Shalimar Bagh, New Delhi - 110088|Sahara Diagnostic|9250448675
+409|Shop No. 6 & 13, BH Block, Sahipur Village, Shalimar Bagh East Shalimar Bagh, New Delhi - 110088|Shubham Diagnostic Center|011 2749 0263
+410|Shop No.75, Shaipur Market, BH Block East, Rajvir Singh Sehrawat Marg, Block BH, West Shalimar Bagh Shalimar Bagh, New Delhi - 110088|Navya Diagnostic Centre|9996204873, 9050400646, 9996204873
+411|A-15 Basement, Panchwati, Opposite New Azadpur Subzi Mandi Bus Stop Shalimar Bagh, New Delhi - 110033|Parnami X Ray & Clinical Lab|011 2767 1153
+412|B-20, Near Defence Public School New Ashok Nagar, New Delhi - 110096|DPMI Diagnostic Centre|011 2271 5390, 011 2271 0006, 9968259530, 9210814454
+413|Shop No. B-7, Sarpanch Market, Ashok Nagar Extension New Ashok Nagar, New Delhi - 110096|East End Hospital|9953251299
+414|Safiyabad Road Narela, New Delhi - 110040|Shradha Multi Speciality Hospital|011 2728 1155
+415|Gali no.2, Rajiv Colony, Railway Road, MDR 138 Narela, New Delhi - 110040|Reena Janana & Surgical Hospital|011 2728 0072
+416|2116, Bawana Road, Bawana Road, Nai Basti, Narela Mandi Narela, New Delhi - 110040|Shri Bhagwan Diagnostic & Imaging Center|011 3313 5134
+417|43/3, LGF, Kishan Lal Bhatia Marg, Block 43, East Patel Nagar Patel Nagar, New Delhi - 110008|Bedi Ultrasound|011 2585 3524
+418|Plot NO. 9, Site 11, West Patel Nagar, Near S.D. Public School Patel Nagar, New Delhi - 110008|Test and Care Diagnostic Centre|011 3080 3870 Dial Extension: 402
+419|J-33, West Patel Nagar, Near j block, mother dairy Patel Nagar, New Delhi - 110008|Aditi Pathology Lab|9868266466, 9868266466, 9810349036, 9968017141
+420|19/ Near Aggarsen Hospital, 11/35, Rohtak Road, West Punjabi Bagh Patel Nagar, New Delhi - 110026|National CT Scan And Diagnostic Center|011 2522 0079
+421|28/27, East Patel Nagar, Near central park Patel Nagar, New Delhi - 110008|Dr. Maninders Diagnostics|9911300001
+422|Block, 15A/ 1, East Patel Nagar, Bodhraj Kohli Marg Patel Nagar, New Delhi - 110008|NewLife Labs|011 2588 1251
+423|House No. 1351/90, Talab Road, Ganeshpura, Tri Nagar Patel Nagar, New Delhi - 110035|Rog Diagnostic Centre|011 2738 3276
+424|28.671111, 77.157694, Rohtak Road, Manohar Park, Punjabi Bagh East, Karam Pura Patel Nagar, New Delhi - 110035|CRL Diagnostics|9312071938
+425|SHOP NO 4, SUNARO WALI GALI , Karampura, Main Market Patel Nagar, New Delhi - 110015|Doctors Path Lab|9582331508
+426|C 31, Raja babu Adarsh Nagar Shalimar Bagh, New Delhi - 110033|Ganga Diagnostics And Imaging Centre|011 3080 3870 Dial Extension: 252
+427|B-127, Joshi Colony, Behind Takshila Apartment Patparganj, New Delhi - 110092|R S Diagnostic Centre|011 2223 4004
+428|35, Preet Vihar Patparganj, New Delhi - 110092|Oncquest - Patient Service Center|011 2241 4049
+429|New Rajdhani Enclave, Swasthya Vihar Patparganj, New Delhi - 110092|Dr.Naresh Gupta Diagnostic Centre|011 2251 6965
+430|Plot No. Near, 8, Mother Dairy Marg, I.P.Extension, Pandav Nagar Patparganj, New Delhi - 110092|Ram Lal Kundan Lal Orthopedic Hospital|011 6525 2288
+431|A-147, Vikash Marg Road, Shakarpur Patparganj, New Delhi - 110092|Divya Polyclinic & Diagnostic Centre|011 2254 3923
+432|Block F Patparganj, New Delhi - 110091|Amra Diagnostics|9811212633, 9910940655, 9717306228
+433|C-18,Ground Floor, main road, Madhu Vihar, Near SAI Chowk Patparganj, New Delhi - 110092|Gen-X Diagnostics|011 4752 9349, 9911658489, 8802574111
+434|A-30, Street No.-2, Madhu Vihar, Near Singla Sweets Patparganj, New Delhi - 110092|Orba Diagnostics|011 2223 5780, 011 6462 4323, 7840095545
+435|D-2 B, Metro Station, Laxmi Nagar Patparganj, New Delhi - 110092|Shivalik Charitable Diagnostic Centre|9711569402, 9911986522
+436|Muni Maya Ram Jain Marg, KD Block Pitampura, New Delhi - 110088|Muni Maya Ram Jain Hospital|011 2731 7401
+437|C-1/16, Ashok Vihar Phase-2 Pitampura, New Delhi - 110052|JROP Healthcare|011 4504 4040
+438|8, Block TU, Double Tanki Road, Near City Park Hotel Pitampura, New Delhi - 110034|Janta Diagnostic Center (Pitampura)|011 3954 8010, 011 4016 4697
+439|Shop A/16, Ground Floor, 1, Ashok Vihar, Ashok Eye Block, Center Road Pitampura, New Delhi - 110052|Accurate Imaging Centre|011 2713 0891, 011 2724 4040, 011 4016 6450, 9810909808
+440|Sakti Vihar, School Road, Meetapur, Badarpur, Near Mahesh Awana X Nigam Parsad Tughlakabad, New Delhi - 110044|Om Diagnostic Centre|011 2666 7500, 9810047324
+441|Plot No. 14, Road Number 226, Sector 20, Near Metro Station 9 Dwarka, New Delhi - 110075|Artemis Hospital|011 7111 1000
+442|E-555, Dwarka Sector 7, Ramphal Chowk Opposite Banwari Sweets Dwarka, New Delhi - 110077|Star Imaging & Path Lab (Dwarka)|011 4510 8887, 9990872395, 9990019140
+443|E 7, 100 Feet Road, Jyoti Nagar, West Jyoti Nagar Extension Shahdara, New Delhi - 110032|C M Patel Hospital|011 3313 5138
+444|D/214, Abul Fazal Enclave-I, Abul Fazal Enclave, Jamia Nagar Okhla, New Delhi - 110025|B & B Diagnostic Centre|9910182965
+445|G-66, Jasola Kalindi Kunj, Main Road, Shaheen Bagh, Jasola Vihar Okhla, New Delhi - 110025|Mega Imaging & Diagnostic Centre|011 2994 8061, 9313367854, 9555009050
+446|Block DD 23, Kalkaji Extension, Kalkaji Okhla, New Delhi - 110019|Irene Hospital|011 3306 5699, 011 4992 2222
+447|C#15/16, Jamia Nagar, Okhla, Near Riaz Medical Centre Okhla, New Delhi - 110025|IWCA Medical and Diagnostic Centre|011 3080 3870 Ex 334
+448|143, Main Najafgarh Road, Nangloi Najafgarh, New Delhi - 110041|Surya Imaging & Pathology Centre|011 2594 3152, 011 3204 5275, 9810156328
+449|64-65, Najafgarh Road Najafgarh, New Delhi - 110043|Ganesh Scientific Research Foundation|011 2541 1062
+450|No. 662-A, Gaushala Road, Near SR Collection Centre Najafgarh, New Delhi - 110043|Najafgarh Diagnostic Centre|011 2501 6277, 9911183186, 9911183184
+451|Main Najafgarh Dhansa Road, Gopal Nagar Extension Najafgarh, New Delhi - 110043|Vijay Diagnostic Centre|011 2594 6477, 9212318557, 9560211947, 9212318551
+452|2, Nathu Ram Park, Tehsil Road Najafgarh, New Delhi - 110043|Aarogya Ruchi Hospital|9999103979
+453|Rajinder Nagar Koral Baug, New Delhi - 110060|Sir Ganga Ram Hospital|011 2575 0000, 011 4509 9999
+454|Sector-12, HAF-B, Phase-1 Dwarka, New Delhi - 110075|Rockland Hospital|011 4766 7100, 9717011667
+455|8, Siri Fort Road Hauz Khas, New Delhi - 110049|Sama Hospital|011 4311 1888, 9871955855
+456|Tulsi Dass, Kalra Marg Kirti Nagar, New Delhi - 110015|Kalra Hospital|011 2510 0000, 011 4500 5600, 011 4500 5700
+457|Building No. 1, Local Shopping Complex, Sector-B, Pocket-7, Opp.Police, Station, Nelson Mandel Marg, Vasant Kunj Vasant Vihar, New Delhi - 110070|Sukhmani Hospital (Vasant Kunj)|011 2613 4825
+458|Opposite Vasant Valley School, Sector C, Vasant Kunj Vasant Vihar, New Delhi - 110070|Indian Spinal Injuries Centre|011 4225 5200
+459|18 Sham Nath Marg, Railway Colony Civil Lines, New Delhi - 110054|Sant Parmanand Hospital|011 2399 4401
+460|7, Local Shopping Complex, Derawal Nagar, Phase-IV, Gujranwala Town Civil Lines, New Delhi - 110009|Pentamed Hospital|011 4701 4701, 011 2742 6675, 011 2742 6676
+461|24/9, Shakti Nagar Civil Lines, New Delhi - 110007|Aggarwal Dharmarth Hospital|011 2384 5604, 011 2384 3648, 011 2384 6558
+462|5, Begum Zaidi Market, Near Charak Palika Hospital Chanakyapuri, New Delhi - 110021|Charak Path Lab & Thyrocare|011 2412 2966, 9818811671, 9999639953
+463|Plot No. 12, Aurobindo Marg, Kashmiri IDP Market, Yusuf Sarai, Near AIIMS Gate No. 3 Chanakyapuri, New Delhi - 110029|Kuldeep - Healthcare Diagnostics|011 4049 8254
+464|A-44, Opposite Police Station Hauz Khas, New Delhi - 110016|South Delhi Ultrasound and X-Ray Clinic|011 4165 5332
+465|C-45, Pam Posh Enclave, G.K.-1 Greater Kailash I, New Delhi - 110048|Dr. Suman's Clinic|9810505463
+466|C-16 LGF C Block Mkt. Vasant Vihar, New Delhi - 110057|Medicura Healthcare|011-41077676
+467|B108 NEW ASHOK NAGAR new ashok nagar, New Delhi - 110096|Pathfinders Labs|09582392331,09540528235
+468|M-92, Bank Street, Landmark: Nr. Capital Court Building Munirka, New Delhi - 110067|Kapil X-Ray & Path Lab| 01126103995,26180629
+469|3/2, kalkaji extension, near kalkaji MCD hospital kalkaji, New Delhi - 110019|Bhagirathi Diagnostic and Dental Centre|011 2621 4681
+470|Near DLF City Mall Saket, New Delhi - 110017|Thyropath Labs|9818024964
+471|F-182, Dilshad Colony, Near D.T.C. Bus Depot Dilshad Garden, New Delhi - 110095|Diagnostic & Path Point & EYE CARE CENTRE|9582413770
+472|H1-A, Main Market Road, Opposite Neeli Masjid Hauz Khas, New Delhi - 110016|Vatika Medicare|8587897633
+473|C-537, GROUND FLOOR, POCKET-XI,DDA FLATS Jasola, New Delhi - 110025|Holy Queen Neuro Centre|8373922130
+474|Subhash Chok, Bakhtawarpur, Alipur Narela, New Delhi - 110036|Swastik Path Lab|9873790795
+475|9, Vikas Marg Patparganj, New Delhi - 110092|Platinum Imaging Centre A Unit Of Goyal Diagnostics|011 3951 0618
+476|69, Hargovind Enclave, Karkardooma, Patparganj, New Delhi - 110092|Clinical Diagnostic Centre|011 3951 9211
+477|7 D, NRI Complex, Below Union Bank, Mandakini Enclave, Alaknanda, Gretare Kailash 4 Greater Kailash, New Delhi - 110017|THYROCARE|011 4188 1362
+478|H. No. 216, Gali No 7, Uttranchal Enclave, Kamaal Pur Burari, New Delhi - 110084|Thyrocare Burari|9717004326
+479|Plot No 120 Ground Floor Hargobinda Enclave Karkardooma, New Delhi - |DNA Xperts|011 4568 1717
+480|Ed-9A, Madhuban Chowk, Pitampura , New Delhi - 110088|Nanda Diagnostics|011 4750 0500
+481|Cm2, Dilkhush Industrial Estate, Near Vijay Cinema, Azadpur, Azadpur , New Delhi - 110033|Shivam Diagnostic Centre|011 2722 1222,99719 52600
+482|House No. 2, 3 & 9, Shakti Vihar, Pitampura E-1073 Saraswati Vihar , New Delhi - 110034|Saral Diagnostics|011 4711 1111
+483|L1, Shiv Shakti Plaza, Mahavir Enclave, Main Palam Dabri Road, Near Dwarka Crossing, Main Palam Dabri Road , New Delhi - 110045|Sanjeevani Diagnostic Centre|011 2503 3824
+484| A-23, Aurobindo Marg, Next to Free church, Green Park , New Delhi - 110016|Janta X Ray Clinic (P) Ltd. - MR Centre|011 2685 9118
+485|a-100,Main Road , Masood Pur, vasant kunj , New Delhi - 110070|Arpna Diagnostic Centre|011 2612 4862
+486| 2/3-4, Roop Nagar, Near Shakti Nagar Crossing , New Delhi - 110007|Modern CT Scan & Diagnostic Centre|099906 00900
+487|Pratap Market, Munirka, K-92, Palam Marg, Block BA, Munirka , New Delhi - 110067|Diagnostic Centers|011 4141 4170
+488| 9930, Sarai Rohilla,New Rohatk Road, Near HDFC Bank , New Delhi - 110005|Krishna Diagnostic Centre|011 2871 2576
+489|No.1, Paschimi Enclave, Pira Garhi, Main Rohtak Road, Paschim Vihar , New Delhi - 110087|Krystal MRI Scan & Diagnostic Centre|011 4518 1111
+490|Shop No.B-40, Rajan Babu Rd, Block F, Adarsh Nagar , New Delhi - 110033|Dr. Anil Gupta Diagnostic Center|011 2767 3462
+491|D-364, Rd Number 28, Tagore Garden Extension , New Delhi - 110027|Indian Diagnostic Centre|011 2546 1178
+492|C-10, Green Park Extension , New Delhi - 110016|Focus Imaging and Research Centre|011 4219 9992
+493| A-229, Main Market, Shastri Nagar, Geeta Colony , New Delhi - 110052|Dhruv Diagnostic Centre|011 2365 9990
+494| C1/2, Opposite Mata Chanan Devi Hospital, Lal Sai Mandir Marg, Janakpuri , New Delhi - 110058|Suraksha Diagnostic - Janakpuri|011 4377 3000
+495|C1 / 8A,, Ghonda Rd, Yamuna Vihar, Shahdara , New Delhi - 110053|Ganesh Diagnostic Imaging Center-Yamuna Vihar|011 4733 3333
+496|M-2, Hauz Khas, Nr Green Park Masjid, Aurobindo Marg , New Delhi - 110016|Piramal Diagnostic|011 4165 5460
+497|15 & 16 Hargovind Enclave, Main Opposite Metro Pillar No. 119,, Vikas Marg, C Block, Preet Vihar , New Delhi - 110092|HOD Karkardooma - House Of Diagnostics|011 4018 0000
+498|70, Bagh Diwar, Fateh Puri, Fateh Puri , New Delhi - 110006|Gami Diagnostic Centre|011 2396 5969
+499|C2/1, S.D.A. Aurobindo Marg Next to Aurobindo Market , New Delhi - 110016|Dr Dangs Lab|011 4500 4200
+500| G-43, Green Park Main Market, Block S, Green Park Extension, Green Park , New Delhi - 110016|Green Park Diagnostics|011 4175 9058
+501| No.R-22, South Extension, Part-II, Near Jain Mandir , New Delhi - 110049|Uppal Diagnostics|011 2625 3824
+502|109, Pocket D & E Shopping Complex, Sarita Vihar, NEAR MTNL OFFICE , New Delhi - 110076|Immuno Diagnostics Private LImited|011 2694 4867
+503|515-516, Sector-19, Dwarka, Behind Gupta Properties , New Delhi - 110075|Siddhant Diagnostix|011 6518 9657
+504|Shop No T/16, Andheria Modh, Near Lal Masjid, Ward No 8, Mehrauli , New Delhi - 110030|Surya Diagnostic Centre|011 3299 4608
+505| E-34,(Ground Floor & Basement), Veer Savarkar Marg, Lajpat Nagar II, Lajpat Nagar , New Delhi - 110024|CarePlus Imaging & Diagnostics|011 2981 7238
+506| Shop No. 102, First Floor, Pankaj Plaza, Plot no. 13, Near Agarwal Sweet, Sector 12, Dwarka , New Delhi - 110075|Central Diagnostics|011 6463 6333
+507| B-31, Shivalik, Near Aurobindo College, Panchsheel- Shivalik Main Road , New Delhi - 110017|Dr. Mukul's Diagnostic Clinic|011 2669 2555
+508|No.1/1, Rani Jhansi Road , New Delhi - 110055|Banwari Lal Charitable Trust|011 2352 4995
+509|1441 A, Ward No 1& 5, Saini Mohalla, Opp Primary Health Centre, Najafgarh , New Delhi - 110043|Doctors Diagnostic Center|011 2501 4099
+510|4(FF), JD Market, Vaishali, Pitampura , New Delhi - 110088|Aarushi Diagnostic Center|011 2731 2235
+511| Q-3, Prince Road, Model Town I, Near Tagore Park, Model Town I , New Delhi - 110009|Model Town Diagnostic Centre|011 2721 0984
+512|11151, E Park Rd, Block 69D, Dori Walan, Karol Bagh , New Delhi - 110005|VERSHA IMAGING AND DIAGNOSTICS|011 2351 3051
+513|118-A/B-2, Ground Floor,, Dilshad Garden , New Delhi - 110095|Unique Diagnostic Center|011 2213 9003
+514|C-15, Green Park Extension Marg, Green Park , New Delhi - 110016|C15 MRI Diagnostic And Research Centre|011 4188 1111
+515|69, Hargovind Enclave, Opposite Railway Reservation Centre, Karkardooma , New Delhi - 110092|Clinical Diagnostic Centre|011 4307 6300
+516|J-16, Hauz Khas Enclave, Near IIT Flyover , New Delhi - 110016|Dr Gulati Imaging Institute|011 4951 5253
+517| Shop No.1, Plot-H4, Ground Floor, Model Town III, Model Town , New Delhi - 110009|Quest Diagnostics|011 4237 1507
+518|A-2/7 Near Petrol Pump, Paschim Vihar , New Delhi - 110063|Jain Diagnostics|011 3297 9614
+519|Shop No. G-49, Vaishno Devi Marg,, Opp. Rampul Shani Mandir, Rampul, LajpatNagar 2, , New Delhi - 110024|Unipath Diagnostics|011 4172 6677
+520|19/ Near Aggarsen Hospital,, 11/35, Rohtak Rd, West Punjabi Bagh , New Delhi - 110026|National CT Scan And Diagnostic Center|011 2522 0079
+521|Plot Number 7, G T Karnal Road , New Delhi - 110033|North Delhi Advanced Diagnostics & Mri Centre|011 3308 3362
+522|449 A, Shanti Swaroop Tyagi Marg, Near Main Bus Stand, Burari , New Delhi - 110084|Sahara Diagnostics-Burari|092100 27698
+523|17, Tarun Enclave, Parwana Road, Deepali, Pitampura , New Delhi - 110034|Sigma Diagnostic & Imaging Centre|011 4765 0000
+524|17-A/38, Vardan, W.E.A, Ajmal Khan Rd, WEA, Karol Bagh , New Delhi - 110005|B. K. Jain Memorial Diagnostics Centre|011 2875 2565
+525|Plot No. 284, Pocket-5, Near Living Style Mall, Jasola , New Delhi - 110025|RMC Diagnostics And CT Center|011 4081 7700
+526|AD-130 A, Shalimar Bagh , New Delhi - 110052|Shalimar Diagnostic Centre|011 2748 0015
+527|karawal nagar bhajanpura Loni, New Delhi - 110053|Akabya Diagnostic Center|7065423145
+528|C-544/2, Chajjupar Shahdra, Chhajjupur, Babarpur , New Delhi - 110032|Sera Cue Labs PVT. LTD|84471 05794
+529| 17-A, Pocket-1, (Opp. BSES Office), Mayur Vihar Phase 1 , New Delhi - 110091|Tomar Foundation Pathology Lab|011 2279 0413
+530|RZ-86, Raj Nagar,, Main Road Palam colony (opp Pillar no 35) , New Delhi - 110045|Star Imaging and Path Lab Pvt Ltd|011 6461 9800
+531|Delhi , New Delhi - 110031|BK Diagnostic|7065423145
+532| Yamuna Vihar, New Delhi - 110005|Lab Tech Diagnostic|7065423145
+533|Shop Number A 403, Sai Complex, Maidan Gari Road, Chattarpur, New Delhi - 110074| Guptas Accurate Diagnostic centre |011 3374 2932
+534|15 & 16, Main Vikas Marg, Hargobind Enclave-Anand Vihar Chattarpur, New Delhi - 110092| House Of Diagnostics |011 3305 5197
+535|Shop Number 4, Royal Complex, Chattarpur Main Road, Chattarpur, New Delhi - 110074|Sunrise Diagnostics Centre|011 3306 7868, 97171 73511
+536|B 149, Chattarpur Extention, Chattarpur Chattarpur, New Delhi - 110074|Goyal Health Care Polyclinic|11 3363 6905
+537|A 27, 60 Feet , Mangal Bazar Road Chattarpur, New Delhi - 110074|Health First Polyclinic|11 2630 3244, 78382 96200
+538|Akashwani Tiraha, Jawahar Road, Other, Chattarpur, New Delhi - |Chetna Poly Clinic|7682244844
+539|D-76, Malviya Nagar, New Delhi - 110017|DNA Labs India - Delhi|(011) 33635333
+540|A-41 Laxmi Niwas Mahipalpur South delhi,North delhi,East delhi,West delhi,Central delhi, New Delhi - 1100037|Omen Path Lab (Molq Laboratory Pvt Ltd)|9643185443,7042275015,01204309230
+541|D-2/48-49, Janakpuri , New Delhi - 110058|Bhagat Hospital|011 3341 5533
+542|C 9, Om Vihar, Uttam Nagar , New Delhi - 110059|Mata Roop Rani Maggo Hospital|011 3308 9498
+543|Plot No. 14, Road Number 226, Sector 20, Near Metro Station 9 Dwarka, New Delhi - 110075|Artemis Hospital|011 7111 1000
+544|S-524, School Block, Shakarpur , New Delhi - 110096|Som Datt Heart Diagnostic Centre|011 2248 6491
+545|Plot No- 66, sector-12A Dwarka, New Delhi - 110078|KV Labs|011 4244 8281
+546|A-5, Green Park Main, Aurobindo Marg Green Park, New Delhi - 110016|Exo Path Labs [Green Park]|7264033364
+547|Free Home Sample Collection All Over Delhi. , New Delhi - |Molq [Delhi]|9643185443

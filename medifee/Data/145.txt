@@ -1,0 +1,42 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2500.00 
+1|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1000.00 
+2|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+3|AFP (Alpha Feto Protein) Test|| Rs. 720.00 
+4|Albumin Test|| Rs. 100.00 
+5|Alkaline Phosphatase (ALP) Test|| Rs. 200.00 
+6|ANA (Antinuclear Antibody) Test|| Rs. 550.00 
+7|ANC Profile|| Rs. 150.00 
+8|Anti TPO Test|| Rs. 980.00 
+9|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 600.00 
+10|ASO Test|| Rs. 470.00 
+11|Beta HCG Test|| Rs. 650.00 
+12|CA 15.3 Test|| Rs. 1100.00 
+13|CA 19.9 Test|| Rs. 1100.00 
+14|CA-125 (Tumor Marker) Test|| Rs. 2000.00 
+15|CD4 Test|| Rs. 1250.00 
+16|CPK (Creatine Phosphokinase) Test|| Rs. 330.00 
+17|CT Scan|| Rs. 4200.00 (Brain Contras) 
+18|CT Scan|| Rs. 2800.00 (Brain Plain) 
+19|ECG|| Rs. 400.00 
+20|FNAC Test|| Rs. 800.00 
+21|FSH (Follicle Stimulating Hormone) Test|| Rs. 600.00 
+22|G6PD Test|| Rs. 750.00 
+23|Glucose Tolerance Test (GTT)|| Rs. 600.00 
+24|HCV Antibody Test|| Rs. 1400.00 
+25|Insulin Test|| Rs. 720.00 
+26|Iron Test|| Rs. 700.00 
+27|LH (Luteinizing Hormone) Test|| Rs. 600.00 
+28|MRI Scan|| Rs. 7000.00 (Brain Plain) 
+29|Prolactin Test|| Rs. 600.00 
+30|PT (Prothrombin Time) Test|| Rs. 500.00 
+31|Renal Profile|| Rs. 950.00 
+32|Sputum Routine Test|| Rs. 200.00 
+33|Stool Routine|| Rs. 100.00 
+34|Thyroglobulin Test|| Rs. 2200.00 
+35|Total Protein Test|| Rs. 250.00 
+36|Triglycerides Test|| Rs. 550.00 
+37|Troponin-I Test|| Rs. 1200.00 
+38|Vitamin A Test|| Rs. 5900.00 
+39|Vitamin C Test|| Rs. 6900.00 
+40|Widal Test|| Rs. 250.00 

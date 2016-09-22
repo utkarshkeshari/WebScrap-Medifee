@@ -1,0 +1,155 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 2200.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 120.00 
+2|AFP (Alpha Feto Protein) Test|| Rs. 700.00  (serum / amniotic fulid) 
+3|Albumin Test|| Rs. 150.00  (SERUM / URINE) 
+4|Albumin Test|| Rs. 200.00  (24 HRS URINE ALBUMINE) 
+5|Alkaline Phosphatase (ALP) Test|| Rs. 150.00  (serum) 
+6|Ammonia Test|| Rs. 1200.00  (plasma ) 
+7|Amylase Test|| Rs. 400.00 
+8|ANA (Antinuclear Antibody) Test|| Rs. 3500.00  (ANA-IMMUNOBLOT) 
+9|ANA (Antinuclear Antibody) Test|| Rs. 900.00  (ANA/IFA (ANTI NUCLEAR ANTIBODY)) 
+10|ANA (Antinuclear Antibody) Test|| Rs. 600.00 
+11|ANA (Antinuclear Antibody) Test|| Rs. 7000.00  (ANA PROFILE) 
+12|ANCA Profile|| Rs. 1000.00  (ANCA - MPO / ANCA-PR3) 
+13|Anti CCP (ACCP) Test|| Rs. 1200.00 
+14|Anti TPO Test|| Rs. 1000.00 
+15|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 400.00 
+16|ASO Test|| Rs. 500.00  (ASO QUANTATIVE) 
+17|Beta HCG Test|| Rs. 600.00 
+18|Bicarbonate Test|| Rs. 400.00 
+19|Bilirubin Test|| Rs. 150.00  (Direct / Indirect) 
+20|Bilirubin Test|| Rs. 250.00  (Total) 
+21|Bleeding / Clotting Time Test|| Rs. 120.00 
+22|Blood Culture Test|| Rs. 1000.00 
+23|Blood Sugar Test|| Rs. 150.00  ((FASTING + PP)) 
+24|CA 15.3 Test|| Rs. 1000.00 
+25|CA 19.9 Test|| Rs. 1000.00 
+26|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+27|Calcium Test|| Rs. 150.00 
+28|Calcium Test|| Rs. 200.00  (24 HOURS URINE CALCIUM) 
+29|CBC / Hemogram Test|| Rs. 250.00 
+30|CBC / Hemogram Test|| Rs. 300.00  (CBC+ESR) 
+31|CD4 Test|| Rs. 1500.00 
+32|CD4 Test|| Rs. 3000.00  (CD4 +CD8 (HIV VIRAL LOAD)) 
+33|CEA (Carcinoembryonic Antigen) Test|| Rs. 700.00 
+34|Color Doppler|| Rs. 3000.00  (Upper / Lower Limb (Right / Left) (VENOUS / ARTERIAL)) 
+35|Color Doppler|| Rs. 3500.00  (ABDOMEN) 
+36|Color Doppler|| Rs. 4000.00  (Both Upper / Lower Limb (Right/Left) (ARTERIAL / VENOUS)) 
+37|Color Doppler|| Rs. 4500.00  (PERIPHERAL (DUAL)) 
+38|Color Doppler|| Rs. 9000.00  (ALL FOUR LIMB (ARTERIAL + VENOUS)) 
+39|Color Doppler|| Rs. 6000.00  (ALL 4 LIMBS (ARTERIAL / VENOUS)) 
+40|Color Doppler|| Rs. 5500.00  (Both Upper / Lower Limb (ARTERIAL+VENOUS)) 
+41|Color Doppler|| Rs. 2500.00  (PORTAL AXIS/UPPER ABDOMEN / SMALL PARTS / SCROTUM / RENAL / PERIPHERAL (SINGLE) / OBSTETRIC / (NECK/THYROID) / LOWER ABDOMEN/PELVIS / CAROTID/NECK VESSELS / EYE/ORBIT) 
+42|Coombs Test|| Rs. 500.00  (Direct / Indirect) 
+43|Cortisol Test|| Rs. 600.00  (FASTING / RANDOM) 
+44|Cortisol Test|| Rs. 1100.00  (24HR URINE CORTISOL) 
+45|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+46|Creatinine Test|| Rs. 200.00  (24 HOUR URINE CREATINE) 
+47|Creatinine Test|| Rs. 125.00 
+48|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+49|CT Scan|| Rs. 7500.00  (CT COLONOSCOPY) 
+50|CT Scan|| Rs. 2500.00  (3D RECON-VOLUME RENDERING/FACE/PNS (AXIAL/CORONAL) - PLAIN/HEAD + PITUITARY) 
+51|CT Scan|| Rs. 3500.00  (SCROTUM (PLAIN) / SCANOGRAM WHOLE LEG/BOTH LOWER LIMB / PNS/ORBITS (AXIAL+CORONAL) - PLAIN / Joints/Face/Head+Orbit/Musculoskeletal/Nect/Larynx(Plain)/ADDITIONAL CONTRAST APPLICATION FOR CHEST + ABDOMEN) 
+52|CT Scan|| Rs. 8000.00  (DUAL PHASE ABDOMEN/ENTEROCLYSIS/MYELOGRAM (PLAIN + CONTRAST +ANEATHESIA) / PORTOGRAPHY / UROGRAPHY) 
+53|CT Scan|| Rs. 1500.00  (ADDITIONAL CONTRAST APPLICATION FOR HEAD + NECK/PNS / UPPER/LOWER ABDOMEN  FACE + NECK/Chest) 
+54|CT Scan|| Rs. 5000.00  (KUB/NECK + FACE(PLAIN) / HRCT TEMPORAL BONE (AXIAL+CORONAL+SAGITAL)) 
+55|CT Scan|| Rs. 3000.00  (ADDITIONAL CONTRAST APPLICATION FOR ABDOMEN+UROGRAPHY/ANGIOGRAPHY AORTA/LOWER LIMBS/BRAIN/NECK/RENAL/TRIPPLE PHASE/STUDY OF LIVER/MANDIBLE(PLAIN)/COLONOSCOPY/ENTEROCLYSIS/PORTOGRAPHY/DUAL PHASE/ORBITS/PNS/T M Joints/HRCT Temporal Bone(AXIAL/CORONAL)) 
+56|CT Scan|| Rs. 11000.00  (CT ANGIO HEAD & NECK WITH CONTRAST) 
+57|CT Scan|| Rs. 2000.00  (ADDITIONAL CONTRAST APPLICATION FOR CHEST + NECK/CISTERNOGRAPHY/WH0LE ABDOMEN/KUB/HEAD(PLAIN)/DR. CHARGES) 
+58|CT Scan|| Rs. 6000.00  (ANGIOGRAPHY (PER PART PLAIN)/BRAIN/NECK/WHOLE ABDOMEN (PLAIN)) 
+59|CT Scan|| Rs. 4000.00  (ADDITIONAL CONTRAST APPLICATION FOR CHEST+NECK+ABDOMEN/CERVICAL/DORSAL/LUMBER SPINE/LOWER ABDOMEN/PELVIS/CHEST (PLAIN)/HEADPLAIN+CONTRAST)/PNS (AXIAL+CORONAL+SAGGITAL)PLAIN/SAILOGRAM/SINOGRAM/HRCT TEMPORAL BONE (AXIAL+CORONAL)) 
+60|CT Scan|| Rs. 700.00  (CT ORAL CONTRAST) 
+61|CT Scan|| Rs. 1000.00  (ADDITIONAL CONTRAST APPLICATION FOR HEAD HEAD/NECK/PNS/ORBIT/SELLA/SINGLE SPINE/TEMPORAL BONE) 
+62|CT Scan|| Rs. 10000.00  (ANGIOGRAPHY RENAL + UROGRAPHY  (PLAIN)/ CHEST + NECK + ABDOMEN / DYNAMIC CT CHEST) 
+63|CT Scan|| Rs. 9000.00  (ANGIOGRAPHY UPPER LIMB (PLAIN)/CHEST/PULMONARY/ABDOMEN + UROGRAPHY) 
+64|CT Scan|| Rs. 7000.00  (ANGIOGRAPHY LOWER LIMB/AORTIC/PERFUSION(PLAIN)GUIDED PROCEDURES (FNAC)) 
+65|CT Scan|| Rs. 4200.00  (BASE OF SKULL (PLAIN)) 
+66|CT Scan|| Rs. 5500.00  (CERVICAL SPINE + CV JUNCTION) 
+67|CT Scan|| Rs. 4500.00  (CHEST + HRCT(PLAIN)/HEAD + FACE/NECK/PNS (PLAIN)/T M JOINT (AXIAL+CORONAL)/VIRTUAL BRONCHOSCOPY (HRCT + NCCT)/HRCT CHEST) 
+68|CT Scan|| Rs. 6500.00  (CHEST + NECK / CHEST + UPPER ABDOMEN (PLAIN)) 
+69|CT Scan|| Rs. 8500.00  (CHEST + WHOLE ABDOMEN (PLAIN) / NCCT CHEST + WHOLE ABDOMEN / TRIPLE PHASE) 
+70|CT Scan|| Rs. 7700.00  (CISTERNOGRAPHY (PLAIN)+ ANESTHESIA) 
+71|DHEA Test|| Rs. 850.00  (DHEAS SULPHATE) 
+72|Double Marker Test|| Rs. 1800.00 
+73|EEG|| Rs. 1800.00 
+74|Electrolytes Test|| Rs. 400.00 
+75|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 80.00 
+76|Estradiol (E2) Test|| Rs. 500.00 
+77|FNAC Test|| Rs. 900.00 
+78|FNAC Test|| Rs. 700.00  (FNAC - LARGE) 
+79|FNAC Test|| Rs. 400.00  (FNAC - SMALL) 
+80|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+81|G6PD Test|| Rs. 700.00  (G6PD QUANTITATIVE) 
+82|Gamma GT (GGTP) Test|| Rs. 200.00 
+83|Globulin Test|| Rs. 150.00 
+84|Glucose Tolerance Test (GTT)|| Rs. 500.00 
+85|HbA1C Test|| Rs. 450.00 
+86|HBsAg Test|| Rs. 350.00 
+87|HBsAg Test|| Rs. 1500.00  (HBSAG QUANTITATIVE TEST) 
+88|HCV Antibody Test|| Rs. 1200.00 
+89|HCV Antibody Test|| Rs. 1000.00  (ANTI HCV IGM) 
+90|HCV Antibody Test|| Rs. 800.00  (ANTI HCV TOTAL) 
+91|HLA B27 Test|| Rs. 2200.00 
+92|HLA B27 Test|| Rs. 4000.00  (HLA-B27 (PCR )) 
+93|Homocysteine Test|| Rs. 1500.00 
+94|Insulin Test|| Rs. 650.00  (PP / FASTING) 
+95|Kidney Function Test|| Rs. 700.00 
+96|LDH (Lactate Dehydrogenase) Test|| Rs. 450.00 
+97|LH (Luteinizing Hormone) Test|| Rs. 300.00 
+98|Lipoprotein A / LP(a) Test|| Rs. 1200.00 
+99|Lupus Anticoagulant (LAC) Test|| Rs. 1700.00 
+100|Magnesium Test|| Rs. 450.00 
+101|Malaria (Malarial Parasite) Test|| Rs. 150.00 
+102|Malaria (Malarial Parasite) Test|| Rs. 700.00  (MALARIA ANTIGEN) 
+103|Malaria (Malarial Parasite) Test|| Rs. 350.00  (MALARIA (QBC)) 
+104|Mammography|| Rs. 1500.00  (SINGLE SIDE) 
+105|Mammography|| Rs. 2500.00  (BOTH SIDE) 
+106|Microalbumin Test|| Rs. 500.00  (URINE) 
+107|Microfilaria Parasite Test|| Rs. 1200.00 
+108|PAP Smear|| Rs. 500.00 
+109|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+110|Phosphorus Test|| Rs. 150.00 
+111|Phosphorus Test|| Rs. 200.00  (24 hour. Phosphoras) 
+112|Platelet Count|| Rs. 150.00 
+113|Potassium Test|| Rs. 150.00 
+114|Progesterone Test|| Rs. 500.00 
+115|Prolactin Test|| Rs. 500.00 
+116|Protein Test|| Rs. 500.00  (24 HR URINE PROTEIN) 
+117|Protein Test|| Rs. 300.00  (PROTIEN ALBUMINE / PROTIEN GLUBULINE) 
+118|Protein Test|| Rs. 3500.00  (PROTEIN-C / PROTEIN-S) 
+119|Protein/Creatinine Ratio|| Rs. 800.00 
+120|PT (Prothrombin Time) Test|| Rs. 300.00 
+121|PTH (Parathyroid Hormone) Test|| Rs. 1100.00 
+122|Reticulocyte Count Test|| Rs. 250.00 
+123|Rheumatoid Arthritis (RA) Factor Test|| Rs. 450.00 
+124|Semen Analysis Test|| Rs. 300.00 
+125|Semen Analysis Test|| Rs. 500.00  (SEMEN CULTURE) 
+126|Semen Analysis Test|| Rs. 200.00  (SEMEN PROCTOSE) 
+127|SGOT Test|| Rs. 100.00 
+128|SGPT Test|| Rs. 100.00 
+129|Sodium Test|| Rs. 200.00  (24 URINE SODIUM) 
+130|Sodium Test|| Rs. 150.00 
+131|Synovial Fluid Analysis|| Rs. 650.00 
+132|Testosterone Test|| Rs. 1200.00  (FREE) 
+133|Testosterone Test|| Rs. 700.00  (TOTAL) 
+134|Thyroglobulin Test|| Rs. 1400.00 
+135|TORCH Test|| Rs. 1500.00  (TORCH - IGM / IGG) 
+136|Transferrin Test|| Rs. 1450.00 
+137|Triglycerides Test|| Rs. 200.00 
+138|Triple Marker Test|| Rs. 2200.00 
+139|Troponin-I Test|| Rs. 2000.00 
+140|Uric Acid Test|| Rs. 150.00 
+141|Uric Acid Test|| Rs. 380.00  (24 HOUR URIC ACID) 
+142|Urine Routine|| Rs. 80.00 
+143|VDRL Test|| Rs. 150.00 
+144|X-Ray|| Rs. 300.00  (AP-Feet/Hand/Lumber Spine/Abdomen Supine/Erect View/Bilateral Hand/Bone Age/Knee/CV Junction/Spine/Chest/Thigh/Wrist/Sacrum/Shoulder/Skull/Soft Tissue Neck/SMV/Ankle/Elbow/Foot/Forearm/Heel/Heep Joint/Leg/Sinuses/Pelvis/+Both Heep/PNS/Temporal/Nasal Bone) 
+145|X-Ray|| Rs. 600.00  (AP+LAL-Feet/Hand/ Spine//Hand/Knee/Thigh/Wrist/Sacrum/Shoulder/Skull/Soft Tissue Neck/Ankle/Elbow/Foot/Heep Joint/Leg/Pelvis+Both Heep/Abdomen/Sacrococcyx (View 2)) 
+146|X-Ray|| Rs. 900.00  ((A+LAL)Both Feet/Foot/Hand/Knee/Leg/Bilateral Ankle/ Styloid Process) 
+147|X-Ray|| Rs. 2500.00  (T TUBE CHOLINGIOGRAM /LOOPOGRAM/MCU/NEPHROSTOMOGRAM/SIALOGRAM/SINOGRAM/SKIO VIEW BOTH LOWER LIMB) 
+148|X-Ray|| Rs. 3000.00  (BARIUM ENEMA/RGU/IVP/SKELETON SURVEY (SKULL AP/LAT, WHOLE SPINE AP/LAT, PELVIS AP)) 
+149|X-Ray|| Rs. 1200.00  (BILATERAL ELBOW/FOREARM/SHOULDER(Both)/WHOLE SPINE/ (AP+LAL)/WHOLE SPINE LAT FLEXION/EXTENSION) 
+150|X-Ray|| Rs. 4500.00  (BARIUM ENEMA (DOUBLE CONTRAST)/RGU+MCU) 
+151|X-Ray|| Rs. 4000.00  (BARIUM SWALLOW/RAY BMFT) 
+152|X-Ray|| Rs. 3500.00  (GASTROGRAPHIN) 
+153|X-Ray|| Rs. 3800.00  (HSG) 

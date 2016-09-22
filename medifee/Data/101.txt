@@ -1,0 +1,93 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2500.00 
+1|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1850.00 
+2|AEC (Absolute Eosinophil Count) Test|| Rs. 180.00 
+3|AFP (Alpha Feto Protein) Test|| Rs. 850.00 
+4|Albumin Test|| Rs. 160.00 
+5|Alkaline Phosphatase (ALP) Test|| Rs. 370.00 
+6|Allergy Test|| Rs. 1000.00 
+7|Ammonia Test|| Rs. 950.00 
+8|ANC Profile|| Rs. 2850.00 
+9|Anti TPO Test|| Rs. 2500.00 
+10|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 500.00 
+11|Beta HCG Test|| Rs. 700.00 
+12|Bilirubin Test|| Rs. 150.00 
+13|Bleeding / Clotting Time Test|| Rs. 200.00 
+14|Blood Group Test|| Rs. 100.00 
+15|Blood Sugar Test|| Rs. 90.00 
+16|Blood Urea Nitrogen Test|| Rs. 150.00 
+17|CA 15.3 Test|| Rs. 1450.00 
+18|CA 19.9 Test|| Rs. 1400.00 
+19|Calcium Test|| Rs. 200.00 
+20|CBC / Hemogram Test|| Rs. 400.00 
+21|CD4 Test|| Rs. 950.00 
+22|Creatinine Clearance Test|| Rs. 200.00 
+23|Creatinine Clearance Test|| Rs. 450.00 
+24|CRP (C-Reactive Protein) Test|| Rs. 250.00 
+25|CT Scan|| Rs. 1500.00 (Brain Plain) 
+26|CT Scan|| Rs. 2400.00 (Abdomen Plain) 
+27|D Dimer Test|| Rs. 1450.00 
+28|ECG|| Rs. 300.00 
+29|Electrolytes Test|| Rs. 500.00 
+30|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 150.00 
+31|Gamma GT (GGTP) Test|| Rs. 450.00 
+32|HbA1C Test|| Rs. 500.00 
+33|HbA1C Test|| Rs. 550.00 
+34|HBsAg Test|| Rs. 550.00 
+35|HDL Cholesterol|| Rs. 650.00 
+36|Hemoglobin (Hb) Test|| Rs. 200.00 
+37|Homocysteine Test|| Rs. 1250.00 
+38|Kidney Function Test|| Rs. 700.00 
+39|Kidney Function Test|| Rs. 1050.00 
+40|L. E. Cells Test|| Rs. 450.00 
+41|LDH (Lactate Dehydrogenase) Test|| Rs. 370.00 
+42|LDL Cholesterol|| Rs. 150.00 
+43|Lipid Profile|| Rs. 700.00 
+44|Lipoprotein A / LP(a) Test|| Rs. 2150.00 
+45|Lithium Test|| Rs. 600.00 
+46|Liver Function Test|| Rs. 600.00 
+47|Lupus Anticoagulant (LAC) Test|| Rs. 1900.00 
+48|Magnesium Test|| Rs. 200.00 
+49|Magnesium Test|| Rs. 500.00 
+50|Malaria (Malarial Parasite) Test|| Rs. 170.00 
+51|Microfilaria Parasite Test|| Rs. 430.00 
+52|MRI Scan|| Rs. 5000.00 (Brain Plain) 
+53|MRI Scan|| Rs. 8000.00 (Plain Contrast) 
+54|PAP Smear|| Rs. 500.00 
+55|PCV (Packed Cell Volume) Test|| Rs. 180.00 
+56|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+57|Phosphorus Test|| Rs. 200.00 
+58|Platelet Count|| Rs. 120.00 
+59|Platelet Count|| Rs. 50.00 
+60|Pleural Fluid Analysis|| Rs. 500.00 
+61|Pregnancy Test|| Rs. 100.00 
+62|Prolactin Test|| Rs. 375.00 
+63|Prolactin Test|| Rs. 550.00 
+64|PT (Prothrombin Time) Test|| Rs. 370.00 
+65|PTH (Parathyroid Hormone) Test|| Rs. 1850.00 
+66|Pulmonary Function Test (PFT)|| Rs. 1800.00 
+67|Renal Profile|| Rs. 850.00 
+68|Reticulocyte Count Test|| Rs. 350.00 
+69|Rheumatoid Arthritis (RA) Factor Test|| Rs. 450.00 
+70|Semen Analysis Test|| Rs. 450.00 
+71|SGOT Test|| Rs. 120.00 
+72|SGOT Test|| Rs. 175.00 
+73|SGPT Test|| Rs. 120.00 
+74|SGPT Test|| Rs. 175.00 
+75|Sputum Routine Test|| Rs. 200.00 
+76|Stool Routine|| Rs. 200.00 
+77|Stool Routine|| Rs. 200.00 
+78|Synovial Fluid Analysis|| Rs. 500.00 
+79|Thyroid Test|| Rs. 450.00 
+80|Total Protein Test|| Rs. 250.00 
+81|Triglycerides Test|| Rs. 330.00 
+82|Triglycerides Test|| Rs. 200.00 
+83|Troponin-I Test|| Rs. 1800.00 
+84|Urea Test|| Rs. 200.00 
+85|Urea Test|| Rs. 150.00 
+86|Uric Acid Test|| Rs. 120.00 
+87|Uric Acid Test|| Rs. 180.00 
+88|Urine Routine|| Rs. 100.00 
+89|VDRL Test|| Rs. 200.00 
+90|VLDL Test|| Rs. 500.00 
+91|Widal Test|| Rs. 200.00 

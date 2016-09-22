@@ -1,0 +1,55 @@
+|Name|Offer|Price
+0|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+1|Amylase Test|| Rs. 500.00 
+2|ANC Profile|| Rs. 1500.00 
+3|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+4|Beta HCG Test|| Rs. 900.00 
+5|Bicarbonate Test|| Rs. 160.00 
+6|Bilirubin Test|| Rs. 200.00 
+7|Bleeding / Clotting Time Test|| Rs. 100.00 
+8|Blood Culture Test|| Rs. 700.00 
+9|Blood Group Test|| Rs. 100.00 
+10|Blood Sugar Test|| Rs. 100.00 
+11|Blood Urea Nitrogen Test|| Rs. 150.00 
+12|Calcium Test|| Rs. 180.00 
+13|CBC / Hemogram Test|| Rs. 300.00 
+14|Creatinine Test|| Rs. 150.00 
+15|Dengue IgG Test|| Rs. 550.00 
+16|Dengue IgM Test|| Rs. 550.00 
+17|Electrolytes Test|| Rs. 300.00 
+18|Globulin Test|| Rs. 500.00 
+19|HBsAg Test|| Rs. 350.00 
+20|HDL Cholesterol|| Rs. 180.00 
+21|Hemoglobin (Hb) Test|| Rs. 200.00 
+22|HIV Test|| Rs. 450.00 
+23|Insulin Test|| Rs. 800.00 
+24|Kidney Function Test|| Rs. 600.00 
+25|LDL Cholesterol|| Rs. 180.00 
+26|Lipase Test|| Rs. 500.00 
+27|Lipid Profile|| Rs. 550.00 
+28|Liver Function Test|| Rs. 550.00 
+29|Magnesium Test|| Rs. 180.00 
+30|Malaria (Malarial Parasite) Test|| Rs. 150.00 
+31|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+32|Phosphorus Test|| Rs. 160.00 
+33|Platelet Count|| Rs. 120.00 
+34|Potassium Test|| Rs. 200.00 
+35|Pregnancy Test|| Rs. 150.00 
+36|Protein Test|| Rs. 150.00 
+37|PT (Prothrombin Time) Test|| Rs. 300.00 
+38|Renal Profile|| Rs. 600.00 
+39|SGOT Test|| Rs. 160.00 
+40|SGPT Test|| Rs. 160.00 
+41|Sodium Test|| Rs. 180.00 
+42|T3 (Triiodothyronine) Test|| Rs. 250.00 
+43|T4 (Thyroxine) Test|| Rs. 250.00 
+44|Thyroid Test|| Rs. 600.00 
+45|Total Protein Test|| Rs. 150.00 
+46|Triglycerides Test|| Rs. 180.00 
+47|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+48|Urea Test|| Rs. 150.00 
+49|Uric Acid Test|| Rs. 120.00 
+50|Urine Routine|| Rs. 150.00 
+51|VDRL Test|| Rs. 200.00 
+52|Vitamin B12 Test|| Rs. 1000.00 
+53|Vitamin D Test|| Rs. 1500.00 

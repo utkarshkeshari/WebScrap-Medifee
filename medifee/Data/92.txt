@@ -1,0 +1,57 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 100.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 500.00 
+2|Albumin Test|| Rs. 100.00 
+3|Alkaline Phosphatase (ALP) Test|| Rs. 100.00 
+4|Allergy Test|| Rs. 600.00 (IGE) 
+5|Ammonia Test|| Rs. 900.00 
+6|ANC Profile|| Rs. 1200.00 
+7|Anti TPO Test|| Rs. 700.00 
+8|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+9|Bleeding / Clotting Time Test|| Rs. 200.00 
+10|Blood Group Test|| Rs. 70.00 
+11|Blood Sugar Test|| Rs. 50.00 
+12|Blood Urea Nitrogen Test|| Rs. 100.00 
+13|CA 15.3 Test|| Rs. 1100.00 
+14|CA 19.9 Test|| Rs. 1100.00 
+15|Calcium Test|| Rs. 200.00 
+16|Calcium Test|| Rs. 100.00 
+17|CBC / Hemogram Test|| Rs. 200.00 
+18|CEA (Carcinoembryonic Antigen) Test|| Rs. 900.00 
+19|Creatinine Clearance Test|| Rs. 400.00 
+20|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+21|CT Scan|| Rs. 2000.00 (Brain Plain) 
+22|CT Scan|| Rs. 3000.00 (Brain Contrast) 
+23|D Dimer Test|| Rs. 1200.00 
+24|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 60.00 
+25|HbA1C Test|| Rs. 400.00 
+26|LDH (Lactate Dehydrogenase) Test|| Rs. 600.00 
+27|LDL Cholesterol|| Rs. 100.00 
+28|Lupus Anticoagulant (LAC) Test|| Rs. 1500.00 
+29|Magnesium Test|| Rs. 600.00 
+30|Malaria (Malarial Parasite) Test|| Rs. 100.00 (Slide) 
+31|Malaria (Malarial Parasite) Test|| Rs. 400.00 (Antigen) 
+32|Microfilaria Parasite Test|| Rs. 1200.00 (Antigen) 
+33|MRI Scan|| Rs. 3000.00 (Brain Plain) 
+34|MRI Scan|| Rs. 6500.00 (Plain Contrast) 
+35|PAP Smear|| Rs. 1000.00 
+36|PCV (Packed Cell Volume) Test|| Rs. 60.00 
+37|Platelet Count|| Rs. 50.00 
+38|Pregnancy Test|| Rs. 60.00 
+39|Prolactin Test|| Rs. 400.00 
+40|PT (Prothrombin Time) Test|| Rs. 200.00 
+41|PTH (Parathyroid Hormone) Test|| Rs. 700.00 
+42|Pulmonary Function Test (PFT)|| Rs. 1800.00 
+43|Renal Profile|| Rs. 600.00 
+44|Reticulocyte Count Test|| Rs. 200.00 
+45|Rheumatoid Arthritis (RA) Factor Test|| Rs. 300.00 
+46|Semen Analysis Test|| Rs. 200.00 
+47|SGOT Test|| Rs. 100.00 
+48|SGPT Test|| Rs. 100.00 
+49|Stool Routine|| Rs. 100.00 
+50|Triglycerides Test|| Rs. 100.00 
+51|Troponin-I Test|| Rs. 600.00 
+52|Urea Test|| Rs. 100.00 
+53|Uric Acid Test|| Rs. 100.00 
+54|Urine Routine|| Rs. 100.00 
+55|VLDL Test|| Rs. 100.00 

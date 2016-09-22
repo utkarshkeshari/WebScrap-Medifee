@@ -1,0 +1,6 @@
+|Name|Offer|Price
+0|Hip Replacement Surgery|| Rs. 275000.00 (Unilateral - Semi Private Ward) 
+1|Hip Replacement Surgery|| Rs. 400000.00 (Unilateral - Private ward) 
+2|Kidney Profile|| Rs. 1040.00 
+3|OPD Consultation Fee|| Rs. 900.00 (Orthopaedic Surgeon) 
+4|Pulmonary Function Test (PFT)|| Rs. 1040.00 

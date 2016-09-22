@@ -1,0 +1,10 @@
+|Name|Offer|Price
+0|Complement C3|| Rs. 600.00 
+1|Complement C4|| Rs. 600.00 
+2|Paratyphi Test|| Rs. 500.00 (Parathyphi A) 
+3|Paratyphi Test|| Rs. 500.00 (Parathyphi B) 
+4|Peripheral Blood Smear Test|| Rs. 1500.00 
+5|Rubella Test|| Rs. 450.00 (IgG) 
+6|Rubella Test|| Rs. 450.00 (IgM) 
+7|Typhidot Test|| Rs. 350.00 (IgG) 
+8|Typhidot Test|| Rs. 350.00 (IgM) 

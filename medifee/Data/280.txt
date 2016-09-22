@@ -1,0 +1,56 @@
+|Name|Offer|Price
+0|AFP (Alpha Feto Protein) Test|| Rs. 1500.00 
+1|Ammonia Test|| Rs. 750.00 
+2|Ammonia Test|| Rs. 350.00 
+3|Blood Culture Test|| Rs. 1000.00 
+4|Blood Sugar Test|| Rs. 60.00 
+5|Blood Urea Nitrogen Test|| Rs. 300.00 
+6|CA-125 (Tumor Marker) Test|| Rs. 1800.00 
+7|CBC / Hemogram Test|| Rs. 400.00 
+8|CEA (Carcinoembryonic Antigen) Test|| Rs. 700.00 
+9|Chloride Test|| Rs. 100.00 
+10|CK-MB Test|| Rs. 500.00 
+11|Coombs Test|| Rs. 1000.00 
+12|Cortisol Test|| Rs. 450.00 
+13|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+14|Creatinine Clearance Test|| Rs. 150.00 
+15|CT Scan|| Rs. 1800.00 (Plain) 
+16|CT Scan|| Rs. 2500.00 (Plain Contrast) 
+17|CT Scan|| Rs. 700.00 (Contrast) 
+18|Dengue IgG Test|| Rs. 600.00 
+19|Dengue IgM Test|| Rs. 600.00 
+20|Electrolytes Test|| Rs. 500.00 
+21|Ferritin Test|| Rs. 550.00 
+22|Folic Acid Test|| Rs. 800.00 
+23|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+24|HIV Test|| Rs. 450.00 
+25|Homocysteine Test|| Rs. 700.00 
+26|Kidney Profile|| Rs. 700.00 
+27|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+28|Lipase Test|| Rs. 350.00 
+29|Lipoprotein A / LP(a) Test|| Rs. 700.00 
+30|Lupus Anticoagulant (LAC) Test|| Rs. 1500.00 
+31|Mammography|| Rs. 3000.00 (Both Side) 
+32|MRI Scan|| Rs. 6000.00 (Brain Plain) 
+33|MRI Scan|| Rs. 9500.00 (Plain Contrast) 
+34|MRI Scan|| Rs. 3500.00 (Contrast) 
+35|PAP Smear|| Rs. 500.00 
+36|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+37|Potassium Test|| Rs. 100.00 
+38|Prolactin Test|| Rs. 500.00 
+39|PT (Prothrombin Time) Test|| Rs. 300.00 
+40|PTH (Parathyroid Hormone) Test|| Rs. 1500.00 
+41|SGOT Test|| Rs. 200.00 
+42|SGPT Test|| Rs. 200.00 
+43|Sodium Test|| Rs. 100.00 
+44|Sputum Routine Test|| Rs. 100.00 
+45|Stool Routine|| Rs. 100.00 
+46|Synovial Fluid Analysis|| Rs. 1500.00 
+47|T3 (Triiodothyronine) Test|| Rs. 250.00 
+48|T4 (Thyroxine) Test|| Rs. 250.00 
+49|Thyroid Test|| Rs. 700.00 
+50|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+51|Urea Test|| Rs. 200.00 
+52|VDRL Test|| Rs. 150.00 
+53|VLDL Test|| Rs. 100.00 
+54|Widal Test|| Rs. 150.00 

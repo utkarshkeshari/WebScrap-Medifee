@@ -1,0 +1,60 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 80.00 
+1|Albumin Test|| Rs. 100.00 
+2|Alkaline Phosphatase (ALP) Test|| Rs. 100.00 
+3|ASO Test|| Rs. 250.00 (Plain) 
+4|ASO Test|| Rs. 450.00 (Quantitative) 
+5|Beta HCG Test|| Rs. 500.00 
+6|Bilirubin Test|| Rs. 150.00 
+7|Bilirubin Test|| Rs. 150.00 
+8|Bleeding / Clotting Time Test|| Rs. 120.00 
+9|Blood Culture Test|| Rs. 350.00 
+10|Blood Group Test|| Rs. 60.00 
+11|Blood Sugar Test|| Rs. 50.00 
+12|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+13|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+14|Calcium Test|| Rs. 100.00 
+15|Cholesterol Test|| Rs. 100.00 
+16|CK-MB Test|| Rs. 300.00 
+17|Coombs Test|| Rs. 250.00 (Direct) 
+18|Coombs Test|| Rs. 300.00 (Indirect) 
+19|Cortisol Test|| Rs. 500.00 
+20|CPK (Creatine Phosphokinase) Test|| Rs. 250.00 
+21|Creatinine Test|| Rs. 100.00 
+22|ECG|| Rs. 200.00 
+23|Electrolytes Test|| Rs. 300.00 
+24|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 60.00 
+25|HBsAg Test|| Rs. 200.00 
+26|HDL Cholesterol|| Rs. 100.00 
+27|Hemoglobin (Hb) Test|| Rs. 60.00 
+28|Insulin Test|| Rs. 500.00 
+29|Iron Test|| Rs. 300.00 
+30|Kidney Profile|| Rs. 700.00 
+31|LDL Cholesterol|| Rs. 100.00 
+32|Malaria (Malarial Parasite) Test|| Rs. 60.00 (Slide) 
+33|Malaria (Malarial Parasite) Test|| Rs. 350.00 (Antigen) 
+34|Microalbumin Test|| Rs. 250.00 
+35|PAP Smear|| Rs. 1000.00 (Liquid) 
+36|PAP Smear|| Rs. 500.00 (Slide) 
+37|PCV (Packed Cell Volume) Test|| Rs. 80.00 
+38|Platelet Count|| Rs. 100.00 
+39|Potassium Test|| Rs. 100.00 
+40|Pregnancy Test|| Rs. 80.00 
+41|Protein Test|| Rs. 100.00 
+42|PT (Prothrombin Time) Test|| Rs. 250.00 
+43|Rheumatoid Arthritis (RA) Factor Test|| Rs. 150.00 
+44|Rheumatoid Arthritis (RA) Factor Test|| Rs. 250.00 (Quantitative) 
+45|SGOT Test|| Rs. 100.00 
+46|SGPT Test|| Rs. 100.00 
+47|Sodium Test|| Rs. 100.00 
+48|Sonography|| Rs. 450.00 (Pregnancy) 
+49|Sputum Routine Test|| Rs. 120.00 
+50|Stool Routine|| Rs. 60.00 
+51|T3 (Triiodothyronine) Test|| Rs. 250.00 
+52|T4 (Thyroxine) Test|| Rs. 250.00 
+53|Total Protein Test|| Rs. 100.00 
+54|Triglycerides Test|| Rs. 100.00 
+55|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+56|Urea Test|| Rs. 100.00 
+57|Uric Acid Test|| Rs. 100.00 
+58|Urine Routine|| Rs. 50.00 

@@ -1,0 +1,4 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|NT Scan|| Rs. 1500.00 
+2|Sonography|| Rs. 2200.00 (Pregnancy Anomaly) 

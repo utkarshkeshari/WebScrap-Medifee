@@ -1,0 +1,122 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1200.00 
+2|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+3|AFB Culture|| Rs. 1000.00 
+4|Alkaline Phosphatase (ALP) Test|| Rs. 140.00 
+5|ANCA Profile|| Rs. 1500.00 
+6|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+7|Beta HCG Test|| Rs. 600.00 
+8|Bilirubin Test|| Rs. 200.00 
+9|Biopsy|| Rs. 1000.00 (BIG) 
+10|Bleeding / Clotting Time Test|| Rs. 100.00 
+11|Blood Culture Test|| Rs. 600.00 
+12|Blood Group Test|| Rs. 150.00 
+13|Blood Sugar Test|| Rs. 80.00 
+14|Blood Sugar Test|| Rs. 150.00 (F + PP) 
+15|Blood Urea Nitrogen Test|| Rs. 120.00 
+16|CA 15.3 Test|| Rs. 1000.00 
+17|CA 19.9 Test|| Rs. 1000.00 
+18|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+19|Calcium Test|| Rs. 120.00 
+20|CBC / Hemogram Test|| Rs. 400.00 
+21|CD4 Test|| Rs. 1500.00 
+22|CEA (Carcinoembryonic Antigen) Test|| Rs. 600.00 
+23|Cerebral Spinal Fluid (CSF) Test|| Rs. 500.00 
+24|Cholesterol Test|| Rs. 150.00 
+25|CK-MB Test|| Rs. 600.00 
+26|Complement C3|| Rs. 1100.00 
+27|Complement C4|| Rs. 1100.00 
+28|Coombs Test|| Rs. 300.00 (Direct) 
+29|Coombs Test|| Rs. 400.00 (Indirect) 
+30|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+31|Creatinine Test|| Rs. 120.00 
+32|CRP (C-Reactive Protein) Test|| Rs. 350.00 
+33|Dengue IgG Test|| Rs. 1000.00 
+34|Dengue IgM Test|| Rs. 1000.00 
+35|Dengue NS1 Test|| Rs. 1200.00 
+36|Double Marker Test|| Rs. 2000.00 
+37|ECG|| Rs. 200.00 
+38|Electrolytes Test|| Rs. 450.00 
+39|Estradiol (E2) Test|| Rs. 550.00 
+40|Ferritin Test|| Rs. 600.00 
+41|Folic Acid Test|| Rs. 800.00 
+42|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+43|Fungal Culture Test|| Rs. 750.00 
+44|G6PD Test|| Rs. 600.00 
+45|Gamma GT (GGTP) Test|| Rs. 300.00 
+46|Globulin / AG Ratio|| Rs. 250.00 
+47|Glucose Tolerance Test (GTT)|| Rs. 350.00 
+48|HbA1C Test|| Rs. 450.00 
+49|HBsAg Test|| Rs. 300.00 
+50|HDL Cholesterol|| Rs. 250.00 
+51|Hemoglobin (Hb) Test|| Rs. 80.00 
+52|Hemoglobin Electrophoresis|| Rs. 1000.00 
+53|HGH Test|| Rs. 600.00 
+54|HIV Test|| Rs. 400.00 
+55|Homocysteine Test|| Rs. 1200.00 
+56|Insulin Test|| Rs. 600.00 
+57|Iron Test|| Rs. 300.00 
+58|Iron Test|| Rs. 1200.00 (Profile) 
+59|LDH (Lactate Dehydrogenase) Test|| Rs. 400.00 
+60|LDL Cholesterol|| Rs. 350.00 
+61|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+62|Lipase Test|| Rs. 800.00 
+63|Lipid Profile|| Rs. 800.00 
+64|Lipoprotein A / LP(a) Test|| Rs. 1200.00 
+65|Lithium Test|| Rs. 400.00 
+66|Liver Function Test|| Rs. 600.00 
+67|Lupus Anticoagulant (LAC) Test|| Rs. 1500.00 
+68|Magnesium Test|| Rs. 400.00 
+69|Malaria (Malarial Parasite) Test|| Rs. 150.00 (Slide Method) 
+70|Malaria (Malarial Parasite) Test|| Rs. 500.00 (Card Method) 
+71|Mammography|| Rs. 2200.00 
+72|Microalbumin Test|| Rs. 450.00 
+73|Microalbumin Test|| Rs. 450.00 
+74|NT Scan|| Rs. 1500.00 
+75|PAP Smear|| Rs. 600.00 
+76|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+77|Phosphorus Test|| Rs. 120.00 
+78|Plastic Surgery|| Rs. 50.00 
+79|Potassium Test|| Rs. 150.00 
+80|Pregnancy Test|| Rs. 100.00 
+81|Progesterone Test|| Rs. 550.00 
+82|Prolactin Test|| Rs. 450.00 
+83|Protein/Creatinine Ratio|| Rs. 400.00 
+84|PSA (Prostate Specific Antigen) Test|| Rs. 700.00 
+85|PT (Prothrombin Time) Test|| Rs. 250.00 
+86|PTH (Parathyroid Hormone) Test|| Rs. 1600.00 
+87|Renal Profile|| Rs. 800.00 
+88|Reticulocyte Count Test|| Rs. 180.00 
+89|Rheumatoid Arthritis (RA) Factor Test|| Rs. 350.00 
+90|Rubella Test|| Rs. 600.00 (IgG) 
+91|Rubella Test|| Rs. 600.00 (IgM) 
+92|Semen Analysis Test|| Rs. 300.00 
+93|SGOT Test|| Rs. 140.00 
+94|SGPT Test|| Rs. 140.00 
+95|Sodium Test|| Rs. 150.00 
+96|Sonography|| Rs. 1000.00 (Pregnancy - 1st Month) 
+97|Sonography|| Rs. 1500.00 (Pregnancy - 3rd Month) 
+98|Sonography|| Rs. 2500.00 (Pregnancy - 5th Month) 
+99|Sputum Routine Test|| Rs. 150.00 
+100|Stool Culture|| Rs. 300.00 
+101|Stool Routine|| Rs. 100.00 
+102|T3 (Triiodothyronine) Test|| Rs. 250.00 
+103|T4 (Thyroxine) Test|| Rs. 250.00 
+104|TB Test|| Rs. 2800.00 
+105|Testosterone Test|| Rs. 500.00 (Total) 
+106|Testosterone Test|| Rs. 1400.00 (Free) 
+107|Thyroid Test|| Rs. 600.00 
+108|TORCH Test|| Rs. 700.00 
+109|Total Protein Test|| Rs. 150.00 
+110|Transferrin Test|| Rs. 700.00 
+111|Triglycerides Test|| Rs. 200.00 
+112|Troponin-I Test|| Rs. 1000.00 
+113|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+114|Urea Test|| Rs. 120.00 
+115|Uric Acid Test|| Rs. 120.00 
+116|Urine Routine|| Rs. 100.00 
+117|VDRL Test|| Rs. 150.00 
+118|Vitamin B12 Test|| Rs. 800.00 
+119|Vitamin D Test|| Rs. 1500.00 
+120|Widal Test|| Rs. 200.00 

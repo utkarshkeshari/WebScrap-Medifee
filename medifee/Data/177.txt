@@ -1,0 +1,63 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 1700.00 
+1|Amylase Test|| Rs. 350.00 
+2|ANC Profile|| Rs. 1500.00 
+3|Beta HCG Test|| Rs. 600.00 
+4|Bleeding / Clotting Time Test|| Rs. 100.00 
+5|Blood Culture Test|| Rs. 600.00 
+6|Blood Group Test|| Rs. 100.00 
+7|Blood Sugar Test|| Rs. 60.00 
+8|CBC / Hemogram Test|| Rs. 300.00 
+9|Chloride Test|| Rs. 100.00 
+10|Cholesterol Test|| Rs. 100.00 
+11|CK-MB Test|| Rs. 400.00 
+12|Color Doppler|| Rs. 2400.00 (lower Limbs) 
+13|Cortisol Test|| Rs. 600.00 
+14|CPK (Creatine Phosphokinase) Test|| Rs. 400.00 
+15|Creatinine Test|| Rs. 250.00 
+16|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+17|CT Scan|| Rs. 2000.00 (Brain Contras) 
+18|CT Scan|| Rs. 1300.00 (Brain Plain) 
+19|Electrolytes Test|| Rs. 400.00 
+20|Estradiol (E2) Test|| Rs. 600.00 
+21|Folic Acid Test|| Rs. 600.00 
+22|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+23|HbA1C Test|| Rs. 400.00 
+24|HBsAg Test|| Rs. 400.00 
+25|HBsAg Test|| Rs. 300.00 
+26|HCV Antibody Test|| Rs. 300.00 
+27|HDL Cholesterol|| Rs. 100.00 
+28|Hemoglobin (Hb) Test|| Rs. 100.00 
+29|HIV Test|| Rs. 400.00 
+30|Insulin Test|| Rs. 600.00 
+31|Iron Test|| Rs. 400.00 
+32|Iron Test|| Rs. 800.00 (Profile) 
+33|Kidney Function Test|| Rs. 750.00 
+34|LDL Cholesterol|| Rs. 100.00 
+35|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+36|Lipid Profile|| Rs. 500.00 
+37|Liver Function Test|| Rs. 750.00 
+38|MRI Scan|| Rs. 2800.00 (Brain Plain) 
+39|MRI Scan|| Rs. 5800.00 (Brain Contras) 
+40|Potassium Test|| Rs. 100.00 
+41|Protein Test|| Rs. 250.00 
+42|Protein/Creatinine Ratio|| Rs. 500.00 
+43|Rheumatoid Arthritis (RA) Factor Test|| Rs. 350.00 
+44|Sodium Test|| Rs. 100.00 
+45|Sonography|| Rs. 600.00 (Whole Abdomen) 
+46|Sonography|| Rs. 2000.00 (Pregnancy Anomaly) 
+47|Sputum Routine Test|| Rs. 100.00 
+48|Stool Routine|| Rs. 100.00 
+49|T3 (Triiodothyronine) Test|| Rs. 250.00 
+50|T4 (Thyroxine) Test|| Rs. 250.00 
+51|Thyroid Test|| Rs. 500.00 
+52|Transferrin Test|| Rs. 800.00 
+53|Triglycerides Test|| Rs. 150.00 
+54|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+55|Urea Test|| Rs. 100.00 
+56|Uric Acid Test|| Rs. 100.00 
+57|VDRL Test|| Rs. 100.00 
+58|Vitamin B12 Test|| Rs. 800.00 
+59|Vitamin D Test|| Rs. 1200.00 
+60|VLDL Test|| Rs. 100.00 
+61|Widal Test|| Rs. 100.00 

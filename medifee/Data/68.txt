@@ -1,0 +1,75 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2750.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 700.00 
+2|Alkaline Phosphatase (ALP) Test|| Rs. 190.00 
+3|Alkaline Phosphatase (ALP) Test|| Rs. 240.00 
+4|Ammonia Test|| Rs. 750.00 
+5|ANA (Antinuclear Antibody) Test|| Rs. 1500.00  (IFA) 
+6|ANA (Antinuclear Antibody) Test|| Rs. 600.00  (Elisa) 
+7|Anti TPO Test|| Rs. 1100.00 
+8|Antithyroglobulin Antibody Test|| Rs. 1100.00 
+9|Antithyroglobulin Antibody Test|| Rs. 1100.00 
+10|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 500.00 
+11|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 160.00 
+12|Beta HCG Test|| Rs. 900.00 
+13|Beta HCG Test|| Rs. 890.00 
+14|Beta HCG Test|| Rs. 890.00 
+15|CA 15.3 Test|| Rs. 1100.00 
+16|CA 19.9 Test|| Rs. 1300.00 
+17|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+18|CEA (Carcinoembryonic Antigen) Test|| Rs. 2200.00 
+19|CEA (Carcinoembryonic Antigen) Test|| Rs. 900.00 
+20|Color Doppler|| Rs. 4500.00  (Upper Limb) 
+21|Color Doppler|| Rs. 4500.00  (Lower Limb) 
+22|Coombs Test|| Rs. 460.00  (Direct) 
+23|Coombs Test|| Rs. 770.00  (Indirect) 
+24|Cortisol Test|| Rs. 700.00 
+25|Cortisol Test|| Rs. 700.00 
+26|CPK (Creatine Phosphokinase) Test|| Rs. 500.00 
+27|Creatinine Clearance Test|| Rs. 570.00 
+28|CT Scan|| Rs. 8000.00  (Whole Abdomen) 
+29|D Dimer Test|| Rs. 1450.00 
+30|DHEA Test|| Rs. 3200.00 
+31|Estradiol (E2) Test|| Rs. 890.00 
+32|Ferritin Test|| Rs. 800.00 
+33|Ferritin Test|| Rs. 800.00 
+34|Folic Acid Test|| Rs. 900.00 
+35|Folic Acid Test|| Rs. 900.00 
+36|FSH (Follicle Stimulating Hormone) Test|| Rs. 810.00 
+37|G6PD Test|| Rs. 950.00 
+38|G6PD Test|| Rs. 950.00 
+39|Gamma GT (GGTP) Test|| Rs. 310.00 
+40|Glucose Tolerance Test (GTT)|| Rs. 510.00 
+41|HbA1C Test|| Rs. 870.00 
+42|HBsAg Test|| Rs. 550.00 
+43|HBsAg Test|| Rs. 670.00 
+44|HIV Test|| Rs. 770.00 
+45|Insulin Test|| Rs. 900.00 
+46|Insulin Test|| Rs. 900.00 
+47|Iron Test|| Rs. 1270.00  (Profile) 
+48|Iron Test|| Rs. 500.00 
+49|LH (Luteinizing Hormone) Test|| Rs. 810.00 
+50|Lipase Test|| Rs. 450.00 
+51|Lipoprotein A / LP(a) Test|| Rs. 1250.00 
+52|Liver Function Test|| Rs. 1100.00 
+53|Magnesium Test|| Rs. 450.00 
+54|Mammography|| Rs. 2370.00 
+55|PAP Smear|| Rs. 550.00 
+56|Prolactin Test|| Rs. 810.00 
+57|PT (Prothrombin Time) Test|| Rs. 500.00 
+58|Renal Profile|| Rs. 1050.00 
+59|SGOT Test|| Rs. 150.00 
+60|SGOT Test|| Rs. 200.00 
+61|SGPT Test|| Rs. 150.00 
+62|SGPT Test|| Rs. 200.00 
+63|Sonography|| Rs. 2080.00  (Whole Abdomen) 
+64|Sonography|| Rs. 1400.00  (Lower Abdomen ) 
+65|Sputum Routine Test|| Rs. 790.00 
+66|Sputum Routine Test|| Rs. 280.00 
+67|Stool Routine|| Rs. 190.00 
+68|Stool Routine|| Rs. 190.00 
+69|Total Protein Test|| Rs. 150.00 
+70|VDRL Test|| Rs. 280.00 
+71|VDRL Test|| Rs. 350.00 
+72|Vitamin A Test|| Rs. 4000.00 
+73|Widal Test|| Rs. 390.00 

@@ -1,0 +1,12 @@
+|Name|Offer|Price
+0|ANC Profile|| Rs. 2000.00 
+1|Creatinine Clearance Test|| Rs. 450.00 
+2|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+3|Globulin Test|| Rs. 80.00 
+4|HCV Antibody Test|| Rs. 700.00 
+5|HGH Test|| Rs. 700.00 
+6|Pleural Fluid Analysis|| Rs. 500.00 
+7|Sickling Test|| Rs. 180.00 
+8|Synovial Fluid Analysis|| Rs. 500.00 
+9|Troponin-I Test|| Rs. 1150.00 
+10|VLDL Test|| Rs. 200.00 

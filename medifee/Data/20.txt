@@ -1,0 +1,57 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1200.00 
+2|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+3|ANC Profile|| Rs. 1000.00 
+4|Anti TPO Test|| Rs. 800.00 
+5|Antithyroglobulin Antibody Test|| Rs. 1000.00 
+6|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+7|Beta HCG Test|| Rs. 600.00 
+8|Bilirubin Test|| Rs. 150.00 (Total) 
+9|Bleeding / Clotting Time Test|| Rs. 80.00 
+10|Blood Sugar Test|| Rs. 100.00 (F / R / PP) 
+11|CA 15.3 Test|| Rs. 1200.00 
+12|CA 19.9 Test|| Rs. 1500.00 
+13|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+14|CBC / Hemogram Test|| Rs. 350.00 
+15|CD4 Test|| Rs. 5000.00 
+16|CD4 Test|| Rs. 600.00 
+17|CEA (Carcinoembryonic Antigen) Test|| Rs. 600.00 
+18|CK-MB Test|| Rs. 400.00 
+19|Cortisol Test|| Rs. 400.00 
+20|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+21|Creatinine Clearance Test|| Rs. 300.00 
+22|Creatinine Clearance Test|| Rs. 200.00 
+23|D Dimer Test|| Rs. 1200.00 
+24|DHEA Test|| Rs. 1200.00 
+25|Estradiol (E2) Test|| Rs. 600.00 
+26|G6PD Test|| Rs. 500.00 
+27|Glucose Tolerance Test (GTT)|| Rs. 150.00 
+28|HbA1C Test|| Rs. 550.00 
+29|HIV Test|| Rs. 500.00 
+30|Homocysteine Test|| Rs. 1000.00 
+31|Insulin Test|| Rs. 600.00 (F / PP) 
+32|Kidney Profile|| Rs. 600.00 
+33|L. E. Cells Test|| Rs. 200.00 
+34|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+35|Lipid Profile|| Rs. 600.00 
+36|Lipoprotein A / LP(a) Test|| Rs. 600.00 
+37|Lupus Anticoagulant (LAC) Test|| Rs. 1800.00 
+38|Malaria (Malarial Parasite) Test|| Rs. 300.00 
+39|Microalbumin Test|| Rs. 400.00 
+40|Microfilaria Parasite Test|| Rs. 300.00 
+41|PAP Smear|| Rs. 600.00 
+42|Platelet Count|| Rs. 150.00 
+43|Pleural Fluid Analysis|| Rs. 500.00 
+44|Progesterone Test|| Rs. 500.00 (17 Hydrory) 
+45|Prolactin Test|| Rs. 500.00 
+46|PTH (Parathyroid Hormone) Test|| Rs. 1000.00 
+47|Reticulocyte Count Test|| Rs. 200.00 
+48|Rheumatoid Arthritis (RA) Factor Test|| Rs. 350.00 
+49|Semen Analysis Test|| Rs. 200.00 
+50|Semen Analysis Test|| Rs. 200.00 
+51|Sputum Routine Test|| Rs. 150.00 
+52|Synovial Fluid Analysis|| Rs. 500.00 
+53|Testosterone Test|| Rs. 500.00 
+54|Troponin-I Test|| Rs. 1000.00 
+55|VLDL Test|| Rs. 150.00 

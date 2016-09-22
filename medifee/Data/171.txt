@@ -1,0 +1,36 @@
+|Name|Offer|Price
+0|ANC Profile|| Rs. 350.00 
+1|Beta HCG Test|| Rs. 340.00 
+2|Bicarbonate Test|| Rs. 160.00 
+3|Blood Culture Test|| Rs. 400.00 
+4|Blood Sugar Test|| Rs. 50.00 
+5|Cholesterol Test|| Rs. 90.00 
+6|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+7|CT Scan|| Rs. 400.00 (Brain Contras) 
+8|CT Scan|| Rs. 1500.00 (Brain Plain) 
+9|CT Scan|| Rs. 1900.00 (Brain Plain with Contras) 
+10|Dengue IgG Test|| Rs. 550.00 
+11|Dengue IgM Test|| Rs. 550.00 
+12|Electrolytes Test|| Rs. 200.00 
+13|HCV Antibody Test|| Rs. 500.00 
+14|HIV Test|| Rs. 300.00 
+15|Insulin Test|| Rs. 950.00 
+16|Iron Test|| Rs. 230.00 
+17|Kidney Function Test|| Rs. 350.00 
+18|Liver Function Test|| Rs. 350.00 
+19|MRI Scan|| Rs. 4500.00 (Brain Plain) 
+20|MRI Scan|| Rs. 1000.00 (Brain Contras) 
+21|MRI Scan|| Rs. 5500.00 (Brain Plain with Contras) 
+22|PCV (Packed Cell Volume) Test|| Rs. 80.00 
+23|Protein/Creatinine Ratio|| Rs. 400.00 
+24|Sputum Routine Test|| Rs. 100.00 
+25|T3 (Triiodothyronine) Test|| Rs. 150.00 
+26|T4 (Thyroxine) Test|| Rs. 150.00 
+27|Thyroid Test|| Rs. 350.00 
+28|Transferrin Test|| Rs. 650.00 
+29|TSH (Thyroid Stimulating Hormone) Test|| Rs. 190.00 
+30|Uric Acid Test|| Rs. 80.00 
+31|VDRL Test|| Rs. 90.00 
+32|Vitamin B12 Test|| Rs. 500.00 
+33|Vitamin D Test|| Rs. 900.00 
+34|Widal Test|| Rs. 100.00 

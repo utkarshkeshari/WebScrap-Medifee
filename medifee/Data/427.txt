@@ -1,0 +1,22 @@
+|Name|Offer|Price
+0|Bilirubin Test|| Rs. 150.00 
+1|Blood Group Test|| Rs. 100.00 
+2|Blood Sugar Test|| Rs. 100.00 
+3|Blood Urea Nitrogen Test|| Rs. 120.00 
+4|Calcium Test|| Rs. 150.00 
+5|Chloride Test|| Rs. 150.00 
+6|Creatinine Test|| Rs. 120.00 
+7|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+8|CT Scan|| Rs. 1800.00 (Brain Plain) 
+9|CT Scan|| Rs. 2700.00 (Brain Contras) 
+10|Dengue IgG Test|| Rs. 1000.00 
+11|Dengue IgM Test|| Rs. 1000.00 
+12|HBsAg Test|| Rs. 400.00 
+13|Malaria (Malarial Parasite) Test|| Rs. 100.00 
+14|Platelet Count|| Rs. 150.00 
+15|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+16|Urea Test|| Rs. 120.00 
+17|Uric Acid Test|| Rs. 150.00 
+18|Urine Routine|| Rs. 120.00 
+19|VDRL Test|| Rs. 150.00 
+20|Widal Test|| Rs. 100.00 

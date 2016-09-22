@@ -1,0 +1,65 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 450.00 
+1|Ammonia Test|| Rs. 1250.00 
+2|ANC Profile|| Rs. 800.00 
+3|Bicarbonate Test|| Rs. 100.00 
+4|Bilirubin Test|| Rs. 100.00 
+5|Bleeding / Clotting Time Test|| Rs. 100.00 
+6|Blood Culture Test|| Rs. 250.00 
+7|Blood Group Test|| Rs. 60.00 
+8|Blood Sugar Test|| Rs. 50.00 
+9|Blood Sugar Test|| Rs. 100.00 (F + PP) 
+10|Blood Urea Nitrogen Test|| Rs. 100.00 
+11|Bone Density Test|| Rs. 1200.00 
+12|CA 15.3 Test|| Rs. 1200.00 
+13|CA 19.9 Test|| Rs. 1200.00 
+14|CBC / Hemogram Test|| Rs. 200.00 
+15|Creatinine Clearance Test|| Rs. 150.00 
+16|CRP (C-Reactive Protein) Test|| Rs. 800.00 
+17|D Dimer Test|| Rs. 600.00 
+18|Dengue IgG Test|| Rs. 600.00 
+19|Dengue IgG Test|| Rs. 400.00 
+20|Dengue IgM Test|| Rs. 400.00 
+21|DHEA Test|| Rs. 400.00 
+22|EEG|| Rs. 250.00 
+23|Electrolytes Test|| Rs. 250.00 
+24|Electrolytes Test|| Rs. 500.00 
+25|Estradiol (E2) Test|| Rs. 450.00 
+26|Ferritin Test|| Rs. 150.00 
+27|Folic Acid Test|| Rs. 450.00 
+28|FSH (Follicle Stimulating Hormone) Test|| Rs. 150.00 
+29|G6PD Test|| Rs. 200.00 
+30|Globulin Test|| Rs. 100.00 
+31|Globulin Test|| Rs. 300.00 
+32|Glucose Tolerance Test (GTT)|| Rs. 350.00 
+33|HbA1C Test|| Rs. 450.00 
+34|HBsAg Test|| Rs. 250.00 
+35|HBsAg Test|| Rs. 800.00 
+36|HCV Antibody Test|| Rs. 800.00 
+37|HDL Cholesterol|| Rs. 50.00 
+38|Hemoglobin (Hb) Test|| Rs. 50.00 
+39|HIV Test|| Rs. 450.00 
+40|Homocysteine Test|| Rs. 900.00 
+41|Insulin Test|| Rs. 450.00 
+42|Kidney Function Test|| Rs. 550.00 
+43|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+44|Lipid Profile|| Rs. 550.00 
+45|Liver Function Test|| Rs. 550.00 
+46|Malaria (Malarial Parasite) Test|| Rs. 2000.00 
+47|PSA (Prostate Specific Antigen) Test|| Rs. 300.00 
+48|Renal Profile|| Rs. 550.00 
+49|Semen Analysis Test|| Rs. 150.00 
+50|SGOT Test|| Rs. 150.00 
+51|SGOT Test|| Rs. 100.00 
+52|SGPT Test|| Rs. 100.00 
+53|Thyroglobulin Test|| Rs. 150.00 
+54|Thyroid Test|| Rs. 550.00 
+55|Uric Acid Test|| Rs. 100.00 
+56|Urine Routine|| Rs. 50.00 
+57|Urine Routine|| Rs. 150.00 
+58|VDRL Test|| Rs. 460.00 
+59|Vitamin B12 Test|| Rs. 1000.00 
+60|Vitamin D Test|| Rs. 1400.00 
+61|VLDL Test|| Rs. 150.00 
+62|Widal Test|| Rs. 100.00 
+63|X-Ray|| Rs. 200.00 (Chest) 

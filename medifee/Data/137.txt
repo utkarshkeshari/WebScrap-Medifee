@@ -1,0 +1,11 @@
+|Name|Offer|Price
+0|Color Doppler|| Rs. 2000.00 (Upper Limb) 
+1|Color Doppler|| Rs. 2000.00 (Lower Limb) 
+2|Color Doppler|| Rs. 2000.00 (Portal Venous System) 
+3|Color Doppler|| Rs. 2000.00 (Caroited Arteries) 
+4|Sonography|| Rs. 1500.00 (Whole Abdomen) 
+5|Sonography|| Rs. 1000.00 (Upper Abdomen) 
+6|Sonography|| Rs. 1200.00 (Lower Abdomen ) 
+7|X-Ray|| Rs. 500.00 (Chest) 
+8|X-Ray|| Rs. 500.00 (Leg) 
+9|X-Ray|| Rs. 500.00 (Pelvis) 

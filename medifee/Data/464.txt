@@ -1,0 +1,64 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 500.00 
+2|Alkaline Phosphatase (ALP) Test|| Rs. 100.00 
+3|Amylase Test|| Rs. 400.00 
+4|ANC Profile|| Rs. 2000.00 
+5|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 250.00 
+6|Beta HCG Test|| Rs. 400.00 
+7|Bleeding / Clotting Time Test|| Rs. 100.00 
+8|Blood Culture Test|| Rs. 800.00 
+9|Blood Group Test|| Rs. 50.00 
+10|Blood Sugar Test|| Rs. 100.00 
+11|Blood Urea Nitrogen Test|| Rs. 150.00 
+12|Calcium Test|| Rs. 200.00 
+13|CBC / Hemogram Test|| Rs. 300.00 
+14|Chloride Test|| Rs. 170.00 
+15|Cholesterol Test|| Rs. 200.00 
+16|Creatinine Test|| Rs. 150.00 
+17|CT Scan|| Rs. 1500.00 (Brain Plain) 
+18|CT Scan|| Rs. 2500.00 (Brain Plain with Contras) 
+19|Dengue IgG Test|| Rs. 600.00 
+20|Dengue IgM Test|| Rs. 600.00 
+21|Electrolytes Test|| Rs. 350.00 
+22|HBsAg Test|| Rs. 250.00 
+23|HDL Cholesterol|| Rs. 220.00 
+24|Hemoglobin (Hb) Test|| Rs. 200.00 
+25|HIV Test|| Rs. 350.00 
+26|Insulin Test|| Rs. 900.00 
+27|Kidney Function Test|| Rs. 500.00 
+28|LDL Cholesterol|| Rs. 200.00 
+29|Lipase Test|| Rs. 400.00 
+30|Lipid Profile|| Rs. 450.00 
+31|Liver Function Test|| Rs. 450.00 
+32|Magnesium Test|| Rs. 200.00 
+33|Malaria (Malarial Parasite) Test|| Rs. 150.00 
+34|MRI Scan|| Rs. 3000.00 (Brain Plain) 
+35|MRI Scan|| Rs. 6000.00 (Brain Contras) 
+36|PCV (Packed Cell Volume) Test|| Rs. 120.00 
+37|Phosphorus Test|| Rs. 200.00 
+38|Platelet Count|| Rs. 150.00 
+39|Potassium Test|| Rs. 200.00 
+40|Pregnancy Test|| Rs. 150.00 
+41|Protein Test|| Rs. 150.00 
+42|PT (Prothrombin Time) Test|| Rs. 200.00 
+43|Renal Profile|| Rs. 500.00 
+44|SGOT Test|| Rs. 120.00 
+45|SGPT Test|| Rs. 120.00 
+46|Sickling Test|| Rs. 220.00 
+47|Sodium Test|| Rs. 170.00 
+48|Sonography|| Rs. 1200.00 (Whole Abdomen) 
+49|T3 (Triiodothyronine) Test|| Rs. 200.00 
+50|T4 (Thyroxine) Test|| Rs. 200.00 
+51|Thyroid Test|| Rs. 450.00 
+52|Total Protein Test|| Rs. 150.00 
+53|Triglycerides Test|| Rs. 220.00 
+54|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+55|Urea Test|| Rs. 120.00 
+56|Uric Acid Test|| Rs. 100.00 
+57|Urine Routine|| Rs. 150.00 
+58|VDRL Test|| Rs. 150.00 
+59|Vitamin B12 Test|| Rs. 500.00 
+60|Vitamin D Test|| Rs. 800.00 
+61|Widal Test|| Rs. 200.00 
+62|X-Ray|| Rs. 250.00 (Chest) 

@@ -1,0 +1,5 @@
+|Name|Offer|Price
+0|AFP (Alpha Feto Protein) Test|| Rs. 520.00 
+1|ANA (Antinuclear Antibody) Test|| Rs. 345.00 
+2|ANA (Antinuclear Antibody) Test|| Rs. 345.00 
+3|Anti CCP (ACCP) Test|| Rs. 650.00 

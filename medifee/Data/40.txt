@@ -1,0 +1,53 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 100.00 
+1|Alkaline Phosphatase (ALP) Test|| Rs. 120.00 
+2|ANCA Profile|| Rs. 900.00 
+3|ASO Test|| Rs. 350.00 
+4|Bilirubin Test|| Rs. 150.00 
+5|Bleeding / Clotting Time Test|| Rs. 120.00 
+6|Blood Culture Test|| Rs. 500.00 
+7|Blood Group Test|| Rs. 100.00 
+8|Blood Sugar Test|| Rs. 60.00 
+9|Blood Urea Nitrogen Test|| Rs. 120.00 
+10|Calcium Test|| Rs. 120.00 
+11|CBC / Hemogram Test|| Rs. 350.00 
+12|Chloride Test|| Rs. 100.00 
+13|Cholesterol Test|| Rs. 100.00 
+14|Creatinine Test|| Rs. 100.00 
+15|CRP (C-Reactive Protein) Test|| Rs. 350.00 
+16|Electrolytes Test|| Rs. 300.00 
+17|Folic Acid Test|| Rs. 700.00 
+18|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+19|HbA1C Test|| Rs. 450.00 
+20|HBsAg Test|| Rs. 300.00 
+21|HDL Cholesterol|| Rs. 100.00 
+22|Hemoglobin (Hb) Test|| Rs. 60.00 
+23|HIV Test|| Rs. 400.00 
+24|Iron Test|| Rs. 250.00 
+25|Kidney Function Test|| Rs. 550.00 
+26|LDH (Lactate Dehydrogenase) Test|| Rs. 250.00 
+27|LDL Cholesterol|| Rs. 100.00 
+28|Lipid Profile|| Rs. 500.00 
+29|Liver Function Test|| Rs. 450.00 
+30|Microalbumin Test|| Rs. 350.00 
+31|Microfilaria Parasite Test|| Rs. 500.00 
+32|Phosphorus Test|| Rs. 120.00 
+33|Platelet Count|| Rs. 70.00 
+34|Potassium Test|| Rs. 100.00 
+35|Pregnancy Test|| Rs. 80.00 
+36|PT (Prothrombin Time) Test|| Rs. 350.00 
+37|PTH (Parathyroid Hormone) Test|| Rs. 1000.00 
+38|Renal Profile|| Rs. 550.00 
+39|Rheumatoid Arthritis (RA) Factor Test|| Rs. 120.00 
+40|SGOT Test|| Rs. 100.00 
+41|SGPT Test|| Rs. 100.00 
+42|Sodium Test|| Rs. 100.00 
+43|Stool Routine|| Rs. 150.00 
+44|Thyroid Test|| Rs. 550.00 
+45|Total Protein Test|| Rs. 150.00 
+46|Uric Acid Test|| Rs. 100.00 
+47|VDRL Test|| Rs. 150.00 
+48|Vitamin B12 Test|| Rs. 700.00 
+49|Vitamin D Test|| Rs. 1350.00 
+50|Widal Test|| Rs. 150.00 
+51|X-Ray|| Rs. 250.00 

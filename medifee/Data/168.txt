@@ -1,0 +1,62 @@
+|Name|Offer|Price
+0|ANA (Antinuclear Antibody) Test|| Rs. 3800.00 (Profile) 
+1|Anti TPO Test|| Rs. 1100.00 
+2|Beta HCG Test|| Rs. 700.00 
+3|Bilirubin Test|| Rs. 200.00 
+4|Blood Culture Test|| Rs. 900.00 
+5|Blood Sugar Test|| Rs. 100.00 
+6|Calcium Test|| Rs. 200.00 
+7|CBC / Hemogram Test|| Rs. 450.00 
+8|Cerebral Spinal Fluid (CSF) Test|| Rs. 700.00 
+9|Chloride Test|| Rs. 100.00 
+10|Creatinine Clearance Test|| Rs. 500.00 
+11|CT Scan|| Rs. 2200.00 (Brain Plain) 
+12|CT Scan|| Rs. 2800.00 (Brain Plain with Contras) 
+13|CT Scan|| Rs. 600.00 (Brain Contras) 
+14|Dengue NS1 Test|| Rs. 1500.00 
+15|Electrolytes Test|| Rs. 400.00 
+16|Estradiol (E2) Test|| Rs. 600.00 
+17|Folic Acid Test|| Rs. 1150.00 
+18|Fungal Culture Test|| Rs. 800.00 
+19|G6PD Test|| Rs. 650.00 
+20|Gamma GT (GGTP) Test|| Rs. 200.00 
+21|Gram Stain Test|| Rs. 300.00 
+22|HbA1C Test|| Rs. 550.00 
+23|HBsAg Test|| Rs. 350.00 
+24|HBsAg Test|| Rs. 350.00 
+25|HDL Cholesterol|| Rs. 300.00 
+26|Hemoglobin Electrophoresis|| Rs. 900.00 
+27|Hepatitis A Test|| Rs. 1400.00 (IgG) 
+28|Hepatitis A Test|| Rs. 1400.00 (IgM) 
+29|HIV Test|| Rs. 550.00 
+30|Kidney Function Test|| Rs. 700.00 
+31|LDL Cholesterol|| Rs. 300.00 
+32|Lipase Test|| Rs. 500.00 
+33|Lithium Test|| Rs. 500.00 
+34|Liver Function Test|| Rs. 700.00 
+35|Magnesium Test|| Rs. 400.00 
+36|Mammography|| Rs. 2200.00 
+37|MRI Scan|| Rs. 7500.00 (Brain Plain) 
+38|MRI Scan|| Rs. 3500.00 (Brain Contras) 
+39|MRI Scan|| Rs. 11000.00 (Brain Plain with Contras) 
+40|Platelet Count|| Rs. 50.00 
+41|Potassium Test|| Rs. 100.00 
+42|Prolactin Test|| Rs. 600.00 
+43|Renal Profile|| Rs. 700.00 
+44|Rubella Test|| Rs. 400.00 (IgG) 
+45|Rubella Test|| Rs. 400.00 (IgM) 
+46|Sex Hormone Test|| Rs. 2500.00 
+47|SGOT Test|| Rs. 200.00 
+48|SGPT Test|| Rs. 200.00 
+49|Sodium Test|| Rs. 100.00 
+50|Sputum Routine Test|| Rs. 300.00 
+51|Stool Routine|| Rs. 200.00 
+52|TB Test|| Rs. 3000.00 
+53|Total Protein Test|| Rs. 300.00 
+54|Toxoplasma Test|| Rs. 400.00 (IgG) 
+55|Toxoplasma Test|| Rs. 400.00 (IgM) 
+56|Toxoplasma Test|| Rs. 400.00 (IgA) 
+57|Typhidot Test|| Rs. 500.00 (IgG) 
+58|Typhidot Test|| Rs. 500.00 (IgM) 
+59|Urine Routine|| Rs. 100.00 
+60|Widal Test|| Rs. 250.00 

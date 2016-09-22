@@ -1,0 +1,25 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 200.00 
+1|Antithyroglobulin Antibody Test|| Rs. 700.00 
+2|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 900.00 
+3|ASO Test|| Rs. 500.00 (Titer) 
+4|Beta HCG Test|| Rs. 700.00 
+5|Bleeding / Clotting Time Test|| Rs. 150.00 
+6|Blood Culture Test|| Rs. 700.00 
+7|Blood Sugar Test|| Rs. 100.00 
+8|Blood Urea Nitrogen Test|| Rs. 150.00 
+9|CA-125 (Tumor Marker) Test|| Rs. 1300.00 
+10|Creatinine Test|| Rs. 150.00 
+11|Dengue IgG Test|| Rs. 600.00 
+12|Dengue IgM Test|| Rs. 600.00 
+13|Ferritin Test|| Rs. 650.00 
+14|Folic Acid Test|| Rs. 1300.00 
+15|HbA1C Test|| Rs. 600.00 
+16|HBsAg Test|| Rs. 550.00 
+17|HIV Test|| Rs. 350.00 
+18|Protein/Creatinine Ratio|| Rs. 500.00 
+19|Sputum Routine Test|| Rs. 300.00 
+20|Stool Routine|| Rs. 200.00 
+21|Thyroid Test|| Rs. 850.00 
+22|Uric Acid Test|| Rs. 100.00 
+23|VDRL Test|| Rs. 500.00 

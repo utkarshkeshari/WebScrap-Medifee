@@ -1,0 +1,14 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1430.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 195.00 
+2|AFP (Alpha Feto Protein) Test|| Rs. 455.00 
+3|AFP (Alpha Feto Protein) Test|| Rs. 455.00 (Elisa) 
+4|Albumin Test|| Rs. 130.00 
+5|Alkaline Phosphatase (ALP) Test|| Rs. 130.00 
+6|Allergy Test|| Rs. 4550.00 
+7|Ammonia Test|| Rs. 1040.00 
+8|Ammonia Test|| Rs. 1040.00 
+9|Amylase Test|| Rs. 260.00 
+10|ANA (Antinuclear Antibody) Test|| Rs. 1300.00 (TITRES) 
+11|Progesterone Test|| Rs. 1560.00 (17 OH (Elisa Method)) 
+12|Renal Profile|| Rs. 780.00 

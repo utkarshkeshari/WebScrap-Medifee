@@ -1,0 +1,28 @@
+|Name|Offer|Price
+0|Beta HCG Test|| Rs. 800.00 
+1|Bilirubin Test|| Rs. 150.00 
+2|Bleeding / Clotting Time Test|| Rs. 100.00 
+3|Blood Culture Test|| Rs. 600.00 
+4|Blood Group Test|| Rs. 100.00 
+5|Blood Sugar Test|| Rs. 80.00 
+6|Blood Urea Nitrogen Test|| Rs. 150.00 
+7|CBC / Hemogram Test|| Rs. 350.00 
+8|Cholesterol Test|| Rs. 200.00 
+9|CK-MB Test|| Rs. 550.00 
+10|Cortisol Test|| Rs. 450.00 
+11|Cortisol Test|| Rs. 450.00 
+12|Electrolytes Test|| Rs. 450.00 
+13|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 350.00 
+14|Estradiol (E2) Test|| Rs. 600.00 
+15|Ferritin Test|| Rs. 500.00 
+16|Folic Acid Test|| Rs. 900.00 
+17|G6PD Test|| Rs. 700.00 
+18|Gamma GT (GGTP) Test|| Rs. 300.00 
+19|Insulin Test|| Rs. 700.00 
+20|Kidney Function Test|| Rs. 600.00 
+21|Thyroid Test|| Rs. 700.00 
+22|VDRL Test|| Rs. 250.00 
+23|Vitamin B12 Test|| Rs. 1000.00 
+24|Vitamin D Test|| Rs. 1800.00 
+25|Widal Test|| Rs. 250.00 
+26|X-Ray|| Rs. 700.00 (Chest(PA+lateral)) 

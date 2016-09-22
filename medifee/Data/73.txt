@@ -1,0 +1,71 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 180.00 
+1|Alkaline Phosphatase (ALP) Test|| Rs. 100.00 
+2|Ammonia Test|| Rs. 150.00 
+3|Amylase Test|| Rs. 200.00 
+4|ANC Profile|| Rs. 1300.00 
+5|Bicarbonate Test|| Rs. 180.00 
+6|Bilirubin Test|| Rs. 150.00 
+7|Bleeding / Clotting Time Test|| Rs. 100.00 
+8|Blood Group Test|| Rs. 150.00 
+9|Blood Sugar Test|| Rs. 80.00 
+10|Blood Urea Nitrogen Test|| Rs. 100.00 
+11|Calcium Test|| Rs. 200.00 
+12|CBC / Hemogram Test|| Rs. 300.00 
+13|Chloride Test|| Rs. 100.00 
+14|Cholesterol Test|| Rs. 250.00 
+15|Creatinine Test|| Rs. 180.00 
+16|Dengue IgG Test|| Rs. 750.00 
+17|Dengue IgM Test|| Rs. 750.00 
+18|Deposit Required (For Admission)|| Rs. 25000.00 (Semi Private ward) 
+19|Doctor Visit Charges|| Rs. 400.00 (Semi Private ward ( Per visit )) 
+20|Doctor Visit Charges|| Rs. 800.00 (Private Ward) 
+21|Doctor Visit Charges|| Rs. 600.00 (Deluxe Room) 
+22|Doctor Visit Charges|| Rs. 600.00 (Super Deluxe Room ( Per Visit )) 
+23|Electrolytes Test|| Rs. 400.00 
+24|HBsAg Test|| Rs. 550.00 
+25|HDL Cholesterol|| Rs. 250.00 
+26|Hemoglobin (Hb) Test|| Rs. 100.00 
+27|Hernia Surgery|| Rs. 40000.00 (Umbilical Hernia - Open Surgery - Semi Private ward ) 
+28|Hernia Surgery|| Rs. 90000.00 (Umbilical Hernia - Laparoscopic Surgery - Semi Private ward ) 
+29|Hernia Surgery|| Rs. 60000.00 (Umbilical Hernia - Open Surgery - Private ward ) 
+30|Hernia Surgery|| Rs. 100000.00 (Umbilical Hernia - Laparoscopic Surgery - Private ward ) 
+31|HIV Test|| Rs. 255.00 
+32|Kidney Function Test|| Rs. 500.00 
+33|LDL Cholesterol|| Rs. 250.00 
+34|Lipid Profile|| Rs. 750.00 
+35|Lithium Test|| Rs. 150.00 
+36|Liver Function Test|| Rs. 500.00 
+37|Magnesium Test|| Rs. 180.00 
+38|Malaria (Malarial Parasite) Test|| Rs. 850.00 
+39|NT Scan|| Rs. 1500.00 
+40|Nursing Charges|| Rs. 750.00 (Super Deluxe Room) 
+41|Nursing Charges|| Rs. 500.00 (Semi Private ward) 
+42|Nursing Charges|| Rs. 600.00 (Private Ward) 
+43|Nursing Charges|| Rs. 700.00 (Deluxe Room) 
+44|OPD Consultation Fee|| Rs. 500.00 (Surgeon) 
+45|PCV (Packed Cell Volume) Test|| Rs. 100.00 
+46|Platelet Count|| Rs. 100.00 
+47|Potassium Test|| Rs. 200.00 
+48|Pregnancy Test|| Rs. 150.00 
+49|Private Ward|| Rs. 3200.00 
+50|Private Ward|| Rs. 3400.00 (Deluxe Room) 
+51|Private Ward|| Rs. 3750.00 (Super Deluxe Room) 
+52|Protein Test|| Rs. 180.00 
+53|Renal Profile|| Rs. 500.00 
+54|Semi Private Ward|| Rs. 3400.00 (Twin Sharing) 
+55|SGOT Test|| Rs. 100.00 
+56|SGPT Test|| Rs. 100.00 
+57|Sodium Test|| Rs. 200.00 
+58|T3 (Triiodothyronine) Test|| Rs. 250.00 
+59|T4 (Thyroxine) Test|| Rs. 250.00 
+60|Thyroid Test|| Rs. 750.00 
+61|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+62|TURP Surgery|| Rs. 40000.00 (Private Ward) 
+63|TURP Surgery|| Rs. 38000.00 (General ward) 
+64|Urea Test|| Rs. 100.00 
+65|Uric Acid Test|| Rs. 120.00 
+66|Urine Routine|| Rs. 150.00 
+67|Vitamin B12 Test|| Rs. 1000.00 
+68|Vitamin D Test|| Rs. 1900.00 
+69|X-Ray|| Rs. 400.00 

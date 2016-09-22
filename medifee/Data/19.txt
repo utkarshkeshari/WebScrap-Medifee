@@ -1,0 +1,63 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 100.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 800.00 
+2|Albumin Test|| Rs. 100.00 
+3|Alkaline Phosphatase (ALP) Test|| Rs. 100.00 
+4|Alkaline Phosphatase (ALP) Test|| Rs. 140.00 
+5|Ammonia Test|| Rs. 1000.00 
+6|Amylase Test|| Rs. 400.00 
+7|ANA (Antinuclear Antibody) Test|| Rs. 500.00 
+8|Anti TPO Test|| Rs. 600.00 
+9|Anti TPO Test|| Rs. 600.00 
+10|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 500.00 
+11|ASO Test|| Rs. 500.00 
+12|Beta HCG Test|| Rs. 600.00 
+13|Bilirubin Test|| Rs. 150.00 
+14|Bilirubin Test|| Rs. 150.00 
+15|Bleeding / Clotting Time Test|| Rs. 100.00 
+16|Bleeding / Clotting Time Test|| Rs. 100.00 
+17|Blood Culture Test|| Rs. 500.00 
+18|Blood Culture Test|| Rs. 300.00 
+19|Blood Group Test|| Rs. 100.00 
+20|Blood Group Test|| Rs. 100.00 
+21|Blood Sugar Test|| Rs. 50.00 (Fasting) 
+22|Blood Sugar Test|| Rs. 50.00 
+23|Blood Urea Nitrogen Test|| Rs. 100.00 
+24|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+25|CK-MB Test|| Rs. 300.00 
+26|Coombs Test|| Rs. 400.00 
+27|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+28|Creatinine Clearance Test|| Rs. 400.00 
+29|G6PD Test|| Rs. 400.00 
+30|Glucose Tolerance Test (GTT)|| Rs. 250.00 
+31|Hemoglobin (Hb) Test|| Rs. 50.00 
+32|HIV Test|| Rs. 550.00 
+33|HIV Test|| Rs. 400.00 
+34|Kidney Profile|| Rs. 700.00 
+35|L. E. Cells Test|| Rs. 300.00 
+36|Lipid Profile|| Rs. 600.00 
+37|Microalbumin Test|| Rs. 400.00 
+38|Microfilaria Parasite Test|| Rs. 100.00 
+39|PAP Smear|| Rs. 800.00 
+40|Platelet Count|| Rs. 200.00 
+41|PT (Prothrombin Time) Test|| Rs. 500.00 
+42|Renal Profile|| Rs. 600.00 
+43|Reticulocyte Count Test|| Rs. 100.00 
+44|Rheumatoid Arthritis (RA) Factor Test|| Rs. 400.00 
+45|Semen Analysis Test|| Rs. 250.00 
+46|Sonography|| Rs. 1000.00 (Lower / Upper Abdomen / 1st month Pregnancy) 
+47|Sonography|| Rs. 2000.00 (3rd month Pregnancy / Anomaly Pregnancy) 
+48|Sonography|| Rs. 2500.00 (5th month Pregnancy / Anomaly pregnancy Level 2) 
+49|Sonography|| Rs. 3000.00 (3D or 4D) 
+50|Sonography|| Rs. 1500.00 (Whole Abdomen) 
+51|Sputum Routine Test|| Rs. 100.00 
+52|T3 (Triiodothyronine) Test|| Rs. 350.00 
+53|T4 (Thyroxine) Test|| Rs. 350.00 
+54|Thyroglobulin Test|| Rs. 1100.00 
+55|Thyroid Test|| Rs. 550.00 
+56|Triglycerides Test|| Rs. 150.00 
+57|Troponin-I Test|| Rs. 1100.00 
+58|TSH (Thyroid Stimulating Hormone) Test|| Rs. 200.00 
+59|Vitamin B12 Test|| Rs. 800.00 
+60|Vitamin D Test|| Rs. 600.00 
+61|VLDL Test|| Rs. 300.00 

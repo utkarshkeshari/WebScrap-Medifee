@@ -1,0 +1,70 @@
+|Name|Offer|Price
+0|ANC Profile|| Rs. 1200.00 
+1|Antithyroglobulin Antibody Test|| Rs. 600.00 
+2|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 200.00 
+3|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 400.00 
+4|Beta HCG Test|| Rs. 600.00 
+5|Bilirubin Test|| Rs. 100.00 
+6|Blood Culture Test|| Rs. 500.00 
+7|Blood Group Test|| Rs. 100.00 
+8|Blood Sugar Test|| Rs. 100.00 
+9|Blood Urea Nitrogen Test|| Rs. 100.00 
+10|CA 15.3 Test|| Rs. 1200.00 
+11|CA 19.9 Test|| Rs. 1200.00 
+12|CA-125 (Tumor Marker) Test|| Rs. 800.00 
+13|CBC / Hemogram Test|| Rs. 600.00 
+14|CBC / Hemogram Test|| Rs. 300.00 
+15|Chloride Test|| Rs. 100.00 
+16|Creatinine Clearance Test|| Rs. 300.00 
+17|Dengue IgG Test|| Rs. 600.00 
+18|Dengue IgM Test|| Rs. 600.00 
+19|Electrolytes Test|| Rs. 200.00 
+20|Electrolytes Test|| Rs. 200.00 
+21|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+22|Estradiol (E2) Test|| Rs. 600.00 
+23|Ferritin Test|| Rs. 600.00 
+24|Folic Acid Test|| Rs. 600.00 
+25|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+26|G6PD Test|| Rs. 600.00 
+27|Gamma GT (GGTP) Test|| Rs. 200.00 
+28|Globulin Test|| Rs. 100.00 
+29|Glucose Tolerance Test (GTT)|| Rs. 200.00 
+30|HbA1C Test|| Rs. 500.00 
+31|HGH Test|| Rs. 1000.00 
+32|HIV Test|| Rs. 500.00 
+33|HIV Test|| Rs. 500.00 (HIV 1) 
+34|HIV Test|| Rs. 1200.00 (HIV 2) 
+35|Insulin Test|| Rs. 600.00 
+36|Insulin Test|| Rs. 600.00 
+37|Iron Test|| Rs. 200.00 
+38|Kidney Function Test|| Rs. 500.00 
+39|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+40|Lipid Profile|| Rs. 500.00 
+41|Lipid Profile|| Rs. 700.00 
+42|Liver Function Test|| Rs. 700.00 
+43|Liver Function Test|| Rs. 500.00 
+44|Lupus Anticoagulant (LAC) Test|| Rs. 1000.00 
+45|Malaria (Malarial Parasite) Test|| Rs. 100.00 
+46|PAP Smear|| Rs. 600.00 
+47|Potassium Test|| Rs. 100.00 
+48|Pregnancy Test|| Rs. 200.00 
+49|Progesterone Test|| Rs. 600.00 
+50|Prolactin Test|| Rs. 400.00 
+51|PT (Prothrombin Time) Test|| Rs. 500.00 
+52|PT (Prothrombin Time) Test|| Rs. 300.00 
+53|Renal Profile|| Rs. 500.00 
+54|Renal Profile|| Rs. 500.00 
+55|SGOT Test|| Rs. 100.00 
+56|SGPT Test|| Rs. 100.00 
+57|Sodium Test|| Rs. 100.00 
+58|T3 (Triiodothyronine) Test|| Rs. 200.00 
+59|T4 (Thyroxine) Test|| Rs. 200.00 
+60|Thyroid Test|| Rs. 600.00 
+61|Thyroid Test|| Rs. 600.00 
+62|Total Protein Test|| Rs. 100.00 
+63|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+64|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+65|Urine Routine|| Rs. 50.00 
+66|VDRL Test|| Rs. 100.00 
+67|Vitamin B12 Test|| Rs. 600.00 
+68|Vitamin D Test|| Rs. 1500.00 

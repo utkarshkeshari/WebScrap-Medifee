@@ -1,0 +1,3 @@
+|Name|Offer|Price
+0|Dengue NS1 Test|| Rs. 120.00 
+1|TB Test|| Rs. 3500.00 

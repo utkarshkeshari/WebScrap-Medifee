@@ -1,0 +1,19 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+1|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+2|Bleeding / Clotting Time Test|| Rs. 100.00 
+3|Blood Group Test|| Rs. 100.00 
+4|Blood Sugar Test|| Rs. 50.00 
+5|CBC / Hemogram Test|| Rs. 300.00 
+6|Protein Test|| Rs. 150.00 
+7|PTH (Parathyroid Hormone) Test|| Rs. 550.00 
+8|Semen Analysis Test|| Rs. 150.00 
+9|SGOT Test|| Rs. 100.00 
+10|SGPT Test|| Rs. 100.00 
+11|Thyroid Test|| Rs. 550.00 
+12|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+13|Uric Acid Test|| Rs. 300.00 
+14|Urine Routine|| Rs. 60.00 
+15|VDRL Test|| Rs. 150.00 
+16|Vitamin D Test|| Rs. 2500.00 
+17|Widal Test|| Rs. 150.00 

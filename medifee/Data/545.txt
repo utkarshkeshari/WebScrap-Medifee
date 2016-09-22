@@ -1,0 +1,49 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1450.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+2|Albumin Test|| Rs. 100.00 
+3|Alkaline Phosphatase (ALP) Test|| Rs. 165.00 
+4|Amylase Test|| Rs. 400.00 
+5|ANA (Antinuclear Antibody) Test|| Rs. 630.00 
+6|Anti TPO Test|| Rs. 900.00 
+7|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 450.00 
+8|ASO Test|| Rs. 500.00 
+9|Beta HCG Test|| Rs. 650.00 (HCG Beta Subunit, Quantitative) 
+10|Blood Group Test|| Rs. 120.00 
+11|Calcium Test|| Rs. 150.00 
+12|CBC / Hemogram Test|| Rs. 280.00 (Complete Blood Count) 
+13|Chloride Test|| Rs. 120.00 
+14|Cholesterol Test|| Rs. 130.00 
+15|CRP (C-Reactive Protein) Test|| Rs. 350.00 
+16|Dengue NS1 Test|| Rs. 600.00 
+17|DHEA Test|| Rs. 950.00 (DHEAS-SO4) 
+18|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 120.00 
+19|Ferritin Test|| Rs. 630.00 
+20|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+21|Glucose Tolerance Test (GTT)|| Rs. 200.00 
+22|HbA1C Test|| Rs. 480.00 
+23|HBsAg Test|| Rs. 760.00 
+24|Hemoglobin (Hb) Test|| Rs. 100.00 
+25|HIV Test|| Rs. 450.00 (HIV I & II) 
+26|HLA B27 Test|| Rs. 2000.00 (HLA B27 studies) 
+27|Kidney Function Test|| Rs. 400.00 
+28|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+29|Lipid Profile|| Rs. 600.00 
+30|Liver Function Test|| Rs. 600.00 
+31|PAP Smear|| Rs. 550.00 
+32|Prolactin Test|| Rs. 500.00 
+33|PT (Prothrombin Time) Test|| Rs. 330.00 
+34|Rubella Test|| Rs. 600.00 (IgM Antibody) 
+35|SGOT Test|| Rs. 150.00 
+36|SGPT Test|| Rs. 150.00 
+37|Sodium Test|| Rs. 200.00 
+38|Stool Routine|| Rs. 100.00 
+39|Thyroid Test|| Rs. 550.00 (T3, T4, TSH) 
+40|TORCH Test|| Rs. 7500.00 (TORCH by PCR, Amniotic Fluid) 
+41|TSH (Thyroid Stimulating Hormone) Test|| Rs. 299.00 
+42|Urine Routine|| Rs. 80.00 
+43|Vitamin A Test|| Rs. 3000.00 
+44|Vitamin B12 Test|| Rs. 950.00 
+45|Vitamin C Test|| Rs. 2500.00 
+46|Vitamin D Test|| Rs. 2600.00 
+47|Vitamin E Test|| Rs. 3000.00 

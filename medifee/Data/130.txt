@@ -1,0 +1,46 @@
+|Name|Offer|Price
+0|Amylase Test|| Rs. 500.00 
+1|ANC Profile|| Rs. 2560.00 
+2|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+3|ASO Test|| Rs. 350.00 
+4|Beta HCG Test|| Rs. 650.00 
+5|Bicarbonate Test|| Rs. 800.00 
+6|Bilirubin Test|| Rs. 150.00 
+7|Bleeding / Clotting Time Test|| Rs. 100.00 
+8|Blood Culture Test|| Rs. 350.00 
+9|Blood Sugar Test|| Rs. 60.00 
+10|Blood Urea Nitrogen Test|| Rs. 150.00 
+11|Calcium Test|| Rs. 150.00 
+12|Cholesterol Test|| Rs. 150.00 
+13|Color Doppler|| Rs. 2200.00 
+14|Cortisol Test|| Rs. 400.00 
+15|CPK (Creatine Phosphokinase) Test|| Rs. 400.00 
+16|CPK (Creatine Phosphokinase) Test|| Rs. 450.00 
+17|Creatinine Clearance Test|| Rs. 150.00 
+18|Creatinine Test|| Rs. 150.00 
+19|Dengue IgG Test|| Rs. 600.00 
+20|Dengue IgG Test|| Rs. 600.00 
+21|Dengue IgM Test|| Rs. 600.00 
+22|Dengue IgM Test|| Rs. 600.00 
+23|ECG|| Rs. 200.00 
+24|Electrolytes Test|| Rs. 300.00 
+25|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+26|Ferritin Test|| Rs. 500.00 
+27|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+28|G6PD Test|| Rs. 700.00 
+29|Glucose Tolerance Test (GTT)|| Rs. 150.00 
+30|HbA1C Test|| Rs. 400.00 
+31|HCV Antibody Test|| Rs. 1200.00 
+32|Hemoglobin (Hb) Test|| Rs. 100.00 
+33|Kidney Function Test|| Rs. 750.00 
+34|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+35|Lipase Test|| Rs. 500.00 
+36|Liver Function Test|| Rs. 750.00 
+37|PT (Prothrombin Time) Test|| Rs. 300.00 
+38|Renal Profile|| Rs. 750.00 
+39|Reticulocyte Count Test|| Rs. 100.00 
+40|Rheumatoid Arthritis (RA) Factor Test|| Rs. 350.00 
+41|SGOT Test|| Rs. 150.00 
+42|SGPT Test|| Rs. 150.00 
+43|Urea Test|| Rs. 150.00 
+44|Widal Test|| Rs. 250.00 

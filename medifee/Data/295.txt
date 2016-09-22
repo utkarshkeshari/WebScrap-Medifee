@@ -1,0 +1,17 @@
+|Name|Offer|Price
+0|Beta HCG Test|| Rs. 300.00 
+1|Bilirubin Test|| Rs. 75.00 
+2|Blood Culture Test|| Rs. 300.00 
+3|Blood Group Test|| Rs. 60.00 
+4|Blood Sugar Test|| Rs. 50.00 
+5|Blood Urea Nitrogen Test|| Rs. 100.00 
+6|Kidney Function Test|| Rs. 400.00 
+7|Lipid Profile|| Rs. 400.00 
+8|Liver Function Test|| Rs. 400.00 
+9|PT (Prothrombin Time) Test|| Rs. 200.00 
+10|Renal Profile|| Rs. 400.00 
+11|Thyroid Test|| Rs. 400.00 
+12|Total Protein Test|| Rs. 75.00 
+13|VDRL Test|| Rs. 75.00 
+14|Vitamin B12 Test|| Rs. 400.00 
+15|Vitamin D Test|| Rs. 800.00 

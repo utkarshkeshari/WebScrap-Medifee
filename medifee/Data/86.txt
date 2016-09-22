@@ -1,0 +1,31 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 198.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 990.00 
+2|Albumin Test|| Rs. 150.00 
+3|Allergy Test|| Rs. 11688.00 ( COMPREHENSIVE ALLERGY PANEL) 
+4|Amylase Test|| Rs. 528.00 
+5|ANA (Antinuclear Antibody) Test|| Rs. 1890.00 (by IFA) 
+6|ANA (Antinuclear Antibody) Test|| Rs. 834.00 (BY ELISA) 
+7|Anti CCP (ACCP) Test|| Rs. 2244.00 
+8|Anti TPO Test|| Rs. 1584.00 
+9|Antithyroglobulin Antibody Test|| Rs. 1764.00 
+10|Basic Health Check Up|| Rs. 3300.00 
+11|Beta HCG Test|| Rs. 834.00 
+12|Bilirubin Test|| Rs. 165.00 (Direct) 
+13|Bilirubin Test|| Rs. 165.00 (Total) 
+14|Blood Culture Test|| Rs. 1254.00 
+15|CA 15.3 Test|| Rs. 1683.00 
+16|CA 19.9 Test|| Rs. 1683.00 
+17|CA-125 (Tumor Marker) Test|| Rs. 1482.00 
+18|Calcium Test|| Rs. 198.00 
+19|CBC / Hemogram Test|| Rs. 576.00 
+20|ECG|| Rs. 150.00 
+21|Kidney Function Test|| Rs. 1008.00 
+22|Lipid Profile|| Rs. 900.00 
+23|Liver Function Test|| Rs. 1206.00 
+24|Renal Profile|| Rs. 1008.00 
+25|Sonography|| Rs. 1200.00 (WHOLE ABDOMEN) 
+26|Urine Routine|| Rs. 120.00 
+27|Vitamin B12 Test|| Rs. 1320.00 
+28|Vitamin D Test|| Rs. 1980.00 
+29|Wellness Package|| Rs. 2292.00 

@@ -1,0 +1,6 @@
+|Name|Offer|Price
+0|Sonography|| Rs. 2000.00 (Whole Abdomen) 
+1|Sonography|| Rs. 1000.00 (Lower / Upper Abdomen) 
+2|Sonography|| Rs. 3000.00 (Pregnancy Anomaly Level 2) 
+3|X-Ray|| Rs. 350.00 (Chest / Cervical / Dorsal / Lumbar Spine) 
+4|X-Ray|| Rs. 700.00 (Chest PA + LA) 

@@ -1,0 +1,81 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 120.00 (120) 
+1|Alkaline Phosphatase (ALP) Test|| Rs. 220.00 (220) 
+2|Amylase Test|| Rs. 580.00 (580) 
+3|ANA (Antinuclear Antibody) Test|| Rs. 580.00 
+4|Anti CCP (ACCP) Test|| Rs. 1280.00 
+5|Anti TPO Test|| Rs. 800.00 
+6|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+7|ASO Test|| Rs. 220.00 
+8|Beta HCG Test|| Rs. 550.00 
+9|Bilirubin Test|| Rs. 150.00 
+10|Bleeding / Clotting Time Test|| Rs. 200.00 
+11|Blood Culture Test|| Rs. 700.00 
+12|Blood Glucose Test|| Rs. 20.00 
+13|Blood Urea Nitrogen Test|| Rs. 110.00 
+14|C-Peptide Test|| Rs. 890.00 
+15|Calcium Test|| Rs. 90.00 
+16|Chloride Test|| Rs. 140.00 
+17|Complement C4|| Rs. 1300.00 
+18|Creatinine Clearance Test|| Rs. 650.00 
+19|CRP (C-Reactive Protein) Test|| Rs. 220.00 
+20|Dengue IgG Test|| Rs. 800.00 
+21|Dengue IgM Test|| Rs. 850.00 
+22|Dengue NS1 Test|| Rs. 650.00 
+23|Double Marker Test|| Rs. 2800.00 
+24|Electrolytes Test|| Rs. 290.00 
+25|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 80.00 
+26|Estradiol (E2) Test|| Rs. 500.00 
+27|Ferritin Test|| Rs. 700.00 
+28|FNAC Test|| Rs. 800.00 
+29|Folic Acid Test|| Rs. 600.00 
+30|FSH (Follicle Stimulating Hormone) Test|| Rs. 570.00 
+31|Full Body Health Checkup|| Rs. 2700.00 
+32|G6PD Test|| Rs. 700.00 
+33|Gamma GT (GGTP) Test|| Rs. 400.00 
+34|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+35|Gram Stain Test|| Rs. 290.00 
+36|HbA1C Test|| Rs. 500.00 
+37|HBeAb (Hepatitis B Antibody)|| Rs. 700.00 
+38|HBsAg Test|| Rs. 500.00 
+39|Hemoglobin (Hb) Test|| Rs. 100.00 
+40|Hemoglobin Electrophoresis|| Rs. 1400.00 
+41|Herpes Simplex Virus (HSV) Test|| Rs. 500.00 
+42|HIV Test|| Rs. 500.00 (700) 
+43|HLA B27 Test|| Rs. 2500.00 
+44|Homocysteine Test|| Rs. 1000.00 
+45|Insulin Test|| Rs. 580.00 
+46|Iron Test|| Rs. 400.00 
+47|Kidney Function Test|| Rs. 560.00 
+48|Kidney Profile|| Rs. 560.00 
+49|LDH (Lactate Dehydrogenase) Test|| Rs. 700.00 
+50|Lipase Test|| Rs. 600.00 
+51|Lithium Test|| Rs. 1200.00 
+52|Lupus Anticoagulant (LAC) Test|| Rs. 1400.00 
+53|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+54|Peripheral Blood Smear Test|| Rs. 200.00 
+55|Phosphorus Test|| Rs. 200.00 
+56|Platelet Count|| Rs. 100.00 
+57|Pregnancy Test|| Rs. 150.00 
+58|Progesterone Test|| Rs. 600.00 
+59|Prolactin Test|| Rs. 500.00 
+60|Protein Test|| Rs. 230.00 
+61|PSA (Prostate Specific Antigen) Test|| Rs. 600.00 
+62|PTH (Parathyroid Hormone) Test|| Rs. 900.00 
+63|Reticulocyte Count Test|| Rs. 200.00 
+64|Rheumatoid Arthritis (RA) Factor Test|| Rs. 230.00 
+65|Rubella Test|| Rs. 700.00 
+66|SGOT Test|| Rs. 120.00 
+67|SGPT Test|| Rs. 120.00 
+68|Stool Culture|| Rs. 450.00 
+69|Stool Routine|| Rs. 160.00 
+70|TB Test|| Rs. 1890.00 
+71|Testosterone Test|| Rs. 700.00 
+72|Thyroid Test|| Rs. 500.00 
+73|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+74|Uric Acid Test|| Rs. 140.00 
+75|VDRL Test|| Rs. 160.00 
+76|Vitamin B12 Test|| Rs. 800.00 
+77|Vitamin D Test|| Rs. 1100.00 
+78|Vitamin D Test|| Rs. 1400.00 
+79|Widal Test|| Rs. 120.00 

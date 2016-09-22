@@ -1,0 +1,4 @@
+|Name|Offer|Price
+0|DNA Test|| Rs. 14900.00 (Paternity DNA Test (Father and Child)) 
+1|DNA Test|| Rs. 14900.00 (Maternity DNA Test (Mother and Child)) 
+2|DNA Test|| Rs. 16900.00 (Paternity and Maternity Test (Father, Mother and Child)) 

@@ -1,0 +1,19 @@
+|Name|Offer|Price
+0|Blood Culture Test|| Rs. 900.00 
+1|Blood Group Test|| Rs. 120.00 
+2|Blood Sugar Test|| Rs. 80.00 
+3|Blood Urea Nitrogen Test|| Rs. 120.00 
+4|CT Scan|| Rs. 3000.00 (Chest Plain) 
+5|CT Scan|| Rs. 2000.00 (Brain Contras) 
+6|CT Scan|| Rs. 5000.00 (Brain Plain with Contras) 
+7|Kidney Function Test|| Rs. 700.00 
+8|Lipid Profile|| Rs. 880.00 
+9|Liver Function Test|| Rs. 700.00 
+10|MRI Scan|| Rs. 15000.00 (Brain Plain with Contras) 
+11|MRI Scan|| Rs. 6000.00 (Brain Plain) 
+12|MRI Scan|| Rs. 9000.00 (Brain Contras) 
+13|Renal Profile|| Rs. 700.00 
+14|T3 (Triiodothyronine) Test|| Rs. 350.00 
+15|T4 (Thyroxine) Test|| Rs. 350.00 
+16|Thyroid Test|| Rs. 960.00 
+17|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 

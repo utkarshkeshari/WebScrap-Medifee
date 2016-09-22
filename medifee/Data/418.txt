@@ -1,0 +1,46 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 150.00 
+1|Amylase Test|| Rs. 500.00 
+2|ANC Profile|| Rs. 2000.00 
+3|Anti CCP (ACCP) Test|| Rs. 1500.00 
+4|Antithyroglobulin Antibody Test|| Rs. 900.00 
+5|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 380.00 
+6|Bilirubin Test|| Rs. 150.00 
+7|Blood Group Test|| Rs. 120.00 
+8|Blood Sugar Test|| Rs. 100.00 
+9|Calcium Test|| Rs. 150.00 
+10|Chloride Test|| Rs. 150.00 
+11|Cholesterol Test|| Rs. 180.00 
+12|Creatinine Test|| Rs. 150.00 
+13|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+14|Dengue IgG Test|| Rs. 800.00 
+15|Dengue IgM Test|| Rs. 800.00 
+16|DHEA Test|| Rs. 2000.00 
+17|HBsAg Test|| Rs. 350.00 
+18|HDL Cholesterol|| Rs. 200.00 
+19|Kidney Profile|| Rs. 700.00 
+20|LDL Cholesterol|| Rs. 200.00 
+21|Lipid Profile|| Rs. 500.00 
+22|Liver Function Test|| Rs. 500.00 
+23|Malaria (Malarial Parasite) Test|| Rs. 120.00 
+24|PAP Smear|| Rs. 1500.00 
+25|PCV (Packed Cell Volume) Test|| Rs. 120.00 
+26|Platelet Count|| Rs. 150.00 
+27|Pleural Fluid Analysis|| Rs. 600.00 
+28|Potassium Test|| Rs. 250.00 
+29|Protein Test|| Rs. 250.00 
+30|Sickling Test|| Rs. 350.00 
+31|Sodium Test|| Rs. 250.00 
+32|Stool Routine|| Rs. 100.00 
+33|Synovial Fluid Analysis|| Rs. 600.00 
+34|T3 (Triiodothyronine) Test|| Rs. 300.00 
+35|T4 (Thyroxine) Test|| Rs. 300.00 
+36|Thyroglobulin Test|| Rs. 900.00 
+37|Total Protein Test|| Rs. 200.00 
+38|Triglycerides Test|| Rs. 240.00 
+39|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+40|Urea Test|| Rs. 180.00 
+41|Uric Acid Test|| Rs. 150.00 
+42|Urine Routine|| Rs. 150.00 
+43|VLDL Test|| Rs. 250.00 
+44|Widal Test|| Rs. 100.00 

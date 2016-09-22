@@ -1,0 +1,66 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1700.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 830.00 
+2|Albumin Test|| Rs. 140.00 
+3|Ammonia Test|| Rs. 700.00 
+4|Amylase Test|| Rs. 700.00 
+5|Anti TPO Test|| Rs. 880.00 
+6|Antithyroglobulin Antibody Test|| Rs. 800.00 
+7|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 500.00 
+8|ASO Test|| Rs. 500.00 
+9|Beta HCG Test|| Rs. 800.00 
+10|Bilirubin Test|| Rs. 180.00 
+11|Bleeding / Clotting Time Test|| Rs. 350.00 
+12|Blood Culture Test|| Rs. 1260.00 (Aerobic) 
+13|Blood Culture Test|| Rs. 2230.00 
+14|Blood Group Test|| Rs. 300.00 
+15|Blood Sugar Test|| Rs. 60.00 
+16|Blood Sugar Test|| Rs. 120.00 (F + PP) 
+17|Blood Urea Nitrogen Test|| Rs. 140.00 
+18|CBC / Hemogram Test|| Rs. 250.00 
+19|Chloride Test|| Rs. 180.00 
+20|Creatinine Test|| Rs. 190.00 
+21|CT Scan|| Rs. 3000.00 (Brain Plain) 
+22|CT Scan|| Rs. 4200.00 (Brain Plain with Contras) 
+23|Dengue IgG Test|| Rs. 900.00 
+24|Dengue IgG Test|| Rs. 1760.00 (With IgM) 
+25|Dengue IgM Test|| Rs. 900.00 
+26|ECG|| Rs. 220.00 
+27|Ferritin Test|| Rs. 780.00 
+28|G6PD Test|| Rs. 440.00 
+29|Gamma GT (GGTP) Test|| Rs. 220.00 
+30|Globulin Test|| Rs. 50.00 
+31|HbA1C Test|| Rs. 770.00 
+32|HBsAg Test|| Rs. 450.00 
+33|HCV Antibody Test|| Rs. 400.00 
+34|Hemoglobin (Hb) Test|| Rs. 110.00 
+35|HIV Test|| Rs. 860.00 
+36|Insulin Test|| Rs. 660.00 
+37|Iron Test|| Rs. 660.00 
+38|Kidney Function Test|| Rs. 990.00 
+39|Lipase Test|| Rs. 600.00 
+40|Lipid Profile|| Rs. 990.00 
+41|Liver Function Test|| Rs. 990.00 
+42|MRI Scan|| Rs. 6000.00 (Brain Plain) 
+43|MRI Scan|| Rs. 9000.00 (Brain Plain with Contras) 
+44|Phosphorus Test|| Rs. 190.00 
+45|Platelet Count|| Rs. 180.00 
+46|Potassium Test|| Rs. 190.00 
+47|PT (Prothrombin Time) Test|| Rs. 350.00 
+48|Renal Profile|| Rs. 990.00 
+49|SGOT Test|| Rs. 250.00 
+50|SGPT Test|| Rs. 250.00 
+51|Sodium Test|| Rs. 120.00 
+52|Sonography|| Rs. 1800.00 (Whole Abdomen) 
+53|Thyroglobulin Test|| Rs. 330.00 
+54|Thyroid Test|| Rs. 1000.00 
+55|Total Protein Test|| Rs. 50.00 
+56|Transferrin Test|| Rs. 2000.00 
+57|Triglycerides Test|| Rs. 280.00 
+58|TSH (Thyroid Stimulating Hormone) Test|| Rs. 450.00 
+59|Uric Acid Test|| Rs. 80.00 
+60|Urine Routine|| Rs. 100.00 
+61|VDRL Test|| Rs. 180.00 
+62|Vitamin B12 Test|| Rs. 880.00 
+63|Vitamin D Test|| Rs. 1650.00 
+64|Widal Test|| Rs. 400.00 

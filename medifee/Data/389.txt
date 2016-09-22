@@ -1,0 +1,3 @@
+|Name|Offer|Price
+0|Sputum Routine Test|| Rs. 100.00 
+1|Stool Routine|| Rs. 100.00 

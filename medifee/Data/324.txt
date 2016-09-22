@@ -1,0 +1,64 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1300.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 500.00 
+2|Albumin Test|| Rs. 100.00 
+3|Albumin Test|| Rs. 100.00 
+4|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+5|Amylase Test|| Rs. 350.00 
+6|ANA (Antinuclear Antibody) Test|| Rs. 600.00 
+7|ANC Profile|| Rs. 975.00 
+8|Anti TPO Test|| Rs. 1080.00 
+9|Antithyroglobulin Antibody Test|| Rs. 900.00 
+10|Beta HCG Test|| Rs. 800.00 
+11|Bleeding / Clotting Time Test|| Rs. 50.00 
+12|Blood Culture Test|| Rs. 450.00 
+13|Blood Group Test|| Rs. 60.00 
+14|Blood Sugar Test|| Rs. 60.00 
+15|CA 15.3 Test|| Rs. 1100.00 
+16|CA 19.9 Test|| Rs. 1100.00 
+17|CA-125 (Tumor Marker) Test|| Rs. 1100.00 
+18|CBC / Hemogram Test|| Rs. 280.00 
+19|CD4 Test|| Rs. 2400.00 
+20|CD4 Test|| Rs. 2400.00 
+21|Chloride Test|| Rs. 200.00 
+22|Chloride Test|| Rs. 120.00 
+23|CPK (Creatine Phosphokinase) Test|| Rs. 400.00 
+24|CPK (Creatine Phosphokinase) Test|| Rs. 330.00 
+25|Creatinine Clearance Test|| Rs. 400.00 
+26|Creatinine Test|| Rs. 60.00 
+27|Dengue IgG Test|| Rs. 600.00 
+28|Dengue IgM Test|| Rs. 600.00 
+29|Electrolytes Test|| Rs. 360.00 
+30|Estradiol (E2) Test|| Rs. 500.00 
+31|Ferritin Test|| Rs. 850.00 
+32|Folic Acid Test|| Rs. 800.00 
+33|FSH (Follicle Stimulating Hormone) Test|| Rs. 420.00 
+34|G6PD Test|| Rs. 600.00 
+35|Gamma GT (GGTP) Test|| Rs. 250.00 
+36|Gamma GT (GGTP) Test|| Rs. 250.00 
+37|HbA1C Test|| Rs. 380.00 
+38|Hemoglobin (Hb) Test|| Rs. 100.00 
+39|HIV Test|| Rs. 300.00 
+40|Insulin Test|| Rs. 580.00 
+41|Iron Test|| Rs. 860.00 
+42|LDH (Lactate Dehydrogenase) Test|| Rs. 280.00 
+43|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+44|PAP Smear|| Rs. 600.00 
+45|Potassium Test|| Rs. 120.00 
+46|Pregnancy Test|| Rs. 120.00 
+47|Prolactin Test|| Rs. 450.00 
+48|PTH (Parathyroid Hormone) Test|| Rs. 1200.00 
+49|Sickling Test|| Rs. 200.00 
+50|Sodium Test|| Rs. 120.00 
+51|Sputum Routine Test|| Rs. 120.00 
+52|Stool Routine|| Rs. 80.00 
+53|T3 (Triiodothyronine) Test|| Rs. 200.00 
+54|T4 (Thyroxine) Test|| Rs. 200.00 
+55|Thyroid Test|| Rs. 600.00 
+56|Transferrin Test|| Rs. 700.00 
+57|Triglycerides Test|| Rs. 300.00 
+58|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+59|Uric Acid Test|| Rs. 120.00 
+60|Vitamin B12 Test|| Rs. 800.00 
+61|Vitamin D Test|| Rs. 1400.00 
+62|Widal Test|| Rs. 130.00 

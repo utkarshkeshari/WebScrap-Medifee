@@ -1,0 +1,63 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2500.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 120.00 
+2|Albumin Test|| Rs. 140.00 
+3|Amylase Test|| Rs. 540.00 
+4|Bilirubin Test|| Rs. 200.00 
+5|Bleeding / Clotting Time Test|| Rs. 50.00 
+6|Blood Culture Test|| Rs. 1050.00 
+7|Blood Group Test|| Rs. 120.00 
+8|Blood Sugar Test|| Rs. 70.00 
+9|Blood Urea Nitrogen Test|| Rs. 200.00 
+10|Bone Density Test|| Rs. 3500.00 
+11|CA-125 (Tumor Marker) Test|| Rs. 1250.00 
+12|CBC / Hemogram Test|| Rs. 300.00 
+13|CD4 Test|| Rs. 2000.00 
+14|CEA (Carcinoembryonic Antigen) Test|| Rs. 920.00 
+15|Chloride Test|| Rs. 100.00 
+16|Cholesterol Test|| Rs. 220.00 
+17|CK-MB Test|| Rs. 300.00 
+18|Coombs Test|| Rs. 500.00 
+19|CRP (C-Reactive Protein) Test|| Rs. 480.00 
+20|CT Scan|| Rs. 2700.00 (Plain) 
+21|CT Scan|| Rs. 1300.00 (Contrast) 
+22|Dengue IgG Test|| Rs. 600.00 
+23|Dengue IgM Test|| Rs. 600.00 
+24|DHEA Test|| Rs. 2000.00 
+25|Electrolytes Test|| Rs. 300.00 
+26|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+27|Ferritin Test|| Rs. 500.00 
+28|Folic Acid Test|| Rs. 960.00 
+29|FSH (Follicle Stimulating Hormone) Test|| Rs. 540.00 
+30|HBsAg Test|| Rs. 480.00 
+31|HIV Test|| Rs. 420.00 
+32|Insulin Test|| Rs. 720.00 
+33|Iron Test|| Rs. 900.00 
+34|Kidney Function Test|| Rs. 600.00 
+35|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+36|Lipase Test|| Rs. 540.00 
+37|Lipid Profile|| Rs. 600.00 
+38|Lupus Anticoagulant (LAC) Test|| Rs. 1760.00 
+39|Malaria (Malarial Parasite) Test|| Rs. 220.00 
+40|Mammography|| Rs. 2200.00 
+41|Microalbumin Test|| Rs. 500.00 
+42|MRI Scan|| Rs. 3550.00 (Contrast) 
+43|MRI Scan|| Rs. 7500.00 (Plain) 
+44|Phosphorus Test|| Rs. 140.00 
+45|Potassium Test|| Rs. 100.00 
+46|Prolactin Test|| Rs. 450.00 
+47|Sodium Test|| Rs. 100.00 
+48|Sonography|| Rs. 1500.00 
+49|Sonography|| Rs. 3500.00 (Anomaly) 
+50|Sputum Routine Test|| Rs. 120.00 
+51|T3 (Triiodothyronine) Test|| Rs. 360.00 
+52|T3 (Triiodothyronine) Test|| Rs. 360.00 
+53|T4 (Thyroxine) Test|| Rs. 360.00 
+54|Thyroid Test|| Rs. 840.00 
+55|Triglycerides Test|| Rs. 120.00 
+56|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+57|VDRL Test|| Rs. 150.00 
+58|Vitamin B12 Test|| Rs. 960.00 
+59|Vitamin D Test|| Rs. 1800.00 
+60|VLDL Test|| Rs. 150.00 
+61|Widal Test|| Rs. 220.00 

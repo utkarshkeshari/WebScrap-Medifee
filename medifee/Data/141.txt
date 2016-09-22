@@ -1,0 +1,79 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 300.00 
+1|Bilirubin Test|| Rs. 200.00 
+2|Bleeding / Clotting Time Test|| Rs. 100.00 
+3|Blood Culture Test|| Rs. 600.00 
+4|Blood Group Test|| Rs. 200.00 
+5|Blood Sugar Test|| Rs. 100.00 
+6|Blood Urea Nitrogen Test|| Rs. 200.00 
+7|CA 15.3 Test|| Rs. 1350.00 
+8|CA 19.9 Test|| Rs. 1350.00 
+9|CA-125 (Tumor Marker) Test|| Rs. 1350.00 
+10|Calcium Test|| Rs. 200.00 
+11|CBC / Hemogram Test|| Rs. 450.00 
+12|Chloride Test|| Rs. 200.00 
+13|Cholesterol Test|| Rs. 200.00 
+14|CPK (Creatine Phosphokinase) Test|| Rs. 500.00 (MB) 
+15|CRP (C-Reactive Protein) Test|| Rs. 600.00 
+16|CT Scan|| Rs. 4000.00 
+17|CT Scan|| Rs. 5500.00 (Plain) 
+18|CT Scan|| Rs. 4000.00 (Brain Contrast) 
+19|CT Scan|| Rs. 2500.00 (Plain Brain) 
+20|CT Scan|| Rs. 5500.00 (Pelvis) 
+21|Dengue IgG Test|| Rs. 600.00 
+22|Dengue IgM Test|| Rs. 600.00 
+23|Electrolytes Test|| Rs. 400.00 
+24|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 150.00 
+25|Estradiol (E2) Test|| Rs. 1000.00 
+26|Ferritin Test|| Rs. 800.00 
+27|Folic Acid Test|| Rs. 1100.00 
+28|FSH (Follicle Stimulating Hormone) Test|| Rs. 600.00 
+29|FSH (Follicle Stimulating Hormone) Test|| Rs. 600.00 
+30|G6PD Test|| Rs. 700.00 
+31|G6PD Test|| Rs. 800.00 
+32|Gamma GT (GGTP) Test|| Rs. 270.00 
+33|Glucose Tolerance Test (GTT)|| Rs. 200.00 
+34|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+35|HbA1C Test|| Rs. 500.00 
+36|HBsAg Test|| Rs. 400.00 
+37|HCV Antibody Test|| Rs. 800.00 
+38|HCV Antibody Test|| Rs. 1550.00 
+39|HDL Cholesterol|| Rs. 200.00 
+40|Hemoglobin (Hb) Test|| Rs. 150.00 
+41|HIV Test|| Rs. 600.00 
+42|Insulin Test|| Rs. 900.00 
+43|Insulin Test|| Rs. 1000.00 (Fasting) 
+44|Iron Test|| Rs. 470.00 
+45|Iron Test|| Rs. 480.00 
+46|Kidney Function Test|| Rs. 1050.00 
+47|LH (Luteinizing Hormone) Test|| Rs. 600.00 
+48|LH (Luteinizing Hormone) Test|| Rs. 600.00 
+49|Lipase Test|| Rs. 650.00 
+50|Lipid Profile|| Rs. 900.00 
+51|Liver Function Test|| Rs. 900.00 
+52|Mammography|| Rs. 2000.00 
+53|Microalbumin Test|| Rs. 500.00 
+54|MRI Scan|| Rs. 9000.00 (Brain Contrast) 
+55|Pregnancy Test|| Rs. 200.00 (Urine) 
+56|Prolactin Test|| Rs. 575.00 
+57|Prolactin Test|| Rs. 570.00 
+58|PSA (Prostate Specific Antigen) Test|| Rs. 1100.00 
+59|PT (Prothrombin Time) Test|| Rs. 500.00 
+60|PTH (Parathyroid Hormone) Test|| Rs. 1800.00 
+61|Renal Profile|| Rs. 600.00 
+62|Semen Analysis Test|| Rs. 300.00 
+63|SGOT Test|| Rs. 200.00 
+64|SGPT Test|| Rs. 200.00 
+65|Sonography|| Rs. 1200.00 
+66|Sonography|| Rs. 1200.00 (Lower Abdomen ) 
+67|Sputum Routine Test|| Rs. 200.00 
+68|Stool Routine|| Rs. 200.00 
+69|Testosterone Test|| Rs. 800.00 
+70|Transferrin Test|| Rs. 1250.00 
+71|Urea Test|| Rs. 200.00 
+72|Uric Acid Test|| Rs. 200.00 
+73|Urine Routine|| Rs. 120.00 
+74|VDRL Test|| Rs. 400.00 
+75|Vitamin B12 Test|| Rs. 1100.00 
+76|Vitamin D Test|| Rs. 1500.00 
+77|Widal Test|| Rs. 400.00 

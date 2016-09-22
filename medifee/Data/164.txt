@@ -1,0 +1,77 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 4000.00 
+1|Amylase Test|| Rs. 450.00 
+2|ANCA Profile|| Rs. 1500.00 
+3|Anti TPO Test|| Rs. 1450.00 
+4|ASO Test|| Rs. 500.00 
+5|Beta HCG Test|| Rs. 650.00 
+6|Bleeding / Clotting Time Test|| Rs. 200.00 
+7|Bleeding / Clotting Time Test|| Rs. 200.00 
+8|Blood Culture Test|| Rs. 1450.00 
+9|Blood Group Test|| Rs. 150.00 
+10|Blood Sugar Test|| Rs. 150.00 (F + PP) 
+11|Blood Urea Nitrogen Test|| Rs. 100.00 
+12|CA 15.3 Test|| Rs. 1200.00 
+13|CA 19.9 Test|| Rs. 1200.00 
+14|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+15|CBC / Hemogram Test|| Rs. 350.00 
+16|Chloride Test|| Rs. 150.00 
+17|Cholesterol Test|| Rs. 200.00 
+18|Creatinine Test|| Rs. 200.00 
+19|CT Scan|| Rs. 2000.00 (Brain Plain) 
+20|CT Scan|| Rs. 3000.00 (Brain Plain with Contras) 
+21|CT Scan|| Rs. 1000.00 (Brain Contras) 
+22|Dengue IgG Test|| Rs. 600.00 
+23|Dengue IgG Test|| Rs. 300.00 
+24|Dengue IgM Test|| Rs. 600.00 
+25|Dengue IgM Test|| Rs. 300.00 
+26|ECG|| Rs. 500.00 
+27|ECG|| Rs. 500.00 
+28|Electrolytes Test|| Rs. 450.00 
+29|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 150.00 
+30|Ferritin Test|| Rs. 600.00 
+31|Folic Acid Test|| Rs. 1250.00 
+32|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+33|G6PD Test|| Rs. 600.00 
+34|Gamma GT (GGTP) Test|| Rs. 250.00 
+35|Glucose Tolerance Test (GTT)|| Rs. 500.00 
+36|HBsAg Test|| Rs. 350.00 
+37|HCV Antibody Test|| Rs. 1000.00 
+38|Hemoglobin (Hb) Test|| Rs. 100.00 
+39|HIV Test|| Rs. 600.00 
+40|Insulin Test|| Rs. 1000.00 
+41|Insulin Test|| Rs. 500.00 
+42|Kidney Function Test|| Rs. 600.00 
+43|LDL Cholesterol|| Rs. 300.00 
+44|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+45|Lipase Test|| Rs. 350.00 
+46|Lipid Profile|| Rs. 700.00 
+47|Lithium Test|| Rs. 300.00 
+48|Liver Function Test|| Rs. 700.00 
+49|Mammography|| Rs. 3000.00 
+50|MRI Scan|| Rs. 8000.00 (Brain Plain) 
+51|PAP Smear|| Rs. 600.00 
+52|Platelet Count|| Rs. 50.00 
+53|Potassium Test|| Rs. 150.00 
+54|PT (Prothrombin Time) Test|| Rs. 450.00 
+55|Renal Profile|| Rs. 650.00 
+56|Renal Profile|| Rs. 600.00 
+57|SGOT Test|| Rs. 200.00 
+58|SGOT Test|| Rs. 125.00 
+59|SGPT Test|| Rs. 200.00 
+60|SGPT Test|| Rs. 125.00 
+61|Sodium Test|| Rs. 150.00 
+62|Sonography|| Rs. 1500.00 (Whole Abdomen) 
+63|Sputum Routine Test|| Rs. 150.00 
+64|Stool Routine|| Rs. 150.00 
+65|Thyroglobulin Test|| Rs. 1550.00 
+66|Triglycerides Test|| Rs. 200.00 
+67|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+68|Urea Test|| Rs. 100.00 
+69|Uric Acid Test|| Rs. 100.00 
+70|Urine Routine|| Rs. 100.00 
+71|VDRL Test|| Rs. 150.00 
+72|Vitamin B12 Test|| Rs. 1200.00 
+73|Vitamin D Test|| Rs. 2000.00 
+74|Widal Test|| Rs. 150.00 
+75|Widal Test|| Rs. 150.00 

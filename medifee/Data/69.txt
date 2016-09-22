@@ -1,0 +1,44 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 3000.00 
+1|ACL Surgery|| Rs. 200000.00 (General ward) 
+2|ACL Surgery|| Rs. 250000.00 (Private ward) 
+3|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1350.00 
+4|ANCA Profile|| Rs. 1600.00 
+5|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 590.00 
+6|Audiometry Screening|| Rs. 710.00 
+7|Bone Density Test|| Rs. 2200.00 (One Part) 
+8|Bone Density Test|| Rs. 3300.00 (Two Part) 
+9|CD4 Test|| Rs. 1740.00 
+10|CEA (Carcinoembryonic Antigen) Test|| Rs. 760.00 
+11|Creatinine Clearance Test|| Rs. 425.00 
+12|Creatinine Clearance Test|| Rs. 175.00 
+13|Creatinine Test|| Rs. 175.00 
+14|CT Scan|| Rs. 3830.00 (Brain Contras) 
+15|CT Scan|| Rs. 2570.00 (Brain Plain) 
+16|D Dimer Test|| Rs. 2025.00 
+17|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 330.00 
+18|FSH (Follicle Stimulating Hormone) Test|| Rs. 640.00 
+19|HbA1C Test|| Rs. 540.00 
+20|HBsAg Test|| Rs. 1150.00 
+21|HCV Antibody Test|| Rs. 1400.00 
+22|Hemoglobin (Hb) Test|| Rs. 100.00 
+23|Kidney Profile|| Rs. 710.00 
+24|LH (Luteinizing Hormone) Test|| Rs. 640.00 
+25|Lithium Test|| Rs. 230.00 
+26|Liver Function Test|| Rs. 1080.00 
+27|Mammography|| Rs. 1680.00 (Single) 
+28|Mammography|| Rs. 3340.00 (Both) 
+29|MRI Scan|| Rs. 11030.00 (Brain Contras) 
+30|MRI Scan|| Rs. 7350.00 (Brain Plain) 
+31|PT (Prothrombin Time) Test|| Rs. 360.00 
+32|Pulmonary Function Test (PFT)|| Rs. 2350.00 
+33|Renal Profile|| Rs. 700.00 
+34|SGOT Test|| Rs. 200.00 
+35|SGPT Test|| Rs. 200.00 
+36|Sonography|| Rs. 1580.00 (Whole Abdomen) 
+37|Sonography|| Rs. 970.00 (Pelvis) 
+38|Stress Test|| Rs. 4830.00 
+39|Urine Routine|| Rs. 200.00 
+40|VDRL Test|| Rs. 270.00 
+41|Vitamin C Test|| Rs. 8100.00 (Ascorbic Acid) 
+42|Widal Test|| Rs. 270.00 

@@ -1,0 +1,22 @@
+|Name|Offer|Price
+0|Aldolase Test|| Rs. 1000.00 
+1|Biopsy|| Rs. 1500.00 (BIG) 
+2|Complement C3|| Rs. 550.00 
+3|Complement C4|| Rs. 550.00 
+4|Cryptococcal Antigen Test|| Rs. 1500.00 
+5|Dengue NS1 Test|| Rs. 1200.00 
+6|Factor V Leiden Test|| Rs. 2600.00 
+7|Globulin / AG Ratio|| Rs. 150.00 
+8|Gram Stain Test|| Rs. 200.00 
+9|Hemoglobin Electrophoresis|| Rs. 800.00 
+10|Peripheral Blood Smear Test|| Rs. 200.00 
+11|Plasma Lactate (Latic Acid) Test|| Rs. 1000.00 
+12|Rubella Test|| Rs. 600.00 (IgG) 
+13|Rubella Test|| Rs. 600.00 (IgM) 
+14|Stool Culture|| Rs. 500.00 
+15|TB Test|| Rs. 3000.00 
+16|Toxoplasma Test|| Rs. 1000.00 (IgG) 
+17|Toxoplasma Test|| Rs. 1000.00 (IgM) 
+18|Toxoplasma Test|| Rs. 1000.00 (IgA) 
+19|Typhidot Test|| Rs. 300.00 (IgG) 
+20|Typhidot Test|| Rs. 300.00 (IgM) 

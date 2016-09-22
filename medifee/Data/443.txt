@@ -1,0 +1,51 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 220.00 
+1|Albumin Test|| Rs. 240.00 
+2|ANA (Antinuclear Antibody) Test|| Rs. 1500.00 
+3|Anti TPO Test|| Rs. 1175.00 
+4|ASO Test|| Rs. 540.00 
+5|CA 15.3 Test|| Rs. 1600.00 
+6|CA 19.9 Test|| Rs. 1600.00 
+7|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+8|CEA (Carcinoembryonic Antigen) Test|| Rs. 660.00 
+9|Coombs Test|| Rs. 420.00 (Direct) 
+10|Coombs Test|| Rs. 525.00 (Indirect) 
+11|Cortisol Test|| Rs. 600.00 
+12|CPK (Creatine Phosphokinase) Test|| Rs. 540.00 
+13|CRP (C-Reactive Protein) Test|| Rs. 540.00 
+14|D Dimer Test|| Rs. 1500.00 
+15|ECG|| Rs. 250.00 
+16|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+17|Estradiol (E2) Test|| Rs. 660.00 
+18|Ferritin Test|| Rs. 660.00 
+19|Folic Acid Test|| Rs. 1320.00 
+20|FSH (Follicle Stimulating Hormone) Test|| Rs. 540.00 
+21|G6PD Test|| Rs. 720.00 
+22|Gamma GT (GGTP) Test|| Rs. 360.00 
+23|Glucose Tolerance Test (GTT)|| Rs. 360.00 
+24|HbA1C Test|| Rs. 600.00 
+25|HCV Antibody Test|| Rs. 1440.00 
+26|Homocysteine Test|| Rs. 1800.00 
+27|Iron Test|| Rs. 420.00 
+28|LDH (Lactate Dehydrogenase) Test|| Rs. 420.00 
+29|LH (Luteinizing Hormone) Test|| Rs. 540.00 
+30|Lipoprotein A / LP(a) Test|| Rs. 1200.00 
+31|Lithium Test|| Rs. 360.00 
+32|Lupus Anticoagulant (LAC) Test|| Rs. 1800.00 
+33|PAP Smear|| Rs. 1200.00 
+34|Progesterone Test|| Rs. 900.00 
+35|Prolactin Test|| Rs. 540.00 
+36|Protein/Creatinine Ratio|| Rs. 420.00 
+37|PSA (Prostate Specific Antigen) Test|| Rs. 740.00 (Total) 
+38|PSA (Prostate Specific Antigen) Test|| Rs. 780.00 (Free) 
+39|PTH (Parathyroid Hormone) Test|| Rs. 1655.00 
+40|Reticulocyte Count Test|| Rs. 240.00 
+41|Rheumatoid Arthritis (RA) Factor Test|| Rs. 480.00 
+42|Semen Analysis Test|| Rs. 420.00 
+43|Sputum Routine Test|| Rs. 335.00 
+44|Stool Routine|| Rs. 180.00 
+45|Testosterone Test|| Rs. 600.00 (Total) 
+46|Testosterone Test|| Rs. 1740.00 (Free) 
+47|Thyroglobulin Test|| Rs. 1800.00 
+48|Troponin-I Test|| Rs. 1860.00 
+49|Widal Test|| Rs. 260.00 

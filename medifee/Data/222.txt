@@ -1,0 +1,41 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 125.00 
+1|Amylase Test|| Rs. 440.00 
+2|Antithyroglobulin Antibody Test|| Rs. 1470.00 
+3|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 495.00 
+4|ASO Test|| Rs. 790.00 (Titer) 
+5|Blood Group Test|| Rs. 145.00 
+6|CA-125 (Tumor Marker) Test|| Rs. 1235.00 
+7|Chloride Test|| Rs. 145.00 
+8|Creatinine Test|| Rs. 135.00 
+9|Dengue IgG Test|| Rs. 600.00 
+10|Dengue IgM Test|| Rs. 600.00 
+11|Estradiol (E2) Test|| Rs. 595.00 
+12|Ferritin Test|| Rs. 695.00 
+13|Folic Acid Test|| Rs. 1100.00 
+14|FSH (Follicle Stimulating Hormone) Test|| Rs. 550.00 
+15|Gamma GT (GGTP) Test|| Rs. 245.00 
+16|Glucose Tolerance Test (GTT)|| Rs. 240.00 (3 Sample) 
+17|HbA1C Test|| Rs. 450.00 
+18|HBsAg Test|| Rs. 440.00 
+19|HCV Antibody Test|| Rs. 1540.00 
+20|Hemoglobin (Hb) Test|| Rs. 160.00 
+21|Kidney Function Test|| Rs. 840.00 
+22|Lipase Test|| Rs. 720.00 
+23|Magnesium Test|| Rs. 495.00 
+24|Microalbumin Test|| Rs. 550.00 
+25|Potassium Test|| Rs. 165.00 
+26|Prolactin Test|| Rs. 550.00 
+27|Protein/Creatinine Ratio|| Rs. 255.00 
+28|PT (Prothrombin Time) Test|| Rs. 365.00 
+29|PTH (Parathyroid Hormone) Test|| Rs. 1650.00 
+30|Sputum Routine Test|| Rs. 285.00 
+31|Stool Routine|| Rs. 100.00 
+32|T3 (Triiodothyronine) Test|| Rs. 310.00 
+33|T4 (Thyroxine) Test|| Rs. 310.00 
+34|Total Protein Test|| Rs. 165.00 
+35|TSH (Thyroid Stimulating Hormone) Test|| Rs. 385.00 
+36|Urea Test|| Rs. 245.00 
+37|Uric Acid Test|| Rs. 145.00 
+38|Urine Routine|| Rs. 100.00 
+39|Widal Test|| Rs. 210.00 

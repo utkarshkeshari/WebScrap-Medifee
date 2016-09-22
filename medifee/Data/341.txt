@@ -1,0 +1,40 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+2|Albumin Test|| Rs. 120.00 
+3|ANA (Antinuclear Antibody) Test|| Rs. 1100.00 
+4|Bilirubin Test|| Rs. 100.00 
+5|Blood Culture Test|| Rs. 800.00 
+6|Blood Group Test|| Rs. 150.00 
+7|Blood Urea Nitrogen Test|| Rs. 120.00 
+8|HbA1C Test|| Rs. 400.00 
+9|Iron Test|| Rs. 550.00 
+10|Kidney Function Test|| Rs. 600.00 
+11|Lipid Profile|| Rs. 600.00 
+12|Liver Function Test|| Rs. 500.00 
+13|Mammography|| Rs. 800.00 
+14|Microalbumin Test|| Rs. 400.00 
+15|PAP Smear|| Rs. 400.00 
+16|Progesterone Test|| Rs. 400.00 
+17|Prolactin Test|| Rs. 400.00 
+18|Protein/Creatinine Ratio|| Rs. 350.00 
+19|PSA (Prostate Specific Antigen) Test|| Rs. 700.00 
+20|PTH (Parathyroid Hormone) Test|| Rs. 1400.00 
+21|Reticulocyte Count Test|| Rs. 200.00 
+22|Rheumatoid Arthritis (RA) Factor Test|| Rs. 300.00 
+23|Sickling Test|| Rs. 200.00 
+24|Sonography|| Rs. 1200.00 (Whole Abdomen) 
+25|Sonography|| Rs. 1200.00 
+26|Sputum Routine Test|| Rs. 110.00 
+27|Stool Routine|| Rs. 100.00 
+28|Stress Test|| Rs. 1500.00 
+29|Testosterone Test|| Rs. 500.00 
+30|Thyroglobulin Test|| Rs. 1250.00 
+31|Thyroid Test|| Rs. 550.00 
+32|Transferrin Test|| Rs. 350.00 
+33|Troponin-I Test|| Rs. 1200.00 
+34|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+35|Vitamin B12 Test|| Rs. 800.00 
+36|Vitamin D Test|| Rs. 1200.00 
+37|VLDL Test|| Rs. 120.00 
+38|Widal Test|| Rs. 150.00 

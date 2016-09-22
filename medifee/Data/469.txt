@@ -1,0 +1,7 @@
+|Name|Offer|Price
+0|Sonography|| Rs. 1500.00 (Whole Abdomen) 
+1|Sonography|| Rs. 1000.00 (Upper Abdomen) 
+2|Sonography|| Rs. 1000.00 (KUB WITH PVR) 
+3|Sonography|| Rs. 1200.00 (PELVIS WITH TVS) 
+4|Sonography|| Rs. 1000.00 (LOWE ABDOMEN / PELVIS) 
+5|Sonography|| Rs. 1500.00 (BREAST) 

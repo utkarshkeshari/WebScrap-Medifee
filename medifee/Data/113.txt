@@ -1,0 +1,70 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 400.00 
+1|Aldolase Test|| Rs. 800.00 
+2|Amylase Test|| Rs. 300.00 
+3|ANC Profile|| Rs. 1100.00 
+4|Arterial Blood Gas (ABG)|| Rs. 800.00 
+5|Bilirubin Test|| Rs. 160.00 
+6|Bilirubin Test|| Rs. 150.00 
+7|Biopsy|| Rs. 900.00 (BIG) 
+8|Bleeding / Clotting Time Test|| Rs. 80.00 
+9|Blood Culture Test|| Rs. 1000.00 
+10|Blood Group Test|| Rs. 100.00 
+11|Blood Sugar Test|| Rs. 60.00 
+12|CA-125 (Tumor Marker) Test|| Rs. 900.00 
+13|CBC / Hemogram Test|| Rs. 300.00 
+14|Cerebral Spinal Fluid (CSF) Test|| Rs. 400.00 
+15|Chloride Test|| Rs. 200.00 
+16|Complement C3|| Rs. 700.00 
+17|Complement C4|| Rs. 700.00 
+18|Coombs Test|| Rs. 300.00 
+19|Cryptococcal Antigen Test|| Rs. 4300.00 (Antibody) 
+20|Dengue NS1 Test|| Rs. 1200.00 
+21|Electrolytes Test|| Rs. 400.00 
+22|Estradiol (E2) Test|| Rs. 400.00 
+23|Ferritin Test|| Rs. 500.00 
+24|Fungal Culture Test|| Rs. 400.00 
+25|Gamma GT (GGTP) Test|| Rs. 250.00 
+26|Gram Stain Test|| Rs. 300.00 
+27|HbA1C Test|| Rs. 500.00 
+28|HBsAg Test|| Rs. 400.00 
+29|HBsAg Test|| Rs. 400.00 
+30|Hemoglobin Electrophoresis|| Rs. 800.00 
+31|HIV Test|| Rs. 400.00 
+32|Insulin Test|| Rs. 900.00 
+33|Insulin Test|| Rs. 600.00 
+34|Iron Test|| Rs. 350.00 
+35|Iron Test|| Rs. 350.00 
+36|Iron Test|| Rs. 400.00 (TIBC) 
+37|Kidney Function Test|| Rs. 600.00 
+38|Kidney Function Test|| Rs. 600.00 
+39|Lipase Test|| Rs. 480.00 
+40|Lipid Profile|| Rs. 600.00 
+41|Plasma Lactate (Latic Acid) Test|| Rs. 850.00 
+42|Platelet Count|| Rs. 50.00 
+43|Potassium Test|| Rs. 200.00 
+44|Prolactin Test|| Rs. 400.00 
+45|Protein Test|| Rs. 100.00 
+46|Protein Test|| Rs. 100.00 
+47|Renal Profile|| Rs. 600.00 
+48|Rubella Test|| Rs. 400.00 (IgG) 
+49|Rubella Test|| Rs. 400.00 (IgM) 
+50|Sodium Test|| Rs. 200.00 
+51|Sonography|| Rs. 800.00 (Whole Abdomen) 
+52|Sputum Routine Test|| Rs. 200.00 
+53|Stool Culture|| Rs. 400.00 
+54|Stool Routine|| Rs. 100.00 
+55|T3 (Triiodothyronine) Test|| Rs. 250.00 
+56|T4 (Thyroxine) Test|| Rs. 250.00 
+57|TB Test|| Rs. 2400.00 
+58|Thyroid Test|| Rs. 500.00 
+59|Total Protein Test|| Rs. 100.00 
+60|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+61|Urine Routine|| Rs. 80.00 
+62|Urine Routine|| Rs. 80.00 
+63|VDRL Test|| Rs. 200.00 
+64|Vitamin B12 Test|| Rs. 800.00 
+65|Vitamin B12 Test|| Rs. 800.00 
+66|Vitamin D Test|| Rs. 1500.00 
+67|Vitamin D Test|| Rs. 1500.00 (D3) 
+68|Widal Test|| Rs. 150.00 

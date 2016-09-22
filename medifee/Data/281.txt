@@ -1,0 +1,38 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 100.00 
+1|Alkaline Phosphatase (ALP) Test|| Rs. 100.00 
+2|Amylase Test|| Rs. 450.00 
+3|Beta HCG Test|| Rs. 600.00 
+4|Bleeding / Clotting Time Test|| Rs. 100.00 
+5|Blood Culture Test|| Rs. 300.00 
+6|Blood Sugar Test|| Rs. 100.00 
+7|Blood Urea Nitrogen Test|| Rs. 100.00 
+8|CA 15.3 Test|| Rs. 1000.00 
+9|CA 19.9 Test|| Rs. 1000.00 
+10|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+11|CBC / Hemogram Test|| Rs. 250.00 
+12|CD4 Test|| Rs. 2500.00 
+13|CK-MB Test|| Rs. 450.00 
+14|CRP (C-Reactive Protein) Test|| Rs. 500.00 
+15|DHEA Test|| Rs. 700.00 
+16|Estradiol (E2) Test|| Rs. 600.00 
+17|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+18|Gamma GT (GGTP) Test|| Rs. 300.00 
+19|Glucose Tolerance Test (GTT)|| Rs. 200.00 
+20|HBsAg Test|| Rs. 300.00 
+21|HIV Test|| Rs. 500.00 
+22|Insulin Test|| Rs. 600.00 
+23|Iron Test|| Rs. 1500.00 
+24|Lipase Test|| Rs. 500.00 
+25|Liver Function Test|| Rs. 450.00 
+26|Liver Function Test|| Rs. 450.00 
+27|Progesterone Test|| Rs. 500.00 
+28|Prolactin Test|| Rs. 500.00 
+29|PT (Prothrombin Time) Test|| Rs. 300.00 
+30|Testosterone Test|| Rs. 500.00 
+31|Thyroid Test|| Rs. 300.00 
+32|Urine Routine|| Rs. 50.00 
+33|VDRL Test|| Rs. 100.00 
+34|Vitamin B12 Test|| Rs. 1200.00 
+35|Vitamin D Test|| Rs. 1400.00 
+36|Widal Test|| Rs. 100.00 

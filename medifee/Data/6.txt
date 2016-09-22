@@ -1,0 +1,111 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+2|AFP (Alpha Feto Protein) Test|| Rs. 650.00 
+3|Albumin Test|| Rs. 120.00 
+4|Albumin Test|| Rs. 180.00 
+5|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+6|ANA (Antinuclear Antibody) Test|| Rs. 600.00 
+7|Anti TPO Test|| Rs. 800.00 
+8|Antithyroglobulin Antibody Test|| Rs. 800.00 
+9|ASO Test|| Rs. 700.00 
+10|Bilirubin Test|| Rs. 180.00 (Direct / Total) 
+11|Bleeding / Clotting Time Test|| Rs. 70.00 
+12|Blood Culture Test|| Rs. 350.00 
+13|Blood Group Test|| Rs. 120.00 
+14|Blood Sugar Test|| Rs. 70.00 
+15|Blood Sugar Test|| Rs. 70.00 (F / R / PP) 
+16|Blood Urea Nitrogen Test|| Rs. 100.00 
+17|CA 15.3 Test|| Rs. 1200.00 
+18|CA 19.9 Test|| Rs. 1200.00 
+19|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+20|Calcium Test|| Rs. 200.00 
+21|CBC / Hemogram Test|| Rs. 350.00 
+22|CD4 Test|| Rs. 2000.00 
+23|CEA (Carcinoembryonic Antigen) Test|| Rs. 750.00 
+24|Chloride Test|| Rs. 200.00 
+25|Cholesterol Test|| Rs. 150.00 (Serum) 
+26|Color Doppler|| Rs. 1800.00 (USG Whole Abdomen) 
+27|Coombs Test|| Rs. 400.00 
+28|Cortisol Test|| Rs. 400.00 
+29|CPK (Creatine Phosphokinase) Test|| Rs. 350.00 
+30|Creatinine Clearance Test|| Rs. 200.00 
+31|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+32|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+33|Dengue IgG Test|| Rs. 750.00 
+34|Dengue IgM Test|| Rs. 750.00 
+35|DHEA Test|| Rs. 550.00 
+36|ECG|| Rs. 200.00 
+37|ECG|| Rs. 200.00 
+38|Electrolytes Test|| Rs. 600.00 
+39|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 80.00 
+40|Estradiol (E2) Test|| Rs. 500.00 
+41|Ferritin Test|| Rs. 500.00 
+42|Folic Acid Test|| Rs. 850.00 
+43|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+44|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+45|G6PD Test|| Rs. 500.00 
+46|Gamma GT (GGTP) Test|| Rs. 200.00 
+47|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+48|HbA1C Test|| Rs. 550.00 
+49|HbA1C Test|| Rs. 500.00 
+50|HBsAg Test|| Rs. 350.00 
+51|HCV Antibody Test|| Rs. 100.00 
+52|HCV Antibody Test|| Rs. 1000.00 (Total) 
+53|HDL Cholesterol|| Rs. 150.00 
+54|Hemoglobin (Hb) Test|| Rs. 280.00 (Complete) 
+55|Hemoglobin (Hb) Test|| Rs. 80.00 
+56|Hemoglobin (Hb) Test|| Rs. 900.00 (Electrophoresis) 
+57|HGH Test|| Rs. 600.00 
+58|HIV Test|| Rs. 450.00 (I & II) 
+59|Homocysteine Test|| Rs. 1400.00 
+60|Iron Test|| Rs. 300.00 
+61|Kidney Function Test|| Rs. 600.00 
+62|LDH (Lactate Dehydrogenase) Test|| Rs. 200.00 
+63|LDL Cholesterol|| Rs. 200.00 
+64|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+65|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+66|Lipid Profile|| Rs. 600.00 
+67|Lipoprotein A / LP(a) Test|| Rs. 600.00 
+68|Lithium Test|| Rs. 600.00 
+69|Liver Function Test|| Rs. 600.00 
+70|Lupus Anticoagulant (LAC) Test|| Rs. 1400.00 
+71|Malaria (Malarial Parasite) Test|| Rs. 100.00 
+72|Microalbumin Test|| Rs. 350.00 
+73|PAP Smear|| Rs. 600.00 
+74|Platelet Count|| Rs. 150.00 
+75|Pleural Fluid Analysis|| Rs. 1200.00 
+76|Potassium Test|| Rs. 150.00 
+77|Progesterone Test|| Rs. 500.00 
+78|Prolactin Test|| Rs. 400.00 
+79|Protein/Creatinine Ratio|| Rs. 200.00 
+80|PSA (Prostate Specific Antigen) Test|| Rs. 650.00 
+81|PT (Prothrombin Time) Test|| Rs. 300.00 
+82|PTH (Parathyroid Hormone) Test|| Rs. 1000.00 
+83|Renal Profile|| Rs. 600.00 
+84|Reticulocyte Count Test|| Rs. 200.00 
+85|Rheumatoid Arthritis (RA) Factor Test|| Rs. 500.00 
+86|Semen Analysis Test|| Rs. 300.00 
+87|Semen Analysis Test|| Rs. 300.00 
+88|Sickling Test|| Rs. 200.00 
+89|Sodium Test|| Rs. 150.00 
+90|Sonography|| Rs. 1200.00 
+91|Sputum Routine Test|| Rs. 150.00 
+92|Stool Routine|| Rs. 100.00 
+93|Stress Test|| Rs. 3500.00 
+94|Synovial Fluid Analysis|| Rs. 1200.00 
+95|T3 (Triiodothyronine) Test|| Rs. 250.00 
+96|T4 (Thyroxine) Test|| Rs. 250.00 
+97|Testosterone Test|| Rs. 500.00 
+98|Testosterone Test|| Rs. 500.00 
+99|Thyroid Test|| Rs. 600.00 (Profile) 
+100|Troponin-I Test|| Rs. 1600.00 
+101|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+102|Urea Test|| Rs. 100.00 
+103|Urine Routine|| Rs. 100.00 
+104|Vitamin B12 Test|| Rs. 900.00 
+105|VLDL Test|| Rs. 200.00 
+106|VLDL Test|| Rs. 100.00 
+107|Widal Test|| Rs. 200.00 
+108|Widal Test|| Rs. 200.00 
+109|X-Ray|| Rs. 350.00 

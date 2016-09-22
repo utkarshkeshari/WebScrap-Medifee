@@ -1,0 +1,14 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 300.00 
+1|Biopsy|| Rs. 1000.00 (BIG) 
+2|Dengue NS1 Test|| Rs. 600.00 
+3|Fungal Culture Test|| Rs. 400.00 
+4|Gram Stain Test|| Rs. 300.00 
+5|Hemoglobin Electrophoresis|| Rs. 200.00 
+6|Paratyphi Test|| Rs. 100.00 (Parathyphi A) 
+7|Paratyphi Test|| Rs. 100.00 (Parathyphi B) 
+8|Rubella Test|| Rs. 600.00 (IgM) 
+9|Rubella Test|| Rs. 600.00 (IgG) 
+10|Stool Culture|| Rs. 200.00 
+11|TB Test|| Rs. 3000.00 
+12|Toxoplasma Test|| Rs. 400.00 

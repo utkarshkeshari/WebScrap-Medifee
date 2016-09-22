@@ -1,0 +1,14 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 1500.00 
+1|Biopsy|| Rs. 1500.00 (BIG) 
+2|Cerebral Spinal Fluid (CSF) Test|| Rs. 400.00 
+3|Complement C3|| Rs. 1500.00 
+4|Complement C4|| Rs. 1500.00 
+5|Dengue NS1 Test|| Rs. 1500.00 
+6|Globulin / AG Ratio|| Rs. 300.00 
+7|Hemoglobin Electrophoresis|| Rs. 1200.00 
+8|Peripheral Blood Smear Test|| Rs. 350.00 
+9|Rubella Test|| Rs. 500.00 (IgM) 
+10|Rubella Test|| Rs. 500.00 (IgG) 
+11|Stool Culture|| Rs. 350.00 
+12|TB Test|| Rs. 300.00 

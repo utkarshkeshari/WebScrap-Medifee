@@ -1,0 +1,12 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 500.00 
+1|Dengue NS1 Test|| Rs. 2100.00 
+2|Fungal Culture Test|| Rs. 850.00 
+3|Globulin / AG Ratio|| Rs. 100.00 
+4|Gram Stain Test|| Rs. 110.00 
+5|Hemoglobin Electrophoresis|| Rs. 850.00 
+6|Plasma Lactate (Latic Acid) Test|| Rs. 1200.00 
+7|Rubella Test|| Rs. 425.00 (IgG) 
+8|Rubella Test|| Rs. 425.00 (IgM) 
+9|Stool Culture|| Rs. 450.00 
+10|TB Test|| Rs. 2400.00 

@@ -1,0 +1,55 @@
+|Name|Offer|Price
+0|Bleeding / Clotting Time Test|| Rs. 200.00 
+1|Bleeding / Clotting Time Test|| Rs. 250.00 
+2|Blood Group Test|| Rs. 100.00 
+3|Blood Sugar Test|| Rs. 150.00 
+4|Blood Urea Nitrogen Test|| Rs. 100.00 
+5|CA 19.9 Test|| Rs. 1200.00 
+6|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+7|Cerebral Spinal Fluid (CSF) Test|| Rs. 500.00 
+8|Creatinine Test|| Rs. 100.00 
+9|Creatinine Test|| Rs. 100.00 
+10|Dengue IgG Test|| Rs. 600.00 
+11|Dengue IgM Test|| Rs. 600.00 
+12|ECG|| Rs. 200.00 
+13|ECG|| Rs. 200.00 
+14|Electrolytes Test|| Rs. 250.00 
+15|Electrolytes Test|| Rs. 250.00 
+16|Fungal Culture Test|| Rs. 400.00 
+17|G6PD Test|| Rs. 500.00 
+18|Gamma GT (GGTP) Test|| Rs. 100.00 
+19|Globulin / AG Ratio|| Rs. 150.00 
+20|Glucose Tolerance Test (GTT)|| Rs. 250.00 
+21|Gram Stain Test|| Rs. 200.00 
+22|HBsAg Test|| Rs. 400.00 
+23|Hemoglobin (Hb) Test|| Rs. 50.00 
+24|Hemoglobin (Hb) Test|| Rs. 50.00 
+25|Hepatitis A Test|| Rs. 1000.00 (IgG) 
+26|Hepatitis A Test|| Rs. 1000.00 (IgM) 
+27|Kidney Function Test|| Rs. 600.00 
+28|Lipid Profile|| Rs. 500.00 
+29|Liver Function Test|| Rs. 600.00 
+30|Peripheral Blood Smear Test|| Rs. 200.00 
+31|Renal Profile|| Rs. 600.00 
+32|Renal Profile|| Rs. 600.00 
+33|Rubella Test|| Rs. 250.00 (IgG) 
+34|Rubella Test|| Rs. 250.00 (IgM) 
+35|SGOT Test|| Rs. 200.00 
+36|SGPT Test|| Rs. 200.00 
+37|Stool Culture|| Rs. 200.00 
+38|Thyroid Test|| Rs. 300.00 
+39|Toxoplasma Test|| Rs. 300.00 (IgG) 
+40|Toxoplasma Test|| Rs. 300.00 (IgM) 
+41|Toxoplasma Test|| Rs. 300.00 (IgA) 
+42|Typhidot Test|| Rs. 300.00 (IgG) 
+43|Typhidot Test|| Rs. 300.00 (IgM) 
+44|Urea Test|| Rs. 100.00 
+45|Uric Acid Test|| Rs. 100.00 
+46|Uric Acid Test|| Rs. 100.00 
+47|Urine Routine|| Rs. 100.00 
+48|VDRL Test|| Rs. 150.00 
+49|Vitamin B12 Test|| Rs. 800.00 
+50|Vitamin D Test|| Rs. 1200.00 
+51|Widal Test|| Rs. 200.00 
+52|Widal Test|| Rs. 200.00 
+53|X-Ray|| Rs. 200.00 (Chest) 

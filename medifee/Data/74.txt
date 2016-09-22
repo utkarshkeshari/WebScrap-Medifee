@@ -1,0 +1,29 @@
+|Name|Offer|Price
+0|AFP (Alpha Feto Protein) Test|| Rs. 1000.00 
+1|Albumin Test|| Rs. 100.00 
+2|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+3|Amylase Test|| Rs. 450.00 
+4|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+5|ASO Test|| Rs. 300.00 
+6|Bilirubin Test|| Rs. 150.00 
+7|Bleeding / Clotting Time Test|| Rs. 200.00 
+8|Blood Group Test|| Rs. 50.00 
+9|Blood Sugar Test|| Rs. 50.00 
+10|Blood Urea Nitrogen Test|| Rs. 100.00 
+11|Calcium Test|| Rs. 150.00 
+12|CBC / Hemogram Test|| Rs. 350.00 
+13|Chloride Test|| Rs. 150.00 
+14|Cholesterol Test|| Rs. 100.00 
+15|Creatinine Test|| Rs. 100.00 
+16|Electrolytes Test|| Rs. 450.00 
+17|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 50.00 
+18|Ferritin Test|| Rs. 850.00 
+19|Folic Acid Test|| Rs. 1200.00 
+20|FSH (Follicle Stimulating Hormone) Test|| Rs. 575.00 
+21|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+22|HbA1C Test|| Rs. 480.00 
+23|Hemoglobin (Hb) Test|| Rs. 50.00 
+24|HIV Test|| Rs. 650.00 
+25|Iron Test|| Rs. 470.00 
+26|LDH (Lactate Dehydrogenase) Test|| Rs. 320.00 
+27|LH (Luteinizing Hormone) Test|| Rs. 575.00 

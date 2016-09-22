@@ -1,0 +1,62 @@
+|Name|Offer|Price
+0|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+1|Amylase Test|| Rs. 400.00 
+2|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+3|Bleeding / Clotting Time Test|| Rs. 400.00 
+4|Blood Culture Test|| Rs. 950.00 
+5|Blood Group Test|| Rs. 130.00 
+6|Blood Sugar Test|| Rs. 80.00 
+7|Blood Urea Nitrogen Test|| Rs. 120.00 
+8|CBC / Hemogram Test|| Rs. 330.00 
+9|Chloride Test|| Rs. 200.00 
+10|Cholesterol Test|| Rs. 180.00 
+11|Creatinine Test|| Rs. 120.00 
+12|Electrolytes Test|| Rs. 450.00 
+13|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 120.00 
+14|Estradiol (E2) Test|| Rs. 540.00 
+15|Ferritin Test|| Rs. 630.00 
+16|Folic Acid Test|| Rs. 1000.00 
+17|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+18|G6PD Test|| Rs. 750.00 
+19|Gamma GT (GGTP) Test|| Rs. 220.00 
+20|Globulin Test|| Rs. 500.00 
+21|Glucose Tolerance Test (GTT)|| Rs. 270.00 
+22|HbA1C Test|| Rs. 400.00 
+23|HCV Antibody Test|| Rs. 1400.00 
+24|HDL Cholesterol|| Rs. 150.00 
+25|Hemoglobin (Hb) Test|| Rs. 180.00 
+26|Kidney Function Test|| Rs. 700.00 
+27|LDH (Lactate Dehydrogenase) Test|| Rs. 320.00 
+28|LDL Cholesterol|| Rs. 150.00 
+29|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+30|Lipase Test|| Rs. 580.00 
+31|Lipid Profile|| Rs. 880.00 
+32|Liver Function Test|| Rs. 700.00 
+33|Malaria (Malarial Parasite) Test|| Rs. 150.00 
+34|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+35|Phosphorus Test|| Rs. 150.00 
+36|Platelet Count|| Rs. 120.00 
+37|Pregnancy Test|| Rs. 150.00 
+38|Prolactin Test|| Rs. 500.00 
+39|Protein/Creatinine Ratio|| Rs. 420.00 
+40|PT (Prothrombin Time) Test|| Rs. 350.00 
+41|Renal Profile|| Rs. 700.00 
+42|SGOT Test|| Rs. 120.00 
+43|SGPT Test|| Rs. 120.00 
+44|Sickling Test|| Rs. 150.00 
+45|Sputum Routine Test|| Rs. 120.00 
+46|Sputum Routine Test|| Rs. 250.00 (AFB) 
+47|Stool Routine|| Rs. 100.00 
+48|T3 (Triiodothyronine) Test|| Rs. 250.00 
+49|T4 (Thyroxine) Test|| Rs. 250.00 
+50|Thyroid Test|| Rs. 900.00 
+51|Transferrin Test|| Rs. 400.00 
+52|Triglycerides Test|| Rs. 200.00 
+53|Troponin-I Test|| Rs. 1500.00 
+54|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+55|Urea Test|| Rs. 150.00 
+56|Uric Acid Test|| Rs. 120.00 
+57|Urine Routine|| Rs. 150.00 
+58|Vitamin B12 Test|| Rs. 1000.00 
+59|Vitamin D Test|| Rs. 1500.00 
+60|Widal Test|| Rs. 150.00 

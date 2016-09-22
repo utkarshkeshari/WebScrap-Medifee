@@ -1,0 +1,37 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1300.00 
+1|ANC Profile|| Rs. 1800.00 
+2|Antithyroglobulin Antibody Test|| Rs. 800.00 
+3|ASO Test|| Rs. 500.00 
+4|Blood Urea Nitrogen Test|| Rs. 100.00 
+5|CK-MB Test|| Rs. 500.00 
+6|Creatinine Clearance Test|| Rs. 500.00 
+7|D Dimer Test|| Rs. 1375.00 
+8|Deposit Required (For Admission)|| Rs. 100.00 (Deposit Amount is in Percentage of total estimate of Hernia Surgery) 
+9|Doctor Visit Charges|| Rs. 1900.00 (Semi Private ward) 
+10|Doctor Visit Charges|| Rs. 2300.00 (Private Ward) 
+11|Doctor Visit Charges|| Rs. 2750.00 (Deluxe Room) 
+12|Doctor Visit Charges|| Rs. 3000.00 (Suite Room) 
+13|Doctor Visit Charges|| Rs. 1100.00 (General ward) 
+14|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+15|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+16|HbA1C Test|| Rs. 500.00 
+17|HBsAg Test|| Rs. 500.00 
+18|HCV Antibody Test|| Rs. 600.00 
+19|HDL Cholesterol|| Rs. 150.00 
+20|Hernia Surgery|| Rs. 30000.00 (Umbilical Hernia - General ward ) 
+21|Hernia Surgery|| Rs. 38000.00 (Umbilical Hernia - Semi Private ward ) 
+22|Hernia Surgery|| Rs. 50000.00 (Umbilical Hernia - Private ward) 
+23|Hernia Surgery|| Rs. 70000.00 (Umbilical Hernia - Deluxe Room) 
+24|Hernia Surgery|| Rs. 200000.00 (Umbilical Hernia - Suite Room ) 
+25|Kidney Profile|| Rs. 820.00 
+26|LDL Cholesterol|| Rs. 150.00 
+27|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+28|Liver Function Test|| Rs. 750.00 
+29|OPD Consultation Fee|| Rs. 1100.00 (Physician) 
+30|OPD Consultation Fee|| Rs. 1200.00 (Surgeon) 
+31|OPD Consultation Fee|| Rs. 200.00 (Registration Fee) 
+32|Thyroglobulin Test|| Rs. 600.00 
+33|Troponin-I Test|| Rs. 1500.00 
+34|VDRL Test|| Rs. 250.00 
+35|Widal Test|| Rs. 275.00 

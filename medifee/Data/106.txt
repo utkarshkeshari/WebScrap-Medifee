@@ -1,0 +1,111 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 600.00 
+2|Albumin Test|| Rs. 150.00 
+3|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+4|Amylase Test|| Rs. 400.00 
+5|ANC Profile|| Rs. 1000.00 
+6|Anti TPO Test|| Rs. 1100.00 
+7|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 450.00 
+8|ASO Test|| Rs. 250.00 
+9|Beta HCG Test|| Rs. 650.00 
+10|Bicarbonate Test|| Rs. 800.00 
+11|Bilirubin Test|| Rs. 150.00 
+12|Biopsy|| Rs. 1200.00 (BIG) 
+13|Bleeding / Clotting Time Test|| Rs. 100.00 
+14|Blood Culture Test|| Rs. 300.00 
+15|Blood Group Test|| Rs. 100.00 
+16|Blood Sugar Test|| Rs. 50.00 
+17|Blood Urea Nitrogen Test|| Rs. 150.00 
+18|CA 15.3 Test|| Rs. 1200.00 
+19|CA 19.9 Test|| Rs. 1200.00 
+20|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+21|Calcium Test|| Rs. 150.00 
+22|CBC / Hemogram Test|| Rs. 400.00 
+23|CD4 Test|| Rs. 800.00 
+24|CEA (Carcinoembryonic Antigen) Test|| Rs. 150.00 
+25|Chloride Test|| Rs. 150.00 
+26|CK-MB Test|| Rs. 300.00 
+27|Cortisol Test|| Rs. 500.00 
+28|Creatinine Test|| Rs. 150.00 
+29|CRP (C-Reactive Protein) Test|| Rs. 250.00 
+30|Dengue IgG Test|| Rs. 600.00 
+31|Dengue NS1 Test|| Rs. 1200.00 
+32|DHEA Test|| Rs. 1000.00 
+33|ECG|| Rs. 200.00 
+34|Electrolytes Test|| Rs. 450.00 
+35|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+36|Estradiol (E2) Test|| Rs. 600.00 
+37|Ferritin Test|| Rs. 700.00 
+38|Folic Acid Test|| Rs. 900.00 
+39|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+40|Fungal Culture Test|| Rs. 200.00 
+41|G6PD Test|| Rs. 600.00 
+42|Gamma GT (GGTP) Test|| Rs. 250.00 
+43|Globulin Test|| Rs. 150.00 
+44|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+45|Gram Stain Test|| Rs. 500.00 
+46|HbA1C Test|| Rs. 400.00 
+47|HBsAg Test|| Rs. 350.00 
+48|HCV Antibody Test|| Rs. 1000.00 
+49|HDL Cholesterol|| Rs. 200.00 
+50|Hemoglobin (Hb) Test|| Rs. 100.00 
+51|Hepatitis A Test|| Rs. 650.00 
+52|HGH Test|| Rs. 600.00 
+53|HGH Test|| Rs. 800.00 
+54|HIV Test|| Rs. 450.00 
+55|Homocysteine Test|| Rs. 800.00 
+56|Insulin Test|| Rs. 400.00 
+57|Iron Test|| Rs. 250.00 
+58|Kidney Function Test|| Rs. 800.00 
+59|LDH (Lactate Dehydrogenase) Test|| Rs. 250.00 
+60|LDL Cholesterol|| Rs. 150.00 
+61|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+62|Lipase Test|| Rs. 300.00 
+63|Lipid Profile|| Rs. 800.00 
+64|Lipoprotein A / LP(a) Test|| Rs. 800.00 
+65|Lithium Test|| Rs. 400.00 
+66|Liver Function Test|| Rs. 800.00 
+67|Lupus Anticoagulant (LAC) Test|| Rs. 1200.00 
+68|Magnesium Test|| Rs. 250.00 
+69|Malaria (Malarial Parasite) Test|| Rs. 100.00 
+70|PAP Smear|| Rs. 300.00 
+71|PCV (Packed Cell Volume) Test|| Rs. 100.00 
+72|Peripheral Blood Smear Test|| Rs. 200.00 
+73|Phosphorus Test|| Rs. 250.00 
+74|Platelet Count|| Rs. 100.00 
+75|Pregnancy Test|| Rs. 100.00 (Urine) 
+76|Progesterone Test|| Rs. 600.00 
+77|Prolactin Test|| Rs. 500.00 
+78|Protein Test|| Rs. 100.00 (Urine) 
+79|PSA (Prostate Specific Antigen) Test|| Rs. 600.00 
+80|PTH (Parathyroid Hormone) Test|| Rs. 1100.00 
+81|Reticulocyte Count Test|| Rs. 150.00 
+82|Rheumatoid Arthritis (RA) Factor Test|| Rs. 250.00 
+83|Rheumatoid Arthritis (RA) Factor Test|| Rs. 250.00 
+84|Semen Analysis Test|| Rs. 400.00 
+85|SGOT Test|| Rs. 150.00 
+86|SGPT Test|| Rs. 150.00 
+87|Sodium Test|| Rs. 150.00 
+88|Sonography|| Rs. 1000.00 (Whole Abdomen) 
+89|Sonography|| Rs. 750.00 (LA) 
+90|Sputum Routine Test|| Rs. 150.00 
+91|Stool Routine|| Rs. 100.00 
+92|T3 (Triiodothyronine) Test|| Rs. 250.00 
+93|T4 (Thyroxine) Test|| Rs. 250.00 
+94|TB Test|| Rs. 3250.00 
+95|Thyroid Test|| Rs. 600.00 
+96|Transferrin Test|| Rs. 700.00 
+97|Transferrin Test|| Rs. 250.00 
+98|Triglycerides Test|| Rs. 150.00 
+99|Troponin-I Test|| Rs. 1200.00 
+100|Troponin-I Test|| Rs. 800.00 
+101|Urea Test|| Rs. 150.00 
+102|Uric Acid Test|| Rs. 150.00 
+103|Urine Routine|| Rs. 100.00 
+104|VDRL Test|| Rs. 250.00 
+105|Vitamin B12 Test|| Rs. 900.00 
+106|Vitamin D Test|| Rs. 1400.00 
+107|VLDL Test|| Rs. 150.00 
+108|Widal Test|| Rs. 150.00 
+109|X-Ray|| Rs. 200.00 (Chest) 

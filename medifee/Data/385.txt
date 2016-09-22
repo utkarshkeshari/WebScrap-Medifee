@@ -1,0 +1,47 @@
+|Name|Offer|Price
+0|Amylase Test|| Rs. 470.00 
+1|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 250.00 
+2|Beta HCG Test|| Rs. 750.00 
+3|Bilirubin Test|| Rs. 200.00 
+4|Bleeding / Clotting Time Test|| Rs. 100.00 
+5|Blood Culture Test|| Rs. 500.00 
+6|Blood Group Test|| Rs. 80.00 
+7|Blood Sugar Test|| Rs. 50.00 (F) 
+8|Blood Sugar Test|| Rs. 100.00 (F+PP) 
+9|Blood Urea Nitrogen Test|| Rs. 100.00 
+10|CA-125 (Tumor Marker) Test|| Rs. 1350.00 
+11|CBC / Hemogram Test|| Rs. 300.00 
+12|Creatinine Clearance Test|| Rs. 450.00 
+13|Creatinine Test|| Rs. 100.00 
+14|Dengue IgG Test|| Rs. 600.00 
+15|Dengue IgM Test|| Rs. 600.00 
+16|Folic Acid Test|| Rs. 1200.00 
+17|G6PD Test|| Rs. 800.00 
+18|Gamma GT (GGTP) Test|| Rs. 300.00 
+19|HIV Test|| Rs. 300.00 
+20|Insulin Test|| Rs. 900.00 
+21|Kidney Function Test|| Rs. 1050.00 
+22|LDL Cholesterol|| Rs. 400.00 
+23|Lipase Test|| Rs. 650.00 
+24|Lipid Profile|| Rs. 900.00 
+25|Lithium Test|| Rs. 600.00 
+26|Liver Function Test|| Rs. 1000.00 
+27|Magnesium Test|| Rs. 500.00 
+28|Prolactin Test|| Rs. 575.00 
+29|Protein Test|| Rs. 230.00 
+30|Renal Profile|| Rs. 1050.00 
+31|Semen Analysis Test|| Rs. 450.00 
+32|SGOT Test|| Rs. 200.00 
+33|SGPT Test|| Rs. 200.00 
+34|Sputum Routine Test|| Rs. 300.00 
+35|Stool Routine|| Rs. 180.00 
+36|T3 (Triiodothyronine) Test|| Rs. 250.00 
+37|T4 (Thyroxine) Test|| Rs. 250.00 
+38|Thyroglobulin Test|| Rs. 1800.00 
+39|Thyroid Test|| Rs. 500.00 
+40|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+41|Urea Test|| Rs. 80.00 
+42|Uric Acid Test|| Rs. 100.00 
+43|Urine Routine|| Rs. 100.00 
+44|VDRL Test|| Rs. 110.00 
+45|Vitamin A Test|| Rs. 4000.00 

@@ -1,0 +1,47 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 180.00 
+1|Ammonia Test|| Rs. 180.00 
+2|Anti Microsomal Antibody (AMA) Test|| Rs. 1500.00 
+3|Anti Phospholipid (APL) Test|| Rs. 2750.00 (IgG) 
+4|Anti Phospholipid (APL) Test|| Rs. 2750.00 (IgM) 
+5|Anti-Mullerian Hormone (AMH)|| Rs. 2200.00 
+6|Beta Thalassemia‎ Test|| Rs. 1400.00 (Plane) 
+7|Bicarbonate Test|| Rs. 180.00 
+8|Bilirubin Test|| Rs. 180.00 
+9|Bleeding / Clotting Time Test|| Rs. 210.00 
+10|Blood Culture Test|| Rs. 850.00 
+11|Blood Group Test|| Rs. 100.00 
+12|Blood Sugar Test|| Rs. 70.00 
+13|Blood Urea Nitrogen Test|| Rs. 100.00 
+14|Calcium Test|| Rs. 180.00 
+15|Carbamazepine (Tegretol) Test|| Rs. 840.00 
+16|Cardiolipin Antibodies (ACL)|| Rs. 725.00 (IgG) 
+17|Cardiolipin Antibodies (ACL)|| Rs. 725.00 (IgM) 
+18|CBC / Hemogram Test|| Rs. 220.00 
+19|Chloride Test|| Rs. 180.00 
+20|Cholesterol Test|| Rs. 150.00 
+21|Creatinine Test|| Rs. 180.00 
+22|Electrolytes Test|| Rs. 330.00 
+23|Ferritin Test|| Rs. 180.00 
+24|FNAC Test|| Rs. 450.00 
+25|Folic Acid Test|| Rs. 200.00 
+26|Globulin Test|| Rs. 180.00 
+27|HDL Cholesterol|| Rs. 150.00 
+28|Helicobacter Pylori Test|| Rs. 1800.00 (IgG) 
+29|Helicobacter Pylori Test|| Rs. 1800.00 (IgM) 
+30|Hemoglobin (Hb) Test|| Rs. 80.00 
+31|Hepatitis E Test|| Rs. 1100.00 (IgM) 
+32|HSG Test|| Rs. 3500.00 
+33|LDL Cholesterol|| Rs. 150.00 
+34|Lipid Profile|| Rs. 500.00 
+35|Lithium Test|| Rs. 200.00 
+36|Magnesium Test|| Rs. 200.00 
+37|Mantoux Test|| Rs. 200.00 
+38|PCV (Packed Cell Volume) Test|| Rs. 80.00 
+39|Platelet Count|| Rs. 80.00 
+40|Potassium Test|| Rs. 165.00 
+41|Sodium Test|| Rs. 165.00 
+42|Urea Test|| Rs. 100.00 
+43|Uric Acid Test|| Rs. 120.00 
+44|Urine Routine|| Rs. 100.00 
+45|X-Ray|| Rs. 300.00 

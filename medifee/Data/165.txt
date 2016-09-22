@@ -1,0 +1,47 @@
+|Name|Offer|Price
+0|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+1|Beta HCG Test|| Rs. 600.00 
+2|Bicarbonate Test|| Rs. 700.00 
+3|Bilirubin Test|| Rs. 150.00 
+4|Bleeding / Clotting Time Test|| Rs. 100.00 
+5|Blood Culture Test|| Rs. 400.00 
+6|Blood Group Test|| Rs. 70.00 
+7|Blood Sugar Test|| Rs. 50.00 
+8|Blood Sugar Test|| Rs. 100.00 (F + PP) 
+9|Blood Urea Nitrogen Test|| Rs. 100.00 
+10|CA-125 (Tumor Marker) Test|| Rs. 800.00 
+11|CBC / Hemogram Test|| Rs. 300.00 
+12|Creatinine Clearance Test|| Rs. 400.00 
+13|Dengue IgG Test|| Rs. 600.00 
+14|Dengue IgM Test|| Rs. 600.00 
+15|Electrolytes Test|| Rs. 350.00 
+16|Ferritin Test|| Rs. 800.00 
+17|G6PD Test|| Rs. 500.00 
+18|Gamma GT (GGTP) Test|| Rs. 300.00 
+19|HbA1C Test|| Rs. 600.00 
+20|HBsAg Test|| Rs. 300.00 
+21|HDL Cholesterol|| Rs. 200.00 
+22|Hemoglobin (Hb) Test|| Rs. 70.00 
+23|HIV Test|| Rs. 450.00 
+24|Insulin Test|| Rs. 550.00 
+25|Iron Test|| Rs. 600.00 
+26|Kidney Function Test|| Rs. 500.00 
+27|LDL Cholesterol|| Rs. 100.00 
+28|Lipase Test|| Rs. 500.00 
+29|Lipid Profile|| Rs. 550.00 
+30|Liver Function Test|| Rs. 400.00 
+31|Phosphorus Test|| Rs. 250.00 
+32|Renal Profile|| Rs. 500.00 
+33|SGOT Test|| Rs. 100.00 
+34|SGPT Test|| Rs. 100.00 
+35|Stool Routine|| Rs. 150.00 
+36|Testosterone Test|| Rs. 750.00 
+37|Thyroglobulin Test|| Rs. 800.00 
+38|Thyroid Test|| Rs. 500.00 
+39|Total Protein Test|| Rs. 100.00 
+40|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+41|Urea Test|| Rs. 100.00 
+42|Urine Routine|| Rs. 50.00 
+43|Vitamin B12 Test|| Rs. 1200.00 
+44|Vitamin D Test|| Rs. 1950.00 
+45|Widal Test|| Rs. 100.00 

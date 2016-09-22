@@ -1,0 +1,32 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 150.00 
+1|Amylase Test|| Rs. 300.00 
+2|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 500.00 
+3|Biopsy|| Rs. 900.00 (BIG) 
+4|Bleeding / Clotting Time Test|| Rs. 100.00 
+5|Blood Urea Nitrogen Test|| Rs. 120.00 
+6|Cholesterol Test|| Rs. 120.00 
+7|Creatinine Test|| Rs. 120.00 
+8|Dengue IgG Test|| Rs. 600.00 
+9|Dengue IgM Test|| Rs. 600.00 
+10|Dengue NS1 Test|| Rs. 1500.00 
+11|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 120.00 
+12|Globulin / AG Ratio|| Rs. 150.00 
+13|Gram Stain Test|| Rs. 150.00 
+14|Gram Stain Test|| Rs. 300.00 (Culture) 
+15|HbA1C Test|| Rs. 500.00 
+16|Hemoglobin (Hb) Test|| Rs. 100.00 
+17|Hemoglobin Electrophoresis|| Rs. 1000.00 
+18|Hepatitis A Test|| Rs. 600.00 
+19|Lipase Test|| Rs. 300.00 
+20|Peripheral Blood Smear Test|| Rs. 150.00 
+21|PT (Prothrombin Time) Test|| Rs. 450.00 
+22|Rubella Test|| Rs. 500.00 (IgG) 
+23|Rubella Test|| Rs. 500.00 (IgM) 
+24|Stool Culture|| Rs. 300.00 
+25|Toxoplasma Test|| Rs. 500.00 (IgM) 
+26|Toxoplasma Test|| Rs. 500.00 (IgG) 
+27|Typhidot Test|| Rs. 300.00 (IgG) 
+28|Typhidot Test|| Rs. 300.00 (IgM) 
+29|Urea Test|| Rs. 120.00 
+30|Widal Test|| Rs. 150.00 

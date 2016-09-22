@@ -1,0 +1,21 @@
+|Name|Offer|Price
+0|CT Scan|| Rs. 2000.00 (Brain Plain) 
+1|CT Scan|| Rs. 3000.00 (Brain Plain with Contras) 
+2|CT Scan|| Rs. 1000.00 (Brain Contras) 
+3|MRI Scan|| Rs. 6000.00 (Brain Plain) 
+4|MRI Scan|| Rs. 3000.00 (Brain Contras) 
+5|MRI Scan|| Rs. 9000.00 (Brain Plain with Contras) 
+6|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+7|Urea Test|| Rs. 120.00 
+8|Uric Acid Test|| Rs. 150.00 
+9|Urine Routine|| Rs. 100.00 
+10|Urine Routine|| Rs. 80.00 
+11|VDRL Test|| Rs. 100.00 
+12|VDRL Test|| Rs. 150.00 
+13|Vitamin B12 Test|| Rs. 910.00 
+14|Vitamin B12 Test|| Rs. 910.00 
+15|Vitamin D Test|| Rs. 1570.00 
+16|Vitamin D Test|| Rs. 1570.00 
+17|Widal Test|| Rs. 220.00 
+18|Widal Test|| Rs. 150.00 
+19|X-Ray|| Rs. 450.00 (Chest) 

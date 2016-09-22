@@ -1,0 +1,74 @@
+|Name|Offer|Price
+0|AFP (Alpha Feto Protein) Test|| Rs. 750.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 800.00 
+2|Albumin Test|| Rs. 150.00 
+3|Albumin Test|| Rs. 500.00 
+4|Alkaline Phosphatase (ALP) Test|| Rs. 180.00 
+5|Amylase Test|| Rs. 400.00 
+6|Amylase Test|| Rs. 450.00 
+7|ANC Profile|| Rs. 1200.00 
+8|Anti TPO Test|| Rs. 1200.00 
+9|Antithyroglobulin Antibody Test|| Rs. 1200.00 
+10|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+11|Beta HCG Test|| Rs. 550.00 
+12|Beta HCG Test|| Rs. 600.00 
+13|Bleeding / Clotting Time Test|| Rs. 200.00 
+14|Blood Culture Test|| Rs. 1100.00 
+15|Blood Group Test|| Rs. 100.00 
+16|Blood Sugar Test|| Rs. 100.00 
+17|Blood Urea Nitrogen Test|| Rs. 200.00 
+18|Calcium Test|| Rs. 180.00 
+19|CBC / Hemogram Test|| Rs. 300.00 
+20|CD4 Test|| Rs. 1600.00 
+21|Chloride Test|| Rs. 150.00 
+22|Cholesterol Test|| Rs. 180.00 
+23|Creatinine Test|| Rs. 200.00 
+24|CT Scan|| Rs. 2000.00 (Brain Plain) 
+25|CT Scan|| Rs. 3000.00 (Brain Contrast) 
+26|Dengue IgG Test|| Rs. 700.00 
+27|Dengue IgM Test|| Rs. 700.00 
+28|Electrolytes Test|| Rs. 400.00 
+29|Globulin Test|| Rs. 220.00 
+30|Globulin Test|| Rs. 450.00 
+31|HBsAg Test|| Rs. 300.00 
+32|HDL Cholesterol|| Rs. 180.00 
+33|Hemoglobin (Hb) Test|| Rs. 100.00 
+34|HIV Test|| Rs. 400.00 
+35|Insulin Test|| Rs. 600.00 
+36|Kidney Function Test|| Rs. 600.00 
+37|Kidney Profile|| Rs. 500.00 
+38|LDL Cholesterol|| Rs. 200.00 
+39|Lipase Test|| Rs. 400.00 
+40|Lipid Profile|| Rs. 600.00 
+41|Liver Function Test|| Rs. 600.00 
+42|Malaria (Malarial Parasite) Test|| Rs. 120.00 
+43|MRI Scan|| Rs. 6000.00 (Brain Plain) 
+44|MRI Scan|| Rs. 9000.00 (Brain Contrast) 
+45|PCV (Packed Cell Volume) Test|| Rs. 120.00 
+46|Phosphorus Test|| Rs. 150.00 
+47|Platelet Count|| Rs. 100.00 
+48|Pleural Fluid Analysis|| Rs. 400.00 
+49|Potassium Test|| Rs. 200.00 
+50|Pregnancy Test|| Rs. 100.00 
+51|Protein Test|| Rs. 150.00 
+52|PT (Prothrombin Time) Test|| Rs. 350.00 
+53|Renal Profile|| Rs. 600.00 
+54|SGOT Test|| Rs. 120.00 
+55|SGPT Test|| Rs. 120.00 
+56|Sodium Test|| Rs. 150.00 
+57|Synovial Fluid Analysis|| Rs. 400.00 
+58|T3 (Triiodothyronine) Test|| Rs. 250.00 
+59|T4 (Thyroxine) Test|| Rs. 250.00 
+60|Thyroid Test|| Rs. 600.00 
+61|Total Protein Test|| Rs. 150.00 
+62|Total Protein Test|| Rs. 150.00 
+63|Triglycerides Test|| Rs. 200.00 
+64|Triglycerides Test|| Rs. 150.00 
+65|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+66|Urea Test|| Rs. 200.00 
+67|Uric Acid Test|| Rs. 150.00 
+68|Urine Routine|| Rs. 150.00 
+69|VDRL Test|| Rs. 150.00 
+70|Vitamin B12 Test|| Rs. 1000.00 
+71|Vitamin C Test|| Rs. 6600.00 
+72|Vitamin D Test|| Rs. 2800.00 

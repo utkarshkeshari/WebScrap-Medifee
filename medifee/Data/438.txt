@@ -1,0 +1,31 @@
+|Name|Offer|Price
+0|Antithyroglobulin Antibody Test|| Rs. 600.00 
+1|Blood Group Test|| Rs. 100.00 
+2|Blood Sugar Test|| Rs. 120.00 
+3|Blood Urea Nitrogen Test|| Rs. 150.00 
+4|Calcium Test|| Rs. 180.00 
+5|CBC / Hemogram Test|| Rs. 350.00 
+6|Chloride Test|| Rs. 180.00 
+7|Cholesterol Test|| Rs. 150.00 
+8|Creatinine Clearance Test|| Rs. 350.00 
+9|Creatinine Test|| Rs. 150.00 
+10|Electrolytes Test|| Rs. 400.00 
+11|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 80.00 
+12|HBsAg Test|| Rs. 450.00 
+13|HDL Cholesterol|| Rs. 120.00 
+14|HIV Test|| Rs. 400.00 
+15|Kidney Function Test|| Rs. 700.00 
+16|LDL Cholesterol|| Rs. 120.00 
+17|Lipid Profile|| Rs. 600.00 
+18|Liver Function Test|| Rs. 500.00 
+19|Pleural Fluid Analysis|| Rs. 500.00 
+20|Protein/Creatinine Ratio|| Rs. 250.00 
+21|SGOT Test|| Rs. 110.00 
+22|SGPT Test|| Rs. 110.00 
+23|Sickling Test|| Rs. 200.00 
+24|Synovial Fluid Analysis|| Rs. 500.00 
+25|Thyroglobulin Test|| Rs. 600.00 
+26|Thyroid Test|| Rs. 800.00 
+27|TSH (Thyroid Stimulating Hormone) Test|| Rs. 335.00 
+28|VDRL Test|| Rs. 100.00 
+29|VLDL Test|| Rs. 150.00 

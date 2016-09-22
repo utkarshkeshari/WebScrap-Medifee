@@ -1,0 +1,3 @@
+|Name|Offer|Price
+0|Fissure Surgery|| Rs. 25000.00 
+1|Piles Surgery|| Rs. 25000.00 

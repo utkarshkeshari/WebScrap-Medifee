@@ -1,0 +1,28 @@
+|Name|Offer|Price
+0|AFP (Alpha Feto Protein) Test|| Rs. 600.00 
+1|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+2|Amylase Test|| Rs. 450.00 
+3|Anti TPO Test|| Rs. 700.00 
+4|Antithyroglobulin Antibody Test|| Rs. 500.00 
+5|Beta HCG Test|| Rs. 550.00 
+6|Calcium Test|| Rs. 200.00 
+7|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+8|Estradiol (E2) Test|| Rs. 330.00 
+9|Folic Acid Test|| Rs. 375.00 
+10|FSH (Follicle Stimulating Hormone) Test|| Rs. 265.00 
+11|Glucose Tolerance Test (GTT)|| Rs. 200.00 
+12|HBsAg Test|| Rs. 300.00 
+13|HIV Test|| Rs. 300.00 
+14|Lipase Test|| Rs. 450.00 
+15|Magnesium Test|| Rs. 250.00 
+16|Phosphorus Test|| Rs. 250.00 
+17|Protein Test|| Rs. 180.00 
+18|SGOT Test|| Rs. 110.00 
+19|SGPT Test|| Rs. 110.00 
+20|Stool Routine|| Rs. 100.00 
+21|T3 (Triiodothyronine) Test|| Rs. 200.00 
+22|T4 (Thyroxine) Test|| Rs. 200.00 
+23|Thyroglobulin Test|| Rs. 500.00 
+24|Total Protein Test|| Rs. 180.00 
+25|Triglycerides Test|| Rs. 240.00 
+26|VDRL Test|| Rs. 150.00 

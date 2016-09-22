@@ -1,0 +1,7 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 1000.00 
+1|Alberts Stain|| Rs. 200.00 
+2|Aldolase Test|| Rs. 690.00 
+3|Biopsy|| Rs. 1500.00 (BIG) 
+4|Fungal Culture Test|| Rs. 600.00 
+5|TB Test|| Rs. 2800.00 (GOLD) 

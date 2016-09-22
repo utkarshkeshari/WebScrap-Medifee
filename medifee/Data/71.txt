@@ -1,0 +1,80 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 170.00 
+1|Ammonia Test|| Rs. 150.00 
+2|Amylase Test|| Rs. 180.00 
+3|Anti CCP (ACCP) Test|| Rs. 1700.00 
+4|Bicarbonate Test|| Rs. 170.00 
+5|Bilirubin Test|| Rs. 180.00 
+6|Biopsy|| Rs. 1200.00 (BIG) 
+7|Bleeding / Clotting Time Test|| Rs. 120.00 
+8|Blood Culture Test|| Rs. 540.00 
+9|Blood Group Test|| Rs. 300.00 
+10|Blood Sugar Test|| Rs. 200.00 
+11|Blood Urea Nitrogen Test|| Rs. 100.00 
+12|Calcium Test|| Rs. 170.00 
+13|CBC / Hemogram Test|| Rs. 400.00 
+14|Cerebral Spinal Fluid (CSF) Test|| Rs. 1500.00 
+15|Chloride Test|| Rs. 170.00 
+16|Cholesterol Test|| Rs. 220.00 
+17|Creatinine Test|| Rs. 170.00 
+18|Dengue IgG Test|| Rs. 950.00 
+19|Dengue IgM Test|| Rs. 950.00 
+20|Dengue NS1 Test|| Rs. 700.00 
+21|Deposit Required (For Admission)|| Rs. 100.00 (Deposit Amount is in Percentage of total estimate of Hernia Surgery) 
+22|Doctor Visit Charges|| Rs. 700.00 (Same For All Rooms) 
+23|Electrolytes Test|| Rs. 400.00 
+24|Fungal Culture Test|| Rs. 1200.00 
+25|General Ward|| Rs. 3000.00 
+26|Globulin / AG Ratio|| Rs. 200.00 
+27|Globulin Test|| Rs. 170.00 
+28|Gram Stain Test|| Rs. 200.00 
+29|HDL Cholesterol|| Rs. 220.00 
+30|Hemoglobin (Hb) Test|| Rs. 150.00 
+31|Hepatitis A Test|| Rs. 2500.00 (IgG) 
+32|Hepatitis A Test|| Rs. 2500.00 (IgM) 
+33|Hernia Surgery|| Rs. 260000.00 (Umbilical Hernia - Laparoscopic Surgery - Deluxe Room ) 
+34|Hernia Surgery|| Rs. 50000.00 (Umbilical Hernia - Open Surgery - General ward ) 
+35|Hernia Surgery|| Rs. 125000.00 (Umbilical Hernia - Laparoscopic Surgery - General ward ) 
+36|Hernia Surgery|| Rs. 60000.00 (Umbilical Hernia - Open Surgery - Semi Private ward ) 
+37|Hernia Surgery|| Rs. 140000.00 (Umbilical Hernia - Laparoscopic Surgery - Semi Private ward ) 
+38|Hernia Surgery|| Rs. 80000.00 (Umbilical Hernia - Open Surgery - Private ward ) 
+39|Hernia Surgery|| Rs. 160000.00 (Umbilical Hernia - Laparoscopic Surgery - Private ward ) 
+40|Hernia Surgery|| Rs. 130000.00 (Umbilical Hernia - Open Surgery - Deluxe Room) 
+41|Herpes Simplex Virus (HSV) Test|| Rs. 3000.00 
+42|HSG Test|| Rs. 2530.00 
+43|LDL Cholesterol|| Rs. 200.00 
+44|Lipid Profile|| Rs. 1000.00 
+45|Lithium Test|| Rs. 170.00 
+46|Liver Function Test|| Rs. 900.00 
+47|Magnesium Test|| Rs. 170.00 
+48|Malaria (Malarial Parasite) Test|| Rs. 300.00 
+49|OPD Consultation Fee|| Rs. 700.00 (Surgeon) 
+50|PCV (Packed Cell Volume) Test|| Rs. 100.00 
+51|Peripheral Blood Smear Test|| Rs. 500.00 
+52|Platelet Count|| Rs. 100.00 
+53|Potassium Test|| Rs. 200.00 
+54|Pregnancy Test|| Rs. 150.00 
+55|Private Ward|| Rs. 7000.00 
+56|Private Ward|| Rs. 7000.00 (Deluxe Room) 
+57|Protein Test|| Rs. 200.00 
+58|Renal Profile|| Rs. 700.00 
+59|Rubella Test|| Rs. 500.00 (IgG) 
+60|Rubella Test|| Rs. 500.00 (IgM) 
+61|Semi Private Ward|| Rs. 4500.00 
+62|SGOT Test|| Rs. 120.00 
+63|SGPT Test|| Rs. 120.00 
+64|Sodium Test|| Rs. 200.00 
+65|Stool Culture|| Rs. 500.00 
+66|T3 (Triiodothyronine) Test|| Rs. 200.00 
+67|T4 (Thyroxine) Test|| Rs. 200.00 
+68|TB Test|| Rs. 6000.00 
+69|Thyroid Test|| Rs. 800.00 
+70|Toxoplasma Test|| Rs. 1200.00 (IgG) 
+71|Toxoplasma Test|| Rs. 1200.00 (IgM) 
+72|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+73|Typhidot Test|| Rs. 600.00 (IgG) 
+74|Typhidot Test|| Rs. 600.00 (IgM) 
+75|Urea Test|| Rs. 100.00 
+76|Uric Acid Test|| Rs. 150.00 
+77|Urine Routine|| Rs. 100.00 
+78|X-Ray|| Rs. 400.00 

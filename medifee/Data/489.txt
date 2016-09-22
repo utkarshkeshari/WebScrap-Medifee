@@ -1,0 +1,4 @@
+|Name|Offer|Price
+0|Dengue NS1 Test|| Rs. 1600.00 
+1|Hemoglobin Electrophoresis|| Rs. 750.00 
+2|TB Test|| Rs. 4000.00 

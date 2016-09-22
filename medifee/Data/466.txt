@@ -1,0 +1,6 @@
+|Name|Offer|Price
+0|Breast Augmentation / Implant|| Rs. 150.00 (Breast Augmentation in Delhi) 
+1|Breast Reduction Surgery|| Rs. 100.00 (Breast Reduction Surgery) 
+2|Hair Transplant Surgery|| Rs. 50.00 (FUE Hair Transplant Surgery) 
+3|Liposuction|| Rs. 100.00 (Best Valley Liposuction) 
+4|Nose Surgery|| Rs. 50.00 (Nose Rhinoplasty) 

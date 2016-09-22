@@ -1,0 +1,88 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 120.00 
+1|ANA (Antinuclear Antibody) Test|| Rs. 800.00 
+2|Bleeding / Clotting Time Test|| Rs. 120.00 
+3|CA 15.3 Test|| Rs. 1000.00 
+4|CA 19.9 Test|| Rs. 1000.00 
+5|Calcium Test|| Rs. 250.00 
+6|CBC / Hemogram Test|| Rs. 400.00 
+7|Chloride Test|| Rs. 120.00 
+8|Cholesterol Test|| Rs. 300.00 
+9|CK-MB Test|| Rs. 500.00 
+10|Coombs Test|| Rs. 200.00 
+11|Creatinine Clearance Test|| Rs. 200.00 
+12|CRP (C-Reactive Protein) Test|| Rs. 250.00 
+13|Dengue IgG Test|| Rs. 600.00 
+14|Dengue IgM Test|| Rs. 600.00 
+15|Electrolytes Test|| Rs. 300.00 
+16|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 60.00 
+17|Estradiol (E2) Test|| Rs. 400.00 
+18|Ferritin Test|| Rs. 400.00 
+19|Folic Acid Test|| Rs. 400.00 
+20|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+21|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+22|Glucose Tolerance Test (GTT)|| Rs. 200.00 
+23|HbA1C Test|| Rs. 400.00 
+24|HBsAg Test|| Rs. 300.00 
+25|HBsAg Test|| Rs. 250.00 
+26|HCV Antibody Test|| Rs. 500.00 
+27|HDL Cholesterol|| Rs. 120.00 
+28|Hemoglobin (Hb) Test|| Rs. 60.00 
+29|HGH Test|| Rs. 800.00 
+30|HIV Test|| Rs. 300.00 
+31|Homocysteine Test|| Rs. 1000.00 
+32|Insulin Test|| Rs. 600.00 
+33|Insulin Test|| Rs. 400.00 
+34|Iron Test|| Rs. 400.00 
+35|Iron Test|| Rs. 500.00 
+36|Kidney Profile|| Rs. 500.00 
+37|LDH (Lactate Dehydrogenase) Test|| Rs. 250.00 
+38|LDL Cholesterol|| Rs. 120.00 
+39|LDL Cholesterol|| Rs. 150.00 
+40|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+41|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+42|Lipase Test|| Rs. 250.00 
+43|Lipase Test|| Rs. 250.00 
+44|Lipid Profile|| Rs. 500.00 
+45|Liver Function Test|| Rs. 450.00 
+46|Malaria (Malarial Parasite) Test|| Rs. 100.00 (Serum) 
+47|Malaria (Malarial Parasite) Test|| Rs. 500.00 (Antigen) 
+48|PAP Smear|| Rs. 400.00 
+49|PCV (Packed Cell Volume) Test|| Rs. 100.00 
+50|Phosphorus Test|| Rs. 120.00 
+51|Phosphorus Test|| Rs. 120.00 
+52|Platelet Count|| Rs. 100.00 
+53|Potassium Test|| Rs. 120.00 
+54|Potassium Test|| Rs. 120.00 
+55|Pregnancy Test|| Rs. 150.00 
+56|Prolactin Test|| Rs. 400.00 
+57|Prolactin Test|| Rs. 400.00 
+58|Protein/Creatinine Ratio|| Rs. 240.00 
+59|PSA (Prostate Specific Antigen) Test|| Rs. 600.00 
+60|PT (Prothrombin Time) Test|| Rs. 200.00 
+61|PTH (Parathyroid Hormone) Test|| Rs. 1500.00 
+62|Reticulocyte Count Test|| Rs. 120.00 
+63|Rheumatoid Arthritis (RA) Factor Test|| Rs. 200.00 (Qulitative) 
+64|Rheumatoid Arthritis (RA) Factor Test|| Rs. 300.00 (Quantative) 
+65|Semen Analysis Test|| Rs. 200.00 
+66|SGOT Test|| Rs. 120.00 
+67|SGPT Test|| Rs. 120.00 
+68|Sodium Test|| Rs. 120.00 
+69|Sodium Test|| Rs. 120.00 
+70|Sputum Routine Test|| Rs. 150.00 
+71|Stool Routine|| Rs. 60.00 
+72|T3 (Triiodothyronine) Test|| Rs. 250.00 
+73|T4 (Thyroxine) Test|| Rs. 250.00 
+74|Testosterone Test|| Rs. 600.00 
+75|Thyroid Test|| Rs. 600.00 
+76|Total Protein Test|| Rs. 120.00 
+77|Triglycerides Test|| Rs. 120.00 
+78|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+79|Urea Test|| Rs. 120.00 
+80|Uric Acid Test|| Rs. 120.00 
+81|Urine Routine|| Rs. 60.00 
+82|VDRL Test|| Rs. 200.00 
+83|Vitamin B12 Test|| Rs. 1000.00 
+84|Vitamin D Test|| Rs. 1200.00 
+85|VLDL Test|| Rs. 100.00 
+86|Widal Test|| Rs. 150.00 

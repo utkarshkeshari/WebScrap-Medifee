@@ -1,0 +1,19 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 800.00 
+1|ASO Test|| Rs. 700.00 
+2|CK-MB Test|| Rs. 1200.00 
+3|Coombs Test|| Rs. 500.00 
+4|Cortisol Test|| Rs. 800.00 
+5|CRP (C-Reactive Protein) Test|| Rs. 300.00 
+6|ECG|| Rs. 300.00 
+7|Gamma GT (GGTP) Test|| Rs. 350.00 
+8|Glucose Tolerance Test (GTT)|| Rs. 400.00 
+9|HGH Test|| Rs. 700.00 
+10|LDH (Lactate Dehydrogenase) Test|| Rs. 450.00 
+11|Lipase Test|| Rs. 450.00 
+12|Phosphorus Test|| Rs. 250.00 
+13|Progesterone Test|| Rs. 400.00 
+14|Reticulocyte Count Test|| Rs. 250.00 
+15|Sodium Test|| Rs. 250.00 
+16|Testosterone Test|| Rs. 700.00 
+17|Thyroglobulin Test|| Rs. 480.00 

@@ -1,0 +1,271 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 2000.00 
+1|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1350.00 
+2|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+3|AFP (Alpha Feto Protein) Test|| Rs. 700.00 
+4|Aldolase Test|| Rs. 691.00 
+5|Alkaline Phosphatase (ALP) Test|| Rs. 120.00 
+6|Ammonia Test|| Rs. 950.00 
+7|Amylase Test|| Rs. 350.00 
+8|ANA (Antinuclear Antibody) Test|| Rs. 570.00 (IgG) 
+9|ANA (Antinuclear Antibody) Test|| Rs. 1250.00 (IFA) 
+10|ANC Profile|| Rs. 1600.00 
+11|ANCA Profile|| Rs. 1350.00 (C - ANCA) 
+12|ANCA Profile|| Rs. 1600.00 
+13|Anti TPO Test|| Rs. 1000.00 
+14|Antithyroglobulin Antibody Test|| Rs. 1000.00 
+15|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+16|ASO Test|| Rs. 300.00 
+17|ASO Test|| Rs. 450.00 (Immunoturbidimetry) 
+18|Beta HCG Test|| Rs. 650.00 
+19|Bilirubin Test|| Rs. 200.00 
+20|Biopsy|| Rs. 1200.00 (BIG) 
+21|Bleeding / Clotting Time Test|| Rs. 150.00 (Bleeding or Clotting) 
+22|Blood Culture Test|| Rs. 850.00 
+23|Blood Group Test|| Rs. 150.00 
+24|Blood Sugar Test|| Rs. 80.00 (Fasting or PP) 
+25|Blood Urea Nitrogen Test|| Rs. 120.00 
+26|Bone Density Test|| Rs. 3000.00 (Dexa Double Site) 
+27|Bone Density Test|| Rs. 2200.00 (Dexa Single Site) 
+28|Bone Density Test|| Rs. 4000.00 (Dexa Three Sites) 
+29|Bone Density Test|| Rs. 5500.00 (Dexa Whole Body) 
+30|CA 15.3 Test|| Rs. 1130.00 
+31|CA 19.9 Test|| Rs. 1130.00 
+32|CA-125 (Tumor Marker) Test|| Rs. 1100.00 
+33|Calcium Test|| Rs. 130.00 
+34|Calcium Test|| Rs. 300.00 (Ionic) 
+35|CBC / Hemogram Test|| Rs. 350.00 
+36|CD4 Test|| Rs. 1370.00 
+37|CD4 Test|| Rs. 1800.00 (with CD8) 
+38|CEA (Carcinoembryonic Antigen) Test|| Rs. 650.00 
+39|Chloride Test|| Rs. 150.00 
+40|Cholesterol Test|| Rs. 120.00 
+41|CK-MB Test|| Rs. 350.00 
+42|CK-MB Test|| Rs. 350.00 
+43|Color Doppler|| Rs. 2200.00 (Carotid With Vertebral Arteries (Both Sides)) 
+44|Color Doppler|| Rs. 6000.00 (All Four Limbs Venous.) 
+45|Color Doppler|| Rs. 10000.00 (All Four Limbs Arterial & Venous.) 
+46|Color Doppler|| Rs. 3600.00 (Both Limbs Arterial) 
+47|Complement C3|| Rs. 650.00 
+48|Complement C4|| Rs. 650.00 
+49|Coombs Test|| Rs. 400.00 (Indirect) 
+50|Coombs Test|| Rs. 350.00 (Direct) 
+51|Cortisol Test|| Rs. 500.00 
+52|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+53|Creatinine Clearance Test|| Rs. 300.00 
+54|Creatinine Test|| Rs. 120.00 
+55|CRP (C-Reactive Protein) Test|| Rs. 650.00 (High Sensitivity) 
+56|CRP (C-Reactive Protein) Test|| Rs. 350.00 
+57|CT Scan|| Rs. 20000.00 (Whole Body Scan With Contrast) 
+58|CT Scan|| Rs. 2200.00 (Denta Scan) 
+59|CT Scan|| Rs. 5000.00 (CV Junction (Scan Charges Only) / Orbit Axial & Coronal Both Contrast / Pituitary Fossa / sella turcica Contrast - Axial & Coronal / PNS Axial & Coronal Both Contrast / Sella Turcica- Axial & Coronal Both Contrast / Sinogram / Fistulogram With Contrast) 
+60|CT Scan|| Rs. 8500.00 (Myelography (Including procedure charges & contrast)) 
+61|CT Scan|| Rs. 2300.00 (Head Plain) 
+62|CT Scan|| Rs. 5200.00 (Musculoskeletal Contrast (With 3 D Reconstruction)) 
+63|CT Scan|| Rs. 8800.00 (Spine Eleven Extra Vertebral Level) 
+64|CT Scan|| Rs. 2400.00 (Spine Three Extra Vertebral Level) 
+65|CT Scan|| Rs. 5300.00 (KUB Contrast (Including Plain study) ( Scan charges only)) 
+66|CT Scan|| Rs. 9000.00 (Angiography Pulmonary/ Neck(Carotid) / Brain (Cerebral) / Aortic Arch/ Renal / Abdominal / Face (Mouth) each scan charges 0nly) 
+67|CT Scan|| Rs. 2500.00 (Scanogram) 
+68|CT Scan|| Rs. 5400.00 (HRCT Chest - Plain / Inner Ear / Temporal Bone / Mastoid HRCT - Axial & Coronal With Contrast) 
+69|CT Scan|| Rs. 9500.00 (Abdomen Whole With Urography Contrast / Angiography Peripheral - Upper / Lower limbs (Scan Charges Only)) 
+70|CT Scan|| Rs. 3000.00 (Orbit Axial / Coronal Each Plain / PNS Axial / Coronal Each Plain / Sella Turcica- Axial / Coronal Each Plain / Submandibular Area) 
+71|CT Scan|| Rs. 5500.00 (Chest With Lower Neck (Scan Charges Only) / Pelvis (Bony) With Both Hip Joint (Scan Charges Only)) 
+72|CT Scan|| Rs. 9700.00 (Chest & Upper Abdomen Contrast) 
+73|CT Scan|| Rs. 3100.00 (Head Contrast) 
+74|CT Scan|| Rs. 5600.00 (Abdomen Upper With Biphasic / Triphasic scan of Liver (Scan Charges Only)) 
+75|CT Scan|| Rs. 10000.00 (Abdomen whole With quadraphasic scan of Liver (contrast) / Chest & Whole Abdomen (Scan Charges Only) / Chest For Virtual Bronchoscopy (Scan Charges Only)) 
+76|CT Scan|| Rs. 5700.00 (Abdomen Whole Plain) 
+77|CT Scan|| Rs. 10500.00 (Neck + Chest With Contrast) 
+78|CT Scan|| Rs. 5800.00 (Abdomen Lower / Pelvis Contrast / Abdomen Upper Contrast / Neck Contrast / ) 
+79|CT Scan|| Rs. 3200.00 (Spine 4 Extra Vertebral Level) 
+80|CT Scan|| Rs. 6000.00 (Chest Contrast / CV Junction Contrast / Nephrostogram) 
+81|CT Scan|| Rs. 11000.00 (Angiography Pulmonary/ Neck(Carotid) / Brain (Cerebral) / Aortic Arch/ Renal / Abdominal / Face (Mouth) Each Contrast.) 
+82|CT Scan|| Rs. 4400.00 (Abdomen Lower / Pelvis / Neck Plain / Face Plain / Abdomen Upper Plain) 
+83|CT Scan|| Rs. 7500.00 (Abdomen Upper With quadraphasic scan of Liver (contrast)) 
+84|CT Scan|| Rs. 3300.00 (Head Plain & Contrast (Scan Charges Only) / Head With Limited Study Of Orbits Plain / Head With Limited Study Of PNS Plain) 
+85|CT Scan|| Rs. 6400.00 (HRCT Chest + CT Chest (Plain)) 
+86|CT Scan|| Rs. 11200.00 (Virtual Colonoscopy / Bronchoscopy / Angioscopy Each Contrast) 
+87|CT Scan|| Rs. 7000.00 (Abdomen Upper With Biphasic / Triphasic scan of Liver (contrast) / Abdomen Upper With Lower Chest Plain / Whole Abdomen With Adrenals Protocol (scan charges only)) 
+88|CT Scan|| Rs. 3500.00 (Sinogram / Fistulogram (Scan chages only)) 
+89|CT Scan|| Rs. 6500.00 (KUB Contrast (Including Plain Study & Contrast Charges)) 
+90|CT Scan|| Rs. 12000.00 (Angio Combo study / Chest With Pulmonary Angio Contrast) 
+91|CT Scan|| Rs. 12500.00 (Angiography coronary - Scan charges only) 
+92|CT Scan|| Rs. 250.00 (Extra CD Making Charges) 
+93|CT Scan|| Rs. 3700.00 (Spine Plain (3 Intervertebral Levels )) 
+94|CT Scan|| Rs. 6600.00 (Urography (Scan Chages Only)) 
+95|CT Scan|| Rs. 13000.00 (CT Chest + HRCT Chest + Pulmonary Angio (Scan Charges Only)) 
+96|CT Scan|| Rs. 800.00 (Spine One Extra Vertebral Level) 
+97|CT Scan|| Rs. 4000.00 (Inner Ear / Temporal Bone / Mastoid HRCT - Axial & Coronal Plain / Kinematic study (for joints) / Orbit Axial & Coronal Both Plain / Orbit Axial / Coronal Each Contrast / Pituitary Fossa / sella turcica Plain - Axial & Coronal / PNS Axial & Coronal Both ) 
+98|CT Scan|| Rs. 6700.00 (Pelvis (Bony) With Both Hip Joint With Contrast) 
+99|CT Scan|| Rs. 14000.00 (Triple rule out study) 
+100|CT Scan|| Rs. 1000.00 (Emergency Charges) 
+101|CT Scan|| Rs. 4100.00 (Head Plain & Contrast (Including Contrast Cost) / Head With Limited Study Of Orbits (Contrast) / Head With Limited Study Of PNS Contrast) 
+102|CT Scan|| Rs. 7500.00 (Abdomen Whole Plain & Contrast (Scan Charges Only) / Abdomen Whole With Biphasic / Triphasic Study (Scan Charges Only) / Abdomen Whole With Contrast Charges) 
+103|CT Scan|| Rs. 15000.00 (Angiography Coronary - Contrast) 
+104|CT Scan|| Rs. 1500.00 (Lung screening for early detection of nodule - Plain) 
+105|CT Scan|| Rs. 4200.00 (Musculoskeletal Plain ( With 3 D Reconstruction)) 
+106|CT Scan|| Rs. 7800.00 (HRCT Chest + CT Chest With Contrast) 
+107|CT Scan|| Rs. 16000.00 (Aortagraphy - Thoracic +Abdominal with contrast) 
+108|CT Scan|| Rs. 1600.00 (Spine Two Extra Vertebral Level) 
+109|CT Scan|| Rs. 4500.00 (Dynamic Perfusion Scan - each ROI - Contrast / KUB Plain / PNS Axial , Coronal & Saggital Plain) 
+110|CT Scan|| Rs. 8000.00 (Abdomen Upper With Lower Chest Contrast / Chest & Lower Abdomen (Scan Charges Only) / Chest & Upper Abdomen (Scan Charges Only) / Cisternography (Scan + LP Chages Only) / CT Guided Nerve Root Block (including procedure charges & disposables) / Neck & Fac) 
+111|CT Scan|| Rs. 18000.00 (Whole Body Scan (Scan Charges Only)) 
+112|CT Scan|| Rs. 2000.00 (Biphasic Liver) 
+113|CT Scan|| Rs. 4600.00 (Chest Plain) 
+114|CT Scan|| Rs. 8400.00 (Abdomen Whole With Urography (Scan Charges Only) / Neck + Chest Plain) 
+115|D Dimer Test|| Rs. 1120.00 
+116|Dengue IgG Test|| Rs. 500.00 
+117|Dengue IgM Test|| Rs. 500.00 
+118|Dengue NS1 Test|| Rs. 1800.00 
+119|DHEA Test|| Rs. 2030.00 
+120|DHEA Test|| Rs. 850.00 (S) 
+121|Double Marker Test|| Rs. 2000.00 
+122|ECG|| Rs. 800.00 (ECG At Home) 
+123|ECG|| Rs. 900.00 (ECG At Home (With Long Lead)) 
+124|ECG|| Rs. 300.00 (ECG With Long Lead) 
+125|ECG|| Rs. 250.00 
+126|ECG|| Rs. 800.00 (at Home) 
+127|EEG|| Rs. 1500.00 (Digital) 
+128|EEG|| Rs. 2000.00 (Digital (1/2 Hr. Record)) 
+129|EEG|| Rs. 1500.00 (Sleep Deprived) 
+130|EEG|| Rs. 3000.00 (Digital (1hrs Record)) 
+131|EEG|| Rs. 2500.00 (Digital (45 Min.Record)) 
+132|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+133|Estradiol (E2) Test|| Rs. 600.00 
+134|Ferritin Test|| Rs. 600.00 
+135|Folic Acid Test|| Rs. 900.00 
+136|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+137|Fungal Culture Test|| Rs. 700.00 
+138|G6PD Test|| Rs. 700.00 
+139|Gamma GT (GGTP) Test|| Rs. 300.00 
+140|Glucose Tolerance Test (GTT)|| Rs. 230.00 
+141|HBsAg Test|| Rs. 550.00 
+142|HCV Antibody Test|| Rs. 7750.00 (Quantitative Antigen) 
+143|HCV Antibody Test|| Rs. 3680.00 (Qualitative Antigen) 
+144|HCV Antibody Test|| Rs. 1250.00 (Antigen Rapid) 
+145|HDL Cholesterol|| Rs. 300.00 
+146|Hemoglobin (Hb) Test|| Rs. 100.00 
+147|Hemoglobin Electrophoresis|| Rs. 820.00 
+148|HGH Test|| Rs. 700.00 
+149|HIV Test|| Rs. 3500.00 (HIV I & II antibody Western Blood) 
+150|HIV Test|| Rs. 600.00 (ELISA) 
+151|HIV Test|| Rs. 4750.00 (1 RNA Quantitative Real Time PCR) 
+152|Homocysteine Test|| Rs. 750.00 
+153|Insulin Test|| Rs. 1850.00 (Antibodies) 
+154|Insulin Test|| Rs. 600.00 
+155|Iron Test|| Rs. 350.00 
+156|Kidney Function Test|| Rs. 750.00 
+157|L. E. Cells Test|| Rs. 350.00 
+158|LDH (Lactate Dehydrogenase) Test|| Rs. 350.00 
+159|LDL Cholesterol|| Rs. 350.00 
+160|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+161|Lipase Test|| Rs. 500.00 
+162|Lipid Profile|| Rs. 800.00 
+163|Lipoprotein A / LP(a) Test|| Rs. 900.00 
+164|Lithium Test|| Rs. 350.00 
+165|Liver Function Test|| Rs. 550.00 
+166|Lupus Anticoagulant (LAC) Test|| Rs. 1600.00 
+167|Lupus Anticoagulant (LAC) Test|| Rs. 1450.00 
+168|Magnesium Test|| Rs. 450.00 
+169|Malaria (Malarial Parasite) Test|| Rs. 1000.00 (Antigen) 
+170|Malaria (Malarial Parasite) Test|| Rs. 120.00 (Smear) 
+171|Mammography|| Rs. 2200.00 (Both Breast) 
+172|Mammography|| Rs. 1500.00 (Single Breast) 
+173|Microfilaria Parasite Test|| Rs. 350.00 (Peripheral Smear) 
+174|MRI Scan|| Rs. 11000.00 (BRAIN MRI + MRV / Orbit MRI + MRV) 
+175|MRI Scan|| Rs. 11500.00 ( / Face with contrast / Chest Contrast / Pelvis with contrast/ Wrist (Lt) contrast / LOW BACKACHE PROTOCOL) 
+176|MRI Scan|| Rs. 12000.00 (ABDOMEN WHOLE / BRAIN + 3D MULTIVOXEL Spectroscopy / KUB / UROGRAPHY / PYELOGRAPHY / MRI BRAIN + MRA BRAIN) 
+177|MRI Scan|| Rs. 13000.00 (SCREENING WHOLE SPINE WITH ONE ROI) 
+178|MRI Scan|| Rs. 12500.00 (TIA PROTOCOL) 
+179|MRI Scan|| Rs. 13500.00 (Brain (Epilepsy Protocol) + MRA Brain) 
+180|MRI Scan|| Rs. 14000.00 (Knee Joints both side Plain / WHOLE BODY SCREENING FOR METASTASIS) 
+181|MRI Scan|| Rs. 14500.00 (Angiography Renal with Contrast) 
+182|MRI Scan|| Rs. 3500.00 (Brain Limited Study / Contrast (For One ROI) / Screening Bony Pelvis / SCREENING BRAIN / Screening Hip Joint / Screening Knee (Lt) / Screening LS Spine / Screening SI Joints) 
+183|MRI Scan|| Rs. 15000.00 (Ankle Joints Both side Plain) 
+184|MRI Scan|| Rs. 4000.00 (Screening Brachial Plexus / Screening Leg / Screening Shoulder) 
+185|MRI Scan|| Rs. 16000.00 (Shoulder Both Joints Plain) 
+186|MRI Scan|| Rs. 6000.00 (SCREENING WHOLE SPINE / TM Joints Both Site Plain / TM Joints Both Site Contrast) 
+187|MRI Scan|| Rs. 17000.00 (BRAIN - SOL PROTOCOL (MRI + DWI + ADC + Perfusion Imaging + 3D Multiple Voxel Spectroscopy) with Contrast) 
+188|MRI Scan|| Rs. 7000.00 (ABDOMEN UPPER / Angio BRAIN / Angio NECK / Brain - MRV / Cheek / DL Spine / Knee joint (Lt) Plain / Lumbar Spine / ORBIT / Pelvis (Bony Pelvis) With Hip Joint / Sacrococcyx Spine / Thigh / Thyroid) 
+189|MRI Scan|| Rs. 18000.00 (ABDOMEN WHOLE WITH CONTRAST) 
+190|MRI Scan|| Rs. 7500.00 (MASTOID) 
+191|MRI Scan|| Rs. 20000.00 (Ankle Joints Both side Contrast / Knee Joints Both side Contrast) 
+192|MRI Scan|| Rs. 8000.00 (Abdomen Lower (Pelvis Plain) / Adrenals / Ankle Joint (Lt) Plain / Axilla (One side) / Base of skull / BRAIN WITH PNS / CHEST / Elbow Left / Face / Forearm / Foot (Lt) Plain / Liver / Penis / Pilonidal Sinus / Temporal Bone / Tongue / Wrist Joint (Rt) Pl) 
+193|MRI Scan|| Rs. 9000.00 (BRACHIAL PLEXUS / BRAIN WITH ORBITS / Obstetric / Fetal) 
+194|MRI Scan|| Rs. 10000.00 (BRAIN + INNER EAR + 3 D RECONSTRUCTION / BRAIN HEMIFASCIAL SPASM / TRIGEMINAL NEURALGIA (each) / VERTIGO PROTOCOL) 
+195|MRI Scan|| Rs. 10500.00 (ABDOMEN UPPER WITH CONTRAST / Angio Brain With Contrast / CERVICAL SPINE CONTRAST / Angiography Neck With Contrast / Knee joint (Lt) Contrast / Lumbo-sacral Spine with Contrast / PNS With Contrast) 
+196|NT Scan|| Rs. 1500.00 
+197|PAP Smear|| Rs. 700.00 (Procedure + Reporting Charges) 
+198|PAP Smear|| Rs. 500.00 (Reporting Only) 
+199|PCV (Packed Cell Volume) Test|| Rs. 120.00 
+200|Phosphorus Test|| Rs. 130.00 
+201|Platelet Count|| Rs. 150.00 
+202|Potassium Test|| Rs. 150.00 
+203|Pregnancy Test|| Rs. 120.00 
+204|Progesterone Test|| Rs. 600.00 
+205|Prolactin Test|| Rs. 450.00 
+206|Protein/Creatinine Ratio|| Rs. 500.00 
+207|PSA (Prostate Specific Antigen) Test|| Rs. 700.00 (Free) 
+208|PSA (Prostate Specific Antigen) Test|| Rs. 650.00 (Total) 
+209|PT (Prothrombin Time) Test|| Rs. 250.00 
+210|PTH (Parathyroid Hormone) Test|| Rs. 1400.00 
+211|Reticulocyte Count Test|| Rs. 200.00 
+212|Rheumatoid Arthritis (RA) Factor Test|| Rs. 300.00 
+213|Rheumatoid Arthritis (RA) Factor Test|| Rs. 350.00 (Immunoturbidimetric) 
+214|Rubella Test|| Rs. 550.00 (IgG) 
+215|Rubella Test|| Rs. 550.00 (IgM) 
+216|SGOT Test|| Rs. 130.00 
+217|SGPT Test|| Rs. 130.00 
+218|Sickling Test|| Rs. 200.00 
+219|Sodium Test|| Rs. 150.00 
+220|Sputum Routine Test|| Rs. 240.00 
+221|Stool Culture|| Rs. 450.00 
+222|Stool Routine|| Rs. 100.00 
+223|Stress Test|| Rs. 3700.00 
+224|Synovial Fluid Analysis|| Rs. 650.00 
+225|T3 (Triiodothyronine) Test|| Rs. 250.00 (Total) 
+226|T3 (Triiodothyronine) Test|| Rs. 300.00 (Free) 
+227|T4 (Thyroxine) Test|| Rs. 250.00 (Total) 
+228|T4 (Thyroxine) Test|| Rs. 300.00 (Free) 
+229|T4 (Thyroxine) Test|| Rs. 600.00 (with TSH) 
+230|TB Test|| Rs. 2800.00 
+231|Testosterone Test|| Rs. 1730.00 (Free) 
+232|Testosterone Test|| Rs. 600.00 (Total) 
+233|Thyroglobulin Test|| Rs. 1600.00 
+234|Thyroid Test|| Rs. 600.00 (Total) 
+235|Thyroid Test|| Rs. 700.00 
+236|TORCH Test|| Rs. 2000.00 (IgG / IgM) 
+237|Transferrin Test|| Rs. 700.00 (% age Saturation) 
+238|Transferrin Test|| Rs. 830.00 
+239|Triglycerides Test|| Rs. 220.00 
+240|Triple Marker Test|| Rs. 2600.00 
+241|Troponin-I Test|| Rs. 1350.00 
+242|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+243|Typhidot Test|| Rs. 550.00 
+244|Urea Test|| Rs. 120.00 
+245|Uric Acid Test|| Rs. 120.00 
+246|Urine Routine|| Rs. 100.00 
+247|VDRL Test|| Rs. 150.00 
+248|Vitamin B12 Test|| Rs. 900.00 
+249|Vitamin D Test|| Rs. 3350.00 
+250|Vitamin D Test|| Rs. 1240.00 (17 OH) 
+251|Vitamin D Test|| Rs. 1570.00 (25 Hydroxy) 
+252|VLDL Test|| Rs. 200.00 
+253|Widal Test|| Rs. 200.00 
+254|X-Ray|| Rs. 4000.00 (Barium Complete GIT) 
+255|X-Ray|| Rs. 200.00 (CD making charges) 
+256|X-Ray|| Rs. 350.00 (Abdomen Erect / Ankle (Both) / Apicogram / Bladder / Spine / Chest / Clavicle / Coccyx / Dorsal Spine / Elbow (Both) / Feet (Both) / Femur / Finger / Fore Arm / Hands (Both) / Heel (Both) / HIP / KUB / Leg / Mandible / Mastoids / Nasal Bone / Pelvis / Or) 
+257|X-Ray|| Rs. 700.00 (Abdomen Erect & Supine / Feet Both (AP & Oblique or Lat) / 2 Films / Dorsal Spine (AP & Lat) / Skull AP &Lat Views / TM Joint (one side) Open & Closed Mouth) 
+258|X-Ray|| Rs. 1050.00 (Mastoids (Townes & Schullers Views Both Sides) / 3 Films / ) 
+259|X-Ray|| Rs. 1070.00 (SI Joint Both Sides PA & Oblique) 
+260|X-Ray|| Rs. 1100.00 (Fluroscopy Chest) 
+261|X-Ray|| Rs. 1200.00 (Whole Lower Limb AP / Whole Spine AP / Whole Spine Lat View) 
+262|X-Ray|| Rs. 1400.00 (Femur Both Side AP & Lat Views / 4 Films / TM Joints Both Sides - Open & Closed Mouth Views) 
+263|X-Ray|| Rs. 1500.00 (Whole Spine AP & Lat / Whole Spine Rt & Lt Bending) 
+264|X-Ray|| Rs. 2000.00 (Barium Swallow / Cologram / Distal Ileogram) 
+265|X-Ray|| Rs. 2200.00 (Nephrostogram (One Side) / Umbilicogram) 
+266|X-Ray|| Rs. 2500.00 (Barium Meal & Follow Through (BMFT) / Barium Meal UGIT / Cholangiogram / Cystogram) 
+267|X-Ray|| Rs. 2700.00 (Gastrograffin Upper GI Study) 
+268|X-Ray|| Rs. 3000.00 (Barium Enema (Single/Double Contrast)) 
+269|X-Ray|| Rs. 3500.00 (Barium Swallow & Meal) 

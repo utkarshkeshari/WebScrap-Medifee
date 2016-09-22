@@ -1,0 +1,21 @@
+|Name|Offer|Price
+0|Cerebral Spinal Fluid (CSF) Test|| Rs. 315.00 
+1|Complement C3|| Rs. 150.00 
+2|Complement C4|| Rs. 150.00 
+3|Dengue NS1 Test|| Rs. 550.00 
+4|Fungal Culture Test|| Rs. 350.00 
+5|Globulin / AG Ratio|| Rs. 150.00 
+6|Gram Stain Test|| Rs. 150.00 
+7|Hemoglobin Electrophoresis|| Rs. 600.00 
+8|Hemoglobin Electrophoresis|| Rs. 600.00 
+9|Peripheral Blood Smear Test|| Rs. 90.00 
+10|Plasma Lactate (Latic Acid) Test|| Rs. 1050.00 
+11|Rubella Test|| Rs. 300.00 (IgG) 
+12|Rubella Test|| Rs. 300.00 (IgM) 
+13|Sex Hormone Test|| Rs. 1050.00 
+14|Stool Culture|| Rs. 200.00 
+15|Toxoplasma Test|| Rs. 315.00 (IgG) 
+16|Toxoplasma Test|| Rs. 315.00 (IgM) 
+17|Toxoplasma Test|| Rs. 315.00 (IgA) 
+18|Typhidot Test|| Rs. 250.00 (IgG) 
+19|Typhidot Test|| Rs. 250.00 (IgM) 

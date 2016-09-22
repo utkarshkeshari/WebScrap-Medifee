@@ -1,0 +1,22 @@
+|Name|Offer|Price
+0|Bleeding / Clotting Time Test|| Rs. 50.00 
+1|Blood Culture Test|| Rs. 500.00 
+2|Blood Group Test|| Rs. 100.00 
+3|Blood Sugar Test|| Rs. 50.00 (Fasting) 
+4|Blood Urea Nitrogen Test|| Rs. 100.00 
+5|CBC / Hemogram Test|| Rs. 250.00 
+6|Folic Acid Test|| Rs. 700.00 
+7|Glucose Tolerance Test (GTT)|| Rs. 250.00 
+8|Hemoglobin (Hb) Test|| Rs. 280.00 
+9|HIV Test|| Rs. 300.00 
+10|Iron Test|| Rs. 300.00 
+11|Lipid Profile|| Rs. 550.00 
+12|T3 (Triiodothyronine) Test|| Rs. 150.00 
+13|T4 (Thyroxine) Test|| Rs. 150.00 
+14|Thyroglobulin Test|| Rs. 1050.00 
+15|Thyroid Test|| Rs. 300.00 
+16|TSH (Thyroid Stimulating Hormone) Test|| Rs. 150.00 
+17|Vitamin A Test|| Rs. 4700.00 
+18|Vitamin B12 Test|| Rs. 600.00 
+19|Vitamin D Test|| Rs. 1200.00 
+20|Vitamin E Test|| Rs. 4700.00 

@@ -1,0 +1,26 @@
+|Name|Offer|Price
+0|Blood Group Test|| Rs. 100.00 
+1|Blood Sugar Test|| Rs. 80.00 
+2|Blood Urea Nitrogen Test|| Rs. 150.00 
+3|Calcium Test|| Rs. 200.00 
+4|CBC / Hemogram Test|| Rs. 300.00 
+5|Chloride Test|| Rs. 200.00 
+6|Cholesterol Test|| Rs. 180.00 
+7|Creatinine Test|| Rs. 150.00 
+8|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+9|Electrolytes Test|| Rs. 350.00 
+10|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 50.00 
+11|HBsAg Test|| Rs. 500.00 
+12|HDL Cholesterol|| Rs. 150.00 
+13|HIV Test|| Rs. 500.00 
+14|Kidney Function Test|| Rs. 600.00 
+15|LDL Cholesterol|| Rs. 150.00 
+16|Lipid Profile|| Rs. 600.00 
+17|Liver Function Test|| Rs. 500.00 
+18|Pleural Fluid Analysis|| Rs. 600.00 
+19|SGOT Test|| Rs. 100.00 
+20|SGPT Test|| Rs. 100.00 
+21|Synovial Fluid Analysis|| Rs. 600.00 
+22|Thyroid Test|| Rs. 600.00 
+23|VDRL Test|| Rs. 100.00 
+24|VLDL Test|| Rs. 150.00 

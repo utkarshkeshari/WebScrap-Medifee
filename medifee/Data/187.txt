@@ -1,0 +1,62 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 700.00 
+2|Albumin Test|| Rs. 100.00 
+3|Alkaline Phosphatase (ALP) Test|| Rs. 140.00 
+4|Amylase Test|| Rs. 350.00 
+5|ANA (Antinuclear Antibody) Test|| Rs. 700.00 
+6|ANC Profile|| Rs. 1800.00 
+7|Anti TPO Test|| Rs. 1100.00 
+8|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 250.00 
+9|ASO Test|| Rs. 650.00 
+10|Beta HCG Test|| Rs. 600.00 
+11|Bilirubin Test|| Rs. 200.00 
+12|Bleeding / Clotting Time Test|| Rs. 140.00 
+13|Blood Culture Test|| Rs. 750.00 
+14|Blood Group Test|| Rs. 80.00 
+15|Blood Sugar Test|| Rs. 80.00 
+16|Blood Urea Nitrogen Test|| Rs. 120.00 
+17|CA 15.3 Test|| Rs. 1200.00 
+18|CA 19.9 Test|| Rs. 1200.00 
+19|CA-125 (Tumor Marker) Test|| Rs. 1100.00 
+20|Calcium Test|| Rs. 130.00 
+21|CBC / Hemogram Test|| Rs. 250.00 
+22|CD4 Test|| Rs. 1300.00 
+23|Coombs Test|| Rs. 350.00 
+24|CPK (Creatine Phosphokinase) Test|| Rs. 450.00 
+25|Creatinine Test|| Rs. 120.00 
+26|CRP (C-Reactive Protein) Test|| Rs. 300.00 
+27|D Dimer Test|| Rs. 1100.00 
+28|Dengue IgG Test|| Rs. 1300.00 (IGM) 
+29|DHEA Test|| Rs. 2030.00 
+30|ECG|| Rs. 250.00 
+31|Electrolytes Test|| Rs. 430.00 
+32|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+33|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+34|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+35|G6PD Test|| Rs. 600.00 
+36|Globulin Test|| Rs. 120.00 
+37|HbA1C Test|| Rs. 450.00 
+38|HBsAg Test|| Rs. 750.00 
+39|HCV Antibody Test|| Rs. 1000.00 
+40|HIV Test|| Rs. 800.00 
+41|Kidney Function Test|| Rs. 800.00 
+42|LDH (Lactate Dehydrogenase) Test|| Rs. 400.00 
+43|Lipid Profile|| Rs. 850.00 
+44|Semen Analysis Test|| Rs. 200.00 
+45|SGOT Test|| Rs. 150.00 
+46|SGPT Test|| Rs. 150.00 
+47|Sickling Test|| Rs. 250.00 
+48|Sonography|| Rs. 1500.00 (Whole Abdomen) 
+49|Stool Routine|| Rs. 100.00 
+50|Testosterone Test|| Rs. 1570.00 
+51|Thyroglobulin Test|| Rs. 650.00 
+52|Total Protein Test|| Rs. 200.00 
+53|Troponin-I Test|| Rs. 1500.00 
+54|TSH (Thyroid Stimulating Hormone) Test|| Rs. 200.00 
+55|Urine Routine|| Rs. 100.00 
+56|VDRL Test|| Rs. 150.00 
+57|Vitamin B12 Test|| Rs. 1100.00 
+58|Vitamin D Test|| Rs. 1500.00 
+59|Vitamin E Test|| Rs. 3800.00 
+60|Widal Test|| Rs. 200.00 

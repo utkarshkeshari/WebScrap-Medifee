@@ -1,0 +1,4 @@
+|Name|Offer|Price
+0|ECG|| Rs. 100.00 
+1|Stress Test|| Rs. 1500.00 (Stress Echo) 
+2|Stress Test|| Rs. 900.00 (TMT) 

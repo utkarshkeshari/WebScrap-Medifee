@@ -1,0 +1,32 @@
+|Name|Offer|Price
+0|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+1|Amylase Test|| Rs. 300.00 
+2|Beta HCG Test|| Rs. 600.00 
+3|Bilirubin Test|| Rs. 150.00 
+4|Blood Culture Test|| Rs. 500.00 
+5|Chloride Test|| Rs. 100.00 
+6|Cholesterol Test|| Rs. 150.00 
+7|Dengue IgG Test|| Rs. 800.00 
+8|Dengue IgM Test|| Rs. 800.00 
+9|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 60.00 
+10|Estradiol (E2) Test|| Rs. 500.00 
+11|Ferritin Test|| Rs. 550.00 
+12|Folic Acid Test|| Rs. 300.00 
+13|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+14|HBsAg Test|| Rs. 500.00 
+15|HIV Test|| Rs. 500.00 
+16|Insulin Test|| Rs. 500.00 
+17|Kidney Function Test|| Rs. 650.00 
+18|Kidney Profile|| Rs. 650.00 
+19|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+20|Lipase Test|| Rs. 450.00 
+21|Phosphorus Test|| Rs. 150.00 
+22|Prolactin Test|| Rs. 500.00 
+23|SGOT Test|| Rs. 150.00 
+24|SGPT Test|| Rs. 150.00 
+25|Sodium Test|| Rs. 100.00 
+26|Sputum Routine Test|| Rs. 100.00 
+27|Stool Routine|| Rs. 60.00 
+28|Triglycerides Test|| Rs. 250.00 
+29|Vitamin B12 Test|| Rs. 800.00 
+30|Vitamin D Test|| Rs. 2000.00 

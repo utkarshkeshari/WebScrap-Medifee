@@ -1,0 +1,29 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 100.00 
+1|Bleeding / Clotting Time Test|| Rs. 200.00 
+2|CA 15.3 Test|| Rs. 1000.00 
+3|CA 19.9 Test|| Rs. 1000.00 
+4|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+5|Calcium Test|| Rs. 100.00 
+6|CBC / Hemogram Test|| Rs. 450.00 
+7|Chloride Test|| Rs. 180.00 
+8|Chloride Test|| Rs. 180.00 
+9|Cholesterol Test|| Rs. 200.00 
+10|Creatinine Test|| Rs. 100.00 
+11|CRP (C-Reactive Protein) Test|| Rs. 400.00 
+12|Dengue IgG Test|| Rs. 600.00 
+13|Dengue IgM Test|| Rs. 600.00 
+14|Electrolytes Test|| Rs. 300.00 
+15|Estradiol (E2) Test|| Rs. 400.00 
+16|Ferritin Test|| Rs. 400.00 
+17|Folic Acid Test|| Rs. 400.00 
+18|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+19|HBsAg Test|| Rs. 300.00 
+20|HGH Test|| Rs. 1000.00 
+21|Kidney Profile|| Rs. 700.00 
+22|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+23|Microfilaria Parasite Test|| Rs. 200.00 
+24|Phosphorus Test|| Rs. 120.00 
+25|Potassium Test|| Rs. 150.00 
+26|Sodium Test|| Rs. 150.00 
+27|Testosterone Test|| Rs. 400.00 

@@ -1,0 +1,4 @@
+|Name|Offer|Price
+0|Biopsy|| Rs. 1000.00 (BIG) 
+1|Plasma Lactate (Latic Acid) Test|| Rs. 1500.00 
+2|TB Test|| Rs. 2700.00 

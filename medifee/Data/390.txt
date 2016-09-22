@@ -1,0 +1,30 @@
+|Name|Offer|Price
+0|Blood Sugar Test|| Rs. 50.00 
+1|CA-125 (Tumor Marker) Test|| Rs. 800.00 
+2|Creatinine Clearance Test|| Rs. 80.00 
+3|Creatinine Test|| Rs. 100.00 
+4|Dengue IgG Test|| Rs. 600.00 
+5|Dengue IgM Test|| Rs. 600.00 
+6|Folic Acid Test|| Rs. 150.00 
+7|G6PD Test|| Rs. 300.00 
+8|Gamma GT (GGTP) Test|| Rs. 200.00 
+9|HIV Test|| Rs. 400.00 
+10|Kidney Function Test|| Rs. 600.00 
+11|LDL Cholesterol|| Rs. 300.00 
+12|Lipid Profile|| Rs. 600.00 
+13|Lithium Test|| Rs. 300.00 
+14|Liver Function Test|| Rs. 600.00 
+15|Magnesium Test|| Rs. 300.00 
+16|Progesterone Test|| Rs. 400.00 
+17|Protein Test|| Rs. 150.00 
+18|Renal Profile|| Rs. 600.00 
+19|Semen Analysis Test|| Rs. 100.00 
+20|Sputum Routine Test|| Rs. 100.00 
+21|Stool Routine|| Rs. 100.00 
+22|Synovial Fluid Analysis|| Rs. 250.00 
+23|Thyroglobulin Test|| Rs. 800.00 
+24|Thyroid Test|| Rs. 600.00 
+25|Transferrin Test|| Rs. 1000.00 
+26|Vitamin A Test|| Rs. 1200.00 
+27|Vitamin B12 Test|| Rs. 600.00 
+28|Vitamin D Test|| Rs. 1400.00 

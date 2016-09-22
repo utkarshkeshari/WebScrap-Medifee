@@ -1,0 +1,110 @@
+|Name|Offer|Price
+0|AEC (Absolute Eosinophil Count) Test|| Rs. 150.00 
+1|AFP (Alpha Feto Protein) Test|| Rs. 750.00 
+2|Albumin Test|| Rs. 150.00 
+3|Alkaline Phosphatase (ALP) Test|| Rs. 150.00 
+4|Amylase Test|| Rs. 400.00 
+5|Anti TPO Test|| Rs. 1200.00 
+6|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 450.00 
+7|ASO Test|| Rs. 600.00 
+8|ASO Test|| Rs. 700.00 (TITER) 
+9|Beta HCG Test|| Rs. 630.00 
+10|Bicarbonate Test|| Rs. 600.00 
+11|Bilirubin Test|| Rs. 240.00 
+12|Bleeding / Clotting Time Test|| Rs. 200.00 
+13|Blood Group Test|| Rs. 130.00 
+14|Blood Sugar Test|| Rs. 80.00 
+15|Blood Sugar Test|| Rs. 160.00 (F + PP) 
+16|Blood Urea Nitrogen Test|| Rs. 110.00 
+17|CA 15.3 Test|| Rs. 1240.00 
+18|CA 19.9 Test|| Rs. 1240.00 
+19|CA-125 (Tumor Marker) Test|| Rs. 1120.00 
+20|Calcium Test|| Rs. 150.00 
+21|CBC / Hemogram Test|| Rs. 330.00 
+22|CEA (Carcinoembryonic Antigen) Test|| Rs. 630.00 
+23|Chloride Test|| Rs. 130.00 
+24|Cholesterol Test|| Rs. 300.00 
+25|CK-MB Test|| Rs. 550.00 
+26|Color Doppler|| Rs. 2000.00 (Portal Venous System Single) 
+27|Color Doppler|| Rs. 3500.00 (Portal Venous System Both) 
+28|Coombs Test|| Rs. 1150.00 
+29|Cortisol Test|| Rs. 500.00 
+30|Cortisol Test|| Rs. 900.00 (Both) 
+31|Creatinine Test|| Rs. 120.00 
+32|CRP (C-Reactive Protein) Test|| Rs. 350.00 
+33|D Dimer Test|| Rs. 1120.00 
+34|Dengue IgG Test|| Rs. 600.00 
+35|Dengue IgM Test|| Rs. 600.00 
+36|ECG|| Rs. 250.00 
+37|Electrolytes Test|| Rs. 360.00 
+38|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 120.00 
+39|Estradiol (E2) Test|| Rs. 540.00 
+40|Ferritin Test|| Rs. 630.00 
+41|Folic Acid Test|| Rs. 1000.00 
+42|FSH (Follicle Stimulating Hormone) Test|| Rs. 500.00 
+43|G6PD Test|| Rs. 750.00 
+44|Gamma GT (GGTP) Test|| Rs. 220.00 
+45|HbA1C Test|| Rs. 400.00 
+46|HBsAg Test|| Rs. 450.00 
+47|HCV Antibody Test|| Rs. 1400.00 
+48|HDL Cholesterol|| Rs. 220.00 
+49|Hemoglobin (Hb) Test|| Rs. 100.00 
+50|HIV Test|| Rs. 450.00 
+51|Homocysteine Test|| Rs. 830.00 
+52|Insulin Test|| Rs. 760.00 
+53|Iron Test|| Rs. 400.00 
+54|Kidney Function Test|| Rs. 700.00 
+55|LDH (Lactate Dehydrogenase) Test|| Rs. 320.00 
+56|LDL Cholesterol|| Rs. 220.00 
+57|LH (Luteinizing Hormone) Test|| Rs. 500.00 
+58|Lipase Test|| Rs. 580.00 
+59|Lipid Profile|| Rs. 880.00 
+60|Lipoprotein A / LP(a) Test|| Rs. 880.00 
+61|Lithium Test|| Rs. 230.00 
+62|Liver Function Test|| Rs. 700.00 
+63|Lupus Anticoagulant (LAC) Test|| Rs. 1600.00 
+64|Magnesium Test|| Rs. 450.00 
+65|Magnesium Test|| Rs. 500.00 (24 Hour Urine) 
+66|Malaria (Malarial Parasite) Test|| Rs. 630.00 (Antigen) 
+67|Malaria (Malarial Parasite) Test|| Rs. 1000.00 (Antibody) 
+68|Microalbumin Test|| Rs. 500.00 
+69|Microfilaria Parasite Test|| Rs. 150.00 
+70|Microfilaria Parasite Test|| Rs. 750.00 (Antigen) 
+71|PAP Smear|| Rs. 850.00 
+72|PCV (Packed Cell Volume) Test|| Rs. 110.00 
+73|Platelet Count|| Rs. 50.00 
+74|Potassium Test|| Rs. 150.00 
+75|Pregnancy Test|| Rs. 150.00 
+76|Progesterone Test|| Rs. 510.00 
+77|Prolactin Test|| Rs. 500.00 
+78|Protein Test|| Rs. 150.00 
+79|PSA (Prostate Specific Antigen) Test|| Rs. 700.00 (Total) 
+80|PSA (Prostate Specific Antigen) Test|| Rs. 800.00 (Free) 
+81|PT (Prothrombin Time) Test|| Rs. 330.00 
+82|PTH (Parathyroid Hormone) Test|| Rs. 1500.00 
+83|Reticulocyte Count Test|| Rs. 320.00 
+84|Rheumatoid Arthritis (RA) Factor Test|| Rs. 380.00 
+85|Semen Analysis Test|| Rs. 390.00 
+86|SGOT Test|| Rs. 150.00 
+87|SGPT Test|| Rs. 150.00 
+88|Sodium Test|| Rs. 150.00 
+89|Sputum Routine Test|| Rs. 120.00 
+90|Stool Routine|| Rs. 100.00 
+91|T3 (Triiodothyronine) Test|| Rs. 340.00 
+92|T4 (Thyroxine) Test|| Rs. 340.00 
+93|Testosterone Test|| Rs. 750.00 (Total) 
+94|Testosterone Test|| Rs. 1750.00 (Free) 
+95|Thyroid Test|| Rs. 900.00 
+96|Transferrin Test|| Rs. 1000.00 
+97|Triglycerides Test|| Rs. 260.00 
+98|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+99|Urea Test|| Rs. 110.00 
+100|Uric Acid Test|| Rs. 130.00 
+101|Urine Routine|| Rs. 90.00 
+102|VDRL Test|| Rs. 120.00 
+103|Vitamin B12 Test|| Rs. 1000.00 
+104|Vitamin D Test|| Rs. 1500.00 (25OH) 
+105|Vitamin D Test|| Rs. 3000.00 (125 OH) 
+106|Widal Test|| Rs. 180.00 (Slide Method) 
+107|Widal Test|| Rs. 230.00 (Tube Method) 
+108|X-Ray|| Rs. 300.00 

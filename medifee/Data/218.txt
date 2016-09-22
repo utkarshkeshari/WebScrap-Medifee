@@ -1,0 +1,29 @@
+|Name|Offer|Price
+0|AFP (Alpha Feto Protein) Test|| Rs. 1840.00 
+1|Amylase Test|| Rs. 340.00 
+2|Beta HCG Test|| Rs. 450.00 
+3|Bilirubin Test|| Rs. 240.00 
+4|Bleeding / Clotting Time Test|| Rs. 100.00 
+5|Blood Culture Test|| Rs. 1100.00 
+6|Blood Sugar Test|| Rs. 80.00 
+7|CA-125 (Tumor Marker) Test|| Rs. 900.00 
+8|CBC / Hemogram Test|| Rs. 300.00 
+9|CD4 Test|| Rs. 950.00 
+10|Chloride Test|| Rs. 120.00 
+11|Creatinine Test|| Rs. 110.00 
+12|Dengue IgG Test|| Rs. 900.00 (IGM) 
+13|Electrolytes Test|| Rs. 325.00 
+14|Folic Acid Test|| Rs. 875.00 
+15|FSH (Follicle Stimulating Hormone) Test|| Rs. 350.00 
+16|G6PD Test|| Rs. 550.00 
+17|Gamma GT (GGTP) Test|| Rs. 205.00 
+18|HIV Test|| Rs. 390.00 
+19|Insulin Test|| Rs. 650.00 
+20|Kidney Function Test|| Rs. 750.00 
+21|LH (Luteinizing Hormone) Test|| Rs. 350.00 
+22|Lipase Test|| Rs. 550.00 
+23|Protein Test|| Rs. 110.00 
+24|Protein/Creatinine Ratio|| Rs. 220.00 
+25|Thyroid Test|| Rs. 400.00 
+26|Vitamin B12 Test|| Rs. 750.00 
+27|Vitamin D Test|| Rs. 1000.00 

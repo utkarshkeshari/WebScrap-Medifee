@@ -1,0 +1,61 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 300.00 (600) 
+1|Amylase Test|| Rs. 600.00 (800) 
+2|Anti CCP (ACCP) Test|| Rs. 900.00 (1300) 
+3|Anti CCP (ACCP) Test|| Rs. 900.00 (1300) 
+4|Bleeding / Clotting Time Test|| Rs. 350.00 (400) 
+5|CA 15.3 Test|| Rs. 900.00 (1500) 
+6|CBC / Hemogram Test|| Rs. 300.00 
+7|CBC / Hemogram Test|| Rs. 350.00 
+8|CBC / Hemogram Test|| Rs. 350.00 
+9|CBC / Hemogram Test|| Rs. 350.00 
+10|CD4 Test|| Rs. 1500.00 (1800) 
+11|CK-MB Test|| Rs. 560.00 (800) 
+12|Cortisol Test|| Rs. 700.00 (1000) 
+13|CRP (C-Reactive Protein) Test|| Rs. 220.00 
+14|CRP (C-Reactive Protein) Test|| Rs. 250.00 
+15|Dengue NS1 Test|| Rs. 1400.00 (1500) 
+16|Dengue NS1 Test|| Rs. 1300.00 (1500) 
+17|Estradiol (E2) Test|| Rs. 500.00 (600) 
+18|Ferritin Test|| Rs. 600.00 (800) 
+19|Folic Acid Test|| Rs. 700.00 (900) 
+20|G6PD Test|| Rs. 800.00 (1000) 
+21|HBsAg Test|| Rs. 400.00 (500) 
+22|Hemoglobin (Hb) Test|| Rs. 90.00 (120) 
+23|HLA B27 Test|| Rs. 2500.00 (2500) 
+24|Insulin Test|| Rs. 490.00 (600) 
+25|Kidney Function Test|| Rs. 700.00 
+26|Kidney Function Test|| Rs. 700.00 (600) 
+27|Kidney Function Test|| Rs. 500.00 
+28|Kidney Function Test|| Rs. 500.00 (600) 
+29|Kidney Function Test|| Rs. 500.00 
+30|Kidney Function Test|| Rs. 500.00 (600) 
+31|LDH (Lactate Dehydrogenase) Test|| Rs. 800.00 (1200) 
+32|Lipid Profile|| Rs. 500.00 (700) 
+33|Liver Function Test|| Rs. 500.00 (500) 
+34|Mantoux Test|| Rs. 250.00 
+35|Mantoux Test|| Rs. 250.00 (400) 
+36|Platelet Count|| Rs. 90.00 (159) 
+37|Prolactin Test|| Rs. 550.00 (700) 
+38|Stool Culture|| Rs. 330.00 
+39|Stool Routine|| Rs. 100.00 
+40|TB Test|| Rs. 1790.00 (3500) 
+41|Testosterone Test|| Rs. 900.00 (800) 
+42|Testosterone Test|| Rs. 560.00 (800) 
+43|Thyroid Test|| Rs. 600.00 (600) 
+44|TORCH Test|| Rs. 2200.00 
+45|Typhidot Test|| Rs. 430.00 
+46|Urea Test|| Rs. 170.00 
+47|Uric Acid Test|| Rs. 150.00 
+48|Urine Routine|| Rs. 60.00 
+49|Urine Routine|| Rs. 60.00 
+50|Valproic Acid|| Rs. 700.00 (1000) 
+51|Vitamin B12 Test|| Rs. 1200.00 (1300) 
+52|Vitamin C Test|| Rs. 1680.00 (1900) 
+53|Vitamin D Test|| Rs. 1400.00 (1400) 
+54|Vitamin D Test|| Rs. 1300.00 (1400) 
+55|Vitamin D Test|| Rs. 1400.00 (1400) 
+56|VLDL Test|| Rs. 110.00 (300) 
+57|VLDL Test|| Rs. 230.00 (300) 
+58|Widal Test|| Rs. 90.00 (150) 
+59|X-Ray|| Rs. 450.00 

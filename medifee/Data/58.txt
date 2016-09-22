@@ -1,0 +1,51 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 150.00 
+1|Ammonia Test|| Rs. 150.00 
+2|Bicarbonate Test|| Rs. 150.00 
+3|Bilirubin Test|| Rs. 150.00 
+4|Bleeding / Clotting Time Test|| Rs. 180.00 
+5|Blood Culture Test|| Rs. 300.00 
+6|Blood Group Test|| Rs. 70.00 
+7|Blood Sugar Test|| Rs. 50.00 
+8|Blood Urea Nitrogen Test|| Rs. 100.00 
+9|Calcium Test|| Rs. 150.00 
+10|CBC / Hemogram Test|| Rs. 300.00 
+11|Chloride Test|| Rs. 150.00 
+12|Cholesterol Test|| Rs. 150.00 
+13|Creatinine Test|| Rs. 150.00 
+14|Dengue IgG Test|| Rs. 500.00 
+15|Dengue IgM Test|| Rs. 500.00 
+16|Double Marker Test|| Rs. 2150.00 
+17|Electrolytes Test|| Rs. 300.00 
+18|Ferritin Test|| Rs. 150.00 
+19|Folic Acid Test|| Rs. 150.00 
+20|Globulin Test|| Rs. 150.00 
+21|HDL Cholesterol|| Rs. 150.00 
+22|Hemoglobin (Hb) Test|| Rs. 100.00 
+23|HLA B27 Test|| Rs. 2000.00 
+24|LDL Cholesterol|| Rs. 150.00 
+25|Lipid Profile|| Rs. 500.00 
+26|Magnesium Test|| Rs. 150.00 
+27|Malaria (Malarial Parasite) Test|| Rs. 100.00 
+28|Mantoux Test|| Rs. 100.00 
+29|PCV (Packed Cell Volume) Test|| Rs. 100.00 
+30|Phosphorus Test|| Rs. 150.00 
+31|Platelet Count|| Rs. 100.00 
+32|Potassium Test|| Rs. 150.00 
+33|Pregnancy Test|| Rs. 100.00 
+34|Progesterone Test|| Rs. 150.00 
+35|Prolactin Test|| Rs. 150.00 
+36|SGOT Test|| Rs. 100.00 
+37|SGPT Test|| Rs. 100.00 
+38|Sickling Test|| Rs. 150.00 
+39|T3 (Triiodothyronine) Test|| Rs. 200.00 
+40|T4 (Thyroxine) Test|| Rs. 200.00 
+41|Thyroid Test|| Rs. 650.00 
+42|Total Protein Test|| Rs. 150.00 
+43|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+44|Urea Test|| Rs. 100.00 
+45|Uric Acid Test|| Rs. 100.00 
+46|Urine Routine|| Rs. 150.00 
+47|Vitamin B12 Test|| Rs. 900.00 
+48|Vitamin D Test|| Rs. 1500.00 
+49|X-Ray|| Rs. 300.00 

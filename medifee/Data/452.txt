@@ -1,0 +1,31 @@
+|Name|Offer|Price
+0|Amylase Test|| Rs. 300.00 
+1|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+2|Bleeding / Clotting Time Test|| Rs. 100.00 
+3|Creatinine Clearance Test|| Rs. 100.00 
+4|Creatinine Test|| Rs. 100.00 
+5|Dengue IgG Test|| Rs. 600.00 
+6|Dengue IgM Test|| Rs. 600.00 
+7|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 80.00 
+8|Ferritin Test|| Rs. 450.00 
+9|Folic Acid Test|| Rs. 250.00 
+10|FSH (Follicle Stimulating Hormone) Test|| Rs. 400.00 
+11|Glucose Tolerance Test (GTT)|| Rs. 100.00 
+12|HBsAg Test|| Rs. 300.00 
+13|HCV Antibody Test|| Rs. 700.00 
+14|Hemoglobin (Hb) Test|| Rs. 100.00 
+15|Insulin Test|| Rs. 500.00 
+16|Iron Test|| Rs. 350.00 
+17|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+18|Lipase Test|| Rs. 250.00 
+19|Platelet Count|| Rs. 50.00 
+20|PT (Prothrombin Time) Test|| Rs. 300.00 
+21|Reticulocyte Count Test|| Rs. 150.00 
+22|Rheumatoid Arthritis (RA) Factor Test|| Rs. 300.00 
+23|SGOT Test|| Rs. 100.00 
+24|SGPT Test|| Rs. 100.00 
+25|Total Protein Test|| Rs. 100.00 
+26|Urea Test|| Rs. 100.00 
+27|Uric Acid Test|| Rs. 100.00 
+28|Urine Routine|| Rs. 100.00 
+29|Widal Test|| Rs. 150.00 

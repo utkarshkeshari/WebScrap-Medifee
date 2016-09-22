@@ -1,0 +1,15 @@
+|Name|Offer|Price
+0|Anti TPO Test|| Rs. 1200.00 
+1|Antithyroglobulin Antibody Test|| Rs. 1200.00 
+2|Creatinine Clearance Test|| Rs. 450.00 
+3|HDL Cholesterol|| Rs. 220.00 
+4|LDL Cholesterol|| Rs. 220.00 
+5|Lipoprotein A / LP(a) Test|| Rs. 880.00 
+6|PAP Smear|| Rs. 500.00 
+7|Pleural Fluid Analysis|| Rs. 400.00 
+8|Protein Test|| Rs. 150.00 
+9|Sickling Test|| Rs. 150.00 
+10|Synovial Fluid Analysis|| Rs. 400.00 
+11|Transferrin Test|| Rs. 400.00 
+12|Vitamin A Test|| Rs. 5500.00 
+13|Vitamin C Test|| Rs. 8100.00 

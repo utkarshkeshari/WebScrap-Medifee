@@ -1,0 +1,18 @@
+|Name|Offer|Price
+0|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+1|Creatinine Clearance Test|| Rs. 100.00 
+2|D Dimer Test|| Rs. 600.00 
+3|Folic Acid Test|| Rs. 900.00 
+4|G6PD Test|| Rs. 400.00 
+5|Gamma GT (GGTP) Test|| Rs. 250.00 
+6|LDL Cholesterol|| Rs. 350.00 
+7|Lithium Test|| Rs. 250.00 
+8|Magnesium Test|| Rs. 350.00 
+9|Prolactin Test|| Rs. 350.00 
+10|Protein Test|| Rs. 150.00 
+11|PTH (Parathyroid Hormone) Test|| Rs. 1200.00 
+12|Semen Analysis Test|| Rs. 300.00 
+13|Sputum Routine Test|| Rs. 100.00 
+14|Stool Routine|| Rs. 60.00 
+15|Transferrin Test|| Rs. 250.00 
+16|Vitamin A Test|| Rs. 5000.00 

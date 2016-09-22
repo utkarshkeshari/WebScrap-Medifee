@@ -1,0 +1,29 @@
+|Name|Offer|Price
+0|ASO Test|| Rs. 490.00 
+1|Blood Culture Test|| Rs. 550.00 
+2|Blood Group Test|| Rs. 140.00 
+3|Blood Sugar Test|| Rs. 180.00  (Random) 
+4|Blood Urea Nitrogen Test|| Rs. 170.00 
+5|Calcium Test|| Rs. 190.00 
+6|Dengue IgG Test|| Rs. 800.00 
+7|Dengue IgM Test|| Rs. 800.00 
+8|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 140.00 
+9|HbA1C Test|| Rs. 450.00 
+10|HIV Test|| Rs. 560.00 
+11|Insulin Test|| Rs. 790.00 
+12|Iron Test|| Rs. 460.00 
+13|Kidney Function Test|| Rs. 630.00 
+14|Malaria (Malarial Parasite) Test|| Rs. 150.00 
+15|Potassium Test|| Rs. 190.00 
+16|Pregnancy Test|| Rs. 200.00 
+17|Protein/Creatinine Ratio|| Rs. 280.00 
+18|Sickling Test|| Rs. 300.00 
+19|Sodium Test|| Rs. 190.00 
+20|Stool Routine|| Rs. 150.00 
+21|T3 (Triiodothyronine) Test|| Rs. 250.00 
+22|T4 (Thyroxine) Test|| Rs. 250.00 
+23|Total Protein Test|| Rs. 240.00 
+24|Urine Routine|| Rs. 100.00 
+25|Vitamin B12 Test|| Rs. 1100.00 
+26|Vitamin D Test|| Rs. 1500.00 
+27|Widal Test|| Rs. 160.00 

@@ -1,0 +1,18 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 300.00 
+1|Alberts Stain|| Rs. 300.00 
+2|Biopsy|| Rs. 1500.00 (BIG) 
+3|Chlamydia Test|| Rs. 1000.00 (Antigen) 
+4|Complement C3|| Rs. 800.00 
+5|Complement C4|| Rs. 800.00 
+6|Cryptococcal Antigen Test|| Rs. 4300.00 (Antibody) 
+7|Cryptococcal Antigen Test|| Rs. 2250.00 (Antigen) 
+8|Dengue NS1 Test|| Rs. 1400.00 
+9|Fungal Culture Test|| Rs. 1400.00 
+10|Globulin / AG Ratio|| Rs. 150.00 
+11|Gram Stain Test|| Rs. 150.00 
+12|Hemoglobin Electrophoresis|| Rs. 850.00 
+13|Rubella Test|| Rs. 400.00 (IgG) 
+14|Rubella Test|| Rs. 400.00 (IgM) 
+15|Stool Culture|| Rs. 300.00 
+16|TB Test|| Rs. 2500.00 

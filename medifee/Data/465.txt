@@ -1,0 +1,8 @@
+|Name|Offer|Price
+0|Color Doppler|| Rs. 3500.00 (Veins / Arteries) 
+1|Color Doppler|| Rs. 7000.00 (Both Limbs) 
+2|Mammography|| Rs. 2500.00 (Both Side) 
+3|Mammography|| Rs. 1500.00 (Single Side) 
+4|Sonography|| Rs. 1500.00 (Pelvis) 
+5|Sonography|| Rs. 2000.00 (Whole Abdomen) 
+6|X-Ray|| Rs. 500.00 (Chest) 

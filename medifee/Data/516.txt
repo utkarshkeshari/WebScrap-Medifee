@@ -1,0 +1,16 @@
+|Name|Offer|Price
+0|Biopsy|| Rs. 1500.00 (BIG) 
+1|Complement C3|| Rs. 600.00 
+2|Complement C4|| Rs. 600.00 
+3|Dengue NS1 Test|| Rs. 600.00 
+4|Fungal Culture Test|| Rs. 800.00 
+5|Gram Stain Test|| Rs. 150.00 
+6|Rubella Test|| Rs. 480.00 (IgG) 
+7|Rubella Test|| Rs. 480.00 (IgM) 
+8|Stool Culture|| Rs. 350.00 
+9|TB Test|| Rs. 4000.00 
+10|Toxoplasma Test|| Rs. 1000.00 (IgG) 
+11|Toxoplasma Test|| Rs. 1000.00 (IgM) 
+12|Toxoplasma Test|| Rs. 1000.00 (IgA) 
+13|Typhidot Test|| Rs. 480.00 (IgG) 
+14|Typhidot Test|| Rs. 480.00 (IgM) 

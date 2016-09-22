@@ -1,0 +1,19 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 950.00 
+1|Biopsy|| Rs. 800.00 (BIG) 
+2|Cerebral Spinal Fluid (CSF) Test|| Rs. 450.00 
+3|Cerebral Spinal Fluid (CSF) Test|| Rs. 500.00 (Routine) 
+4|Dengue NS1 Test|| Rs. 1900.00 
+5|Globulin / AG Ratio|| Rs. 200.00 
+6|Hemoglobin Electrophoresis|| Rs. 800.00 
+7|Peripheral Blood Smear Test|| Rs. 200.00 
+8|Plasma Lactate (Latic Acid) Test|| Rs. 1350.00 
+9|Rubella Test|| Rs. 550.00 (IgG) 
+10|Rubella Test|| Rs. 550.00 (IgM) 
+11|Stool Culture|| Rs. 450.00 
+12|TB Test|| Rs. 280.00 
+13|Toxoplasma Test|| Rs. 550.00 (IgG) 
+14|Toxoplasma Test|| Rs. 550.00 (IgM) 
+15|Toxoplasma Test|| Rs. 550.00 (IgA) 
+16|Typhidot Test|| Rs. 450.00 (IgG) 
+17|Typhidot Test|| Rs. 450.00 (IgM) 

@@ -1,0 +1,51 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 150.00 
+1|Amylase Test|| Rs. 470.00 
+2|Antithyroglobulin Antibody Test|| Rs. 1700.00 
+3|ASO Test|| Rs. 750.00 
+4|Bleeding / Clotting Time Test|| Rs. 170.00 
+5|Blood Culture Test|| Rs. 600.00 
+6|Blood Culture Test|| Rs. 1000.00 (Aerobic) 
+7|Blood Group Test|| Rs. 70.00 
+8|Blood Sugar Test|| Rs. 100.00 
+9|Blood Sugar Test|| Rs. 200.00 (F + PP) 
+10|Blood Urea Nitrogen Test|| Rs. 200.00 
+11|CBC / Hemogram Test|| Rs. 350.00 
+12|Chloride Test|| Rs. 200.00 
+13|Cholesterol Test|| Rs. 200.00 
+14|Creatinine Clearance Test|| Rs. 450.00 
+15|Creatinine Test|| Rs. 200.00 
+16|Creatinine Test|| Rs. 200.00 
+17|Dengue IgG Test|| Rs. 1000.00 
+18|Dengue IgG Test|| Rs. 600.00 
+19|Dengue IgM Test|| Rs. 1000.00 
+20|Dengue IgM Test|| Rs. 600.00 
+21|Electrolytes Test|| Rs. 450.00 
+22|Electrolytes Test|| Rs. 500.00 
+23|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 170.00 
+24|Globulin Test|| Rs. 280.00 
+25|Globulin Test|| Rs. 150.00 
+26|HbA1C Test|| Rs. 480.00 
+27|Hemoglobin (Hb) Test|| Rs. 100.00 
+28|HIV Test|| Rs. 600.00 
+29|Insulin Test|| Rs. 900.00 
+30|Iron Test|| Rs. 470.00 
+31|Lipase Test|| Rs. 650.00 
+32|Lipid Profile|| Rs. 950.00 
+33|Lithium Test|| Rs. 200.00 
+34|Platelet Count|| Rs. 170.00 
+35|PT (Prothrombin Time) Test|| Rs. 200.00 
+36|SGOT Test|| Rs. 200.00 
+37|SGPT Test|| Rs. 200.00 
+38|Testosterone Test|| Rs. 230.00 
+39|Thyroid Test|| Rs. 500.00 
+40|Total Protein Test|| Rs. 250.00 
+41|Transferrin Test|| Rs. 700.00 
+42|Urea Test|| Rs. 200.00 
+43|Uric Acid Test|| Rs. 180.00 
+44|Urine Routine|| Rs. 120.00 
+45|VDRL Test|| Rs. 170.00 
+46|Vitamin B12 Test|| Rs. 1200.00 
+47|Vitamin D Test|| Rs. 1500.00 
+48|Widal Test|| Rs. 200.00 
+49|Widal Test|| Rs. 220.00 

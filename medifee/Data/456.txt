@@ -1,0 +1,15 @@
+|Name|Offer|Price
+0|ANA (Antinuclear Antibody) Test|| Rs. 1000.00 
+1|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 410.00 
+2|Beta HCG Test|| Rs. 1000.00 
+3|CA-125 (Tumor Marker) Test|| Rs. 1400.00 
+4|CEA (Carcinoembryonic Antigen) Test|| Rs. 750.00 
+5|Cortisol Test|| Rs. 900.00 
+6|D Dimer Test|| Rs. 1200.00 
+7|HBsAg Test|| Rs. 500.00 
+8|HIV Test|| Rs. 500.00 
+9|SGOT Test|| Rs. 150.00 
+10|SGPT Test|| Rs. 150.00 
+11|Stool Routine|| Rs. 200.00 
+12|Triglycerides Test|| Rs. 250.00 
+13|Widal Test|| Rs. 250.00 

@@ -1,0 +1,63 @@
+|Name|Offer|Price
+0|Bilirubin Test|| Rs. 150.00 
+1|Bleeding / Clotting Time Test|| Rs. 200.00 
+2|Blood Culture Test|| Rs. 350.00 
+3|Blood Group Test|| Rs. 80.00 
+4|Blood Sugar Test|| Rs. 50.00 
+5|Blood Urea Nitrogen Test|| Rs. 100.00 
+6|Blood Urea Nitrogen Test|| Rs. 100.00 
+7|Calcium Test|| Rs. 150.00 
+8|CBC / Hemogram Test|| Rs. 300.00 
+9|Chloride Test|| Rs. 100.00 
+10|Cholesterol Test|| Rs. 150.00 
+11|Creatinine Test|| Rs. 100.00 
+12|Creatinine Test|| Rs. 100.00 
+13|Electrolytes Test|| Rs. 250.00 
+14|Electrolytes Test|| Rs. 500.00 
+15|Folic Acid Test|| Rs. 400.00 
+16|G6PD Test|| Rs. 400.00 
+17|Gamma GT (GGTP) Test|| Rs. 200.00 
+18|Glucose Tolerance Test (GTT)|| Rs. 200.00 
+19|HbA1C Test|| Rs. 400.00 
+20|HBsAg Test|| Rs. 200.00 
+21|HDL Cholesterol|| Rs. 120.00 
+22|HDL Cholesterol|| Rs. 200.00 
+23|Hemoglobin (Hb) Test|| Rs. 100.00 
+24|Insulin Test|| Rs. 400.00 
+25|Iron Test|| Rs. 200.00 
+26|Kidney Function Test|| Rs. 500.00 
+27|Kidney Function Test|| Rs. 400.00 
+28|LDL Cholesterol|| Rs. 200.00 
+29|Lipase Test|| Rs. 300.00 
+30|Lipid Profile|| Rs. 500.00 
+31|Lipid Profile|| Rs. 500.00 
+32|Lithium Test|| Rs. 300.00 
+33|Liver Function Test|| Rs. 500.00 
+34|Magnesium Test|| Rs. 300.00 
+35|Malaria (Malarial Parasite) Test|| Rs. 150.00 
+36|Mammography|| Rs. 2000.00 
+37|PCV (Packed Cell Volume) Test|| Rs. 150.00 
+38|Phosphorus Test|| Rs. 100.00 
+39|Platelet Count|| Rs. 120.00 
+40|Pregnancy Test|| Rs. 150.00 
+41|Protein Test|| Rs. 150.00 
+42|Protein Test|| Rs. 100.00 
+43|Renal Profile|| Rs. 500.00 
+44|SGOT Test|| Rs. 140.00 
+45|SGOT Test|| Rs. 100.00 
+46|SGPT Test|| Rs. 140.00 
+47|SGPT Test|| Rs. 100.00 
+48|Sputum Routine Test|| Rs. 100.00 
+49|Stool Routine|| Rs. 100.00 
+50|T3 (Triiodothyronine) Test|| Rs. 200.00 
+51|T4 (Thyroxine) Test|| Rs. 200.00 
+52|Thyroid Test|| Rs. 450.00 
+53|Total Protein Test|| Rs. 150.00 
+54|Triglycerides Test|| Rs. 180.00 
+55|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+56|Urea Test|| Rs. 100.00 
+57|Urine Routine|| Rs. 150.00 
+58|Vitamin B12 Test|| Rs. 600.00 
+59|Vitamin D Test|| Rs. 800.00 
+60|Widal Test|| Rs. 200.00 
+61|X-Ray|| Rs. 300.00 (Chest) 

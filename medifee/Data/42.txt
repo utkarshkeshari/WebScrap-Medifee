@@ -1,0 +1,46 @@
+|Name|Offer|Price
+0|2D Echo|| Rs. 3000.00 
+1|AFB Culture|| Rs. 990.00 
+2|Aldolase Test|| Rs. 770.00 
+3|Biopsy|| Rs. 1400.00 (BIG) 
+4|C-Peptide Test|| Rs. 1100.00 
+5|CA 27.29 Test|| Rs. 2490.00 
+6|Complement C3|| Rs. 635.00 
+7|Complement C4|| Rs. 635.00 
+8|CT Scan|| Rs. 6600.00 (Brain Contras) 
+9|CT Scan|| Rs. 2500.00 (Brain Plain) 
+10|CT Scan|| Rs. 8000.00 (Plain Contrast) 
+11|CT Scan|| Rs. 9900.00 (Brain Plain with Contras) 
+12|CT Scan|| Rs. 6600.00 (Plain Brain) 
+13|CT Scan|| Rs. 5500.00 (Pelvis) 
+14|Cytomegalovirus (CMV) Test|| Rs. 750.00 (IgG) 
+15|Cytomegalovirus (CMV) Test|| Rs. 750.00 (IgM) 
+16|Dengue NS1 Test|| Rs. 1000.00 
+17|Factor V Leiden Test|| Rs. 4290.00 
+18|Fungal Culture Test|| Rs. 795.00 
+19|Gram Stain Test|| Rs. 240.00 
+20|Hemoglobin Electrophoresis|| Rs. 775.00 
+21|Hepatitis A Test|| Rs. 11750.00 
+22|Herpes Simplex Virus (HSV) Test|| Rs. 690.00 (IgG) 
+23|Herpes Simplex Virus (HSV) Test|| Rs. 690.00 (IgM) 
+24|MRI Scan|| Rs. 9900.00 (Brain Contras) 
+25|MRI Scan|| Rs. 6600.00 (Brain Plain) 
+26|MRI Scan|| Rs. 19800.00 (Whole Spine) 
+27|MRI Scan|| Rs. 6600.00 (Lumber Spine) 
+28|Peripheral Blood Smear Test|| Rs. 130.00 
+29|PET-CT Scan|| Rs. 23000.00 
+30|Rubella Test|| Rs. 750.00 (IgG) 
+31|Rubella Test|| Rs. 750.00 (IgM) 
+32|Sex Hormone Test|| Rs. 2730.00 
+33|Sonography|| Rs. 1600.00 (Whole Abdomen) 
+34|Sonography|| Rs. 1000.00 (Lower Abdomen ) 
+35|Sonography|| Rs. 1600.00 (Whole Abdomen) 
+36|Stool Culture|| Rs. 550.00 
+37|TB Test|| Rs. 3000.00 
+38|Toxoplasma Test|| Rs. 750.00 (IgG) 
+39|Toxoplasma Test|| Rs. 750.00 (IgM) 
+40|Toxoplasma Test|| Rs. 750.00 (IgA) 
+41|Typhidot Test|| Rs. 400.00 (IgG) 
+42|Typhidot Test|| Rs. 400.00 (IgM) 
+43|X-Ray|| Rs. 400.00 (Chest) 
+44|X-Ray|| Rs. 400.00 (Leg) 

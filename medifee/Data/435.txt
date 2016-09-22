@@ -1,0 +1,13 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1200.00 
+1|AEC (Absolute Eosinophil Count) Test|| Rs. 120.00 
+2|ANA (Antinuclear Antibody) Test|| Rs. 600.00 
+3|ASO Test|| Rs. 400.00 
+4|Cortisol Test|| Rs. 600.00 
+5|Estradiol (E2) Test|| Rs. 600.00 
+6|Homocysteine Test|| Rs. 1100.00 
+7|LH (Luteinizing Hormone) Test|| Rs. 400.00 
+8|Phosphorus Test|| Rs. 200.00 
+9|Prolactin Test|| Rs. 500.00 
+10|Troponin-I Test|| Rs. 1000.00 
+11|Widal Test|| Rs. 120.00 

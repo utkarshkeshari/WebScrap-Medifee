@@ -1,0 +1,51 @@
+|Name|Offer|Price
+0|Albumin Test|| Rs. 150.00 
+1|Amylase Test|| Rs. 450.00 
+2|ANC Profile|| Rs. 1240.00 
+3|Anti TPO Test|| Rs. 700.00 
+4|Antithyroglobulin Antibody Test|| Rs. 700.00 
+5|Beta HCG Test|| Rs. 700.00 
+6|Bleeding / Clotting Time Test|| Rs. 100.00 
+7|Blood Group Test|| Rs. 100.00 
+8|Blood Sugar Test|| Rs. 120.00 
+9|Blood Urea Nitrogen Test|| Rs. 200.00 
+10|Calcium Test|| Rs. 180.00 
+11|CBC / Hemogram Test|| Rs. 300.00 
+12|Chloride Test|| Rs. 250.00 
+13|Cholesterol Test|| Rs. 200.00 
+14|Creatinine Clearance Test|| Rs. 300.00 
+15|Creatinine Test|| Rs. 200.00 
+16|CRP (C-Reactive Protein) Test|| Rs. 350.00 
+17|D Dimer Test|| Rs. 1200.00 
+18|Dengue IgG Test|| Rs. 600.00 
+19|Dengue IgM Test|| Rs. 600.00 
+20|Electrolytes Test|| Rs. 350.00 
+21|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 50.00 
+22|HBsAg Test|| Rs. 300.00 
+23|HDL Cholesterol|| Rs. 150.00 
+24|HGH Test|| Rs. 700.00 
+25|HIV Test|| Rs. 500.00 
+26|Homocysteine Test|| Rs. 1500.00 
+27|Kidney Function Test|| Rs. 800.00 
+28|LDL Cholesterol|| Rs. 150.00 
+29|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+30|Lipase Test|| Rs. 450.00 
+31|Lipid Profile|| Rs. 800.00 
+32|Liver Function Test|| Rs. 600.00 
+33|Magnesium Test|| Rs. 250.00 
+34|Microfilaria Parasite Test|| Rs. 350.00 
+35|Pleural Fluid Analysis|| Rs. 550.00 
+36|Protein/Creatinine Ratio|| Rs. 250.00 
+37|SGOT Test|| Rs. 100.00 
+38|SGPT Test|| Rs. 100.00 
+39|Sodium Test|| Rs. 180.00 
+40|Synovial Fluid Analysis|| Rs. 600.00 
+41|Thyroglobulin Test|| Rs. 600.00 
+42|Thyroid Test|| Rs. 600.00 
+43|Triple Marker Test|| Rs. 2150.00 
+44|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+45|Urea Test|| Rs. 150.00 
+46|VDRL Test|| Rs. 200.00 
+47|Vitamin B12 Test|| Rs. 700.00 
+48|Vitamin D Test|| Rs. 1600.00 
+49|VLDL Test|| Rs. 200.00 

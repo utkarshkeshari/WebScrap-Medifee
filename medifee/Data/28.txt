@@ -1,0 +1,35 @@
+|Name|Offer|Price
+0|Alkaline Phosphatase (ALP) Test|| Rs. 180.00 (Serum) 
+1|ANC Profile|| Rs. 150.00 
+2|Beta HCG Test|| Rs. 700.00 
+3|Bilirubin Test|| Rs. 180.00 (Direct / Indirect) 
+4|Bleeding / Clotting Time Test|| Rs. 80.00 
+5|Blood Group Test|| Rs. 140.00 
+6|Blood Sugar Test|| Rs. 80.00 (F / R / PP) 
+7|Blood Sugar Test|| Rs. 150.00 (F + PP) 
+8|Blood Urea Nitrogen Test|| Rs. 150.00 
+9|Calcium Test|| Rs. 180.00 (Serum) 
+10|CBC / Hemogram Test|| Rs. 400.00 
+11|Cholesterol Test|| Rs. 150.00 (Serum) 
+12|Coombs Test|| Rs. 500.00 (Direct / Indirect) 
+13|Creatinine Test|| Rs. 130.00 (Serum) 
+14|FNAC Test|| Rs. 800.00 
+15|HBsAg Test|| Rs. 350.00 
+16|Hemoglobin (Hb) Test|| Rs. 100.00 
+17|HIV Test|| Rs. 500.00 
+18|HSG Test|| Rs. 3500.00 
+19|L. E. Cells Test|| Rs. 300.00 
+20|Malaria (Malarial Parasite) Test|| Rs. 100.00 
+21|Microfilaria Parasite Test|| Rs. 200.00 
+22|PCV (Packed Cell Volume) Test|| Rs. 100.00 
+23|Phosphorus Test|| Rs. 180.00 (Serum) 
+24|Platelet Count|| Rs. 150.00 
+25|PT (Prothrombin Time) Test|| Rs. 300.00 (INR) 
+26|Reticulocyte Count Test|| Rs. 200.00 
+27|Sonography|| Rs. 1000.00 (Upper / Lower Abdomen) 
+28|Sonography|| Rs. 2000.00 (Pregnancy Anomaly Level 1) 
+29|Sonography|| Rs. 2500.00 (Pregnancy Anomaly Level 2) 
+30|Sonography|| Rs. 1400.00 (Whole Abdomen) 
+31|Total Protein Test|| Rs. 100.00 
+32|Triglycerides Test|| Rs. 200.00 (Serum) 
+33|Uric Acid Test|| Rs. 130.00 (Serum) 

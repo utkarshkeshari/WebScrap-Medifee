@@ -1,0 +1,18 @@
+|Name|Offer|Price
+0|ANC Profile|| Rs. 1400.00 
+1|Beta HCG Test|| Rs. 650.00 
+2|Bilirubin Test|| Rs. 280.00 
+3|Blood Culture Test|| Rs. 900.00 
+4|CA-125 (Tumor Marker) Test|| Rs. 1150.00 
+5|Coombs Test|| Rs. 475.00 
+6|Electrolytes Test|| Rs. 480.00 
+7|Estradiol (E2) Test|| Rs. 600.00 
+8|Insulin Test|| Rs. 800.00 
+9|Iron Test|| Rs. 700.00 
+10|Kidney Function Test|| Rs. 950.00 
+11|Lipid Profile|| Rs. 700.00 
+12|Liver Function Test|| Rs. 800.00 
+13|Thyroid Test|| Rs. 700.00 
+14|Troponin-I Test|| Rs. 1000.00 
+15|Vitamin B12 Test|| Rs. 1000.00 
+16|Vitamin D Test|| Rs. 1550.00 

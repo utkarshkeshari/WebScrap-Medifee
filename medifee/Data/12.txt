@@ -1,0 +1,50 @@
+|Name|Offer|Price
+0|ACTH (Adreno Corticotropic Hormone) Test|| Rs. 1100.00 
+1|Anti TPO Test|| Rs. 700.00 
+2|Antithyroglobulin Antibody Test|| Rs. 750.00 
+3|Bleeding / Clotting Time Test|| Rs. 100.00 
+4|Blood Culture Test|| Rs. 1000.00 
+5|Blood Group Test|| Rs. 100.00 
+6|Blood Sugar Test|| Rs. 50.00 
+7|Blood Urea Nitrogen Test|| Rs. 120.00 
+8|Bone Density Test|| Rs. 3500.00 (Whole Body) 
+9|Bone Density Test|| Rs. 2000.00 (Single) 
+10|Bone Density Test|| Rs. 3000.00 (Double Side) 
+11|CA 15.3 Test|| Rs. 1000.00 
+12|CA 19.9 Test|| Rs. 1000.00 
+13|CA-125 (Tumor Marker) Test|| Rs. 1000.00 
+14|CD4 Test|| Rs. 2500.00 
+15|CEA (Carcinoembryonic Antigen) Test|| Rs. 800.00 
+16|CK-MB Test|| Rs. 400.00 
+17|D Dimer Test|| Rs. 1200.00 
+18|Electrolytes Test|| Rs. 700.00 
+19|Folic Acid Test|| Rs. 1100.00 
+20|Glucose Tolerance Test (GTT)|| Rs. 300.00 
+21|HbA1C Test|| Rs. 900.00 
+22|HIV Test|| Rs. 500.00 
+23|HSG Test|| Rs. 2500.00 
+24|Iron Test|| Rs. 600.00 
+25|Kidney Profile|| Rs. 700.00 
+26|L. E. Cells Test|| Rs. 400.00 
+27|Lipid Profile|| Rs. 600.00 
+28|Lupus Anticoagulant (LAC) Test|| Rs. 1800.00 
+29|PAP Smear|| Rs. 600.00 
+30|Pleural Fluid Analysis|| Rs. 700.00 
+31|PTH (Parathyroid Hormone) Test|| Rs. 1000.00 
+32|Pulmonary Function Test (PFT)|| Rs. 1600.00 
+33|Reticulocyte Count Test|| Rs. 150.00 
+34|Rheumatoid Arthritis (RA) Factor Test|| Rs. 500.00 
+35|Sonography|| Rs. 1000.00 (Whole Abdomen) 
+36|Sonography|| Rs. 800.00 (Pelvis) 
+37|Stool Routine|| Rs. 200.00 
+38|Synovial Fluid Analysis|| Rs. 700.00 
+39|T3 (Triiodothyronine) Test|| Rs. 300.00 
+40|T4 (Thyroxine) Test|| Rs. 300.00 
+41|Thyroglobulin Test|| Rs. 1500.00 
+42|Triglycerides Test|| Rs. 300.00 
+43|Troponin-I Test|| Rs. 1400.00 
+44|TSH (Thyroid Stimulating Hormone) Test|| Rs. 300.00 
+45|Uric Acid Test|| Rs. 250.00 
+46|Urine Routine|| Rs. 200.00 
+47|Vitamin B12 Test|| Rs. 1100.00 
+48|Vitamin D Test|| Rs. 2500.00 

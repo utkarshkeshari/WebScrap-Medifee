@@ -1,0 +1,47 @@
+|Name|Offer|Price
+0|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+1|Bleeding / Clotting Time Test|| Rs. 100.00 
+2|Blood Culture Test|| Rs. 350.00 
+3|Blood Group Test|| Rs. 100.00 
+4|Blood Sugar Test|| Rs. 100.00 
+5|CA 19.9 Test|| Rs. 750.00 
+6|CA-125 (Tumor Marker) Test|| Rs. 750.00 
+7|CBC / Hemogram Test|| Rs. 300.00 
+8|CEA (Carcinoembryonic Antigen) Test|| Rs. 750.00 
+9|Chloride Test|| Rs. 150.00 
+10|Chloride Test|| Rs. 150.00 
+11|Cholesterol Test|| Rs. 150.00 
+12|Cortisol Test|| Rs. 800.00 
+13|CPK (Creatine Phosphokinase) Test|| Rs. 300.00 
+14|Dengue IgG Test|| Rs. 600.00 
+15|Dengue IgM Test|| Rs. 600.00 
+16|Electrolytes Test|| Rs. 300.00 
+17|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 50.00 
+18|Ferritin Test|| Rs. 550.00 
+19|Folic Acid Test|| Rs. 550.00 
+20|FSH (Follicle Stimulating Hormone) Test|| Rs. 450.00 
+21|G6PD Test|| Rs. 600.00 
+22|G6PD Test|| Rs. 600.00 
+23|Gamma GT (GGTP) Test|| Rs. 500.00 
+24|Gamma GT (GGTP) Test|| Rs. 500.00 
+25|Glucose Tolerance Test (GTT)|| Rs. 150.00 
+26|HbA1C Test|| Rs. 400.00 
+27|HBsAg Test|| Rs. 200.00 
+28|HIV Test|| Rs. 400.00 
+29|Insulin Test|| Rs. 550.00 
+30|Iron Test|| Rs. 600.00 
+31|Kidney Function Test|| Rs. 600.00 
+32|Kidney Profile|| Rs. 600.00 
+33|LDH (Lactate Dehydrogenase) Test|| Rs. 450.00 
+34|LH (Luteinizing Hormone) Test|| Rs. 450.00 
+35|Potassium Test|| Rs. 150.00 
+36|Progesterone Test|| Rs. 350.00 
+37|Prolactin Test|| Rs. 450.00 
+38|PTH (Parathyroid Hormone) Test|| Rs. 1000.00 
+39|Sodium Test|| Rs. 150.00 
+40|Testosterone Test|| Rs. 600.00 
+41|Troponin-I Test|| Rs. 800.00 
+42|VDRL Test|| Rs. 100.00 
+43|Vitamin B12 Test|| Rs. 600.00 
+44|Vitamin D Test|| Rs. 1000.00 
+45|Widal Test|| Rs. 150.00 

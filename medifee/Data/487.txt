@@ -1,0 +1,7 @@
+|Name|Offer|Price
+0|Arterial Blood Gas (ABG)|| Rs. 750.00 
+1|Dengue NS1 Test|| Rs. 1200.00 
+2|Fungal Culture Test|| Rs. 500.00 
+3|Globulin / AG Ratio|| Rs. 300.00 
+4|Gram Stain Test|| Rs. 150.00 
+5|TB Test|| Rs. 2500.00 

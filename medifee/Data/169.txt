@@ -1,0 +1,84 @@
+|Name|Offer|Price
+0|ANC Profile|| Rs. 1500.00 
+1|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 550.00 
+2|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 350.00 
+3|Beta HCG Test|| Rs. 1000.00 
+4|Bilirubin Test|| Rs. 200.00 
+5|Blood Culture Test|| Rs. 850.00 
+6|Blood Group Test|| Rs. 200.00 
+7|Blood Sugar Test|| Rs. 80.00 
+8|Blood Urea Nitrogen Test|| Rs. 200.00 
+9|CA-125 (Tumor Marker) Test|| Rs. 1200.00 
+10|CBC / Hemogram Test|| Rs. 450.00 
+11|CBC / Hemogram Test|| Rs. 450.00 
+12|Chloride Test|| Rs. 200.00 
+13|CK-MB Test|| Rs. 500.00 
+14|Cortisol Test|| Rs. 600.00 
+15|CPK (Creatine Phosphokinase) Test|| Rs. 400.00 
+16|CT Scan|| Rs. 2000.00 (Brain Contrast) 
+17|CT Scan|| Rs. 2000.00 (Brain Plain with Contrast) 
+18|CT Scan|| Rs. 3000.00 (Brain Plain) 
+19|CT Scan|| Rs. 3000.00 (Brain Contrast) 
+20|CT Scan|| Rs. 3000.00 (Brain Plain with Contrast) 
+21|CT Scan|| Rs. 2500.00 (Brain Plain) 
+22|CT Scan|| Rs. 2500.00 (Brain Contrast) 
+23|CT Scan|| Rs. 2500.00 (Brain Plain with Contrast) 
+24|CT Scan|| Rs. 5500.00 (Brain Plain) 
+25|CT Scan|| Rs. 5500.00 (Brain Contrast) 
+26|CT Scan|| Rs. 5500.00 (Brain Plain with Contrast) 
+27|CT Scan|| Rs. 2000.00 (Brain Plain) 
+28|Estradiol (E2) Test|| Rs. 600.00 
+29|Gamma GT (GGTP) Test|| Rs. 200.00 
+30|HbA1C Test|| Rs. 650.00 
+31|HBsAg Test|| Rs. 650.00 
+32|HDL Cholesterol|| Rs. 200.00 
+33|HIV Test|| Rs. 650.00 
+34|HIV Test|| Rs. 650.00 
+35|Insulin Test|| Rs. 800.00 
+36|Iron Test|| Rs. 1500.00 (Profile) 
+37|Kidney Function Test|| Rs. 550.00 
+38|Kidney Function Test|| Rs. 650.00 
+39|Lipase Test|| Rs. 450.00 
+40|Lipid Profile|| Rs. 650.00 
+41|Lithium Test|| Rs. 350.00 
+42|Liver Function Test|| Rs. 650.00 
+43|Magnesium Test|| Rs. 500.00 
+44|MRI Scan|| Rs. 6600.00 (Brain Plain) 
+45|MRI Scan|| Rs. 6600.00 (Contrast Charges) 
+46|MRI Scan|| Rs. 6600.00 (Brain Plain with Contrast) 
+47|MRI Scan|| Rs. 9600.00 (Brain Plain) 
+48|MRI Scan|| Rs. 9600.00 (Contrast Charges) 
+49|MRI Scan|| Rs. 9600.00 (Brain Plain with Contrast) 
+50|MRI Scan|| Rs. 13200.00 (Brain Plain) 
+51|MRI Scan|| Rs. 13200.00 (Contrast Charges) 
+52|MRI Scan|| Rs. 13200.00 (Brain Plain with Contrast) 
+53|MRI Scan|| Rs. 3500.00 (Brain Plain) 
+54|MRI Scan|| Rs. 3500.00 (Contrast Charges) 
+55|MRI Scan|| Rs. 3500.00 (Brain Plain with Contrast) 
+56|Potassium Test|| Rs. 200.00 
+57|PT (Prothrombin Time) Test|| Rs. 650.00 
+58|PT (Prothrombin Time) Test|| Rs. 550.00 
+59|Renal Profile|| Rs. 650.00 
+60|SGOT Test|| Rs. 200.00 
+61|SGPT Test|| Rs. 200.00 
+62|Sodium Test|| Rs. 200.00 
+63|Sonography|| Rs. 2000.00 (Pregnancy Anomaly) 
+64|Sonography|| Rs. 800.00 (Whole Abdomen) 
+65|Sonography|| Rs. 800.00 (Pregnancy) 
+66|Sonography|| Rs. 800.00 (Pregnancy Anomaly) 
+67|Sonography|| Rs. 2000.00 (Whole Abdomen) 
+68|Sonography|| Rs. 2000.00 (Pregnancy) 
+69|Sputum Routine Test|| Rs. 250.00 
+70|Stool Routine|| Rs. 100.00 
+71|T3 (Triiodothyronine) Test|| Rs. 250.00 
+72|T4 (Thyroxine) Test|| Rs. 250.00 
+73|Thyroid Test|| Rs. 750.00 
+74|Total Protein Test|| Rs. 200.00 
+75|TSH (Thyroid Stimulating Hormone) Test|| Rs. 350.00 
+76|Urea Test|| Rs. 100.00 
+77|Urine Routine|| Rs. 100.00 
+78|VDRL Test|| Rs. 200.00 
+79|Vitamin B12 Test|| Rs. 1200.00 
+80|Vitamin D Test|| Rs. 2400.00 
+81|Widal Test|| Rs. 200.00 
+82|Widal Test|| Rs. 200.00 

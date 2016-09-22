@@ -1,0 +1,82 @@
+|Name|Offer|Price
+0|AFB Culture|| Rs. 650.00 
+1|Amylase Test|| Rs. 250.00 
+2|ANC Profile|| Rs. 700.00 
+3|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 300.00 
+4|APTT (Activated Partial Thromboplastin Time) Test|| Rs. 250.00 
+5|Beta HCG Test|| Rs. 500.00 
+6|Beta HCG Test|| Rs. 500.00 
+7|Bilirubin Test|| Rs. 100.00 
+8|Biopsy|| Rs. 1200.00 (BIG) 
+9|Bleeding / Clotting Time Test|| Rs. 120.00 
+10|Blood Culture Test|| Rs. 600.00 
+11|Blood Culture Test|| Rs. 200.00 
+12|Blood Group Test|| Rs. 80.00 
+13|Blood Group Test|| Rs. 60.00 
+14|Blood Sugar Test|| Rs. 50.00 
+15|Blood Sugar Test|| Rs. 50.00 
+16|Blood Sugar Test|| Rs. 100.00 (F+PP) 
+17|Blood Urea Nitrogen Test|| Rs. 50.00 
+18|Blood Urea Nitrogen Test|| Rs. 100.00 
+19|CBC / Hemogram Test|| Rs. 300.00 
+20|Creatinine Test|| Rs. 100.00 
+21|D Dimer Test|| Rs. 1200.00 
+22|Dengue IgG Test|| Rs. 600.00 
+23|Dengue IgM Test|| Rs. 600.00 
+24|Dengue NS1 Test|| Rs. 1400.00 
+25|DHEA Test|| Rs. 1200.00 
+26|Double Marker Test|| Rs. 2000.00 
+27|Electrolytes Test|| Rs. 200.00 
+28|Globulin / AG Ratio|| Rs. 100.00 
+29|Gram Stain Test|| Rs. 100.00 
+30|HbA1C Test|| Rs. 350.00 
+31|HBsAg Test|| Rs. 200.00 
+32|HCV Antibody Test|| Rs. 800.00 
+33|Hemoglobin (Hb) Test|| Rs. 60.00 
+34|Hemoglobin Electrophoresis|| Rs. 700.00 
+35|HGH Test|| Rs. 900.00 
+36|HIV Test|| Rs. 300.00 
+37|HIV Test|| Rs. 250.00 
+38|Iron Test|| Rs. 300.00 
+39|Kidney Function Test|| Rs. 700.00 
+40|Kidney Function Test|| Rs. 450.00 
+41|Lipase Test|| Rs. 350.00 
+42|Lipid Profile|| Rs. 450.00 
+43|Lipid Profile|| Rs. 400.00 
+44|Lipoprotein A / LP(a) Test|| Rs. 350.00 
+45|Liver Function Test|| Rs. 450.00 
+46|Liver Function Test|| Rs. 500.00 
+47|Magnesium Test|| Rs. 250.00 
+48|Microfilaria Parasite Test|| Rs. 350.00 
+49|NT Scan|| Rs. 1500.00 
+50|PAP Smear|| Rs. 800.00 
+51|Pleural Fluid Analysis|| Rs. 600.00 
+52|PT (Prothrombin Time) Test|| Rs. 350.00 
+53|PT (Prothrombin Time) Test|| Rs. 200.00 
+54|Renal Profile|| Rs. 700.00 
+55|Renal Profile|| Rs. 450.00 
+56|Rubella Test|| Rs. 400.00 (IgG) 
+57|Rubella Test|| Rs. 400.00 (IgM) 
+58|Sickling Test|| Rs. 200.00 
+59|Stress Test|| Rs. 4200.00 
+60|Synovial Fluid Analysis|| Rs. 600.00 
+61|TB Test|| Rs. 3000.00 
+62|Thyroid Test|| Rs. 600.00 
+63|Thyroid Test|| Rs. 600.00 
+64|TORCH Test|| Rs. 800.00 
+65|Total Protein Test|| Rs. 150.00 
+66|Toxoplasma Test|| Rs. 150.00 
+67|Triple Marker Test|| Rs. 2000.00 
+68|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+69|TSH (Thyroid Stimulating Hormone) Test|| Rs. 250.00 
+70|Typhidot Test|| Rs. 400.00 
+71|Urea Test|| Rs. 100.00 
+72|Urea Test|| Rs. 100.00 
+73|Urine Routine|| Rs. 100.00 
+74|VDRL Test|| Rs. 100.00 
+75|VDRL Test|| Rs. 120.00 
+76|Vitamin B12 Test|| Rs. 800.00 
+77|Vitamin B12 Test|| Rs. 800.00 
+78|Vitamin D Test|| Rs. 1500.00 
+79|Vitamin D Test|| Rs. 1400.00 
+80|Widal Test|| Rs. 100.00 

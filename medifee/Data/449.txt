@@ -1,0 +1,37 @@
+|Name|Offer|Price
+0|Anti TPO Test|| Rs. 2200.00 
+1|ASO Test|| Rs. 350.00 
+2|Bleeding / Clotting Time Test|| Rs. 100.00 
+3|Chloride Test|| Rs. 150.00 
+4|Creatinine Clearance Test|| Rs. 100.00 
+5|Creatinine Test|| Rs. 100.00 
+6|CT Scan|| Rs. 2500.00 (Brain Plain) 
+7|Dengue IgG Test|| Rs. 600.00 
+8|Dengue IgM Test|| Rs. 600.00 
+9|ECG|| Rs. 150.00 
+10|ESR (Erythrocyte Sedimentation Rate) Test|| Rs. 100.00 
+11|Ferritin Test|| Rs. 350.00 
+12|Folic Acid Test|| Rs. 700.00 
+13|FSH (Follicle Stimulating Hormone) Test|| Rs. 550.00 
+14|Glucose Tolerance Test (GTT)|| Rs. 150.00 
+15|HBsAg Test|| Rs. 350.00 
+16|HCV Antibody Test|| Rs. 950.00 
+17|Hemoglobin (Hb) Test|| Rs. 100.00 
+18|LH (Luteinizing Hormone) Test|| Rs. 550.00 
+19|MRI Scan|| Rs. 6600.00 (Brain Plain) 
+20|Platelet Count|| Rs. 100.00 
+21|Potassium Test|| Rs. 150.00 
+22|Prolactin Test|| Rs. 550.00 
+23|Reticulocyte Count Test|| Rs. 150.00 
+24|Rheumatoid Arthritis (RA) Factor Test|| Rs. 350.00 
+25|SGOT Test|| Rs. 150.00 
+26|SGPT Test|| Rs. 150.00 
+27|Sodium Test|| Rs. 150.00 
+28|Sputum Routine Test|| Rs. 100.00 
+29|Stool Routine|| Rs. 100.00 
+30|T3 (Triiodothyronine) Test|| Rs. 250.00 
+31|T4 (Thyroxine) Test|| Rs. 250.00 
+32|Urea Test|| Rs. 100.00 
+33|Uric Acid Test|| Rs. 100.00 
+34|Urine Routine|| Rs. 100.00 
+35|Widal Test|| Rs. 200.00 
